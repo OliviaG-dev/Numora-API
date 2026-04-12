@@ -43,6 +43,21 @@ copy .env.example .env
 
 Puis adapte les valeurs dans `.env` (DB + JWT).
 
+## Démarrer PostgreSQL en local (Docker)
+
+Le projet inclut un `docker-compose.yml` prêt à l'emploi.
+
+```bash
+docker compose up -d
+```
+
+Quand la base tourne, exécute :
+
+```bash
+npm run prisma:generate
+npx prisma migrate dev --name init
+```
+
 ## Scripts
 
 - `npm run dev` : lance l'API en développement (hot reload)
@@ -56,7 +71,7 @@ Puis adapte les valeurs dans `.env` (DB + JWT).
 
 ### Santé API
 
-- `GET /api/ping` : vérifie que l'API répond
+- `GET /api/ping` : vérifie que l'API répond et expose `database.connected`
 
 ### Routes déjà scaffoldées (non implémentées)
 
