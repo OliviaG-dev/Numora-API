@@ -7,8 +7,8 @@ Backend REST API pour Numora, construit avec Node.js, Express et TypeScript.
 - Node.js + Express
 - TypeScript
 - PostgreSQL (via Prisma)
-- Auth prévue en JWT (`jsonwebtoken`)
-- Hash mot de passe prévu avec `bcryptjs`
+- Auth JWT (`jsonwebtoken`)
+- Hash mot de passe (`bcryptjs`)
 
 ## Structure du projet
 
@@ -43,6 +43,17 @@ copy .env.example .env
 
 Puis adapte les valeurs dans `.env` (DB + JWT).
 
+### Exigences Auth (production)
+
+- `JWT_SECRET` doit faire au moins 32 caracteres
+- `JWT_EXPIRES_IN` permet de regler la duree du token (defaut: `7d`)
+- `AUTH_RATE_LIMIT_WINDOW_MS` et `AUTH_RATE_LIMIT_MAX` protègent `/auth/register` et `/auth/login`
+- Mot de passe `register`: au moins 10 caracteres, 1 majuscule, 1 minuscule, 1 chiffre
+
+## Documentation
+
+- Documentation complete de l'auth: `docs/auth.md`
+
 ## Démarrer PostgreSQL en local (Docker)
 
 Le projet inclut un `docker-compose.yml` prêt à l'emploi.
@@ -73,18 +84,21 @@ npx prisma migrate dev --name init
 
 - `GET /api/ping` : vérifie que l'API répond et expose `database.connected`
 
-### Routes déjà scaffoldées (non implémentées)
+### Auth (implemente)
 
 - `POST /api/auth/register`
 - `POST /api/auth/login`
 - `GET /api/auth/me`
+
+### Routes scaffoldees (non implementees)
+
 - `GET /api/readings`
 - `POST /api/readings`
 - `GET /api/readings/:id`
 - `DELETE /api/readings/:id`
 - `POST /api/numerology/calculate`
 
-> Les routes scaffoldées renvoient actuellement `501 Not Implemented`.
+> Les routes scaffoldees ci-dessus renvoient actuellement `501 Not Implemented`.
 
 ## Modèle de données (Prisma)
 
@@ -109,7 +123,7 @@ npx prisma migrate dev --name init
 ## Roadmap recommandée
 
 1. Connexion PostgreSQL + migrations Prisma
-2. Auth complète JWT (`register`, `login`, `me`)
+2. Auth complete JWT (`register`, `login`, `me`) ✅
 3. CRUD des `readings`
 4. Déplacement des calculs numérologiques côté backend
 5. Connexion du front React à l'API
