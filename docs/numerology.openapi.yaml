@@ -1,0 +1,276 @@
+openapi: 3.1.0
+info:
+  title: Numora API - Numerology
+  version: 1.0.0
+  description: >
+    OpenAPI contract for numerology calculation endpoint.
+servers:
+  - url: http://localhost:3000
+paths:
+  /api/numerology/calculate:
+    post:
+      summary: Calculate full numerology profile
+      operationId: calculateNumerology
+      tags:
+        - Numerology
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/NumerologyCalculationInput"
+            examples:
+              basic:
+                summary: Minimal payload
+                value:
+                  fullName: Marie Dupont
+                  birthDate: 1990-03-15
+              complete:
+                summary: Full payload
+                value:
+                  fullName: Marie Dupont
+                  birthDate: 1990-03-15
+                  referenceDate: 2026-04-14
+                  address:
+                    streetNumber: "12"
+                    streetName: Rue de Paris
+                    allowMasterNumbers: true
+                  locality:
+                    postalCode: "75001"
+                    city: Paris
+                    allowMasterNumbers: true
+      responses:
+        "200":
+          description: Numerology profile calculated successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                required:
+                  - result
+                properties:
+                  result:
+                    $ref: "#/components/schemas/NumerologyResult"
+        "400":
+          description: Validation or calculation error
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+components:
+  schemas:
+    NumerologyCalculationInput:
+      type: object
+      required:
+        - fullName
+        - birthDate
+      properties:
+        fullName:
+          type: string
+          minLength: 1
+          example: Marie Dupont
+        birthDate:
+          type: string
+          pattern: "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+          example: 1990-03-15
+        referenceDate:
+          type: string
+          pattern: "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+          example: 2026-04-14
+        address:
+          $ref: "#/components/schemas/AddressInput"
+        locality:
+          $ref: "#/components/schemas/LocalityInput"
+    AddressInput:
+      type: object
+      required:
+        - streetNumber
+        - streetName
+      properties:
+        streetNumber:
+          type: string
+          example: "12"
+        streetName:
+          type: string
+          example: Rue de Paris
+        allowMasterNumbers:
+          type: boolean
+          default: true
+    LocalityInput:
+      type: object
+      required:
+        - postalCode
+        - city
+      properties:
+        postalCode:
+          type: string
+          example: "75001"
+        city:
+          type: string
+          example: Paris
+        allowMasterNumbers:
+          type: boolean
+          default: true
+    NumerologyResult:
+      type: object
+      required:
+        - identity
+        - core
+        - personal
+        - challenges
+        - karmic
+        - matrixDestiny
+        - treeOfLife
+        - universalVibrations
+        - business
+        - place
+      properties:
+        identity:
+          type: object
+          required:
+            - fullName
+            - birthDate
+          properties:
+            fullName:
+              type: string
+            birthDate:
+              type: string
+        core:
+          type: object
+          required:
+            - lifePath
+            - expression
+            - soulUrge
+            - personality
+            - birthday
+            - heart
+            - realisation
+          properties:
+            lifePath: { type: integer }
+            expression: { type: integer }
+            soulUrge: { type: integer }
+            personality: { type: integer }
+            birthday: { type: integer }
+            heart: { type: integer }
+            realisation: { type: integer }
+        personal:
+          $ref: "#/components/schemas/PersonalNumbersResult"
+        challenges:
+          type: object
+          required:
+            - challengeNumbers
+            - lifeCycles
+            - realizationPeriods
+          properties:
+            challengeNumbers:
+              type: object
+              additionalProperties:
+                type: object
+                properties:
+                  number: { type: integer }
+                  description: { type: string }
+            lifeCycles:
+              type: object
+              properties:
+                firstCycle: { type: integer }
+                secondCycle: { type: integer }
+                thirdCycle: { type: integer }
+            realizationPeriods:
+              type: object
+              properties:
+                firstPeriod: { type: integer }
+                secondPeriod: { type: integer }
+                thirdPeriod: { type: integer }
+                fourthPeriod: { type: integer }
+        karmic:
+          type: object
+          properties:
+            karmicNumbers:
+              type: object
+              additionalProperties: true
+            cycleKarmicNumbers:
+              type: object
+              additionalProperties: true
+            karmicDebts:
+              type: object
+              additionalProperties: true
+        matrixDestiny:
+          type: object
+          additionalProperties: true
+        treeOfLife:
+          type: object
+          additionalProperties: true
+        universalVibrations:
+          type: object
+          required:
+            - day
+            - month
+            - year
+            - universal
+          properties:
+            day: { type: integer }
+            month: { type: integer }
+            year: { type: integer }
+            universal: { type: integer }
+        business:
+          $ref: "#/components/schemas/BusinessNumbersResult"
+        place:
+          type: object
+          properties:
+            addressVibration:
+              type: integer
+            localityVibration:
+              type: integer
+    PersonalNumbersResult:
+      type: object
+      required:
+        - year
+        - month
+        - day
+      properties:
+        year:
+          $ref: "#/components/schemas/PersonalNumberItem"
+        month:
+          $ref: "#/components/schemas/PersonalNumberItem"
+        day:
+          $ref: "#/components/schemas/PersonalNumberItem"
+    PersonalNumberItem:
+      type: object
+      required:
+        - number
+        - description
+      properties:
+        number:
+          type: integer
+        description:
+          type: string
+    BusinessNumbersResult:
+      type: object
+      required:
+        - expression
+        - active
+        - hereditary
+      properties:
+        expression:
+          $ref: "#/components/schemas/BusinessNumberItem"
+        active:
+          $ref: "#/components/schemas/BusinessNumberItem"
+        hereditary:
+          $ref: "#/components/schemas/BusinessNumberItem"
+    BusinessNumberItem:
+      type: object
+      required:
+        - raw
+        - value
+      properties:
+        raw:
+          type: integer
+        value:
+          type: integer
+    ErrorResponse:
+      type: object
+      required:
+        - error
+      properties:
+        error:
+          type: string
