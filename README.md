@@ -53,8 +53,9 @@ Puis adapte les valeurs dans `.env` (DB + JWT).
 ## Documentation
 
 - Documentation complete de l'auth: `docs/auth.md`
+- Documentation complete des readings: `docs/readings.md`
 - Documentation complete numerology: `docs/numerology.md`
-- Contrat OpenAPI numerology: `docs/numerology.openapi.yaml`
+- Contrat OpenAPI (numerology + readings): `docs/numerology.openapi.yaml`
 
 ## Démarrer PostgreSQL en local (Docker)
 
@@ -96,7 +97,7 @@ npx prisma migrate dev --name init
 
 - `POST /api/numerology/calculate`
 
-### Routes scaffoldees (non implementees)
+### Readings (implemente)
 
 - `GET /api/readings`
 - `POST /api/readings`
@@ -127,6 +128,6 @@ npx prisma migrate dev --name init
 
 1. Connexion PostgreSQL + migrations Prisma
 2. Auth complete JWT (`register`, `login`, `me`) ✅
-3. CRUD des `readings`
+3. CRUD des `readings` ✅
 4. Deplacement des calculs numerologiques cote backend ✅
 5. Connexion du front React à l'API

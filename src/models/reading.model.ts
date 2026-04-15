@@ -1,4 +1,11 @@
-export type ReadingCategory = "life-path" | "compatibility" | "forecast" | "custom";
+export const READING_CATEGORIES = [
+  "life-path",
+  "compatibility",
+  "forecast",
+  "custom"
+] as const;
+
+export type ReadingCategory = (typeof READING_CATEGORIES)[number];
 
 export type Reading = {
   id: string;

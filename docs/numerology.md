@@ -9,6 +9,15 @@ Elle detaille l'architecture, les modules, les donnees JSON, le contrat d'entree
 
 ---
 
+## Index des docs API
+
+- Auth: `docs/auth.md`
+- Readings: `docs/readings.md`
+- Numerology: `docs/numerology.md`
+- OpenAPI (numerology + readings): `docs/numerology.openapi.yaml`
+
+---
+
 ## 1) Vue d'ensemble
 
 L'endpoint numerology centralise les calculs backend et renvoie un profil complet:
