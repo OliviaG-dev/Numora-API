@@ -1,0 +1,83 @@
+{
+  "1": {
+    "name": "Kether",
+    "hebrewName": "כֶּתֶר",
+    "title": "La Couronne",
+    "subtitle": "Connexion Divine & Mission Suprême",
+    "description": "Kether représente la source divine pure, le point d'origine de toute création. C'est la sphère de ta mission de vie la plus élevée, ton but ultime dans cette incarnation. Elle incarne l'étincelle divine en toi, ton lien direct avec l'Univers.",
+    "domain": "Connexion divine, but suprême, mission de vie"
+  },
+  "2": {
+    "name": "Chokhmah",
+    "hebrewName": "חָכְמָה",
+    "title": "La Sagesse",
+    "subtitle": "Inspiration & Élan Créatif Masculin",
+    "description": "Chokhmah est la sphère de la sagesse pure, de l'inspiration créative et de l'élan dynamique. C'est l'énergie masculine primordiale qui pousse à l'action, à la création et à l'expansion. Cette force te connecte à l'intuition spirituelle et aux visions inspirées.",
+    "domain": "Inspiration, élan créatif, force masculine"
+  },
+  "3": {
+    "name": "Binah",
+    "hebrewName": "בִּינָה",
+    "title": "L'Intelligence",
+    "subtitle": "Intuition & Structure Intérieure Féminine",
+    "description": "Binah représente l'intelligence profonde, la compréhension structurée et la force féminine réceptive. C'est la matrice qui donne forme aux inspirations de Chokhmah. Cette sphère incarne ta capacité à comprendre, analyser et donner structure à tes visions.",
+    "domain": "Intuition, structure intérieure, force féminine"
+  },
+  "4": {
+    "name": "Chesed",
+    "hebrewName": "חֶסֶד",
+    "title": "La Miséricorde",
+    "subtitle": "Expansion & Amour Actif",
+    "description": "Chesed est la sphère de l'amour expansif, de la générosité et de la bienveillance. C'est l'énergie qui te pousse à donner, à partager et à créer l'abondance. Cette force divine manifeste la grâce et la compassion dans ta vie.",
+    "domain": "Expansion, amour actif, générosité"
+  },
+  "5": {
+    "name": "Gevurah",
+    "hebrewName": "גְּבוּרָה",
+    "title": "La Rigueur",
+    "subtitle": "Discipline & Force Transformatrice",
+    "description": "Gevurah représente la discipline, la rigueur et la force transformatrice. C'est l'énergie qui établit les limites, qui tranche et qui purifie. Cette sphère incarne ta capacité à dire non, à éliminer l'inutile et à maintenir l'intégrité.",
+    "domain": "Discipline, rigueur, force intérieure"
+  },
+  "6": {
+    "name": "Tipheret",
+    "hebrewName": "תִּפְאֶרֶת",
+    "title": "La Beauté",
+    "subtitle": "Harmonie & Cœur Spirituel",
+    "description": "Tipheret est le centre de l'Arbre de Vie, le cœur spirituel où tout s'équilibre. C'est la sphère de la beauté, de l'harmonie et de l'amour pur. Ici, toutes les forces opposées se rencontrent et s'unifient dans une danse d'équilibre parfait.",
+    "domain": "Harmonie, cœur, amour pur"
+  },
+  "7": {
+    "name": "Netzach",
+    "hebrewName": "נֶצַח",
+    "title": "La Victoire",
+    "subtitle": "Passion & Motivation Émotionnelle",
+    "description": "Netzach représente la victoire, la passion et les émotions créatrices. C'est l'énergie de la persévérance, de l'art et de l'expression émotionnelle. Cette sphère incarne ton feu intérieur, ta motivation profonde et ta capacité à créer la beauté.",
+    "domain": "Passion, motivation, émotion masculine"
+  },
+  "8": {
+    "name": "Hod",
+    "hebrewName": "הוֹד",
+    "title": "La Splendeur",
+    "subtitle": "Raison & Communication Mentale",
+    "description": "Hod est la sphère de la raison, de la logique et de la communication claire. C'est l'intelligence analytique qui organise, nomme et transmet. Cette force te permet de structurer ta pensée, de communiquer efficacement et de comprendre intellectuellement le monde.",
+    "domain": "Raison, communication, mental féminin"
+  },
+  "9": {
+    "name": "Yesod",
+    "hebrewName": "יְסוֹד",
+    "title": "Le Fondement",
+    "subtitle": "Subconscient & Âme Profonde",
+    "description": "Yesod représente le fondement psychique, le monde des rêves et de l'inconscient. C'est le pont entre le spirituel et le matériel, le lieu où les énergies supérieures se préparent à se manifester. Cette sphère incarne ton âme profonde et tes mémoires karmiques.",
+    "domain": "Subconscient, fondation, karma"
+  },
+  "10": {
+    "name": "Malkuth",
+    "hebrewName": "מַלְכוּת",
+    "title": "Le Royaume",
+    "subtitle": "Incarnation & Réalité Physique",
+    "description": "Malkuth est la sphère de la manifestation physique, le royaume terrestre où tout se concrétise. C'est ici que tes visions spirituelles prennent forme dans la matière. Cette sphère représente ta capacité à incarner le divin dans ta vie quotidienne.",
+    "domain": "Incarnation, action concrète, manifestation"
+  }
+}
+

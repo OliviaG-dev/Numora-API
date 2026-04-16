@@ -1,0 +1,47 @@
+{
+    "1": {
+      "summary": "Nouveau départ",
+      "description": "Année/Mois/Jour d’initiatives, d’indépendance et de leadership. Temps de planter de nouvelles graines, lancer des projets, prendre des décisions courageuses.",
+      "challenge": "Éviter l’impatience, l’isolement ou l’ego excessif."
+    },
+    "2": {
+      "summary": "Relations et coopération",
+      "description": "Période tournée vers la sensibilité, les associations, la diplomatie et la patience. Temps favorable pour les partenariats et le travail en duo.",
+      "challenge": "Éviter la dépendance, la passivité ou l’hypersensibilité."
+    },
+    "3": {
+      "summary": "Expression et créativité",
+      "description": "Phase d’ouverture, de communication, de créativité et de sociabilité. Temps propice aux contacts, à l’art, à l’expression personnelle.",
+      "challenge": "Ne pas se disperser ou tomber dans la superficialité."
+    },
+    "4": {
+      "summary": "Travail et stabilité",
+      "description": "Année/Mois/Jour de construction, d’organisation et de discipline. Il faut travailler avec persévérance, bâtir des bases solides et être méthodique.",
+      "challenge": "Rigidité, fatigue ou sentiment de blocage."
+    },
+    "5": {
+      "summary": "Changements et liberté",
+      "description": "Période de mouvement, de transitions, d’expériences variées et parfois de voyages. Temps pour oser, sortir de sa zone de confort et évoluer.",
+      "challenge": "Instabilité, impulsivité ou dispersion."
+    },
+    "6": {
+      "summary": "Responsabilité et harmonie",
+      "description": "Phase centrée sur l’amour, la famille, le foyer et les responsabilités. Temps favorable pour l’engagement, les soins aux autres et la beauté.",
+      "challenge": "Excès de contrôle, sacrifice de soi ou perfectionnisme."
+    },
+    "7": {
+      "summary": "Réflexion et spiritualité",
+      "description": "Année/Mois/Jour d’introspection, d’études, de recherche intérieure et de sagesse. Temps pour ralentir, analyser et se reconnecter à soi.",
+      "challenge": "Isolement, scepticisme ou excès de rationalité."
+    },
+    "8": {
+      "summary": "Pouvoir et réussite",
+      "description": "Phase de carrière, d’autorité, d’ambition et de prospérité matérielle. Temps propice pour assumer ses responsabilités et viser haut.",
+      "challenge": "Excès de matérialisme, d’autoritarisme ou de contrôle."
+    },
+    "9": {
+      "summary": "Accomplissement et clôture",
+      "description": "Année/Mois/Jour de bilan, d’altruisme, de générosité et de détachement. Temps de récolter ce qui a été semé et de préparer un nouveau cycle.",
+      "challenge": "Difficulté à lâcher prise, sentiment de perte ou de fin."
+    }
+  }

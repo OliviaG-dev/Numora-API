@@ -1,0 +1,98 @@
+{
+  "1": {
+    "title": "Le Leader",
+    "keywords": ["Indépendance", "Volonté", "Ambition", "Innovation"],
+    "description": "Le chemin de vie 1 est celui de l’initiateur, du pionnier et du créateur de nouveaux chemins. Il représente l’énergie du commencement, la volonté de s’affirmer et de mener sa vie selon sa propre vision. Ceux qui portent ce chemin sont appelés à cultiver leur indépendance, à prendre des initiatives et à développer une véritable force intérieure. Leur vie est souvent marquée par la recherche d’autonomie et la capacité à tracer une voie là où il n’en existe pas encore.",
+    "strengths": "Esprit novateur, courage, persévérance, capacité de décision, ambition naturelle.",
+    "challenges": "Égo surdimensionné, isolement, impatience, tendance à dominer ou à se montrer autoritaire.",
+    "mission": "Apprendre à affirmer sa personnalité tout en respectant celle des autres, et utiliser son pouvoir créateur pour inspirer et ouvrir de nouvelles voies."
+  },
+  "2": {
+    "title": "Le Diplomate",
+    "keywords": ["Coopération", "Sensibilité", "Harmonie", "Relations"],
+    "description": "Le chemin de vie 2 symbolise l’équilibre, l’union et la coopération. Les personnes de ce chemin sont des médiateurs naturels, dotés d’une grande sensibilité et d’un besoin profond d’harmonie. Elles préfèrent travailler en duo ou en équipe plutôt que seules, car elles tirent leur force des relations humaines. Leur existence est une quête d’équilibre émotionnel, d’amour et de compréhension mutuelle.",
+    "strengths": "Douceur, patience, écoute, diplomatie, intuition relationnelle.",
+    "challenges": "Dépendance affective, indécision, peur du conflit, hypersensibilité.",
+    "mission": "Développer sa confiance personnelle sans perdre sa capacité à coopérer, et apporter la paix dans son environnement."
+  },
+  "3": {
+    "title": "Le Créatif",
+    "keywords": ["Expression", "Optimisme", "Joie de vivre", "Communication"],
+    "description": "Le chemin de vie 3 est celui de l’expression et de la créativité. Les individus qui le portent ont un don naturel pour la communication, l’art, l’écriture ou toute forme d’expression artistique. Leur énergie joyeuse inspire les autres et crée un climat positif autour d’eux. Leur vie est souvent marquée par une recherche de liberté d’expression et par le besoin de partager leurs talents avec le monde.",
+    "strengths": "Créativité débordante, charisme, humour, sociabilité.",
+    "challenges": "Superficialité, dispersion, difficulté à aller au bout des choses.",
+    "mission": "Apprendre à canaliser son énergie créative pour l’ancrer dans des projets concrets et inspirer durablement les autres."
+  },
+  "4": {
+    "title": "Le Bâtisseur",
+    "keywords": ["Stabilité", "Travail", "Organisation", "Discipline"],
+    "description": "Le chemin de vie 4 est celui de la rigueur, de la discipline et du travail bien fait. Ces personnes viennent apprendre la valeur de l’effort et la satisfaction de construire sur des bases solides. Leur vie est souvent tournée vers des réalisations pratiques et tangibles, qui nécessitent patience et persévérance. Elles sont là pour bâtir, structurer et poser les fondations d’un avenir durable.",
+    "strengths": "Fiabilité, persévérance, sens pratique, organisation.",
+    "challenges": "Rigidité, manque de souplesse, pessimisme, enfermement dans la routine.",
+    "mission": "Équilibrer discipline et ouverture d’esprit afin de bâtir une vie stable et sécurisante, autant pour soi que pour les autres."
+  },
+  "5": {
+    "title": "L’Aventurier",
+    "keywords": ["Liberté", "Changement", "Adaptabilité", "Exploration"],
+    "description": "Le chemin de vie 5 est celui de la liberté, du mouvement et de l’expérience. Ceux qui le portent sont appelés à vivre pleinement, à explorer le monde et à se transformer par leurs aventures. Ils sont animés par une soif de nouveauté et une curiosité insatiable. Leur vie est rarement linéaire : elle est marquée par des changements soudains, des voyages ou des expériences multiples.",
+    "strengths": "Polyvalence, curiosité, capacité d’adaptation, énergie communicative.",
+    "challenges": "Instabilité, impulsivité, tendance à l’excès, difficulté à s’engager.",
+    "mission": "Apprendre à vivre la liberté de manière constructive, en expérimentant sans se perdre dans la dispersion."
+  },
+  "6": {
+    "title": "Le Protecteur",
+    "keywords": ["Responsabilité", "Famille", "Amour", "Service"],
+    "description": "Le chemin de vie 6 est celui du dévouement, de la responsabilité et de l’amour inconditionnel. Les personnes qui le portent sont profondément liées à la famille, à l’harmonie du foyer et à la protection des autres. Elles trouvent leur accomplissement en servant, en soignant et en apportant de la stabilité émotionnelle. Leur vie est une quête d’équilibre entre donner et recevoir.",
+    "strengths": "Altruisme, loyauté, sens du devoir, esprit protecteur.",
+    "challenges": "Sacrifice excessif, perfectionnisme, tendance à vouloir contrôler.",
+    "mission": "Apprendre à aimer et protéger sans s’oublier, et cultiver un équilibre entre responsabilité et liberté personnelle."
+  },
+  "7": {
+    "title": "Le Sage",
+    "keywords": ["Introspection", "Spiritualité", "Connaissance", "Analyse"],
+    "description": "Le chemin de vie 7 est celui de l’introspection, de la recherche de vérité et de la quête spirituelle. Ceux qui le portent ressentent le besoin d’explorer la vie intérieure, la philosophie, la science ou la spiritualité. Ils sont attirés par les mystères de l’existence et ont souvent une grande intuition. Leur vie peut être marquée par des périodes de solitude nécessaires à leur développement intérieur.",
+    "strengths": "Esprit analytique, intuition profonde, sagesse, capacité à voir au-delà des apparences.",
+    "challenges": "Isolement, scepticisme excessif, froideur émotionnelle.",
+    "mission": "Développer la confiance dans l’intuition et partager sa connaissance avec le monde sans se couper des autres."
+  },
+  "8": {
+    "title": "Le Stratège",
+    "keywords": ["Pouvoir", "Ambition", "Succès", "Matière"],
+    "description": "Le chemin de vie 8 est celui du pouvoir personnel et de la réussite matérielle. Ceux qui le portent viennent expérimenter la gestion des ressources, l’ambition et la capacité à transformer leurs rêves en réalité concrète. Leur vie est souvent marquée par des défis liés à l’argent, au pouvoir ou à l’autorité. Ils sont appelés à trouver un équilibre entre ambition et intégrité.",
+    "strengths": "Leadership, force de caractère, efficacité, endurance.",
+    "challenges": "Obsession pour le pouvoir ou l’argent, autoritarisme, rigidité.",
+    "mission": "Apprendre à utiliser le pouvoir et la réussite au service d’une mission plus grande que soi."
+  },
+  "9": {
+    "title": "L’Humaniste",
+    "keywords": ["Altruisme", "Générosité", "Idéalisme", "Compassion"],
+    "description": "Le chemin de vie 9 est celui de l’altruisme, du don de soi et de l’humanisme. Ceux qui le portent sont appelés à se tourner vers les autres, à aider et à inspirer par leur vision idéaliste. Leur vie est souvent marquée par des épreuves émotionnelles qui les poussent à développer la compassion et la compréhension universelle.",
+    "strengths": "Empathie, créativité humanitaire, capacité à inspirer, grande ouverture d’esprit.",
+    "challenges": "Désillusion, tendance au sacrifice, excès d’émotion.",
+    "mission": "Mettre sa compassion et son idéalisme au service de causes collectives, tout en apprenant à se protéger émotionnellement."
+  },
+  "11": {
+    "title": "Le Visionnaire Spirituel",
+    "keywords": ["Intuition", "Éveil", "Inspiration", "Sensibilité"],
+    "description": "Le chemin de vie 11 est un maître nombre, porteur d’une vibration spirituelle et intuitive très forte. Les personnes concernées sont souvent des sources d’inspiration, guidées par une vision plus élevée de l’existence. Elles ressentent un appel à guider, éveiller ou soigner les autres, mais doivent apprendre à gérer leur grande sensibilité et leur énergie intense.",
+    "strengths": "Grande intuition, magnétisme, capacité à inspirer et éveiller les consciences.",
+    "challenges": "Nervosité, instabilité, excès d’émotion, difficulté à canaliser son énergie.",
+    "mission": "Équilibrer sa sensibilité avec un ancrage solide afin de devenir un véritable phare pour les autres."
+  },
+  "22": {
+    "title": "Le Maître Bâtisseur",
+    "keywords": ["Vision", "Réalisation", "Puissance", "Stabilité"],
+    "description": "Le chemin de vie 22 est l’un des maîtres nombres les plus puissants. Il représente la capacité de transformer des rêves visionnaires en réalisations concrètes à grande échelle. Les personnes qui le portent sont appelées à construire, à diriger et à matérialiser des projets qui profitent à la collectivité. Leur vie peut être marquée par une grande ambition, mais aussi une forte pression intérieure.",
+    "strengths": "Organisation, vision à long terme, puissance de réalisation.",
+    "challenges": "Perfectionnisme, peur de l’échec, excès de responsabilités.",
+    "mission": "Concrétiser de grandes idées au service de l’humanité tout en apprenant à gérer l’équilibre entre ambition et bien-être personnel."
+  },
+  "33": {
+    "title": "Le Maître Guérisseur",
+    "keywords": ["Amour universel", "Compassion", "Service", "Guérison"],
+    "description": "Le chemin de vie 33 est celui du maître guérisseur et porteur d’une vibration d’amour inconditionnel. Ces personnes incarnent la compassion universelle et sont appelées à servir et à inspirer par l’exemple. Elles ressentent un profond besoin d’aider et de soulager les souffrances autour d’elles, parfois jusqu’à l’excès. Leur chemin est celui de la guérison, de la transmission spirituelle et de l’amour universel.",
+    "strengths": "Empathie exceptionnelle, générosité, capacité à inspirer et à réconforter.",
+    "challenges": "Sacrifice de soi, excès de responsabilités, attentes irréalistes.",
+    "mission": "Apprendre à canaliser son énergie d’amour et de guérison sans se perdre dans le sacrifice, et rayonner pour le bien de tous."
+  }
+}

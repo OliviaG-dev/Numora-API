@@ -1,0 +1,1316 @@
+{
+    "1-1": {
+      "title": "🔥 Duo de Leaders",
+      "relation_role": "Les Pionniers",
+      "vibration": "Feu + Feu — ambition et affirmation",
+      "long_description": "Deux personnes indépendantes, compétitives mais loyales. Une amitié énergique, basée sur les défis et les objectifs communs.",
+      "support": {
+        "1_to_1": "Encourage la motivation et le dépassement"
+      },
+      "strengths": [
+        "Leadership partagé",
+        "Soutien fort",
+        "Dynamisme"
+      ],
+      "challenge": "Risque d’ego et de rivalité",
+      "growth_advice": "Apprendre à célébrer la réussite de l’autre sans compétition."
+    },
+    "1-2": {
+      "title": "🤝 Le Leader & Le Diplomate",
+      "relation_role": "Force et Soutien",
+      "vibration": "Feu + Eau — action nourrie par l’écoute",
+      "long_description": "Le 2 apaise le 1, qui inspire le 2 à s’affirmer. Amitié équilibrée : initiative + soutien.",
+      "support": {
+        "1_to_2": "Donne courage et autonomie",
+        "2_to_1": "Offre patience et stabilité émotionnelle"
+      },
+      "strengths": [
+        "Équilibre",
+        "Loyauté",
+        "Complicité"
+      ],
+      "challenge": "Le 1 peut écraser, le 2 peut trop s’adapter",
+      "growth_advice": "Communiquer clairement les besoins et limites."
+    },
+    "1-3": {
+      "title": "✨ Les Créateurs d’Aventures",
+      "relation_role": "Action & Fun",
+      "vibration": "Feu + Air — enthousiasme contagieux",
+      "long_description": "Une amitié brillante, pleine de projets spontanés. Le 1 agit, le 3 anime.",
+      "support": {
+        "1_to_3": "Apporte direction et courage",
+        "3_to_1": "Ajoute humour, inspiration et bonnes ondes"
+      },
+      "strengths": [
+        "Joie de vivre",
+        "Créativité",
+        "Ambition"
+      ],
+      "challenge": "Manque de constance dans les projets",
+      "growth_advice": "Se fixer des objectifs communs réalistes."
+    },
+    "1-4": {
+      "title": "🏗️ La Structure et la Vision",
+      "relation_role": "Entrepreneur + Ingénieur",
+      "vibration": "Feu + Terre — passion organisée",
+      "long_description": "Le 1 apporte la vision, le 4 apporte la méthode. Amitié solide, orientée action et construction.",
+      "support": {
+        "1_to_4": "Stimule à sortir de la routine",
+        "4_to_1": "Enracine et sécurise les projets"
+      },
+      "strengths": [
+        "Fiabilité",
+        "Accomplissement concret",
+        "Respect mutuel"
+      ],
+      "challenge": "Communication directe voire trop dure",
+      "growth_advice": "Allier rigueur et flexibilité."
+    },
+    "1-5": {
+      "title": "🌍 Les Inséparables Aventuriers",
+      "relation_role": "Action & Liberté",
+      "vibration": "Feu + Air libre — adrénaline",
+      "long_description": "Une amitié haute énergie : voyages, spontanéité, nouvelles expériences.",
+      "support": {
+        "1_to_5": "Apporte direction et confiance",
+        "5_to_1": "Apporte liberté et audace"
+      },
+      "strengths": [
+        "Aventure",
+        "Ouverture d’esprit",
+        "Élan vital"
+      ],
+      "challenge": "Aucun ne veut être limité",
+      "growth_advice": "Respecter l’indépendance de chacun."
+    },
+    "1-6": {
+      "title": "❤️ Fidélité et Protection",
+      "relation_role": "Leader & Gardien",
+      "vibration": "Feu + Terre fertile — responsabilité",
+      "long_description": "Le 6 soutient le 1 avec loyauté et valeurs solides. Amitié protectrice et engagée.",
+      "support": {
+        "1_to_6": "Encourage à sortir du besoin de contrôle",
+        "6_to_1": "Apporte stabilité et dévouement"
+      },
+      "strengths": [
+        "Loyauté",
+        "Soutien constant",
+        "Respect"
+      ],
+      "challenge": "Le 1 peut paraître égoïste pour le 6",
+      "growth_advice": "Valoriser les efforts de l’autre, même silencieux."
+    },
+    "1-7": {
+      "title": "🔍 Le Visionnaire & Le Sage",
+      "relation_role": "Action et Réflexion",
+      "vibration": "Feu + Eau profonde — quête de sens",
+      "long_description": "Le 7 apporte sagesse, analyse. Le 1 action, initiative. Amitié intellectuelle et inspirante.",
+      "support": {
+        "1_to_7": "Motivation à agir",
+        "7_to_1": "Stratégie et profondeur"
+      },
+      "strengths": [
+        "Discussions profondes",
+        "Évolution personnelle",
+        "Respect intellectuel"
+      ],
+      "challenge": "Temps sociaux vs solitude nécessaire au 7",
+      "growth_advice": "Planifier des moments calmes et d’autres actifs."
+    },
+    "1-8": {
+      "title": "🏆 Les Impériaux",
+      "relation_role": "Ambition partagée",
+      "vibration": "Feu + Feu contrôlé — pouvoir & réussite",
+      "long_description": "Amitié puissante et business-friendly : leadership, argent, influence.",
+      "support": {
+        "1_to_8": "Apporte initiative",
+        "8_to_1": "Apporte stratégie et vision long terme"
+      },
+      "strengths": [
+        "Succès",
+        "Détermination",
+        "Opportunités"
+      ],
+      "challenge": "Lutte de dominance",
+      "growth_advice": "Se fixer des buts communs pour rester alliés."
+    },
+    "1-9": {
+      "title": "🌟 Les Idéalistes",
+      "relation_role": "Action + Humanité",
+      "vibration": "Feu + Air spirituel",
+      "long_description": "Le 1 apporte l’énergie d’agir. Le 9 apporte la cause à défendre. Amitié inspirante et généreuse.",
+      "support": {
+        "1_to_9": "Aide à concrétiser l’idéal",
+        "9_to_1": "Aide à élargir la vision au collectif"
+      },
+      "strengths": [
+        "Valeurs élevées",
+        "Générosité",
+        "Vision inspirante"
+      ],
+      "challenge": "Le 1 est perso, le 9 est universel",
+      "growth_advice": "Aligner ambition et causes nobles."
+    },
+    "1-11": {
+      "title": "⚡ Mentors Spirituels",
+      "relation_role": "Leader + Visionnaire",
+      "vibration": "Feu + Lumière",
+      "long_description": "Une connexion rare, magnétique. Le 11 voit là où le 1 va agir. Amitié de destin et d’évolution.",
+      "support": {
+        "1_to_11": "Concrétise les visions",
+        "11_to_1": "Éveille une conscience plus haute"
+      },
+      "strengths": [
+        "Intuition",
+        "Leadership spirituel",
+        "Potentiel transformateur"
+      ],
+      "challenge": "Pression, attentes élevées",
+      "growth_advice": "Rester humains avant d’être héros."
+    },
+    "1-22": {
+      "title": "🏗️ Les Bâtisseurs de Monde",
+      "relation_role": "Vision et Maîtrise",
+      "vibration": "Feu + Terre sacrée",
+      "long_description": "Amitié monumentale : projets ambitieux, grande influence. Le 1 pousse, le 22 structure.",
+      "support": {
+        "1_to_22": "Apporte énergie et conquête",
+        "22_to_1": "Apporte discipline et puissance constructive"
+      },
+      "strengths": [
+        "Accomplissements majeurs",
+        "Loyauté",
+        "Concrete success"
+      ],
+      "challenge": "Charge de responsabilités",
+      "growth_advice": "Garder des moments simples, sans objectif."
+    },
+    "1-33": {
+      "title": "💛 Les Gardiens du Cœur",
+      "relation_role": "Leader & Guérisseur",
+      "vibration": "Feu + Amour universel",
+      "long_description": "Le 33 nourrit le cœur du 1 avec compassion et sagesse affective. Amitié protectrice et profondément bienveillante.",
+      "support": {
+        "1_to_33": "Apporte force et courage",
+        "33_to_1": "Apporte réconfort et amour désintéressé"
+      },
+      "strengths": [
+        "Bienveillance",
+        "Inspiration",
+        "Support émotionnel fort"
+      ],
+      "challenge": "Le 1 peut rejeter une aide perçue comme pitié",
+      "growth_advice": "Vulnérabilité et respect des émotions."
+    },
+    "2-2": {
+      "title": "🕊️ Duo d'Âmes Sensibles",
+      "relation_role": "Les Confidants",
+      "vibration": "Eau + Eau — empathie profonde",
+      "long_description": "Deux cœurs doux qui se comprennent sans mots. Amitié douce, réconfortante, basée sur l'écoute et le soutien émotionnel.",
+      "support": {
+        "2_to_2": "Compassion et présence inconditionnelle"
+      },
+      "strengths": [
+        "Empathie mutuelle",
+        "Harmonie",
+        "Loyauté profonde"
+      ],
+      "challenge": "Difficulté à s'affirmer mutuellement",
+      "growth_advice": "Apprendre à dire non et à se protéger ensemble."
+    },
+    "2-3": {
+      "title": "🎨 La Douceur & La Joie",
+      "relation_role": "Sensibilité + Créativité",
+      "vibration": "Eau + Air — émotions exprimées",
+      "long_description": "Le 3 fait rire le 2, le 2 ancre le 3 émotionnellement. Amitié légère, bienveillante et joyeuse.",
+      "support": {
+        "2_to_3": "Offre stabilité et écoute",
+        "3_to_2": "Apporte légèreté et optimisme"
+      },
+      "strengths": [
+        "Douceur",
+        "Créativité partagée",
+        "Communication fluide"
+      ],
+      "challenge": "Le 2 peut se sentir superficiel face au 3",
+      "growth_advice": "Équilibrer fun et profondeur émotionnelle."
+    },
+    "2-4": {
+      "title": "🏡 Stabilité et Fidélité",
+      "relation_role": "Cœur + Structure",
+      "vibration": "Eau + Terre — sécurité affective",
+      "long_description": "Le 4 protège le 2 avec constance. Le 2 adoucit le 4 avec compassion. Amitié solide, loyale et durable.",
+      "support": {
+        "2_to_4": "Apporte douceur et sensibilité",
+        "4_to_2": "Offre cadre et sécurité"
+      },
+      "strengths": [
+        "Fiabilité",
+        "Confiance totale",
+        "Soutien concret"
+      ],
+      "challenge": "Manque de spontanéité",
+      "growth_advice": "Se permettre plus d'imprévus et de légèreté."
+    },
+    "2-5": {
+      "title": "🌊 L'Ancre & Le Vent",
+      "relation_role": "Douceur + Liberté",
+      "vibration": "Eau + Air libre — adaptation",
+      "long_description": "Le 5 apporte l'aventure, le 2 apporte le réconfort. Amitié complémentaire mais délicate à équilibrer.",
+      "support": {
+        "2_to_5": "Offre refuge et stabilité émotionnelle",
+        "5_to_2": "Encourage à sortir de sa zone de confort"
+      },
+      "strengths": [
+        "Ouverture d'esprit",
+        "Complémentarité",
+        "Enrichissement mutuel"
+      ],
+      "challenge": "Besoins opposés : stabilité vs liberté",
+      "growth_advice": "Respecter les rythmes de chacun sans jugement."
+    },
+    "2-6": {
+      "title": "💕 Les Gardiens du Lien",
+      "relation_role": "Harmonie totale",
+      "vibration": "Eau + Terre fertile — dévotion",
+      "long_description": "Amitié profonde et bienveillante. Les deux prennent soin l'un de l'autre avec tendresse et loyauté.",
+      "support": {
+        "2_to_6": "Soutien émotionnel et écoute",
+        "6_to_2": "Protection et responsabilité affective"
+      },
+      "strengths": [
+        "Compassion",
+        "Fidélité absolue",
+        "Soutien mutuel"
+      ],
+      "challenge": "Codépendance possible",
+      "growth_advice": "Cultiver aussi leur indépendance personnelle."
+    },
+    "2-7": {
+      "title": "🌙 L'Intuitif & Le Sage",
+      "relation_role": "Émotion + Esprit",
+      "vibration": "Eau + Eau mystique — connexion subtile",
+      "long_description": "Une amitié rare, spirituelle et profonde. Le 7 cherche, le 2 ressent. Compréhension intuitive.",
+      "support": {
+        "2_to_7": "Apporte chaleur humaine et présence",
+        "7_to_2": "Apporte sagesse et recul"
+      },
+      "strengths": [
+        "Compréhension intuitive",
+        "Profondeur",
+        "Respect du silence"
+      ],
+      "challenge": "Isolement du monde extérieur",
+      "growth_advice": "Équilibrer introspection et vie sociale."
+    },
+    "2-8": {
+      "title": "⚖️ Douceur & Puissance",
+      "relation_role": "Cœur + Force",
+      "vibration": "Eau + Feu maîtrisé — équilibre",
+      "long_description": "Le 8 apporte protection et ambition. Le 2 apporte humanité et douceur. Amitié enrichissante et complémentaire.",
+      "support": {
+        "2_to_8": "Humanise et adoucit",
+        "8_to_2": "Protège et stimule la confiance"
+      },
+      "strengths": [
+        "Équilibre force-douceur",
+        "Loyauté",
+        "Opportunités"
+      ],
+      "challenge": "Le 8 peut dominer, le 2 peut s'effacer",
+      "growth_advice": "Le 2 doit affirmer ses besoins clairement."
+    },
+    "2-9": {
+      "title": "🌍 Compassion Universelle",
+      "relation_role": "Empathie + Humanité",
+      "vibration": "Eau + Air altruiste — sensibilité élevée",
+      "long_description": "Deux âmes sensibles et généreuses. Amitié orientée vers l'aide, le soin des autres, l'idéalisme.",
+      "support": {
+        "2_to_9": "Ancre dans l'intime et le personnel",
+        "9_to_2": "Ouvre vers l'universel et la conscience"
+      },
+      "strengths": [
+        "Générosité",
+        "Valeurs communes",
+        "Bienveillance"
+      ],
+      "challenge": "Oubli de soi pour les autres",
+      "growth_advice": "Se rappeler de prendre soin d'eux-mêmes aussi."
+    },
+    "2-11": {
+      "title": "✨ Âmes Jumelles Spirituelles",
+      "relation_role": "Sensibilité + Vision",
+      "vibration": "Eau + Lumière — connexion sacrée",
+      "long_description": "Connexion rare et profonde. Le 11 inspire, le 2 soutient émotionnellement. Amitié karmique et évolutive.",
+      "support": {
+        "2_to_11": "Ancre et réconforte",
+        "11_to_2": "Éveille et élève la conscience"
+      },
+      "strengths": [
+        "Intuition partagée",
+        "Croissance spirituelle",
+        "Compréhension totale"
+      ],
+      "challenge": "Hypersensibilité commune",
+      "growth_advice": "Apprendre à se protéger énergétiquement ensemble."
+    },
+    "2-22": {
+      "title": "🏛️ Sensibilité & Maîtrise",
+      "relation_role": "Cœur + Bâtisseur",
+      "vibration": "Eau + Terre divine — fondation solide",
+      "long_description": "Le 22 construit, le 2 harmonise. Amitié stable et constructive, orientée vers des projets durables.",
+      "support": {
+        "2_to_22": "Apporte humanité et empathie",
+        "22_to_2": "Offre structure et protection"
+      },
+      "strengths": [
+        "Stabilité",
+        "Réalisations concrètes",
+        "Soutien mutuel"
+      ],
+      "challenge": "Charge émotionnelle du 2 vs pragmatisme du 22",
+      "growth_advice": "Valoriser autant l'émotion que la raison."
+    },
+    "2-33": {
+      "title": "💗 Les Guérisseurs",
+      "relation_role": "Compassion absolue",
+      "vibration": "Eau + Amour divin — pure bienveillance",
+      "long_description": "Union de deux cœurs profondément altruistes. Amitié réconfortante, guérissante, source de paix.",
+      "support": {
+        "2_to_33": "Offre écoute et présence douce",
+        "33_to_2": "Apporte amour inconditionnel et sagesse"
+      },
+      "strengths": [
+        "Amour pur",
+        "Guérison mutuelle",
+        "Connexion profonde"
+      ],
+      "challenge": "Oubli de soi pour l'autre",
+      "growth_advice": "Poser des limites saines dans l'aide."
+    },
+    "3-3": {
+      "title": "🎉 Double Énergie Créative",
+      "relation_role": "Les Artistes",
+      "vibration": "Air + Air — légèreté joyeuse",
+      "long_description": "Deux créatifs qui s'inspirent mutuellement. Amitié pétillante, spontanée, pleine d'idées et de rires.",
+      "support": {
+        "3_to_3": "Inspiration mutuelle et optimisme contagieux"
+      },
+      "strengths": [
+        "Créativité",
+        "Joie de vivre",
+        "Spontanéité"
+      ],
+      "challenge": "Manque de profondeur et de constance",
+      "growth_advice": "S'engager sur au moins un projet sérieux ensemble."
+    },
+    "3-4": {
+      "title": "🎭 Créativité & Discipline",
+      "relation_role": "Art + Structure",
+      "vibration": "Air + Terre — rêve organisé",
+      "long_description": "Le 4 aide le 3 à concrétiser ses idées. Le 3 apporte légèreté au 4. Amitié équilibrée et productive.",
+      "support": {
+        "3_to_4": "Inspire et apporte de la joie",
+        "4_to_3": "Encadre et rend réel"
+      },
+      "strengths": [
+        "Complémentarité",
+        "Projets aboutis",
+        "Stabilité joyeuse"
+      ],
+      "challenge": "Conflit entre liberté et cadre",
+      "growth_advice": "Trouver un rythme qui respecte les deux."
+    },
+    "3-5": {
+      "title": "🌈 Les Explorateurs Créatifs",
+      "relation_role": "Fun + Aventure",
+      "vibration": "Air + Air libre — excitation pure",
+      "long_description": "Amitié éclatante, pleine de voyages, de fêtes et d'expériences nouvelles. Très stimulante et libre.",
+      "support": {
+        "3_to_5": "Apporte créativité et expression",
+        "5_to_3": "Apporte audace et exploration"
+      },
+      "strengths": [
+        "Aventure",
+        "Communication fluide",
+        "Énergie contagieuse"
+      ],
+      "challenge": "Aucun ne pose de limites",
+      "growth_advice": "Cultiver aussi des moments de calme et de profondeur."
+    },
+    "3-6": {
+      "title": "🎨 Créativité & Dévouement",
+      "relation_role": "Expression + Harmonie",
+      "vibration": "Air + Terre fertile — beauté et valeurs",
+      "long_description": "Le 6 soutient les projets du 3 avec loyauté. Le 3 apporte joie et légèreté au 6. Amitié chaleureuse.",
+      "support": {
+        "3_to_6": "Allège les responsabilités avec humour",
+        "6_to_3": "Offre stabilité et encouragement"
+      },
+      "strengths": [
+        "Loyauté",
+        "Créativité soutenue",
+        "Chaleur humaine"
+      ],
+      "challenge": "Le 3 peut sembler superficiel au 6",
+      "growth_advice": "Le 3 doit montrer plus de constance."
+    },
+    "3-7": {
+      "title": "🔮 L'Artiste & Le Philosophe",
+      "relation_role": "Expression + Réflexion",
+      "vibration": "Air + Eau profonde — contraste",
+      "long_description": "Amitié inhabituelle : le 3 est social, le 7 solitaire. Complémentarité si respect mutuel des différences.",
+      "support": {
+        "3_to_7": "Apporte légèreté et connexion sociale",
+        "7_to_3": "Apporte profondeur et sagesse"
+      },
+      "strengths": [
+        "Enrichissement mutuel",
+        "Équilibre social-introspectif",
+        "Ouverture d'esprit"
+      ],
+      "challenge": "Besoins opposés : solitude vs socialisation",
+      "growth_advice": "Respecter les rythmes de chacun sans frustration."
+    },
+    "3-8": {
+      "title": "🎯 Expression & Ambition",
+      "relation_role": "Créativité + Pouvoir",
+      "vibration": "Air + Feu — influence créative",
+      "long_description": "Le 8 aide le 3 à monétiser son talent. Le 3 humanise le 8. Amitié stratégique et inspirante.",
+      "support": {
+        "3_to_8": "Apporte créativité et image positive",
+        "8_to_3": "Apporte structure et opportunités"
+      },
+      "strengths": [
+        "Opportunités",
+        "Réussite créative",
+        "Confiance"
+      ],
+      "challenge": "Le 8 peut instrumentaliser le talent du 3",
+      "growth_advice": "Garder authenticité et respect mutuel."
+    },
+    "3-9": {
+      "title": "🌟 Les Inspirateurs",
+      "relation_role": "Art + Humanité",
+      "vibration": "Air + Air spirituel — message universel",
+      "long_description": "Deux âmes créatives et généreuses. Amitié inspirante, orientée vers l'art, l'humanisme et le partage.",
+      "support": {
+        "3_to_9": "Apporte joie et légèreté",
+        "9_to_3": "Donne sens et profondeur"
+      },
+      "strengths": [
+        "Créativité inspirée",
+        "Générosité",
+        "Vision positive"
+      ],
+      "challenge": "Dispersion des énergies",
+      "growth_advice": "Concentrer leur créativité sur des projets concrets."
+    },
+    "3-11": {
+      "title": "⚡ Créativité Spirituelle",
+      "relation_role": "Expression + Inspiration",
+      "vibration": "Air + Lumière — message élevé",
+      "long_description": "Le 11 inspire le 3 à élever son art. Le 3 aide le 11 à s'exprimer. Amitié créative et spirituelle.",
+      "support": {
+        "3_to_11": "Aide à communiquer les visions",
+        "11_to_3": "Élève la conscience créative"
+      },
+      "strengths": [
+        "Inspiration mutuelle",
+        "Créativité spirituelle",
+        "Messages puissants"
+      ],
+      "challenge": "Pression de performance élevée",
+      "growth_advice": "Créer pour la joie, pas seulement le résultat."
+    },
+    "3-22": {
+      "title": "🎪 Créativité Structurée",
+      "relation_role": "Art + Maîtrise",
+      "vibration": "Air + Terre divine — création concrète",
+      "long_description": "Le 22 aide le 3 à construire des projets durables. Le 3 apporte joie au sérieux du 22. Amitié productive.",
+      "support": {
+        "3_to_22": "Apporte légèreté et inspiration",
+        "22_to_3": "Apporte structure et vision long terme"
+      },
+      "strengths": [
+        "Projets aboutis",
+        "Créativité structurée",
+        "Succès durable"
+      ],
+      "challenge": "Rythmes différents : spontané vs planifié",
+      "growth_advice": "Trouver un équilibre dans la planification."
+    },
+    "3-33": {
+      "title": "💫 Créativité Bienveillante",
+      "relation_role": "Expression + Amour",
+      "vibration": "Air + Amour universel — joie guérisseuse",
+      "long_description": "Le 33 nourrit le talent du 3 avec amour. Le 3 apporte joie au cœur du 33. Amitié douce et inspirante.",
+      "support": {
+        "3_to_33": "Apporte légèreté et optimisme",
+        "33_to_3": "Apporte compassion et soutien profond"
+      },
+      "strengths": [
+        "Bienveillance",
+        "Créativité guérisseuse",
+        "Joie partagée"
+      ],
+      "challenge": "Le 3 peut sembler superficiel au 33",
+      "growth_advice": "Le 3 doit honorer la profondeur du 33."
+    },
+    "4-4": {
+      "title": "🏰 Forteresse de Loyauté",
+      "relation_role": "Les Bâtisseurs",
+      "vibration": "Terre + Terre — stabilité absolue",
+      "long_description": "Amitié solide comme le roc. Deux personnes fiables, loyales, qui construisent ensemble sur le long terme.",
+      "support": {
+        "4_to_4": "Confiance mutuelle et soutien concret"
+      },
+      "strengths": [
+        "Fiabilité totale",
+        "Loyauté",
+        "Stabilité"
+      ],
+      "challenge": "Rigidité et routine excessive",
+      "growth_advice": "S'autoriser plus de spontanéité et de fantaisie."
+    },
+    "4-5": {
+      "title": "🌉 Structure & Liberté",
+      "relation_role": "Stabilité + Aventure",
+      "vibration": "Terre + Air libre — tension dynamique",
+      "long_description": "Opposition créative : le 4 ancre, le 5 libère. Amitié enrichissante si respect mutuel des différences.",
+      "support": {
+        "4_to_5": "Offre sécurité et ancrage",
+        "5_to_4": "Apporte nouveauté et ouverture"
+      },
+      "strengths": [
+        "Complémentarité",
+        "Équilibre",
+        "Croissance mutuelle"
+      ],
+      "challenge": "Besoins opposés : routine vs changement",
+      "growth_advice": "Alterner entre stabilité et aventure."
+    },
+    "4-6": {
+      "title": "🏡 Les Piliers de la Famille",
+      "relation_role": "Loyauté absolue",
+      "vibration": "Terre + Terre fertile — dévouement",
+      "long_description": "Amitié solide, basée sur les valeurs, la famille, la responsabilité. Loyauté et soutien inconditionnels.",
+      "support": {
+        "4_to_6": "Apporte structure et fiabilité",
+        "6_to_4": "Apporte chaleur et soin"
+      },
+      "strengths": [
+        "Loyauté absolue",
+        "Valeurs partagées",
+        "Stabilité"
+      ],
+      "challenge": "Excès de sérieux, manque de légèreté",
+      "growth_advice": "S'autoriser plus de plaisir et de spontanéité."
+    },
+    "4-7": {
+      "title": "🗿 Sagesse & Discipline",
+      "relation_role": "Structure + Réflexion",
+      "vibration": "Terre + Eau profonde — fondations solides",
+      "long_description": "Amitié calme et profonde. Le 7 apporte sagesse, le 4 stabilité. Respect mutuel et confiance.",
+      "support": {
+        "4_to_7": "Offre sécurité et constance",
+        "7_to_4": "Apporte profondeur et perspective"
+      },
+      "strengths": [
+        "Respect mutuel",
+        "Profondeur",
+        "Fiabilité"
+      ],
+      "challenge": "Manque de chaleur émotionnelle",
+      "growth_advice": "Exprimer plus d'affection et de légèreté."
+    },
+    "4-8": {
+      "title": "💼 Les Magnats",
+      "relation_role": "Structure + Ambition",
+      "vibration": "Terre + Feu maîtrisé — empire",
+      "long_description": "Amitié puissante et pragmatique. Ensemble, ils bâtissent des empires. Respect mutuel et ambition partagée.",
+      "support": {
+        "4_to_8": "Apporte méthode et rigueur",
+        "8_to_4": "Apporte vision et opportunités"
+      },
+      "strengths": [
+        "Réussite matérielle",
+        "Fiabilité",
+        "Respect"
+      ],
+      "challenge": "Manque de légèreté et d'émotion",
+      "growth_advice": "Cultiver aussi l'aspect humain de l'amitié."
+    },
+    "4-9": {
+      "title": "🌱 Pragmatisme & Idéalisme",
+      "relation_role": "Terre + Ciel",
+      "vibration": "Terre + Air spirituel — service concret",
+      "long_description": "Le 4 aide le 9 à concrétiser ses idéaux. Le 9 élargit la vision du 4. Amitié complémentaire et utile.",
+      "support": {
+        "4_to_9": "Ancre et structure les idéaux",
+        "9_to_4": "Ouvre vers l'universel et le sens"
+      },
+      "strengths": [
+        "Complémentarité",
+        "Projets humanitaires concrets",
+        "Respect"
+      ],
+      "challenge": "Rythmes différents : lent vs rapide",
+      "growth_advice": "Patience mutuelle et communication."
+    },
+    "4-11": {
+      "title": "🏛️ Fondation Spirituelle",
+      "relation_role": "Structure + Vision",
+      "vibration": "Terre + Lumière — temple sacré",
+      "long_description": "Le 4 construit la base qui permet au 11 de s'élever. Amitié stable et inspirante, orientée vers un but élevé.",
+      "support": {
+        "4_to_11": "Ancre et sécurise les visions",
+        "11_to_4": "Inspire et élève la conscience"
+      },
+      "strengths": [
+        "Stabilité spirituelle",
+        "Réalisations élevées",
+        "Respect profond"
+      ],
+      "challenge": "Pression et exigences élevées",
+      "growth_advice": "S'accorder le droit à l'imperfection."
+    },
+    "4-22": {
+      "title": "🏗️ Les Architectes",
+      "relation_role": "Double Maîtrise",
+      "vibration": "Terre + Terre divine — construction monumentale",
+      "long_description": "Amitié exceptionnelle de bâtisseurs. Ensemble, ils créent des structures durables et influentes.",
+      "support": {
+        "4_to_22": "Apporte rigueur et méthode",
+        "22_to_4": "Apporte vision grandiose"
+      },
+      "strengths": [
+        "Réalisations majeures",
+        "Stabilité absolue",
+        "Vision long terme"
+      ],
+      "challenge": "Excès de sérieux et de pression",
+      "growth_advice": "S'autoriser des moments de détente et de plaisir."
+    },
+    "4-33": {
+      "title": "🌳 Enracinement & Amour",
+      "relation_role": "Stabilité + Compassion",
+      "vibration": "Terre + Amour universel — soutien solide",
+      "long_description": "Le 4 offre sécurité au 33. Le 33 apporte chaleur au 4. Amitié loyale, protectrice et bienveillante.",
+      "support": {
+        "4_to_33": "Offre structure et protection",
+        "33_to_4": "Apporte amour et réconfort"
+      },
+      "strengths": [
+        "Loyauté",
+        "Soutien mutuel",
+        "Stabilité émotionnelle"
+      ],
+      "challenge": "Le 4 peut sembler froid au 33",
+      "growth_advice": "Le 4 doit exprimer plus d'affection."
+    },
+    "5-5": {
+      "title": "🚀 Les Aventuriers Libres",
+      "relation_role": "Double Liberté",
+      "vibration": "Air libre + Air libre — adrénaline pure",
+      "long_description": "Amitié électrisante : voyages, expériences, changements constants. Aucune routine, pure liberté.",
+      "support": {
+        "5_to_5": "Encouragement mutuel à explorer et vivre pleinement"
+      },
+      "strengths": [
+        "Aventure",
+        "Liberté totale",
+        "Excitation"
+      ],
+      "challenge": "Aucune stabilité ni ancrage",
+      "growth_advice": "Créer au moins quelques rituels communs."
+    },
+    "5-6": {
+      "title": "🌪️ Liberté & Responsabilité",
+      "relation_role": "Vent + Racines",
+      "vibration": "Air libre + Terre fertile — tension",
+      "long_description": "Opposition forte : le 5 veut liberté, le 6 veut engagement. Amitié délicate mais enrichissante si respect mutuel.",
+      "support": {
+        "5_to_6": "Apporte ouverture et nouveauté",
+        "6_to_5": "Apporte stabilité et valeurs"
+      },
+      "strengths": [
+        "Complémentarité",
+        "Croissance",
+        "Équilibre"
+      ],
+      "challenge": "Besoins opposés : liberté vs engagement",
+      "growth_advice": "Accepter les différences sans vouloir changer l'autre."
+    },
+    "5-7": {
+      "title": "🔭 Explorateurs de Vérité",
+      "relation_role": "Expérience + Sagesse",
+      "vibration": "Air libre + Eau profonde — quête",
+      "long_description": "Le 5 explore le monde extérieur, le 7 le monde intérieur. Amitié philosophique et stimulante.",
+      "support": {
+        "5_to_7": "Encourage à sortir et expérimenter",
+        "7_to_5": "Apporte profondeur et réflexion"
+      },
+      "strengths": [
+        "Enrichissement mutuel",
+        "Ouverture d'esprit",
+        "Quête de vérité"
+      ],
+      "challenge": "Besoins sociaux différents",
+      "growth_advice": "Respecter les espaces de chacun."
+    },
+    "5-8": {
+      "title": "💎 Liberté & Pouvoir",
+      "relation_role": "Audace + Stratégie",
+      "vibration": "Air libre + Feu — conquête",
+      "long_description": "Le 5 apporte audace, le 8 apporte stratégie. Amitié dynamique, orientée vers le succès et les opportunités.",
+      "support": {
+        "5_to_8": "Apporte audace et ouverture",
+        "8_to_5": "Apporte structure et opportunités"
+      },
+      "strengths": [
+        "Opportunités",
+        "Dynamisme",
+        "Succès"
+      ],
+      "challenge": "Le 8 peut vouloir contrôler le 5",
+      "growth_advice": "Le 8 doit respecter la liberté du 5."
+    },
+    "5-9": {
+      "title": "🌍 Citoyens du Monde",
+      "relation_role": "Aventure + Humanité",
+      "vibration": "Air libre + Air spirituel — conscience globale",
+      "long_description": "Amitié cosmopolite et ouverte. Voyages, cultures, causes humanitaires. Vision large du monde.",
+      "support": {
+        "5_to_9": "Apporte expérience et audace",
+        "9_to_5": "Donne sens et profondeur"
+      },
+      "strengths": [
+        "Ouverture totale",
+        "Aventure consciente",
+        "Générosité"
+      ],
+      "challenge": "Difficulté à s'engager dans la durée",
+      "growth_advice": "Choisir au moins un projet commun durable."
+    },
+    "5-11": {
+      "title": "⚡ Audace Inspirée",
+      "relation_role": "Liberté + Vision",
+      "vibration": "Air libre + Lumière — innovation",
+      "long_description": "Le 11 voit, le 5 ose. Amitié électrique, pleine d'idées avant-gardistes et d'innovations.",
+      "support": {
+        "5_to_11": "Aide à concrétiser les visions audacieuses",
+        "11_to_5": "Inspire et élève les expériences"
+      },
+      "strengths": [
+        "Innovation",
+        "Audace spirituelle",
+        "Liberté consciente"
+      ],
+      "challenge": "Instabilité commune",
+      "growth_advice": "Trouver des ancrages dans leur relation."
+    },
+    "5-22": {
+      "title": "🌉 Liberté Structurée",
+      "relation_role": "Aventure + Maîtrise",
+      "vibration": "Air libre + Terre divine — grand voyage",
+      "long_description": "Le 22 aide le 5 à structurer ses aventures. Le 5 apporte spontanéité au 22. Amitié enrichissante.",
+      "support": {
+        "5_to_22": "Apporte liberté et ouverture",
+        "22_to_5": "Apporte structure et vision"
+      },
+      "strengths": [
+        "Aventures organisées",
+        "Réalisations internationales",
+        "Équilibre"
+      ],
+      "challenge": "Rythmes opposés : spontané vs planifié",
+      "growth_advice": "Alterner entre improvisation et planification."
+    },
+    "5-33": {
+      "title": "💫 Liberté Bienveillante",
+      "relation_role": "Aventure + Amour",
+      "vibration": "Air libre + Amour universel — service nomade",
+      "long_description": "Le 33 donne un sens au voyage du 5. Le 5 libère le 33 du poids des responsabilités. Amitié enrichissante.",
+      "support": {
+        "5_to_33": "Apporte légèreté et nouvelles perspectives",
+        "33_to_5": "Donne sens et profondeur"
+      },
+      "strengths": [
+        "Générosité",
+        "Ouverture",
+        "Service conscient"
+      ],
+      "challenge": "Le 5 peut fuir l'engagement du 33",
+      "growth_advice": "Le 5 doit honorer la profondeur du lien."
+    },
+    "6-6": {
+      "title": "💕 Double Dévouement",
+      "relation_role": "Les Protecteurs",
+      "vibration": "Terre fertile + Terre fertile — amour inconditionnel",
+      "long_description": "Amitié profonde, loyale et protectrice. Deux cœurs dévoués qui prennent soin l'un de l'autre avec tendresse.",
+      "support": {
+        "6_to_6": "Loyauté absolue et soutien inconditionnel"
+      },
+      "strengths": [
+        "Fidélité totale",
+        "Chaleur humaine",
+        "Valeurs partagées"
+      ],
+      "challenge": "Tendance au sacrifice de soi",
+      "growth_advice": "Apprendre à recevoir autant qu'ils donnent."
+    },
+    "6-7": {
+      "title": "🌿 Dévotion & Sagesse",
+      "relation_role": "Cœur + Esprit",
+      "vibration": "Terre fertile + Eau profonde — sanctuaire",
+      "long_description": "Le 6 offre chaleur et soutien. Le 7 offre sagesse et recul. Amitié rare, profonde et réconfortante.",
+      "support": {
+        "6_to_7": "Offre chaleur et présence",
+        "7_to_6": "Apporte sagesse et perspective"
+      },
+      "strengths": [
+        "Profondeur",
+        "Respect mutuel",
+        "Soutien"
+      ],
+      "challenge": "Besoins sociaux différents",
+      "growth_advice": "Respecter le besoin de solitude du 7."
+    },
+    "6-8": {
+      "title": "⚖️ Protection & Pouvoir",
+      "relation_role": "Famille + Ambition",
+      "vibration": "Terre fertile + Feu — loyauté puissante",
+      "long_description": "Le 6 apporte humanité, le 8 apporte force. Amitié loyale, protectrice et ambitieuse.",
+      "support": {
+        "6_to_8": "Humanise et ancre dans les valeurs",
+        "8_to_6": "Protège et offre opportunités"
+      },
+      "strengths": [
+        "Loyauté",
+        "Protection mutuelle",
+        "Réussite"
+      ],
+      "challenge": "Le 8 peut négliger l'aspect émotionnel",
+      "growth_advice": "Le 8 doit valoriser les efforts du 6."
+    },
+    "6-9": {
+      "title": "🌏 Amour Universel",
+      "relation_role": "Famille + Humanité",
+      "vibration": "Terre fertile + Air spirituel — service",
+      "long_description": "Deux âmes généreuses et altruistes. Amitié orientée vers le soin des autres, la famille, les causes humanitaires.",
+      "support": {
+        "6_to_9": "Ancre dans l'intime et le personnel",
+        "9_to_6": "Élargit vers l'universel"
+      },
+      "strengths": [
+        "Générosité",
+        "Valeurs nobles",
+        "Compassion"
+      ],
+      "challenge": "Oubli de soi pour les autres",
+      "growth_advice": "Prendre soin d'eux-mêmes aussi."
+    },
+    "6-11": {
+      "title": "✨ Dévotion Spirituelle",
+      "relation_role": "Cœur + Vision",
+      "vibration": "Terre fertile + Lumière — amour éclairé",
+      "long_description": "Le 6 soutient et protège le 11. Le 11 inspire et élève le 6. Amitié profonde, loyale et spirituelle.",
+      "support": {
+        "6_to_11": "Offre stabilité et soutien inconditionnel",
+        "11_to_6": "Inspire et éveille"
+      },
+      "strengths": [
+        "Loyauté spirituelle",
+        "Soutien profond",
+        "Évolution mutuelle"
+      ],
+      "challenge": "Poids des responsabilités communes",
+      "growth_advice": "S'autoriser de la légèreté et du plaisir."
+    },
+    "6-22": {
+      "title": "🏛️ Famille & Empire",
+      "relation_role": "Cœur + Bâtisseur",
+      "vibration": "Terre fertile + Terre divine — fondation durable",
+      "long_description": "Le 6 apporte chaleur humaine, le 22 apporte structure. Amitié solide, orientée vers la construction durable.",
+      "support": {
+        "6_to_22": "Humanise et nourrit émotionnellement",
+        "22_to_6": "Offre vision et stabilité"
+      },
+      "strengths": [
+        "Stabilité",
+        "Réalisations durables",
+        "Loyauté"
+      ],
+      "challenge": "Charge de responsabilités lourde",
+      "growth_advice": "S'accorder des moments de détente ensemble."
+    },
+    "6-33": {
+      "title": "💗 Les Saints Protecteurs",
+      "relation_role": "Double Amour",
+      "vibration": "Terre fertile + Amour universel — compassion pure",
+      "long_description": "Union rare de deux âmes profondément aimantes. Amitié guérissante, protectrice et inconditionnelle.",
+      "support": {
+        "6_to_33": "Offre loyauté et soutien constant",
+        "33_to_6": "Apporte amour divin et sagesse"
+      },
+      "strengths": [
+        "Amour inconditionnel",
+        "Guérison mutuelle",
+        "Fidélité absolue"
+      ],
+      "challenge": "Sacrifice excessif de soi",
+      "growth_advice": "Poser des limites saines dans le don."
+    },
+    "7-7": {
+      "title": "🌌 Les Mystiques",
+      "relation_role": "Double Sagesse",
+      "vibration": "Eau profonde + Eau profonde — mystère",
+      "long_description": "Amitié rare et profonde. Deux âmes introspectives qui se comprennent en silence. Connexion intellectuelle et spirituelle.",
+      "support": {
+        "7_to_7": "Compréhension mutuelle sans mots"
+      },
+      "strengths": [
+        "Profondeur intellectuelle",
+        "Respect du silence",
+        "Spiritualité"
+      ],
+      "challenge": "Isolement social excessif",
+      "growth_advice": "S'encourager mutuellement à s'ouvrir au monde."
+    },
+    "7-8": {
+      "title": "🔱 Sagesse & Pouvoir",
+      "relation_role": "Stratégie + Force",
+      "vibration": "Eau profonde + Feu — puissance contrôlée",
+      "long_description": "Le 7 apporte stratégie et analyse. Le 8 apporte action et pouvoir. Amitié puissante et réfléchie.",
+      "support": {
+        "7_to_8": "Apporte réflexion et stratégie",
+        "8_to_7": "Concrétise et protège"
+      },
+      "strengths": [
+        "Stratégie puissante",
+        "Respect mutuel",
+        "Succès réfléchi"
+      ],
+      "challenge": "Manque de chaleur émotionnelle",
+      "growth_advice": "Cultiver aussi l'aspect affectif de l'amitié."
+    },
+    "7-9": {
+      "title": "🌟 Sagesse Universelle",
+      "relation_role": "Mystique + Humaniste",
+      "vibration": "Eau profonde + Air spirituel — conscience élevée",
+      "long_description": "Amitié philosophique et spirituelle. Le 7 cherche la vérité, le 9 cherche le bien commun. Connexion profonde.",
+      "support": {
+        "7_to_9": "Apporte profondeur et analyse",
+        "9_to_7": "Élargit vers l'universel"
+      },
+      "strengths": [
+        "Spiritualité",
+        "Sagesse",
+        "Vision élevée"
+      ],
+      "challenge": "Déconnexion du monde matériel",
+      "growth_advice": "S'ancrer aussi dans le concret et le quotidien."
+    },
+    "7-11": {
+      "title": "⚡ Les Voyants",
+      "relation_role": "Sagesse + Intuition",
+      "vibration": "Eau profonde + Lumière — révélation",
+      "long_description": "Connexion rare et magnétique. Deux âmes hautement intuitives qui partagent une vision profonde de la réalité.",
+      "support": {
+        "7_to_11": "Apporte analyse et ancrage intellectuel",
+        "11_to_7": "Apporte intuition et inspiration"
+      },
+      "strengths": [
+        "Intuition puissante",
+        "Compréhension profonde",
+        "Évolution spirituelle"
+      ],
+      "challenge": "Hypersensibilité et isolement",
+      "growth_advice": "S'ancrer dans le quotidien ensemble."
+    },
+    "7-22": {
+      "title": "🏛️ Sagesse Bâtisseuse",
+      "relation_role": "Mystique + Architecte",
+      "vibration": "Eau profonde + Terre divine — temple sacré",
+      "long_description": "Le 7 apporte la vision spirituelle, le 22 la concrétise. Amitié rare, orientée vers des réalisations élevées.",
+      "support": {
+        "7_to_22": "Apporte sagesse et profondeur",
+        "22_to_7": "Concrétise et structure"
+      },
+      "strengths": [
+        "Réalisations spirituelles",
+        "Respect profond",
+        "Vision élevée"
+      ],
+      "challenge": "Pression de performance",
+      "growth_advice": "S'autoriser l'imperfection et la légèreté."
+    },
+    "7-33": {
+      "title": "💫 Sagesse Aimante",
+      "relation_role": "Mystique + Guérisseur",
+      "vibration": "Eau profonde + Amour universel — compassion sage",
+      "long_description": "Le 7 apporte sagesse, le 33 apporte amour. Amitié profonde, spirituelle et guérissante.",
+      "support": {
+        "7_to_33": "Apporte recul et perspective",
+        "33_to_7": "Apporte chaleur et compassion"
+      },
+      "strengths": [
+        "Spiritualité profonde",
+        "Guérison",
+        "Sagesse aimante"
+      ],
+      "challenge": "Oubli des besoins matériels",
+      "growth_advice": "S'ancrer aussi dans le concret."
+    },
+    "8-8": {
+      "title": "👑 Empire Partagé",
+      "relation_role": "Double Pouvoir",
+      "vibration": "Feu + Feu — domination",
+      "long_description": "Amitié puissante mais complexe. Deux leaders qui se respectent mais peuvent entrer en compétition. Alliance stratégique.",
+      "support": {
+        "8_to_8": "Respect mutuel et opportunités partagées"
+      },
+      "strengths": [
+        "Pouvoir",
+        "Opportunités",
+        "Ambition"
+      ],
+      "challenge": "Lutte de pouvoir constante",
+      "growth_advice": "Définir clairement les territoires de chacun."
+    },
+    "8-9": {
+      "title": "🌍 Pouvoir & Humanité",
+      "relation_role": "Empire + Cause",
+      "vibration": "Feu + Air spirituel — influence noble",
+      "long_description": "Le 8 apporte les ressources, le 9 apporte la cause. Amitié puissante orientée vers l'impact collectif.",
+      "support": {
+        "8_to_9": "Apporte moyens et structure",
+        "9_to_8": "Donne sens et humanité"
+      },
+      "strengths": [
+        "Impact collectif",
+        "Ressources",
+        "Vision large"
+      ],
+      "challenge": "Priorités différentes : profit vs humanité",
+      "growth_advice": "Aligner pouvoir et valeurs humanistes."
+    },
+    "8-11": {
+      "title": "⚡ Pouvoir Spirituel",
+      "relation_role": "Force + Vision",
+      "vibration": "Feu + Lumière — leadership éclairé",
+      "long_description": "Le 11 inspire, le 8 concrétise. Amitié puissante, orientée vers un leadership éclairé et influent.",
+      "support": {
+        "8_to_11": "Concrétise et protège les visions",
+        "11_to_8": "Inspire et élève le leadership"
+      },
+      "strengths": [
+        "Leadership inspiré",
+        "Influence",
+        "Réalisations majeures"
+      ],
+      "challenge": "Pression et attentes très élevées",
+      "growth_advice": "S'autoriser vulnérabilité et repos."
+    },
+    "8-22": {
+      "title": "🏰 Les Empereurs",
+      "relation_role": "Double Maîtrise",
+      "vibration": "Feu + Terre divine — empire mondial",
+      "long_description": "Alliance exceptionnelle de deux maîtres bâtisseurs. Ensemble, ils créent des empires durables et influents.",
+      "support": {
+        "8_to_22": "Apporte force et opportunités",
+        "22_to_8": "Apporte vision et structure"
+      },
+      "strengths": [
+        "Pouvoir immense",
+        "Réalisations monumentales",
+        "Influence mondiale"
+      ],
+      "challenge": "Charge écrasante de responsabilités",
+      "growth_advice": "Préserver leur humanité et leur légèreté."
+    },
+    "8-33": {
+      "title": "💎 Pouvoir Bienveillant",
+      "relation_role": "Force + Amour",
+      "vibration": "Feu + Amour universel — leadership compassionnel",
+      "long_description": "Le 33 humanise le pouvoir du 8. Le 8 protège et amplifie l'amour du 33. Amitié puissante et bienveillante.",
+      "support": {
+        "8_to_33": "Offre protection et moyens",
+        "33_to_8": "Humanise et guide avec compassion"
+      },
+      "strengths": [
+        "Leadership bienveillant",
+        "Impact positif",
+        "Ressources au service du bien"
+      ],
+      "challenge": "Le 8 peut instrumentaliser la bonté du 33",
+      "growth_advice": "Le 8 doit respecter la pureté d'intention du 33."
+    },
+    "9-9": {
+      "title": "🌟 Les Altruistes",
+      "relation_role": "Double Humanité",
+      "vibration": "Air spirituel + Air spirituel — conscience collective",
+      "long_description": "Amitié idéaliste et généreuse. Deux âmes tournées vers le bien commun, les causes humanitaires, l'universalité.",
+      "support": {
+        "9_to_9": "Inspiration mutuelle et soutien dans les idéaux"
+      },
+      "strengths": [
+        "Générosité",
+        "Idéaux élevés",
+        "Vision universelle"
+      ],
+      "challenge": "Oubli de leurs besoins personnels",
+      "growth_advice": "Se rappeler qu'ils comptent aussi."
+    },
+    "9-11": {
+      "title": "✨ Les Éclaireurs",
+      "relation_role": "Humanité + Vision",
+      "vibration": "Air spirituel + Lumière — message universel",
+      "long_description": "Connexion spirituelle puissante. Ensemble, ils portent un message élevé pour le monde. Amitié inspirante et karmique.",
+      "support": {
+        "9_to_11": "Élargit et universalise la vision",
+        "11_to_9": "Inspire et révèle des vérités profondes"
+      },
+      "strengths": [
+        "Mission spirituelle",
+        "Impact collectif",
+        "Inspiration"
+      ],
+      "challenge": "Pression de leur mission",
+      "growth_advice": "S'autoriser à être humains et imparfaits."
+    },
+    "9-22": {
+      "title": "🌍 Humanité Structurée",
+      "relation_role": "Idéal + Construction",
+      "vibration": "Air spirituel + Terre divine — impact durable",
+      "long_description": "Le 9 apporte la vision humaniste, le 22 la structure pour la réaliser. Amitié orientée vers le bien collectif concret.",
+      "support": {
+        "9_to_22": "Inspire et donne sens",
+        "22_to_9": "Structure et concrétise les idéaux"
+      },
+      "strengths": [
+        "Impact mondial",
+        "Projets humanitaires concrets",
+        "Vision large"
+      ],
+      "challenge": "Charge de responsabilités immense",
+      "growth_advice": "Préserver leur vie personnelle et leur joie."
+    },
+    "9-33": {
+      "title": "💫 Amour Universel",
+      "relation_role": "Humanité + Compassion",
+      "vibration": "Air spirituel + Amour universel — sainteté",
+      "long_description": "Union rare de deux âmes profondément altruistes. Amitié orientée vers le service, la guérison collective, l'amour inconditionnel.",
+      "support": {
+        "9_to_33": "Élargit la vision au collectif",
+        "33_to_9": "Apporte amour profond et guérison"
+      },
+      "strengths": [
+        "Altruisme pur",
+        "Guérison collective",
+        "Amour inconditionnel"
+      ],
+      "challenge": "Sacrifice excessif de soi",
+      "growth_advice": "Apprendre à se préserver pour mieux servir."
+    },
+    "11-11": {
+      "title": "⚡ Double Lumière",
+      "relation_role": "Les Visionnaires",
+      "vibration": "Lumière + Lumière — illumination",
+      "long_description": "Connexion exceptionnelle et magnétique. Deux âmes hautement intuitives sur un chemin spirituel commun. Amitié karmique.",
+      "support": {
+        "11_to_11": "Inspiration mutuelle et éveil spirituel"
+      },
+      "strengths": [
+        "Intuition puissante",
+        "Évolution spirituelle",
+        "Connexion profonde"
+      ],
+      "challenge": "Hypersensibilité et pression immense",
+      "growth_advice": "S'ancrer ensemble dans le quotidien."
+    },
+    "11-22": {
+      "title": "🏛️ Vision & Manifestation",
+      "relation_role": "Inspiration + Construction",
+      "vibration": "Lumière + Terre divine — temple vivant",
+      "long_description": "Le 11 voit, le 22 construit. Alliance exceptionnelle pour manifester des visions élevées dans la matière.",
+      "support": {
+        "11_to_22": "Inspire et révèle la vision",
+        "22_to_11": "Ancre et concrétise"
+      },
+      "strengths": [
+        "Manifestation puissante",
+        "Réalisations élevées",
+        "Impact majeur"
+      ],
+      "challenge": "Pression énorme et attentes élevées",
+      "growth_advice": "S'accorder le droit à l'imperfection."
+    },
+    "11-33": {
+      "title": "💫 Lumière & Amour",
+      "relation_role": "Vision + Compassion",
+      "vibration": "Lumière + Amour universel — divinité",
+      "long_description": "Connexion sacrée et rare. Le 11 inspire, le 33 aime. Amitié spirituelle profonde, orientée vers la guérison collective.",
+      "support": {
+        "11_to_33": "Inspire et éveille",
+        "33_to_11": "Aime et guérit inconditionnellement"
+      },
+      "strengths": [
+        "Amour spirituel",
+        "Guérison profonde",
+        "Mission divine"
+      ],
+      "challenge": "Poids de leur mission spirituelle",
+      "growth_advice": "S'autoriser à être humains et vulnérables."
+    },
+    "22-22": {
+      "title": "🏗️ Double Maîtrise",
+      "relation_role": "Les Architectes Divins",
+      "vibration": "Terre divine + Terre divine — construction monumentale",
+      "long_description": "Alliance exceptionnelle de deux maîtres bâtisseurs. Ensemble, ils créent des structures durables à impact mondial.",
+      "support": {
+        "22_to_22": "Vision partagée et support dans la manifestation"
+      },
+      "strengths": [
+        "Réalisations monumentales",
+        "Vision long terme",
+        "Impact durable"
+      ],
+      "challenge": "Pression écrasante et perfectionnisme",
+      "growth_advice": "S'autoriser des moments de repos et d'imperfection."
+    },
+    "22-33": {
+      "title": "💎 Construction Sacrée",
+      "relation_role": "Maîtrise + Amour",
+      "vibration": "Terre divine + Amour universel — temple d'amour",
+      "long_description": "Le 22 construit, le 33 aime. Alliance rare pour créer des structures au service de l'humanité avec compassion.",
+      "support": {
+        "22_to_33": "Structure et protège les initiatives",
+        "33_to_22": "Humanise et guide avec amour"
+      },
+      "strengths": [
+        "Impact humanitaire majeur",
+        "Construction bienveillante",
+        "Vision élevée"
+      ],
+      "challenge": "Charge immense de responsabilités",
+      "growth_advice": "Préserver leur humanité et leur joie simple."
+    },
+    "33-33": {
+      "title": "💗 Double Amour Divin",
+      "relation_role": "Les Guérisseurs Universels",
+      "vibration": "Amour universel + Amour universel — sainteté pure",
+      "long_description": "Connexion exceptionnelle et sacrée. Deux âmes profondément aimantes sur un chemin de service et de guérison collective.",
+      "support": {
+        "33_to_33": "Amour inconditionnel et guérison mutuelle"
+      },
+      "strengths": [
+        "Amour pur",
+        "Guérison profonde",
+        "Compassion infinie"
+      ],
+      "challenge": "Sacrifice excessif et épuisement",
+      "growth_advice": "Apprendre à se préserver pour continuer à servir."
+    }
+  }

@@ -2,6 +2,7 @@ import { Prisma } from "@prisma/client";
 import bcrypt from "bcryptjs";
 import { Request, Response } from "express";
 
+import { HttpError, asyncHandler } from "../utils/http";
 import { prisma } from "../utils/prisma";
 import {
   getPasswordValidationError,
@@ -9,11 +10,7 @@ import {
   normalizeEmail,
   signAccessToken
 } from "../utils/auth";
-
-type RegisterBody = {
-  email?: string;
-  password?: string;
-};
+import { authCredentialsSchema } from "../validation/request-schemas";
 
 type Credentials = {
   email: string;
@@ -21,25 +18,27 @@ type Credentials = {
 };
 
 function parseCredentials(req: Request, res: Response): Credentials | null {
-  const { email, password } = req.body as RegisterBody;
-
-  if (!email || !password) {
-    res.status(400).json({ error: "email and password are required" });
+  const parsed = authCredentialsSchema.safeParse(req.body);
+  if (!parsed.success) {
+    const firstIssue = parsed.error.issues[0];
+    const field = firstIssue?.path?.[0];
+    const message = field
+      ? `${String(field)}: ${firstIssue.message}`
+      : "Validation error";
+    res.status(400).json({
+      error: message,
+      details: parsed.error.flatten()
+    });
     return null;
   }
-
-  if (typeof email !== "string" || typeof password !== "string") {
-    res.status(400).json({ error: "email and password must be strings" });
-    return null;
-  }
-
+  const { email, password } = parsed.data;
   return {
     email: normalizeEmail(email),
     password
   };
 }
 
-export async function register(req: Request, res: Response): Promise<void> {
+export const register = asyncHandler(async (req: Request, res: Response): Promise<void> => {
   const credentials = parseCredentials(req, res);
   if (!credentials) {
     return;
@@ -78,15 +77,13 @@ export async function register(req: Request, res: Response): Promise<void> {
     });
   } catch (error) {
     if (error instanceof Prisma.PrismaClientKnownRequestError && error.code === "P2002") {
-      res.status(409).json({ error: "email already in use" });
-      return;
+      throw new HttpError(409, "email already in use");
     }
-
-    res.status(500).json({ error: "failed to create user" });
+    throw error;
   }
-}
+});
 
-export async function login(req: Request, res: Response): Promise<void> {
+export const login = asyncHandler(async (req: Request, res: Response): Promise<void> => {
   const credentials = parseCredentials(req, res);
   if (!credentials) {
     return;
@@ -104,15 +101,13 @@ export async function login(req: Request, res: Response): Promise<void> {
     });
 
     if (!user) {
-      res.status(401).json({ error: "invalid credentials" });
-      return;
+      throw new HttpError(401, "invalid credentials");
     }
 
     const isValidPassword = await bcrypt.compare(credentials.password, user.password);
 
     if (!isValidPassword) {
-      res.status(401).json({ error: "invalid credentials" });
-      return;
+      throw new HttpError(401, "invalid credentials");
     }
 
     const token = signAccessToken({ sub: user.id, email: user.email });
@@ -125,17 +120,16 @@ export async function login(req: Request, res: Response): Promise<void> {
         createdAt: user.createdAt.toISOString()
       }
     });
-  } catch {
-    res.status(500).json({ error: "failed to login" });
+  } catch (error) {
+    throw error;
   }
-}
+});
 
-export async function me(_req: Request, res: Response): Promise<void> {
+export const me = asyncHandler(async (_req: Request, res: Response): Promise<void> => {
   const userId = res.locals.auth?.userId;
 
   if (!userId) {
-    res.status(401).json({ error: "Unauthorized" });
-    return;
+    throw new HttpError(401, "Unauthorized");
   }
 
   try {
@@ -149,8 +143,7 @@ export async function me(_req: Request, res: Response): Promise<void> {
     });
 
     if (!user) {
-      res.status(404).json({ error: "user not found" });
-      return;
+      throw new HttpError(404, "user not found");
     }
 
     res.json({
@@ -159,7 +152,7 @@ export async function me(_req: Request, res: Response): Promise<void> {
         createdAt: user.createdAt.toISOString()
       }
     });
-  } catch {
-    res.status(500).json({ error: "failed to fetch current user" });
+  } catch (error) {
+    throw error;
   }
-}
+});

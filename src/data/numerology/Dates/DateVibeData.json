@@ -1,0 +1,79 @@
+{
+    "1": {
+      "summary": "Nouveau départ, initiatives.",
+      "strength": "Énergie dynamique, propice à lancer un projet, prendre des décisions et agir avec confiance.",
+      "challenge": "Impatience, ego excessif, risque d’isolement.",
+      "favorable_for": "Lancer un projet, démarrer une nouvelle activité, prendre une décision courageuse.",
+      "unfavorable_for": "Travaux collectifs nécessitant coopération, relations sensibles."
+    },
+    "2": {
+      "summary": "Relations, coopération et sensibilité.",
+      "strength": "Bonne énergie pour collaborer, négocier et renforcer les partenariats.",
+      "challenge": "Passivité, dépendance, hypersensibilité émotionnelle.",
+      "favorable_for": "Travail en duo, partenariats, diplomatie, projets associatifs.",
+      "unfavorable_for": "Décisions rapides, actions individuelles trop marquées."
+    },
+    "3": {
+      "summary": "Expression et créativité.",
+      "strength": "Journée favorable aux échanges, à l’expression artistique et à la communication.",
+      "challenge": "Superficialité, dispersion, instabilité.",
+      "favorable_for": "Activités artistiques, communication, réseaux sociaux, rencontres.",
+      "unfavorable_for": "Travaux nécessitant rigueur, tâches administratives lourdes."
+    },
+    "4": {
+      "summary": "Travail, organisation et stabilité.",
+      "strength": "Bon moment pour structurer, planifier et bâtir des bases solides.",
+      "challenge": "Rigidité, fatigue, sentiment de blocage.",
+      "favorable_for": "Tâches administratives, organisation, planification à long terme.",
+      "unfavorable_for": "Activités improvisées, projets demandant flexibilité ou créativité."
+    },
+    "5": {
+      "summary": "Changements et liberté.",
+      "strength": "Énergie de mouvement, favorable aux voyages, nouvelles expériences et évolutions.",
+      "challenge": "Instabilité, impulsivité, dispersion.",
+      "favorable_for": "Voyages, exploration, networking, nouveaux projets.",
+      "unfavorable_for": "Engagements lourds, routines trop rigides."
+    },
+    "6": {
+      "summary": "Responsabilité, famille et harmonie.",
+      "strength": "Climat propice aux engagements, à l’amour et aux responsabilités collectives.",
+      "challenge": "Excès de contrôle, sacrifice de soi, perfectionnisme.",
+      "favorable_for": "Rencontres familiales, soins, projets éducatifs, engagements affectifs.",
+      "unfavorable_for": "Affaires froides et compétitives, projets uniquement matériels."
+    },
+    "7": {
+      "summary": "Réflexion et spiritualité.",
+      "strength": "Bonne énergie pour l’étude, l’introspection et la recherche intérieure.",
+      "challenge": "Isolement, scepticisme, excès de rationalité.",
+      "favorable_for": "Études, méditation, recherche, développement spirituel.",
+      "unfavorable_for": "Activités commerciales intenses, actions nécessitant rapidité."
+    },
+    "8": {
+      "summary": "Pouvoir, réussite et matérialité.",
+      "strength": "Journée favorable aux affaires, à la gestion et à la reconnaissance sociale.",
+      "challenge": "Autoritarisme, excès de matérialisme, conflits de pouvoir.",
+      "favorable_for": "Business, signatures importantes, investissements, promotions.",
+      "unfavorable_for": "Activités personnelles introspectives, relations fragiles."
+    },
+    "9": {
+      "summary": "Accomplissement et bilan.",
+      "strength": "Temps idéal pour conclure, partager, pardonner et préparer un nouveau cycle.",
+      "challenge": "Difficulté à lâcher prise, sentiment de perte ou de fin.",
+      "favorable_for": "Finaliser un projet, mettre fin à une situation, activités humanitaires.",
+      "unfavorable_for": "Nouveaux départs, investissements à long terme."
+    },
+    "11": {
+      "summary": "Inspiration spirituelle et intuition.",
+      "strength": "Grande clarté intuitive, capacité à inspirer et guider les autres.",
+      "challenge": "Nervosité, excès d’émotions, difficulté à concrétiser.",
+      "favorable_for": "Créativité visionnaire, projets inspirants, enseignement spirituel.",
+      "unfavorable_for": "Tâches trop matérielles, travaux demandant rationalité stricte."
+    },
+    "22": {
+      "summary": "Construction d’envergure.",
+      "strength": "Énergie idéale pour concrétiser des projets ambitieux et bâtir solidement.",
+      "challenge": "Pression énorme, dispersion si mal canalisée, découragement.",
+      "favorable_for": "Projets ambitieux, fondations solides, entreprises collectives.",
+      "unfavorable_for": "Projets improvisés, petites tâches sans vision globale."
+    }
+  }

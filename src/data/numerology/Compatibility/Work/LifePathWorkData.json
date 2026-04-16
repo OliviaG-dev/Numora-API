@@ -1,0 +1,872 @@
+{
+    "1-1": {
+      "duo_name": "Les Commandants",
+      "power_combo": "Ambition ×2 = Percée fulgurante",
+      "work_dynamics": {
+        "1_brings": "Leadership, courage, vitesse",
+        "1_brings_other": "Leadership, compétition, vision"
+      },
+      "superpower": "Faire bouger des montagnes",
+      "conflict_trigger": "Guerre d’ego, lutte de pouvoir",
+      "work_hack": "Instaurer des rôles clairs de commandement"
+    },
+    "1-2": {
+      "duo_name": "Le Capitaine & Le Diplomat",
+      "power_combo": "Action + Harmonie",
+      "work_dynamics": {
+        "1_brings": "Décision, direction, prise de risque",
+        "2_brings": "Coopération, médiation, écoute"
+      },
+      "superpower": "Transformer une vision en projet fédérateur",
+      "conflict_trigger": "Le 1 fonce — le 2 temporise trop",
+      "work_hack": "Le 1 écoute, le 2 affirme ses limites"
+    },
+    "1-3": {
+      "duo_name": "Le Leader & L’Influenceur",
+      "power_combo": "Communication + Performance",
+      "work_dynamics": {
+        "1_brings": "Capacité d’action, objectifs clairs",
+        "3_brings": "Charisme, innovation, marketing"
+      },
+      "superpower": "Convaincre et conquérir",
+      "conflict_trigger": "L’un veut gagner, l’autre briller",
+      "work_hack": "Aligner réussite + visibilité"
+    },
+    "1-4": {
+      "duo_name": "Le Visionnaire & L’Architecte",
+      "power_combo": "Idée + Structure",
+      "work_dynamics": {
+        "1_brings": "Impulsion et direction",
+        "4_brings": "Organisation, rigueur, méthode"
+      },
+      "superpower": "Mission qui se concrétise vraiment",
+      "conflict_trigger": "Vitesse vs respect des étapes",
+      "work_hack": "Feuille de route réaliste"
+    },
+    "1-5": {
+      "duo_name": "Le Stratège & L’Explorateur",
+      "power_combo": "Ambition + Adaptabilité",
+      "work_dynamics": {
+        "1_brings": "Leadership et objectifs",
+        "5_brings": "Flexibilité et communication"
+      },
+      "superpower": "Capacité à saisir les opportunités",
+      "conflict_trigger": "Le 1 veut du contrôle, le 5 veut la liberté",
+      "work_hack": "Process agile"
+    },
+    "1-6": {
+      "duo_name": "Le Chef & Le Protecteur",
+      "power_combo": "Résultat + Responsabilité",
+      "work_dynamics": {
+        "1_brings": "Leadership, prise de décision",
+        "6_brings": "Esprit d’équipe, qualité, éthique"
+      },
+      "superpower": "Créer une organisation puissante ET humaine",
+      "conflict_trigger": "Autorité vs besoin de consensus",
+      "work_hack": "Décider en consultant les équipes clés"
+    },
+    "1-7": {
+      "duo_name": "Le Dirigeant & Le Stratège Mystique",
+      "power_combo": "Action + Analyse profonde",
+      "work_dynamics": {
+        "1_brings": "Efficacité, conquête",
+        "7_brings": "Recherche, intuition"
+      },
+      "superpower": "Décisions éclairées, vision long terme",
+      "conflict_trigger": "Le 7 prend du recul — le 1 croit qu’il se désengage",
+      "work_hack": "Respecter les temps de réflexion"
+    },
+    "1-8": {
+      "duo_name": "Les Titans",
+      "power_combo": "Pouvoir + Réussite",
+      "work_dynamics": {
+        "1_brings": "Leadership entrepreneurial",
+        "8_brings": "Gestion, stratégie financière"
+      },
+      "superpower": "Scalabilité, grandes réussites",
+      "conflict_trigger": "Domination, pression excessive",
+      "work_hack": "Éthique + partage du pouvoir"
+    },
+    "1-9": {
+      "duo_name": "Le Leader & L’Humaniste",
+      "power_combo": "Succès + Impact",
+      "work_dynamics": {
+        "1_brings": "Direction concrète",
+        "9_brings": "Vision sociale, bienveillance"
+      },
+      "superpower": "Entreprendre avec sens",
+      "conflict_trigger": "Objectifs personnels vs cause universelle",
+      "work_hack": "Intégrer une mission positive dans les projets"
+    },
+  
+    "1-11": {
+      "duo_name": "Le Visionnaire & Le Guide",
+      "power_combo": "Action + Inspiration spirituelle",
+      "work_dynamics": {
+        "1_brings": "Initiative, force",
+        "11_brings": "Intuition, innovation guidée"
+      },
+      "superpower": "Créer l’avenir",
+      "conflict_trigger": "Le 1 banalise la sensibilité — le 11 dramatise",
+      "work_hack": "Respecter autant l’énergie que la vision"
+    },
+    "1-22": {
+      "duo_name": "Le Leader & Le Maître Bâtisseur",
+      "power_combo": "Entreprendre en grand",
+      "work_dynamics": {
+        "1_brings": "Démarrage, direction",
+        "22_brings": "Organisation massive + vision solide"
+      },
+      "superpower": "Créer des empires",
+      "conflict_trigger": "Control freak ×2",
+      "work_hack": "Humilité + écoute du groupe"
+    },
+    "1-33": {
+      "duo_name": "Le Conquérant & Le Mentor",
+      "power_combo": "Ambition + Humanité",
+      "work_dynamics": {
+        "1_brings": "Objectifs clairs, motivation",
+        "33_brings": "Solidarité, inspiration, pédagogie"
+      },
+      "superpower": "Réussite avec rayonnement positif",
+      "conflict_trigger": "Trop donner vs trop exiger",
+      "work_hack": "Servir la vision plutôt que l'ego"
+    },
+  
+    "2-2": {
+      "duo_name": "Les Diplomates",
+      "power_combo": "Harmonie ×2 = Environnement parfait",
+      "work_dynamics": {
+        "2_brings": "Écoute, collaboration, sens du détail",
+        "2_brings_other": "Coopération, sensibilité, médiation"
+      },
+      "superpower": "Créer la paix et l'équilibre dans l'équipe",
+      "conflict_trigger": "Évitement des décisions difficiles",
+      "work_hack": "Définir des rôles décisionnels clairs"
+    },
+    "2-3": {
+      "duo_name": "Le Médiateur & Le Créatif",
+      "power_combo": "Harmonie + Expression",
+      "work_dynamics": {
+        "2_brings": "Organisation subtile, soutien",
+        "3_brings": "Communication, créativité, dynamisme"
+      },
+      "superpower": "Projets portés avec élégance et charisme",
+      "conflict_trigger": "Le 2 s'efface — le 3 monopolise l'attention",
+      "work_hack": "Valoriser le rôle discret du 2"
+    },
+    "2-4": {
+      "duo_name": "L'Harmoniseur & Le Bâtisseur",
+      "power_combo": "Coopération + Structure",
+      "work_dynamics": {
+        "2_brings": "Relations, patience, adaptabilité",
+        "4_brings": "Méthode, fiabilité, endurance"
+      },
+      "superpower": "Construire avec stabilité et humanité",
+      "conflict_trigger": "Le 4 est rigide — le 2 a besoin de souplesse",
+      "work_hack": "Procédures avec marge d'ajustement"
+    },
+    "2-5": {
+      "duo_name": "Le Pacificateur & Le Libérateur",
+      "power_combo": "Stabilité + Mouvement",
+      "work_dynamics": {
+        "2_brings": "Constance, fidélité, écoute",
+        "5_brings": "Changement, innovation, liberté"
+      },
+      "superpower": "Évoluer sans tout casser",
+      "conflict_trigger": "Le 5 change trop — le 2 a besoin de sécurité",
+      "work_hack": "Cadre souple avec points de repère fixes"
+    },
+    "2-6": {
+      "duo_name": "Les Gardiens du Bien-être",
+      "power_combo": "Soin + Responsabilité",
+      "work_dynamics": {
+        "2_brings": "Empathie, présence, finesse",
+        "6_brings": "Service, dévouement, justice"
+      },
+      "superpower": "Créer des environnements nourrissants",
+      "conflict_trigger": "Se perdre dans le soin des autres",
+      "work_hack": "Établir des limites saines"
+    },
+    "2-7": {
+      "duo_name": "L'Intuitif & Le Sage",
+      "power_combo": "Sensibilité + Profondeur",
+      "work_dynamics": {
+        "2_brings": "Lecture émotionnelle, tact",
+        "7_brings": "Analyse, recherche, recul"
+      },
+      "superpower": "Comprendre les non-dits et anticiper",
+      "conflict_trigger": "Trop de retenue, manque d'action",
+      "work_hack": "Programmer des échéances concrètes"
+    },
+    "2-8": {
+      "duo_name": "Le Conciliateur & Le Magnat",
+      "power_combo": "Douceur + Pouvoir",
+      "work_dynamics": {
+        "2_brings": "Relations humaines, diplomatie",
+        "8_brings": "Autorité, ambition, résultats"
+      },
+      "superpower": "Réussir avec élégance et respect",
+      "conflict_trigger": "Le 8 écrase — le 2 se sacrifie",
+      "work_hack": "Le 8 doit valoriser le 2 publiquement"
+    },
+    "2-9": {
+      "duo_name": "L'Empathique & L'Humanitaire",
+      "power_combo": "Soin + Vision universelle",
+      "work_dynamics": {
+        "2_brings": "Attention individuelle, soutien",
+        "9_brings": "Vision globale, générosité"
+      },
+      "superpower": "Servir avec cœur et sagesse",
+      "conflict_trigger": "Manque de frontières émotionnelles",
+      "work_hack": "Prioriser les projets réalistes"
+    },
+    "2-11": {
+      "duo_name": "Le Sensitif & Le Visionnaire",
+      "power_combo": "Intuition + Inspiration",
+      "work_dynamics": {
+        "2_brings": "Réceptivité, connexion",
+        "11_brings": "Idées révolutionnaires, guidance"
+      },
+      "superpower": "Capter et manifester l'invisible",
+      "conflict_trigger": "Hypersensibilité, surcharge énergétique",
+      "work_hack": "Protection énergétique et pauses régulières"
+    },
+    "2-22": {
+      "duo_name": "Le Collaborateur & L'Architecte Mondial",
+      "power_combo": "Soutien + Grande vision",
+      "work_dynamics": {
+        "2_brings": "Facilitation, équilibre",
+        "22_brings": "Grands projets, impact massif"
+      },
+      "superpower": "Réaliser l'impossible avec grâce",
+      "conflict_trigger": "Le 22 surcharge — le 2 s'épuise",
+      "work_hack": "Respecter les limites du 2"
+    },
+    "2-33": {
+      "duo_name": "Le Protecteur & Le Maître Enseignant",
+      "power_combo": "Harmonie + Élévation",
+      "work_dynamics": {
+        "2_brings": "Soutien silencieux, cohésion",
+        "33_brings": "Enseignement, guérison collective"
+      },
+      "superpower": "Transformer et inspirer en douceur",
+      "conflict_trigger": "Donner jusqu'à l'épuisement",
+      "work_hack": "Se remplir avant de donner"
+    },
+  
+    "3-3": {
+      "duo_name": "Les Stars",
+      "power_combo": "Créativité ×2 = Feu d'artifice",
+      "work_dynamics": {
+        "3_brings": "Expression, joie, communication",
+        "3_brings_other": "Créativité, optimisme, séduction"
+      },
+      "superpower": "Illuminer et captiver n'importe quel projet",
+      "conflict_trigger": "Compétition pour briller",
+      "work_hack": "Scènes séparées ou co-animation"
+    },
+    "3-4": {
+      "duo_name": "L'Artiste & L'Ingénieur",
+      "power_combo": "Inspiration + Exécution",
+      "work_dynamics": {
+        "3_brings": "Idées, communication, vision",
+        "4_brings": "Planification, rigueur, réalisation"
+      },
+      "superpower": "Des projets créatifs qui aboutissent",
+      "conflict_trigger": "Le 3 improvise — le 4 a besoin de cadre",
+      "work_hack": "Timeline flexible avec checkpoints"
+    },
+    "3-5": {
+      "duo_name": "Les Aventuriers Créatifs",
+      "power_combo": "Expression + Liberté",
+      "work_dynamics": {
+        "3_brings": "Communication, charme, storytelling",
+        "5_brings": "Exploration, diversité, adaptabilité"
+      },
+      "superpower": "Innovation constante et viralité",
+      "conflict_trigger": "Trop de projets, peu de finalisation",
+      "work_hack": "Choisir 3 priorités max"
+    },
+    "3-6": {
+      "duo_name": "Le Créateur & Le Nourricier",
+      "power_combo": "Beauté + Service",
+      "work_dynamics": {
+        "3_brings": "Esthétique, inspiration, joie",
+        "6_brings": "Qualité, soin, responsabilité"
+      },
+      "superpower": "Créer en servant vraiment",
+      "conflict_trigger": "Le 3 papillonne — le 6 veut de l'engagement",
+      "work_hack": "Projets alignés sur des valeurs communes"
+    },
+    "3-7": {
+      "duo_name": "L'Entertainer & Le Philosophe",
+      "power_combo": "Surface brillante + Profondeur",
+      "work_dynamics": {
+        "3_brings": "Communication, légèreté, réseau",
+        "7_brings": "Analyse, substance, mystère"
+      },
+      "superpower": "Rendre le complexe accessible et captivant",
+      "conflict_trigger": "Le 7 trouve le 3 superficiel",
+      "work_hack": "Le 3 vulgarise l'expertise du 7"
+    },
+    "3-8": {
+      "duo_name": "L'Influenceur & Le Mogul",
+      "power_combo": "Visibilité + Pouvoir",
+      "work_dynamics": {
+        "3_brings": "Marketing, storytelling, charisma",
+        "8_brings": "Stratégie, autorité, scaling"
+      },
+      "superpower": "Bâtir des empires médiatiques",
+      "conflict_trigger": "Ego, manipulation, excès",
+      "work_hack": "Authenticité et éthique"
+    },
+    "3-9": {
+      "duo_name": "Le Messager & Le Sage",
+      "power_combo": "Expression + Sagesse",
+      "work_dynamics": {
+        "3_brings": "Communication accessible, optimisme",
+        "9_brings": "Vision universelle, compassion"
+      },
+      "superpower": "Transmettre des messages qui changent le monde",
+      "conflict_trigger": "Le 9 s'oublie — le 3 surbrille",
+      "work_hack": "Partager la lumière équitablement"
+    },
+    "3-11": {
+      "duo_name": "Le Communicant & L'Illuminé",
+      "power_combo": "Parole + Vision spirituelle",
+      "work_dynamics": {
+        "3_brings": "Expression claire, impact social",
+        "11_brings": "Intuition, inspiration élevée"
+      },
+      "superpower": "Incarner et diffuser la lumière",
+      "conflict_trigger": "Le 11 trop dans la tête — le 3 trop léger",
+      "work_hack": "Ancrer la vision avec humour"
+    },
+    "3-22": {
+      "duo_name": "Le Créatif & Le Maître d'Œuvre",
+      "power_combo": "Communication + Réalisation majeure",
+      "work_dynamics": {
+        "3_brings": "Marketing, narration, rayonnement",
+        "22_brings": "Infrastructure, grandes ambitions"
+      },
+      "superpower": "Construire des marques monumentales",
+      "conflict_trigger": "Le 3 disperse — le 22 contrôle tout",
+      "work_hack": "Campagnes structurées avec créativité"
+    },
+    "3-33": {
+      "duo_name": "L'Artiste & Le Guérisseur",
+      "power_combo": "Joie + Compassion",
+      "work_dynamics": {
+        "3_brings": "Légèreté, inspiration, connexion",
+        "33_brings": "Enseignement, soin, élévation"
+      },
+      "superpower": "Transformer par la beauté et l'amour",
+      "conflict_trigger": "Superficialité vs profondeur",
+      "work_hack": "Créer avec intention sacrée"
+    },
+  
+    "4-4": {
+      "duo_name": "Les Forteresses",
+      "power_combo": "Stabilité ×2 = Inébranlable",
+      "work_dynamics": {
+        "4_brings": "Discipline, fiabilité, méthode",
+        "4_brings_other": "Structure, endurance, loyauté"
+      },
+      "superpower": "Bâtir pour l'éternité",
+      "conflict_trigger": "Rigidité, résistance au changement",
+      "work_hack": "Programmer des révisions trimestrielles"
+    },
+    "4-5": {
+      "duo_name": "Le Fondateur & Le Pionnier",
+      "power_combo": "Stabilité + Innovation",
+      "work_dynamics": {
+        "4_brings": "Base solide, organisation, processus",
+        "5_brings": "Agilité, nouveauté, opportunités"
+      },
+      "superpower": "Évoluer sans perdre les acquis",
+      "conflict_trigger": "Le 4 résiste — le 5 change tout",
+      "work_hack": "Innovation progressive et testée"
+    },
+    "4-6": {
+      "duo_name": "Le Constructeur & Le Gardien",
+      "power_combo": "Structure + Soin",
+      "work_dynamics": {
+        "4_brings": "Organisation, systèmes, rigueur",
+        "6_brings": "Valeurs, qualité, harmonie"
+      },
+      "superpower": "Créer des fondations durables et humaines",
+      "conflict_trigger": "Perfectionnisme paralysant",
+      "work_hack": "Définir 'assez bien' vs 'parfait'"
+    },
+    "4-7": {
+      "duo_name": "L'Architecte & Le Chercheur",
+      "power_combo": "Méthode + Analyse",
+      "work_dynamics": {
+        "4_brings": "Exécution, praticité, constance",
+        "7_brings": "Recherche, expertise, innovation"
+      },
+      "superpower": "Excellence technique et intellectuelle",
+      "conflict_trigger": "Lenteur excessive, sur-analyse",
+      "work_hack": "Deadlines avec marge de qualité"
+    },
+    "4-8": {
+      "duo_name": "Les Bâtisseurs d'Empire",
+      "power_combo": "Fondation + Expansion",
+      "work_dynamics": {
+        "4_brings": "Systèmes solides, discipline",
+        "8_brings": "Vision commerciale, croissance"
+      },
+      "superpower": "Scalabilité avec solidité",
+      "conflict_trigger": "Le 8 veut aller trop vite pour le 4",
+      "work_hack": "Croissance par étapes validées"
+    },
+    "4-9": {
+      "duo_name": "Le Pragmatique & L'Idéaliste",
+      "power_combo": "Réalisation + Vision humaniste",
+      "work_dynamics": {
+        "4_brings": "Concrétisation, gestion, fiabilité",
+        "9_brings": "Mission sociale, inspiration globale"
+      },
+      "superpower": "Projets qui servent vraiment",
+      "conflict_trigger": "Le 4 veut des résultats — le 9 des idéaux",
+      "work_hack": "KPIs incluant l'impact humain"
+    },
+    "4-11": {
+      "duo_name": "Le Réalisateur & Le Visionnaire",
+      "power_combo": "Ancrage + Inspiration",
+      "work_dynamics": {
+        "4_brings": "Matérialisation, processus, sécurité",
+        "11_brings": "Intuition, innovation, élévation"
+      },
+      "superpower": "Manifester la magie dans le réel",
+      "conflict_trigger": "Le 11 frustré par la lenteur du 4",
+      "work_hack": "Phases d'inspiration + phases d'action"
+    },
+    "4-22": {
+      "duo_name": "Les Titans de la Construction",
+      "power_combo": "Fondation + Vision monumentale",
+      "work_dynamics": {
+        "4_brings": "Discipline quotidienne, détails",
+        "22_brings": "Grands projets, impact mondial"
+      },
+      "superpower": "Réaliser l'exceptionnel",
+      "conflict_trigger": "Pression immense, surmenage",
+      "work_hack": "Rythme soutenable + délégation"
+    },
+    "4-33": {
+      "duo_name": "Le Bâtisseur & L'Enseignant",
+      "power_combo": "Structure + Service",
+      "work_dynamics": {
+        "4_brings": "Organisation, systèmes durables",
+        "33_brings": "Transmission, soin, élévation"
+      },
+      "superpower": "Créer des institutions qui transforment",
+      "conflict_trigger": "Le 4 limite — le 33 veut tout donner",
+      "work_hack": "Systèmes qui permettent de servir sans s'épuiser"
+    },
+  
+    "5-5": {
+      "duo_name": "Les Électrons Libres",
+      "power_combo": "Liberté ×2 = Chaos créatif",
+      "work_dynamics": {
+        "5_brings": "Adaptabilité, curiosité, mouvement",
+        "5_brings_other": "Innovation, communication, opportunisme"
+      },
+      "superpower": "Saisir toutes les opportunités",
+      "conflict_trigger": "Aucune ancre, trop de dispersion",
+      "work_hack": "Un point fixe hebdomadaire obligatoire"
+    },
+    "5-6": {
+      "duo_name": "L'Aventurier & Le Gardien du Foyer",
+      "power_combo": "Liberté + Stabilité",
+      "work_dynamics": {
+        "5_brings": "Exploration, diversité, énergie",
+        "6_brings": "Responsabilité, harmonie, engagement"
+      },
+      "superpower": "Innover en préservant l'essentiel",
+      "conflict_trigger": "Le 5 fuit — le 6 s'accroche",
+      "work_hack": "Liberté dans un cadre défini"
+    },
+    "5-7": {
+      "duo_name": "L'Explorateur & L'Analyste",
+      "power_combo": "Expérience + Compréhension",
+      "work_dynamics": {
+        "5_brings": "Terrain, tests, vitesse",
+        "7_brings": "Recherche, profondeur, stratégie"
+      },
+      "superpower": "Comprendre en expérimentant",
+      "conflict_trigger": "Le 5 agit trop vite — le 7 réfléchit trop",
+      "work_hack": "Sprints d'action + phases d'analyse"
+    },
+    "5-8": {
+      "duo_name": "Le Libérateur & Le Conquérant",
+      "power_combo": "Mouvement + Pouvoir",
+      "work_dynamics": {
+        "5_brings": "Adaptabilité, opportunités, communication",
+        "8_brings": "Ambition, contrôle, résultats"
+      },
+      "superpower": "Croissance rapide et conquête de marchés",
+      "conflict_trigger": "Le 8 veut contrôler — le 5 veut s'échapper",
+      "work_hack": "Autonomie avec objectifs clairs"
+    },
+    "5-9": {
+      "duo_name": "Le Nomade & L'Universaliste",
+      "power_combo": "Diversité + Inclusion",
+      "work_dynamics": {
+        "5_brings": "Découverte, connexions multiples",
+        "9_brings": "Sagesse, vision globale, générosité"
+      },
+      "superpower": "Comprendre et relier les cultures",
+      "conflict_trigger": "Manque d'ancrage et de focus",
+      "work_hack": "Mission claire avec liberté d'exécution"
+    },
+    "5-11": {
+      "duo_name": "Le Messager & Le Canal",
+      "power_combo": "Communication + Intuition",
+      "work_dynamics": {
+        "5_brings": "Réseautage, diffusion, versatilité",
+        "11_brings": "Inspiration, vision, guidance"
+      },
+      "superpower": "Transmettre l'innovation spirituelle",
+      "conflict_trigger": "Surcharge sensorielle, éparpillement",
+      "work_hack": "Méditation quotidienne et priorisation"
+    },
+    "5-22": {
+      "duo_name": "L'Adaptateur & Le Mastermind",
+      "power_combo": "Agilité + Vision massive",
+      "work_dynamics": {
+        "5_brings": "Flexibilité, opportunités, réseau",
+        "22_brings": "Grands projets, structure globale"
+      },
+      "superpower": "Pivots stratégiques à grande échelle",
+      "conflict_trigger": "Le 5 change trop — le 22 a un plan géant",
+      "work_hack": "Vision fixe, tactiques variables"
+    },
+    "5-33": {
+      "duo_name": "Le Voyageur & Le Maître",
+      "power_combo": "Exploration + Enseignement",
+      "work_dynamics": {
+        "5_brings": "Expériences diverses, connexions",
+        "33_brings": "Sagesse, transmission, guérison"
+      },
+      "superpower": "Apprendre et enseigner en mouvement",
+      "conflict_trigger": "Le 5 ne s'engage pas assez profondément",
+      "work_hack": "Missions courtes mais intenses"
+    },
+  
+    "6-6": {
+      "duo_name": "Les Protecteurs",
+      "power_combo": "Service ×2 = Dévouement total",
+      "work_dynamics": {
+        "6_brings": "Responsabilité, éthique, harmonie",
+        "6_brings_other": "Soin, loyauté, perfectionnisme"
+      },
+      "superpower": "Créer un environnement idéal",
+      "conflict_trigger": "Sacrifice de soi, épuisement",
+      "work_hack": "S'autoriser à recevoir et à refuser"
+    },
+    "6-7": {
+      "duo_name": "Le Nourricier & L'Ermite",
+      "power_combo": "Soin + Sagesse",
+      "work_dynamics": {
+        "6_brings": "Présence, chaleur, engagement",
+        "7_brings": "Recul, analyse, expertise"
+      },
+      "superpower": "Soigner avec intelligence et profondeur",
+      "conflict_trigger": "Le 6 étouffe — le 7 se retire",
+      "work_hack": "Respecter les besoins de solitude"
+    },
+    "6-8": {
+      "duo_name": "Le Serviteur & Le Souverain",
+      "power_combo": "Soin + Autorité",
+      "work_dynamics": {
+        "6_brings": "Qualité humaine, valeurs, cohésion",
+        "8_brings": "Leadership, stratégie, résultats"
+      },
+      "superpower": "Puissance avec humanité",
+      "conflict_trigger": "Le 8 domine — le 6 se soumet ou résiste",
+      "work_hack": "Décisions partagées sur les valeurs"
+    },
+    "6-9": {
+      "duo_name": "Les Bienfaiteurs",
+      "power_combo": "Service + Vision humanitaire",
+      "work_dynamics": {
+        "6_brings": "Responsabilité concrète, soin quotidien",
+        "9_brings": "Vision universelle, détachement sage"
+      },
+      "superpower": "Servir avec cœur et sagesse",
+      "conflict_trigger": "Donner sans limites, martyre",
+      "work_hack": "Définir des frontières saines"
+    },
+    "6-11": {
+      "duo_name": "Le Protecteur & L'Inspiré",
+      "power_combo": "Soin + Illumination",
+      "work_dynamics": {
+        "6_brings": "Stabilité, présence, responsabilité",
+        "11_brings": "Vision spirituelle, innovation"
+      },
+      "superpower": "Créer des espaces sacrés et fonctionnels",
+      "conflict_trigger": "Le 11 trop idéaliste — le 6 trop pratique",
+      "work_hack": "Ancrer la vision avec soin"
+    },
+    "6-22": {
+      "duo_name": "Le Gardien & Le Bâtisseur Mondial",
+      "power_combo": "Qualité + Impact massif",
+      "work_dynamics": {
+        "6_brings": "Excellence, éthique, harmonie",
+        "22_brings": "Grands projets, infrastructure"
+      },
+      "superpower": "Construire grand sans perdre l'humain",
+      "conflict_trigger": "Le 22 sacrifie la qualité pour la vitesse",
+      "work_hack": "Standards non négociables + ambition"
+    },
+    "6-33": {
+      "duo_name": "Les Guérisseurs",
+      "power_combo": "Soin ×2 = Transformation profonde",
+      "work_dynamics": {
+        "6_brings": "Responsabilité, présence, perfection",
+        "33_brings": "Enseignement, compassion, élévation"
+      },
+      "superpower": "Transformer par l'amour inconditionnel",
+      "conflict_trigger": "Porter le monde sur leurs épaules",
+      "work_hack": "Accepter l'imperfection et déléguer"
+    },
+  
+    "7-7": {
+      "duo_name": "Les Sages",
+      "power_combo": "Connaissance ×2 = Profondeur infinie",
+      "work_dynamics": {
+        "7_brings": "Analyse, intuition, recherche",
+        "7_brings_other": "Expertise, solitude productive, mystère"
+      },
+      "superpower": "Découvertes révolutionnaires",
+      "conflict_trigger": "Isolation excessive, paralysie par analyse",
+      "work_hack": "Deadlines externes et collaboration forcée"
+    },
+    "7-8": {
+      "duo_name": "Le Stratège & L'Exécutant",
+      "power_combo": "Intelligence + Pouvoir",
+      "work_dynamics": {
+        "7_brings": "Analyse stratégique, vision long terme",
+        "8_brings": "Exécution, autorité, scaling"
+      },
+      "superpower": "Domination intelligente du marché",
+      "conflict_trigger": "Le 7 sur-analyse — le 8 sur-agit",
+      "work_hack": "Phases distinctes : stratégie puis action"
+    },
+    "7-9": {
+      "duo_name": "Le Philosophe & L'Humaniste",
+      "power_combo": "Sagesse + Compassion",
+      "work_dynamics": {
+        "7_brings": "Compréhension profonde, recherche",
+        "9_brings": "Vision universelle, service"
+      },
+      "superpower": "Élever la conscience collective",
+      "conflict_trigger": "Déconnexion du monde matériel",
+      "work_hack": "Projets concrets avec impact mesurable"
+    },
+    "7-11": {
+      "duo_name": "Le Mystique & Le Visionnaire",
+      "power_combo": "Connaissance + Intuition divine",
+      "work_dynamics": {
+        "7_brings": "Recherche, analyse spirituelle",
+        "11_brings": "Channeling, inspiration élevée"
+      },
+      "superpower": "Accéder à la connaissance universelle",
+      "conflict_trigger": "Trop dans l'éther, déconnexion",
+      "work_hack": "Ancrage quotidien et action concrète"
+    },
+    "7-22": {
+      "duo_name": "Le Penseur & L'Architecte Universel",
+      "power_combo": "Stratégie + Réalisation mondiale",
+      "work_dynamics": {
+        "7_brings": "Intelligence, recherche, innovation",
+        "22_brings": "Vision massive, infrastructure"
+      },
+      "superpower": "Systèmes révolutionnaires à grande échelle",
+      "conflict_trigger": "Le 7 perfectionniste ralentit le 22",
+      "work_hack": "Excellence dans l'exécution, pas la préparation"
+    },
+    "7-33": {
+      "duo_name": "Le Sage & Le Maître Enseignant",
+      "power_combo": "Connaissance + Transmission sacrée",
+      "work_dynamics": {
+        "7_brings": "Expertise profonde, mystère",
+        "33_brings": "Pédagogie, compassion, guérison"
+      },
+      "superpower": "Enseigner la sagesse universelle",
+      "conflict_trigger": "Isolement vs besoin de connexion",
+      "work_hack": "Enseigner pour rester connecté"
+    },
+  
+    "8-8": {
+      "duo_name": "Les Empires",
+      "power_combo": "Pouvoir ×2 = Domination absolue",
+      "work_dynamics": {
+        "8_brings": "Ambition, autorité, stratégie",
+        "8_brings_other": "Résultats, contrôle, expansion"
+      },
+      "superpower": "Bâtir des dynasties",
+      "conflict_trigger": "Lutte de pouvoir, écrasement mutuel",
+      "work_hack": "Co-leadership avec domaines distincts"
+    },
+    "8-9": {
+      "duo_name": "Le Magnat & Le Philanthrope",
+      "power_combo": "Pouvoir + Générosité",
+      "work_dynamics": {
+        "8_brings": "Capacité de réalisation, autorité",
+        "9_brings": "Vision humanitaire, détachement"
+      },
+      "superpower": "Impact massif au service du bien",
+      "conflict_trigger": "Ego vs altruisme, profit vs mission",
+      "work_hack": "Modèle économique à impact positif"
+    },
+    "8-11": {
+      "duo_name": "Le Conquérant & L'Inspiré",
+      "power_combo": "Matériel + Spirituel",
+      "work_dynamics": {
+        "8_brings": "Pouvoir matériel, stratégie commerciale",
+        "11_brings": "Vision inspirée, innovation"
+      },
+      "superpower": "Manifester la vision à grande échelle",
+      "conflict_trigger": "Le 8 écrase la sensibilité du 11",
+      "work_hack": "Le 8 protège et finance la vision du 11"
+    },
+    "8-22": {
+      "duo_name": "Les Maîtres du Monde",
+      "power_combo": "Pouvoir + Vision monumentale",
+      "work_dynamics": {
+        "8_brings": "Leadership, finances, expansion",
+        "22_brings": "Grands projets, impact global"
+      },
+      "superpower": "Changer le monde concrètement",
+      "conflict_trigger": "Pression extrême, burnout collectif",
+      "work_hack": "Équilibre vie-travail strict"
+    },
+    "8-33": {
+      "duo_name": "Le Dirigeant & Le Guide Spirituel",
+      "power_combo": "Autorité + Compassion",
+      "work_dynamics": {
+        "8_brings": "Pouvoir, organisation, résultats",
+        "33_brings": "Enseignement, soin, élévation"
+      },
+      "superpower": "Leadership éclairé et transformateur",
+      "conflict_trigger": "Profit vs service, contrôle vs don",
+      "work_hack": "Entreprise sociale avec impact réel"
+    },
+  
+    "9-9": {
+      "duo_name": "Les Universalistes",
+      "power_combo": "Sagesse ×2 = Vision cosmique",
+      "work_dynamics": {
+        "9_brings": "Compassion, détachement, service",
+        "9_brings_other": "Vision globale, générosité, fin de cycle"
+      },
+      "superpower": "Transformer le monde par l'amour",
+      "conflict_trigger": "Idéalisme paralysant, martyre",
+      "work_hack": "Actions concrètes mesurables"
+    },
+    "9-11": {
+      "duo_name": "Le Sage & L'Illuminé",
+      "power_combo": "Sagesse + Inspiration divine",
+      "work_dynamics": {
+        "9_brings": "Expérience universelle, compassion",
+        "11_brings": "Vision spirituelle, intuition"
+      },
+      "superpower": "Élever la conscience planétaire",
+      "conflict_trigger": "Trop éthéré, manque d'ancrage",
+      "work_hack": "Projets incarnés avec résultats tangibles"
+    },
+    "9-22": {
+      "duo_name": "L'Humanitaire & Le Bâtisseur Mondial",
+      "power_combo": "Vision + Réalisation globale",
+      "work_dynamics": {
+        "9_brings": "Mission universelle, inspiration",
+        "22_brings": "Infrastructure, concrétisation massive"
+      },
+      "superpower": "Changer le monde à grande échelle",
+      "conflict_trigger": "Idéalisme vs pragmatisme",
+      "work_hack": "Vision idéale + étapes réalistes"
+    },
+    "9-33": {
+      "duo_name": "Les Maîtres Spirituels",
+      "power_combo": "Sagesse + Enseignement sacré",
+      "work_dynamics": {
+        "9_brings": "Détachement, vision universelle",
+        "33_brings": "Compassion active, guérison"
+      },
+      "superpower": "Transformation spirituelle collective",
+      "conflict_trigger": "Épuisement par sur-don",
+      "work_hack": "Se ressourcer pour mieux servir"
+    },
+  
+    "11-11": {
+      "duo_name": "Les Prophètes",
+      "power_combo": "Inspiration ×2 = Révolution spirituelle",
+      "work_dynamics": {
+        "11_brings": "Intuition, vision, innovation",
+        "11_brings_other": "Sensibilité, guidance, illumination"
+      },
+      "superpower": "Créer l'avenir inspiré",
+      "conflict_trigger": "Hypersensibilité, surcharge énergétique",
+      "work_hack": "Ancrage quotidien et protection énergétique"
+    },
+    "11-22": {
+      "duo_name": "Le Visionnaire & Le Matérialisateur",
+      "power_combo": "Inspiration + Manifestation massive",
+      "work_dynamics": {
+        "11_brings": "Vision spirituelle, intuition",
+        "22_brings": "Capacité de réalisation monumentale"
+      },
+      "superpower": "Manifester des miracles à grande échelle",
+      "conflict_trigger": "Le 11 dans les nuages — le 22 dans la pression",
+      "work_hack": "Phases distinctes : inspiration puis construction"
+    },
+    "11-33": {
+      "duo_name": "Les Guides de Lumière",
+      "power_combo": "Vision + Compassion divine",
+      "work_dynamics": {
+        "11_brings": "Intuition élevée, innovation spirituelle",
+        "33_brings": "Enseignement, guérison, amour inconditionnel"
+      },
+      "superpower": "Élever et guérir par la lumière",
+      "conflict_trigger": "Porter trop de poids émotionnel",
+      "work_hack": "Rituel de protection et de recharge énergétique"
+    },
+  
+    "22-22": {
+      "duo_name": "Les Architectes du Nouveau Monde",
+      "power_combo": "Vision monumentale ×2 = Impact historique",
+      "work_dynamics": {
+        "22_brings": "Grands projets, infrastructure mondiale",
+        "22_brings_other": "Maîtrise, organisation massive, héritage"
+      },
+      "superpower": "Bâtir l'impossible",
+      "conflict_trigger": "Pression écrasante, perfectionnisme paralysant",
+      "work_hack": "Accepter l'imperfection, déléguer massivement"
+    },
+    "22-33": {
+      "duo_name": "Le Bâtisseur & Le Guérisseur Mondial",
+      "power_combo": "Infrastructure + Service universel",
+      "work_dynamics": {
+        "22_brings": "Réalisation de grands projets",
+        "33_brings": "Mission de soin et d'enseignement"
+      },
+      "superpower": "Créer des systèmes qui soignent l'humanité",
+      "conflict_trigger": "Épuisement, porter le monde",
+      "work_hack": "Équipe solide et temps de récupération sacrés"
+    },
+  
+    "33-33": {
+      "duo_name": "Les Maîtres Enseignants",
+      "power_combo": "Compassion ×2 = Amour universel",
+      "work_dynamics": {
+        "33_brings": "Enseignement sacré, guérison, service",
+        "33_brings_other": "Compassion infinie, sacrifice éclairé"
+      },
+      "superpower": "Transformer par l'amour inconditionnel",
+      "conflict_trigger": "Donner jusqu'à la dissolution de soi",
+      "work_hack": "S'aimer soi-même pour aimer les autres"
+    }
+  }

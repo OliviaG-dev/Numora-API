@@ -1,0 +1,156 @@
+{
+  "kether_chokhmah": {
+    "name": "Kether ↔ Chokhmah",
+    "title": "Mission Divine et Sagesse Créative",
+    "description": "Ce chemin relie ta mission de vie (Kether) à ton inspiration créative (Chokhmah). C'est la connexion entre ton but suprême et ta capacité à recevoir la sagesse divine.",
+    "arcana": "La Papesse",
+    "pillar": "mercy"
+  },
+  "kether_binah": {
+    "name": "Kether ↔ Binah",
+    "title": "Mission Divine et Intelligence Structurante",
+    "description": "Ce chemin relie ta mission de vie (Kether) à ta compréhension profonde (Binah). C'est la connexion entre ton but et ta capacité à structurer la sagesse.",
+    "arcana": "L'Impératrice",
+    "pillar": "severity"
+  },
+  "kether_tipheret": {
+    "name": "Kether ↔ Tipheret",
+    "title": "Mission Divine et Cœur",
+    "description": "Ce chemin relie ta mission de vie (Kether) à ton cœur (Tipheret). C'est l'alignement entre ton but suprême et ton amour authentique.",
+    "arcana": "L'Empereur",
+    "pillar": "equilibrium"
+  },
+  "binah_chokhmah": {
+    "name": "Chokhmah ↔ Binah",
+    "title": "Sagesse et Intelligence",
+    "description": "Ce chemin unit ton inspiration créative (Chokhmah) et ta structure mentale (Binah). C'est l'équilibre entre la vision et la compréhension.",
+    "arcana": "Le Bateleur",
+    "pillar": "horizontal"
+  },
+  "chesed_chokhmah": {
+    "name": "Chokhmah ↔ Chesed",
+    "title": "Sagesse et Générosité",
+    "description": "Ce chemin relie ton inspiration créative (Chokhmah) à ton amour expansif (Chesed). C'est la sagesse qui nourrit la générosité.",
+    "arcana": "Le Chariot",
+    "pillar": "mercy"
+  },
+  "chokhmah_tipheret": {
+    "name": "Chokhmah ↔ Tipheret",
+    "title": "Sagesse et Harmonie",
+    "description": "Ce chemin unit ton inspiration (Chokhmah) à ton cœur (Tipheret). C'est la sagesse qui s'harmonise avec l'amour.",
+    "arcana": "Le Pape",
+    "pillar": "diagonal"
+  },
+  "binah_gevurah": {
+    "name": "Binah ↔ Gevurah",
+    "title": "Intelligence et Rigueur",
+    "description": "Ce chemin relie ta compréhension profonde (Binah) à ta discipline (Gevurah). C'est l'intelligence qui structure la force.",
+    "arcana": "La Justice",
+    "pillar": "severity"
+  },
+  "binah_tipheret": {
+    "name": "Binah ↔ Tipheret",
+    "title": "Intelligence et Cœur",
+    "description": "Ce chemin unit ta structure mentale (Binah) à ton cœur (Tipheret). C'est la compréhension qui nourrit l'amour.",
+    "arcana": "L'Hermite",
+    "pillar": "diagonal"
+  },
+  "chesed_gevurah": {
+    "name": "Chesed ↔ Gevurah",
+    "title": "Générosité et Rigueur",
+    "description": "Ce chemin relie ta générosité (Chesed) à ta discipline (Gevurah). C'est l'équilibre sacré entre donner et protéger.",
+    "arcana": "L'Amoureux",
+    "pillar": "horizontal"
+  },
+  "chesed_netzach": {
+    "name": "Chesed ↔ Netzach",
+    "title": "Générosité et Passion",
+    "description": "Ce chemin unit ton amour expansif (Chesed) à ta passion (Netzach). C'est la générosité qui alimente la victoire émotionnelle.",
+    "arcana": "La Roue de Fortune",
+    "pillar": "mercy"
+  },
+  "chesed_tipheret": {
+    "name": "Chesed ↔ Tipheret",
+    "title": "Générosité et Harmonie",
+    "description": "Ce chemin relie ta générosité (Chesed) à ton cœur (Tipheret). C'est l'amour expansif qui trouve l'équilibre.",
+    "arcana": "Le Pendu",
+    "pillar": "diagonal"
+  },
+  "gevurah_hod": {
+    "name": "Gevurah ↔ Hod",
+    "title": "Rigueur et Communication",
+    "description": "Ce chemin unit ta discipline (Gevurah) à ta raison (Hod). C'est la rigueur qui structure la pensée et la parole.",
+    "arcana": "La Force",
+    "pillar": "severity"
+  },
+  "gevurah_tipheret": {
+    "name": "Gevurah ↔ Tipheret",
+    "title": "Rigueur et Cœur",
+    "description": "Ce chemin relie ta discipline (Gevurah) à ton cœur (Tipheret). C'est la force qui s'adoucit par l'amour.",
+    "arcana": "Tempérance",
+    "pillar": "diagonal"
+  },
+  "tipheret_yesod": {
+    "name": "Tipheret ↔ Yesod",
+    "title": "Cœur et Subconscient",
+    "description": "Ce chemin unit ton cœur (Tipheret) à ton âme profonde (Yesod). C'est l'harmonie qui transforme l'inconscient.",
+    "arcana": "La Mort",
+    "pillar": "equilibrium"
+  },
+  "netzach_tipheret": {
+    "name": "Tipheret ↔ Netzach",
+    "title": "Cœur et Passion",
+    "description": "Ce chemin relie ton cœur (Tipheret) à ta passion (Netzach). C'est l'amour qui enflamme la motivation.",
+    "arcana": "La Maison Dieu",
+    "pillar": "diagonal"
+  },
+  "hod_tipheret": {
+    "name": "Tipheret ↔ Hod",
+    "title": "Cœur et Raison",
+    "description": "Ce chemin unit ton cœur (Tipheret) à ta raison (Hod). C'est l'harmonie entre l'amour et la logique.",
+    "arcana": "L'Étoile",
+    "pillar": "diagonal"
+  },
+  "hod_netzach": {
+    "name": "Netzach ↔ Hod",
+    "title": "Passion et Raison",
+    "description": "Ce chemin relie ta passion (Netzach) à ta raison (Hod). C'est l'équilibre entre l'émotion et la logique.",
+    "arcana": "Le Diable",
+    "pillar": "horizontal"
+  },
+  "netzach_yesod": {
+    "name": "Netzach ↔ Yesod",
+    "title": "Passion et Fondation",
+    "description": "Ce chemin unit ta passion (Netzach) à ton subconscient (Yesod). C'est l'émotion qui nourrit l'âme profonde.",
+    "arcana": "La Lune",
+    "pillar": "mercy"
+  },
+  "malkuth_netzach": {
+    "name": "Netzach ↔ Malkuth",
+    "title": "Passion et Manifestation",
+    "description": "Ce chemin relie ta passion (Netzach) à ton incarnation (Malkuth). C'est l'émotion qui se concrétise dans la matière.",
+    "arcana": "Le Jugement",
+    "pillar": "diagonal"
+  },
+  "hod_yesod": {
+    "name": "Hod ↔ Yesod",
+    "title": "Raison et Subconscient",
+    "description": "Ce chemin unit ta raison (Hod) à ton inconscient (Yesod). C'est la pensée qui éclaire les profondeurs de l'âme.",
+    "arcana": "Le Soleil",
+    "pillar": "severity"
+  },
+  "hod_malkuth": {
+    "name": "Hod ↔ Malkuth",
+    "title": "Raison et Incarnation",
+    "description": "Ce chemin relie ta raison (Hod) à ta manifestation (Malkuth). C'est la pensée qui se matérialise en action.",
+    "arcana": "Le Mat",
+    "pillar": "diagonal"
+  },
+  "malkuth_yesod": {
+    "name": "Yesod ↔ Malkuth",
+    "title": "Fondation et Manifestation",
+    "description": "Ce chemin unit ton subconscient (Yesod) à ton incarnation (Malkuth). C'est le pont entre l'âme profonde et la réalité physique.",
+    "arcana": "Le Monde",
+    "pillar": "equilibrium"
+  }
+}

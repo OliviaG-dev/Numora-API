@@ -1,0 +1,74 @@
+{
+    "1": {
+      "summary": "Indépendance et innovation",
+      "mission": "Être pionnier, ouvrir de nouvelles voies et affirmer une identité forte.",
+      "strengths": ["leadership", "audace", "vision"],
+      "challenges": ["égocentrisme", "isolement", "impatience"]
+    },
+    "2": {
+      "summary": "Coopération et harmonie",
+      "mission": "Créer des alliances, bâtir sur la diplomatie et l’écoute.",
+      "strengths": ["partenariats", "collaboration", "équilibre"],
+      "challenges": ["dépendance", "manque de confiance", "hypersensibilité"]
+    },
+    "3": {
+      "summary": "Créativité et communication",
+      "mission": "Inspirer par les idées, l’art et la parole.",
+      "strengths": ["expressivité", "créativité", "sociabilité"],
+      "challenges": ["dispersion", "superficialité", "instabilité"]
+    },
+    "4": {
+      "summary": "Stabilité et structure",
+      "mission": "Construire des bases solides et durables.",
+      "strengths": ["organisation", "discipline", "fiabilité"],
+      "challenges": ["rigidité", "lenteur", "manque de souplesse"]
+    },
+    "5": {
+      "summary": "Changements et expansion",
+      "mission": "Explorer, innover et apporter du mouvement.",
+      "strengths": ["adaptabilité", "liberté", "dynamisme"],
+      "challenges": ["instabilité", "excès", "manque de suivi"]
+    },
+    "6": {
+      "summary": "Responsabilité et service",
+      "mission": "Apporter harmonie, soin et esthétisme dans la société.",
+      "strengths": ["empathie", "engagement", "sens esthétique"],
+      "challenges": ["contrôle excessif", "sacrifice de soi", "perfectionnisme"]
+    },
+    "7": {
+      "summary": "Savoir et introspection",
+      "mission": "Apporter expertise, connaissance et réflexion profonde.",
+      "strengths": ["analyse", "sagesse", "spiritualité"],
+      "challenges": ["isolement", "scepticisme", "détachement émotionnel"]
+    },
+    "8": {
+      "summary": "Pouvoir et réussite matérielle",
+      "mission": "Gérer, prospérer et bâtir dans le concret et l’abondance.",
+      "strengths": ["ambition", "gestion", "autorité"],
+      "challenges": ["abus de pouvoir", "matérialisme", "autoritarisme"]
+    },
+    "9": {
+      "summary": "Humanisme et vision universelle",
+      "mission": "Servir l’humanité, transmettre et inspirer par une grande vision.",
+      "strengths": ["altruisme", "compassion", "créativité universelle"],
+      "challenges": ["idéalisme excessif", "sacrifice", "difficulté à clôturer"]
+    },
+    "11": {
+      "summary": "Inspiration et vision",
+      "mission": "Élever les consciences, inspirer par des idéaux élevés et novateurs.",
+      "strengths": ["intuition", "créativité visionnaire", "charisme"],
+      "challenges": ["tension nerveuse", "doutes", "instabilité émotionnelle"]
+    },
+    "22": {
+      "summary": "Grand bâtisseur",
+      "mission": "Concrétiser des projets ambitieux pour la collectivité.",
+      "strengths": ["organisation magistrale", "persévérance", "impact collectif"],
+      "challenges": ["pression énorme", "difficulté à canaliser l’énergie", "risque d’échec massif"]
+    },
+    "33": {
+      "summary": "Service et rayonnement universel",
+      "mission": "Guider, enseigner et transmettre un idéal d’amour universel.",
+      "strengths": ["altruisme", "rayonnement", "pédagogie"],
+      "challenges": ["sacrifice excessif", "perte d’équilibre personnel", "dépendance affective"]
+    }
+  }

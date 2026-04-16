@@ -1,0 +1,74 @@
+{
+    "1": {
+      "summary": "Héritage d’indépendance",
+      "mission": "Transmettre une énergie de pionnier et de force individuelle.",
+      "strengths": ["audace", "leadership", "initiative"],
+      "challenges": ["isolement", "égocentrisme", "impatience"]
+    },
+    "2": {
+      "summary": "Héritage de coopération",
+      "mission": "Construire sur la base de la diplomatie, de l’entraide et des alliances.",
+      "strengths": ["écoute", "harmonie", "sensibilité"],
+      "challenges": ["dépendance", "indécision", "hypersensibilité"]
+    },
+    "3": {
+      "summary": "Héritage créatif",
+      "mission": "Transmettre une énergie d’expression, d’art et de communication.",
+      "strengths": ["sociabilité", "joie", "créativité"],
+      "challenges": ["superficialité", "instabilité", "manque de discipline"]
+    },
+    "4": {
+      "summary": "Héritage de structure",
+      "mission": "Fonder sur la rigueur, l’organisation et la discipline.",
+      "strengths": ["persévérance", "organisation", "fiabilité"],
+      "challenges": ["rigidité", "manque de vision", "routine"]
+    },
+    "5": {
+      "summary": "Héritage de liberté",
+      "mission": "Transmettre un esprit de mouvement, d’exploration et de changement.",
+      "strengths": ["audace", "souplesse", "modernité"],
+      "challenges": ["instabilité", "impatience", "énergie dispersée"]
+    },
+    "6": {
+      "summary": "Héritage de responsabilité",
+      "mission": "S’appuyer sur l’amour, l’équilibre et la responsabilité sociale.",
+      "strengths": ["harmonie", "soin", "beauté"],
+      "challenges": ["contrôle excessif", "perfectionnisme", "sacrifice"]
+    },
+    "7": {
+      "summary": "Héritage spirituel",
+      "mission": "Soutenir par l’analyse, la recherche et la quête de sens.",
+      "strengths": ["sagesse", "spiritualité", "réflexion"],
+      "challenges": ["isolement", "froideur", "scepticisme"]
+    },
+    "8": {
+      "summary": "Héritage de puissance",
+      "mission": "Transmettre une énergie de pouvoir, de réussite et d’abondance.",
+      "strengths": ["autorité", "gestion", "succès"],
+      "challenges": ["matérialisme", "abus de pouvoir", "dureté"]
+    },
+    "9": {
+      "summary": "Héritage humaniste",
+      "mission": "Fonder sur la générosité, l’altruisme et une vision universelle.",
+      "strengths": ["compassion", "vision", "créativité"],
+      "challenges": ["idéalisme", "instabilité", "sacrifice"]
+    },
+    "11": {
+      "summary": "Héritage inspirant",
+      "mission": "Soutenir par l’intuition, la vision et l’élévation spirituelle.",
+      "strengths": ["charisme", "intuition", "créativité"],
+      "challenges": ["instabilité", "nervosité", "doutes"]
+    },
+    "22": {
+      "summary": "Héritage de bâtisseur",
+      "mission": "Transmettre la capacité de matérialiser de grands projets.",
+      "strengths": ["solidité", "persévérance", "vision collective"],
+      "challenges": ["pression énorme", "blocages", "énergie mal utilisée"]
+    },
+    "33": {
+      "summary": "Héritage universel",
+      "mission": "Fonder sur l’amour inconditionnel, la pédagogie et le soin collectif.",
+      "strengths": ["rayonnement", "service", "guidance"],
+      "challenges": ["sacrifice personnel", "idéalisme excessif", "déséquilibre émotionnel"]
+    }
+  }

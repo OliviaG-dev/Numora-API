@@ -1,0 +1,100 @@
+{
+    "realisation_numbers": {
+        "1": {
+            "title": "L’Accomplisseur Indépendant",
+            "keywords": ["Leadership", "Autonomie", "Création", "Volonté"],
+            "description": "Le nombre de réalisation 1 parle d’un destin forgé par la volonté et le courage de s’affirmer. C’est l’appel à devenir un pionnier dans sa vie, à tracer son propre chemin sans attendre l’approbation d’autrui. Ceux qui portent cette vibration trouvent leur plein épanouissement lorsqu’ils osent agir, créer, diriger, et incarner la confiance en soi. Leur parcours est souvent jalonné de défis qui les poussent à se relever seuls, à trouver leur puissance intérieure et à croire profondément en leur vision. Le 1 apprend à transformer la solitude en force et l’ambition en moteur d’inspiration pour les autres.",
+            "strengths": "Indépendance, audace, créativité, capacité à diriger et innover.",
+            "challenges": "Impatience, orgueil, difficulté à déléguer ou à coopérer.",
+            "mission": "Apprendre à être un leader inspirant sans dominer, et à construire à partir de sa propre lumière intérieure."
+          },
+          "2": {
+            "title": "Le Réalisateur Harmonieux",
+            "keywords": ["Coopération", "Équilibre", "Écoute", "Diplomatie"],
+            "description": "Le 2 se réalise dans la douceur, la sensibilité et la recherche d’harmonie. Sa force réside dans l’art de rassembler, d’unir et d’apaiser. Ce nombre enseigne que la véritable réussite n’est pas dans la compétition, mais dans la collaboration et l’amour partagé. Le 2 trouve son accomplissement dans les relations sincères, la beauté des gestes simples et la paix intérieure. Il invite à écouter le rythme de la vie plutôt qu’à le forcer, à créer avec le cœur plutôt qu’avec l’ego. Cette énergie se manifeste souvent dans la médiation, l’art, ou les soins.",
+            "strengths": "Empathie, diplomatie, patience, douceur dans les échanges.",
+            "challenges": "Manque de confiance, peur du rejet, tendance à s’effacer pour les autres.",
+            "mission": "Apprendre à affirmer sa valeur tout en maintenant la paix, et à s’aimer autant qu’on aime les autres."
+          },
+          "3": {
+            "title": "Le Créateur Rayonnant",
+            "keywords": ["Expression", "Joie", "Communication", "Créativité"],
+            "description": "Le 3 est la vibration de la joie, de l’expression et de la création libre. Il se réalise lorsqu’il ose partager sa lumière et sa vision avec le monde. Derrière son rire et son énergie communicative se cache souvent un grand besoin d’être entendu et reconnu. Le 3 trouve son équilibre en transformant sa sensibilité en art, en mots, en musique ou en inspiration. Il vient apprendre à ne pas se perdre dans la superficialité ou la dispersion, mais à canaliser son feu créatif pour illuminer la vie des autres.",
+            "strengths": "Optimisme, charisme, imagination, aptitude à inspirer.",
+            "challenges": "Instabilité, peur du rejet, difficulté à concrétiser.",
+            "mission": "Utiliser sa créativité pour transmettre la joie, guérir par la parole ou l’art, et oser être soi pleinement."
+          },
+          "4": {
+            "title": "Le Bâtisseur Stable",
+            "keywords": ["Structure", "Patience", "Travail", "Responsabilité"],
+            "description": "Le 4 se réalise dans la construction, la fiabilité et la rigueur. Il incarne la stabilité, le concret et le sens du devoir. Son accomplissement passe par la matérialisation de ses projets et la création de bases solides pour lui et pour les autres. Le 4 enseigne que la véritable liberté vient de la discipline et de la persévérance. Même si son parcours peut sembler lent, chaque pas est une pierre sur le chemin de la maîtrise. Son plus grand cadeau est la sécurité qu’il apporte autour de lui.",
+            "strengths": "Fiabilité, endurance, sens pratique, constance.",
+            "challenges": "Rigidité, peur du changement, excès de contrôle.",
+            "mission": "Apprendre à faire confiance au processus de la vie et à bâtir avec foi plutôt qu’avec peur."
+          },
+          "5": {
+            "title": "L’Explorateur Libre",
+            "keywords": ["Liberté", "Aventure", "Changement", "Curiosité"],
+            "description": "Le 5 est la vibration du mouvement, de la curiosité et de la découverte. Sa réalisation passe par la liberté d’explorer, d’apprendre et de transformer. Il ne supporte pas les contraintes, car son âme est faite pour expérimenter la vie dans toutes ses couleurs. Le 5 trouve son accomplissement lorsqu’il transforme son besoin de nouveauté en un moteur de croissance personnelle, plutôt qu’en fuite. Il est là pour vivre intensément, inspirer les autres à oser l’inconnu et à faire de chaque changement une renaissance.",
+            "strengths": "Adaptabilité, charisme, énergie, ouverture d’esprit.",
+            "challenges": "Instabilité, dispersion, peur de l’engagement.",
+            "mission": "Apprendre à se sentir libre à l’intérieur, peu importe les circonstances extérieures."
+          },
+          "6": {
+            "title": "Le Guérisseur du Cœur",
+            "keywords": ["Amour", "Famille", "Responsabilité", "Harmonie"],
+            "description": "Le 6 se réalise en apportant amour, soutien et beauté dans le monde. Il est souvent celui sur qui les autres se reposent, le pilier émotionnel et spirituel. Sa voie est celle du cœur, du service et de l’équilibre entre donner et recevoir. Le 6 trouve son épanouissement lorsqu’il apprend à aimer sans se sacrifier, à prendre soin des autres sans s’oublier. Il transforme la maison, le couple et la communauté en espaces de paix et d’harmonie.",
+            "strengths": "Bienveillance, loyauté, sens du service, intuition affective.",
+            "challenges": "Besoin de contrôle affectif, culpabilité, perfectionnisme.",
+            "mission": "Apprendre à aimer librement, sans attente, et à se guérir en guérissant les autres."
+          },
+          "7": {
+            "title": "Le Chercheur Spirituel",
+            "keywords": ["Connaissance", "Introspection", "Foi", "Mystère"],
+            "description": "Le 7 se réalise dans la quête du sens et de la vérité. Il avance entre le visible et l’invisible, en cherchant à comprendre les lois profondes de la vie. Le 7 est souvent en retrait, car il a besoin de silence pour entendre la voix de l’âme. Sa réussite n’est pas matérielle, mais intérieure. C’est un alchimiste qui transforme l’expérience en sagesse. Il se réalise pleinement quand il accepte de faire confiance à ce qui le dépasse et de partager sa lumière spirituelle.",
+            "strengths": "Intuition, profondeur, sens analytique, sagesse naturelle.",
+            "challenges": "Isolement, scepticisme, peur de s’ouvrir émotionnellement.",
+            "mission": "Trouver la foi en soi et dans la vie, et révéler la lumière du monde intérieur."
+          },
+          "8": {
+            "title": "Le Maître du Pouvoir",
+            "keywords": ["Abondance", "Autorité", "Gestion", "Réussite"],
+            "description": "Le 8 se réalise dans la maîtrise de la matière et du pouvoir personnel. Il est venu apprendre à équilibrer ambition et éthique, richesse et sagesse. Le 8 porte une grande force intérieure : il peut créer, diriger et transformer la réalité. Mais son défi est de ne pas laisser le pouvoir ou l’argent dominer son cœur. Quand il agit avec intégrité, il devient un leader inspirant, capable de bâtir une prospérité durable pour lui et pour les autres.",
+            "strengths": "Force de volonté, charisme, sens des affaires, endurance.",
+            "challenges": "Rigueur excessive, peur de perdre le contrôle, matérialisme.",
+            "mission": "Apprendre à maîtriser le pouvoir avec sagesse et à créer dans l’équilibre du cœur et de la matière."
+          },
+          "9": {
+            "title": "Le Sage Humaniste",
+            "keywords": ["Altruisme", "Humanité", "Compassion", "Transmission"],
+            "description": "Le 9 se réalise dans le don de soi et la sagesse universelle. Il est l’âme ancienne, celle qui comprend les autres avant même qu’ils ne parlent. Sa vie l’amène souvent à traverser des deuils ou des fins, pour apprendre à se détacher et à servir le bien commun. Son accomplissement réside dans le pardon, la compassion et le partage. Le 9 transforme sa souffrance en lumière et devient un guide pour les autres.",
+            "strengths": "Générosité, empathie, vision universelle, inspiration.",
+            "challenges": "Mélancolie, attachement au passé, difficulté à poser des limites.",
+            "mission": "Servir l’humanité par la sagesse du cœur et apprendre à lâcher prise."
+          },
+          "11": {
+            "title": "Le Visionnaire Inspiré",
+            "keywords": ["Illumination", "Idéalisme", "Intuition", "Inspiration"],
+            "description": "Le maître nombre 11 porte une vibration élevée, presque mystique. Il se réalise à travers la lumière, la créativité et la révélation. Les porteurs de ce nombre sont des âmes qui perçoivent au-delà du visible. Leur chemin est souvent intense, fait d’extrêmes et de défis émotionnels, car ils apprennent à canaliser une énergie spirituelle immense. Lorsqu’ils trouvent l’équilibre entre ciel et terre, ils deviennent de puissants guides, artistes ou messagers de lumière.",
+            "strengths": "Intuition hors norme, magnétisme, inspiration spirituelle.",
+            "challenges": "Instabilité émotionnelle, doutes, hypersensibilité.",
+            "mission": "Apprendre à incarner la lumière sans se brûler, et inspirer les autres par sa vérité intérieure."
+          },
+          "22": {
+            "title": "L’Architecte du Monde",
+            "keywords": ["Réalisation", "Structure", "Mission", "Vision"],
+            "description": "Le maître nombre 22 allie le rêve et la matière. Il possède la capacité rare de transformer les idéaux les plus élevés en réalisations concrètes. C’est un bâtisseur de vision, un créateur de mondes. Son énergie est colossale, et lorsqu’elle est bien canalisée, elle lui permet d’accomplir de grandes œuvres au service de l’humanité. Le 22 doit apprendre à gérer la pression et à garder confiance en sa mission, même lorsque le doute s’installe.",
+            "strengths": "Force de concrétisation, vision globale, endurance, sens du service collectif.",
+            "challenges": "Charge de responsabilités, perfectionnisme, peur de l’échec.",
+            "mission": "Manifester l’impossible, unir le spirituel et le matériel pour construire un monde meilleur."
+          },
+          "33": {
+            "title": "Le Maître Guérisseur",
+            "keywords": ["Amour universel", "Compassion", "Service", "Guérison"],
+            "description": "Le 33 incarne l’amour inconditionnel et la guérison du monde. C’est l’énergie du cœur dans sa forme la plus pure, celle du service désintéressé et de la lumière qui réconforte. Ces âmes sont venues enseigner par l’exemple, rayonner la bonté et élever la conscience collective. Leur parcours est souvent exigeant, car elles ressentent profondément la souffrance du monde. Le 33 se réalise lorsqu’il apprend à aimer sans se perdre, à guérir sans s’épuiser, et à offrir sans attendre en retour.",
+            "strengths": "Empathie exceptionnelle, altruisme, sagesse émotionnelle.",
+            "challenges": "Sacrifice excessif, fatigue spirituelle, attentes idéalisées.",
+            "mission": "Canaliser son amour pour guérir et éveiller, tout en préservant son propre équilibre intérieur."
+          }
+    }
+  }

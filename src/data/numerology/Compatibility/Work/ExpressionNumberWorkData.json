@@ -1,0 +1,1272 @@
+{
+    "1-1": {
+      "mission_title": "Les Leaders Visionnaires",
+      "work_chemistry": [
+        "Ambition partagée",
+        "Goût du défi et du succès"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Leader de terrain",
+        "role_partner_2": "Leader stratégique",
+        "synergy": "Duo ambitieux qui ouvre des voies nouvelles."
+      },
+      "project_signature": "Innovation, conquête, performance.",
+      "risk_factors": ["Égo en compétition", "Manque d'écoute"],
+      "ideal_collaborations": ["Startups", "Tech", "Sport pro"],
+      "pro_tip": "Apprendre à alterner le leadership."
+    },
+  
+    "1-2": {
+      "mission_title": "Visionnaire & Architecte Humaniste",
+      "work_chemistry": [
+        "Le 1 initie",
+        "Le 2 organise"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Impulsion et direction",
+        "role_partner_2": "Gestion relationnelle et structure",
+        "synergy": "Un duo qui fait bouger les lignes avec harmonie."
+      },
+      "project_signature": "Gestion, coaching, relations publiques.",
+      "risk_factors": ["Autorité trop forte du 1", "Sensibilité du 2"],
+      "ideal_collaborations": ["RH", "Management", "Événements"],
+      "pro_tip": "Valoriser le 2 comme partenaire, pas assistant."
+    },
+  
+    "1-3": {
+      "mission_title": "Le Boss & L’Influenceur",
+      "work_chemistry": [
+        "Création d’opportunités",
+        "Succès par visibilité"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Décideur",
+        "role_partner_2": "Communicant",
+        "synergy": "Le 1 agit, le 3 attire l’attention."
+      },
+      "project_signature": "Marketing, médias, divertissement.",
+      "risk_factors": ["Égo + superficialité", "Manque de suivi"],
+      "ideal_collaborations": ["Publicité", "Mode", "Startups créatives"],
+      "pro_tip": "Rester focalisés sur le résultat."
+    },
+  
+    "1-4": {
+      "mission_title": "Le Visionnaire & Le Bâtisseur",
+      "work_chemistry": [
+        "Concrétisation d’idées",
+        "Sécurité + efficacité"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Entrepreneur",
+        "role_partner_2": "Planificateur",
+        "synergy": "Le 1 imagine, le 4 matérialise."
+      },
+      "project_signature": "Construction, tech durable, organisation.",
+      "risk_factors": ["Rigidité du 4", "Précipitation du 1"],
+      "ideal_collaborations": ["Ingénierie", "Industrie", "Immobilier"],
+      "pro_tip": "Laisser du temps au 4 pour faire les choses bien."
+    },
+  
+    "1-5": {
+      "mission_title": "Les Aventuriers du Succès",
+      "work_chemistry": [
+        "Expansion",
+        "Liberté d’action"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Leader stratégique",
+        "role_partner_2": "Explorateur d’opportunités",
+        "synergy": "Ils innovent vite et fort."
+      },
+      "project_signature": "Voyage, commerce, innovations agiles.",
+      "risk_factors": ["Instabilité", "Décisions impulsives"],
+      "ideal_collaborations": ["Commerce international", "Tourisme", "Startups"],
+      "pro_tip": "Structurer un minimum pour durer."
+    },
+  
+    "1-6": {
+      "mission_title": "Le Dirigeant & Le Protecteur",
+      "work_chemistry": [
+        "Leadership",
+        "Responsabilité"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Directeur",
+        "role_partner_2": "Gestionnaire humain",
+        "synergy": "Performance + bien-être = réussite durable."
+      },
+      "project_signature": "Éducation, santé, gestion d’équipe.",
+      "risk_factors": ["Conflit autorité / morale"],
+      "ideal_collaborations": ["Fonction RH", "Santé", "Services publics"],
+      "pro_tip": "Décisions à deux = plus d’équilibre."
+    },
+  
+    "1-7": {
+      "mission_title": "Stratège & Analyste",
+      "work_chemistry": [
+        "Ambition intelligente",
+        "Décisions basées sur la réflexion"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Leader pragmatique",
+        "role_partner_2": "Cerveau analytique",
+        "synergy": "Ils innovent en profondeur."
+      },
+      "project_signature": "Tech, recherche, finance exigeante.",
+      "risk_factors": ["Le 1 force la décision", "Le 7 retient l’info"],
+      "ideal_collaborations": ["IA", "Cryptos", "Consulting"],
+      "pro_tip": "Planifier ensemble avant d’agir."
+    },
+  
+    "1-8": {
+      "mission_title": "Les Titans de la Réussite",
+      "work_chemistry": [
+        "Pouvoir & stratégie",
+        "Business haute ambition"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Frontman conquérant",
+        "role_partner_2": "Gestionnaire du pouvoir",
+        "synergy": "Résultats massifs."
+      },
+      "project_signature": "Finance, direction, industries puissantes.",
+      "risk_factors": ["Guerre d’autorité", "Matérialisme excessif"],
+      "ideal_collaborations": ["Bourse", "Entreprises internationales"],
+      "pro_tip": "Se célébrer mutuellement."
+    },
+  
+    "1-9": {
+      "mission_title": "Le Leader & Le Visionnaire Humaniste",
+      "work_chemistry": [
+        "Ambition altruiste",
+        "Impact social"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Concrétisation",
+        "role_partner_2": "Inspirateur global",
+        "synergy": "Changer le monde par l’action."
+      },
+      "project_signature": "ONG, justice sociale, projets éducatifs.",
+      "risk_factors": ["Valeurs divergentes", "Impulsivité du 1 vs idéalisme du 9"],
+      "ideal_collaborations": ["Associatif", "Éducation", "Politiques publiques"],
+      "pro_tip": "Aligner les valeurs en première étape."
+    },
+  
+    "1-11": {
+      "mission_title": "Le Leader & Le Prophète",
+      "work_chemistry": [
+        "Ambition spirituelle",
+        "Inspiration supérieure"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Décideur pragmatique",
+        "role_partner_2": "Visionnaire intuitif",
+        "synergy": "Projets qui transforment les consciences."
+      },
+      "project_signature": "Développement personnel, spiritualité, innovation sociale.",
+      "risk_factors": ["Choc ego vs hyper-sensibilité"],
+      "ideal_collaborations": ["Coaching", "Art inspirant", "Tech humaniste"],
+      "pro_tip": "Matérialiser les grandes visions du 11."
+    },
+  
+    "1-22": {
+      "mission_title": "Le Conquérant & Le Maître Bâtisseur",
+      "work_chemistry": [
+        "Réalisation géante",
+        "Construction durable"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Leader exécutif",
+        "role_partner_2": "Architecte du monde",
+        "synergy": "Ils créent des empires."
+      },
+      "project_signature": "Grands projets, infrastructures, startups à scale-up.",
+      "risk_factors": ["Mégalomanie", "Épuisement collectif"],
+      "ideal_collaborations": ["Urbanisme", "NGO globales", "Tech planétaire"],
+      "pro_tip": "Prioriser l’humain dans le succès."
+    },
+  
+    "1-33": {
+      "mission_title": "Le Leader & Le Guérisseur du Monde",
+      "work_chemistry": [
+        "Autorité + compassion",
+        "Impact mondial"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Capitaine du navire",
+        "role_partner_2": "Voix morale",
+        "synergy": "Changer le système pour le bien commun."
+      },
+      "project_signature": "Éducation universelle, aide humanitaire.",
+      "risk_factors": ["Sauveur vs dominateur", "Émotions vs efficacité"],
+      "ideal_collaborations": ["Santé mondiale", "Éducation", "Fondations"],
+      "pro_tip": "Équilibrer cœur et stratégie."
+    },
+  
+    "2-2": {
+      "mission_title": "Les Maîtres de l'Harmonie",
+      "work_chemistry": [
+        "Collaboration parfaite",
+        "Excellence dans le détail"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Organisateur relationnel",
+        "role_partner_2": "Facilitateur diplomatique",
+        "synergy": "Environnement de travail exceptionnel."
+      },
+      "project_signature": "Services, gestion, relations humaines.",
+      "risk_factors": ["Décisions trop longues", "Évitement des conflits"],
+      "ideal_collaborations": ["Diplomatie", "Hôtellerie", "Services clients"],
+      "pro_tip": "Désigner un décideur final clair."
+    },
+    "2-3": {
+      "mission_title": "Le Diplomate & Le Communicant",
+      "work_chemistry": [
+        "Harmonie + créativité",
+        "Présence rassurante"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Stabilité relationnelle",
+        "role_partner_2": "Expression et rayonnement",
+        "synergy": "Ils créent des liens durables."
+      },
+      "project_signature": "Événements, création, communication douce.",
+      "risk_factors": ["Le 2 effacé", "Le 3 monopolise"],
+      "ideal_collaborations": ["Événementiel", "Médiation artistique", "E-commerce"],
+      "pro_tip": "Valoriser équitablement les deux rôles."
+    },
+    "2-4": {
+      "mission_title": "Les Architectes de la Paix",
+      "work_chemistry": [
+        "Construction solide",
+        "Relations harmonieuses"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Stabilité émotionnelle",
+        "role_partner_2": "Structure et organisation",
+        "synergy": "Fondations durables en douceur."
+      },
+      "project_signature": "Immobilier, administration, organisation d'équipes.",
+      "risk_factors": ["Inertie", "Peur du changement"],
+      "ideal_collaborations": ["Bureaux d'études", "Facilities", "Ressources humaines"],
+      "pro_tip": "Introduire de la flexibilité progressivement."
+    },
+    "2-5": {
+      "mission_title": "L'Ancre & Le Voyageur",
+      "work_chemistry": [
+        "Stabilité + mouvement",
+        "Adaptabilité intelligente"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Point fixe rassurant",
+        "role_partner_2": "Exploration et nouveauté",
+        "synergy": "Évoluer sans se perdre."
+      },
+      "project_signature": "Réseaux, international, services adaptatifs.",
+      "risk_factors": ["Le 5 veut partir", "Le 2 s'accroche"],
+      "ideal_collaborations": ["Export-import", "Réseaux sociaux", "Services digitaux"],
+      "pro_tip": "Cadre flexible avec repères clairs."
+    },
+    "2-6": {
+      "mission_title": "Les Gardiens du Bien-être",
+      "work_chemistry": [
+        "Service + soin",
+        "Excellence humaine"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Harmonie relationnelle",
+        "role_partner_2": "Protection et responsabilité",
+        "synergy": "Environnement bienveillant optimal."
+      },
+      "project_signature": "Santé, éducation, services sociaux.",
+      "risk_factors": ["Se sacrifier trop", "Manque de limites"],
+      "ideal_collaborations": ["Médecine", "Enseignement", "Services à la personne"],
+      "pro_tip": "Apprendre à dire non sans culpabilité."
+    },
+    "2-7": {
+      "mission_title": "Le Diplomate & Le Sage",
+      "work_chemistry": [
+        "Harmonie + profondeur",
+        "Discrétion efficace"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Relations humaines",
+        "role_partner_2": "Expertise silencieuse",
+        "synergy": "Excellence dans l'intelligence sociale."
+      },
+      "project_signature": "Recherche, conseil, expertise discrète.",
+      "risk_factors": ["Trop de retenue", "Manque d'action"],
+      "ideal_collaborations": ["Consulting", "Recherche", "Développement"],
+      "pro_tip": "Fixer des deadlines externes."
+    },
+    "2-8": {
+      "mission_title": "Le Soutien & Le Dirigeant",
+      "work_chemistry": [
+        "Support solide",
+        "Résultats mesurables"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Harmonie et écoute",
+        "role_partner_2": "Leadership et ambition",
+        "synergy": "Réussir avec élégance."
+      },
+      "project_signature": "Management, gestion d'équipe, développement.",
+      "risk_factors": ["Le 8 écrase", "Le 2 se soumet"],
+      "ideal_collaborations": ["Entreprises", "Cabinets", "Structures établies"],
+      "pro_tip": "Le 2 doit s'affirmer, le 8 écouter."
+    },
+    "2-9": {
+      "mission_title": "Les Serviteurs Universels",
+      "work_chemistry": [
+        "Soin + vision large",
+        "Dévouement intelligent"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Soutien individuel",
+        "role_partner_2": "Inspiration globale",
+        "synergy": "Servir le bien commun."
+      },
+      "project_signature": "Humanitaire, éducation, bien-être collectif.",
+      "risk_factors": ["Donner sans limites", "Burnout émotionnel"],
+      "ideal_collaborations": ["ONG", "Éducation", "Santé publique"],
+      "pro_tip": "Se protéger pour mieux servir."
+    },
+    "2-11": {
+      "mission_title": "Le Médiateur & Le Visionnaire",
+      "work_chemistry": [
+        "Intuition partagée",
+        "Guérison énergétique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Harmonie énergétique",
+        "role_partner_2": "Inspiration élevée",
+        "synergy": "Créer des ponts sacrés."
+      },
+      "project_signature": "Thérapies, développement spirituel, innovation énergétique.",
+      "risk_factors": ["Hypersensibilité", "Déconnection"],
+      "ideal_collaborations": ["Bien-être", "Spiritualité", "Arts sacrés"],
+      "pro_tip": "Ancrage et protection énergétique quotidiens."
+    },
+    "2-22": {
+      "mission_title": "Le Facilitateur & Le Bâtisseur",
+      "work_chemistry": [
+        "Soutien + vision monumentale",
+        "Réalisation harmonieuse"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Cohésion humaine",
+        "role_partner_2": "Architecture mondiale",
+        "synergy": "Construire dans la paix."
+      },
+      "project_signature": "Grands projets humanitaires, infrastructures durables.",
+      "risk_factors": ["Le 22 surcharge le 2", "Épuisement"],
+      "ideal_collaborations": ["Urbanisme", "Projets globaux", "Organisations internationales"],
+      "pro_tip": "Le 2 fixe les limites, le 22 respecte."
+    },
+    "2-33": {
+      "mission_title": "Les Guérisseurs du Monde",
+      "work_chemistry": [
+        "Amour inconditionnel",
+        "Transformation douce"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Harmonie quotidienne",
+        "role_partner_2": "Guérison collective",
+        "synergy": "Changer le monde par l'amour."
+      },
+      "project_signature": "Éducation aimante, soin universel.",
+      "risk_factors": ["Se sacrifier totalement", "Dissolution de soi"],
+      "ideal_collaborations": ["Éducation alternative", "Guérison", "Communautés bienveillantes"],
+      "pro_tip": "S'aimer pour aimer les autres."
+    },
+  
+    "3-3": {
+      "mission_title": "Les Artistes de la Performance",
+      "work_chemistry": [
+        "Créativité explosive",
+        "Visibilité maximale"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Star créative",
+        "role_partner_2": "Talent expressif",
+        "synergy": "Effet Wahou garanti !"
+      },
+      "project_signature": "Médias, spectacles, création pure.",
+      "risk_factors": ["Concurrence d'ego", "Manque de réalisme"],
+      "ideal_collaborations": ["Création", "Production", "Communication visuelle"],
+      "pro_tip": "Scènes séparées ou co-création consciente."
+    },
+    "3-4": {
+      "mission_title": "Le Créatif & Le Réalisateur",
+      "work_chemistry": [
+        "Inspiration + exécution",
+        "Projets qui aboutissent"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Idées et expression",
+        "role_partner_2": "Plan et réalisation",
+        "synergy": "Création structurée et efficace."
+      },
+      "project_signature": "Design, architecture, création commerciale.",
+      "risk_factors": ["Le 3 disperse", "Le 4 rigidifie"],
+      "ideal_collaborations": ["Architecture", "Design industriel", "Production créative"],
+      "pro_tip": "Timeline flexible avec jalons clairs."
+    },
+    "3-5": {
+      "mission_title": "Les Innovateurs Libres",
+      "work_chemistry": [
+        "Communication + liberté",
+        "Adaptation créative"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Expression créative",
+        "role_partner_2": "Exploration et réseaux",
+        "synergy": "Innovation constante et dynamique."
+      },
+      "project_signature": "Marketing digital, réseaux sociaux, innovation.",
+      "risk_factors": ["Instabilité", "Manque de suite"],
+      "ideal_collaborations": ["Startups innovantes", "Influence", "Tech créative"],
+      "pro_tip": "Max 3 projets en parallèle, pas plus."
+    },
+    "3-6": {
+      "mission_title": "Le Créateur & Le Protecteur",
+      "work_chemistry": [
+        "Beauté + soin",
+        "Création responsable"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Inspiration artistique",
+        "role_partner_2": "Protection et qualité",
+        "synergy": "Créer en servant vraiment."
+      },
+      "project_signature": "Artisanat, éducation créative, beauté engagée.",
+      "risk_factors": ["Le 3 papillonne", "Le 6 veut engagement"],
+      "ideal_collaborations": ["Arts appliqués", "Éducation artistique", "Luxe responsable"],
+      "pro_tip": "Projets alignés valeurs communes."
+    },
+    "3-7": {
+      "mission_title": "L'Artiste & Le Mystique",
+      "work_chemistry": [
+        "Expression + profondeur",
+        "Création initiatique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Communication accessible",
+        "role_partner_2": "Intelligence secrète",
+        "synergy": "Rendre la sagesse belle."
+      },
+      "project_signature": "Arts sacrés, vulgarisation scientifique, production mystique.",
+      "risk_factors": ["Le 7 trouve le 3 superficiel"],
+      "ideal_collaborations": ["Production culturelle", "Documentaires", "Arts spirituels"],
+      "pro_tip": "Le 3 rend visible l'invisible du 7."
+    },
+    "3-8": {
+      "mission_title": "Le Star & Le Magnat",
+      "work_chemistry": [
+        "Visibilité + pouvoir",
+        "Empire médiatique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Création et charisme",
+        "role_partner_2": "Business et autorité",
+        "synergy": "Bâtir des marques puissantes."
+      },
+      "project_signature": "Médias, luxe, empires créatifs.",
+      "risk_factors": ["Ego + manipulation", "Superficialité"],
+      "ideal_collaborations": ["Production", "Mode", "Empires médiatiques"],
+      "pro_tip": "Authenticité et éthique avant tout."
+    },
+    "3-9": {
+      "mission_title": "Le Créateur & Le Sage",
+      "work_chemistry": [
+        "Expression + sagesse",
+        "Art au service du monde"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Joie et inspiration",
+        "role_partner_2": "Vision humanitaire",
+        "synergy": "Créer pour élever les consciences."
+      },
+      "project_signature": "Art engagé, éducation, messages universels.",
+      "risk_factors": ["Le 9 s'oublie", "Le 3 surbrille"],
+      "ideal_collaborations": ["Arts sociaux", "Éducation artistique", "Médias conscients"],
+      "pro_tip": "Partager la lumière équitablement."
+    },
+    "3-11": {
+      "mission_title": "L'Artiste & Le Prophète",
+      "work_chemistry": [
+        "Créativité + inspiration divine",
+        "Manifestation de la lumière"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Expression terrestre",
+        "role_partner_2": "Vision spirituelle",
+        "synergy": "Incarner la beauté sacrée."
+      },
+      "project_signature": "Arts sacrés, channelling créatif, inspiration élevée.",
+      "risk_factors": ["Le 11 trop éthéré", "Le 3 trop léger"],
+      "ideal_collaborations": ["Arts spirituels", "Guérison créative", "Médias inspirés"],
+      "pro_tip": "Ancrer la vision avec beauté et humour."
+    },
+    "3-22": {
+      "mission_title": "Le Créatif & Le Maître Bâtisseur",
+      "work_chemistry": [
+        "Expression + architecture mondiale",
+        "Création monumentale"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Marketing et narration",
+        "role_partner_2": "Infrastructure et vision",
+        "synergy": "Construire des marques mythiques."
+      },
+      "project_signature": "Empires culturels, infrastructures créatives.",
+      "risk_factors": ["Le 3 disperse", "Le 22 contrôle tout"],
+      "ideal_collaborations": ["Production mondiale", "Empires créatifs", "Médias géants"],
+      "pro_tip": "Créativité structurée, pas libre."
+    },
+    "3-33": {
+      "mission_title": "Les Créateurs de Lumière",
+      "work_chemistry": [
+        "Joie + compassion",
+        "Art thérapeutique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Légèreté inspirante",
+        "role_partner_2": "Guérison par l'art",
+        "synergy": "Transformer par la beauté."
+      },
+      "project_signature": "Art thérapie, éducation joyeuse, création aimante.",
+      "risk_factors": ["Superficialité vs profondeur"],
+      "ideal_collaborations": ["Arts thérapeutiques", "Éducation alternative", "Communautés créatives"],
+      "pro_tip": "Créer avec intention sacrée."
+    },
+  
+    "4-4": {
+      "mission_title": "Les Forteresses de la Construction",
+      "work_chemistry": [
+        "Stabilité absolue",
+        "Fiabilité totale"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Structure et méthode",
+        "role_partner_2": "Organisation et rigueur",
+        "synergy": "Fondations éternelles."
+      },
+      "project_signature": "Construction, ingénierie, systèmes durables.",
+      "risk_factors": ["Rigidité excessive", "Résistance au changement"],
+      "ideal_collaborations": ["Infrastructure", "Immobilier", "Industrie lourde"],
+      "pro_tip": "Programmer des innovations trimestrielles obligatoires."
+    },
+    "4-5": {
+      "mission_title": "Le Bâtisseur & L'Innovateur",
+      "work_chemistry": [
+        "Base solide + agilité",
+        "Stabilité et nouveauté"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Structure durable",
+        "role_partner_2": "Adaptation rapide",
+        "synergy": "Évoluer sans perdre les acquis."
+      },
+      "project_signature": "Tech adaptative, construction moderne, systèmes évolutifs.",
+      "risk_factors": ["Le 4 résiste", "Le 5 veut tout changer"],
+      "ideal_collaborations": ["Architecture moderne", "Tech évolutive", "Startups de construction"],
+      "pro_tip": "Innovation progressive et testée."
+    },
+    "4-6": {
+      "mission_title": "Les Fondations Humaines",
+      "work_chemistry": [
+        "Structure + protection",
+        "Durabilité et soin"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Organisation matérielle",
+        "role_partner_2": "Protection humaine",
+        "synergy": "Construire pour durer ET servir."
+      },
+      "project_signature": "Immobilier social, éducation structurée, services organisés.",
+      "risk_factors": ["Perfectionnisme paralysant"],
+      "ideal_collaborations": ["Habitat social", "Écoles", "Centres de soins"],
+      "pro_tip": "Définir 'assez bien' vs 'parfait'."
+    },
+    "4-7": {
+      "mission_title": "Le Constructeur & L'Expert",
+      "work_chemistry": [
+        "Méthode + expertise",
+        "Excellence technique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Réalisation pratique",
+        "role_partner_2": "Recherche approfondie",
+        "synergy": "Bâtir avec intelligence."
+      },
+      "project_signature": "Tech de pointe, ingénierie, systèmes complexes.",
+      "risk_factors": ["Lenteur excessive", "Sur-analyse"],
+      "ideal_collaborations": ["R&D", "Ingénierie avancée", "Tech scientifique"],
+      "pro_tip": "Deadlines avec marge de qualité."
+    },
+    "4-8": {
+      "mission_title": "Les Titans de la Construction",
+      "work_chemistry": [
+        "Fondation + expansion",
+        "Scalabilité avec solidité"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Base solide",
+        "role_partner_2": "Croissance stratégique",
+        "synergy": "Empires durables."
+      },
+      "project_signature": "Grands projets, construction massive, industries.",
+      "risk_factors": ["Le 8 va trop vite", "Le 4 trop lent"],
+      "ideal_collaborations": ["Infrastructure majeure", "Industrie", "Immobilier commercial"],
+      "pro_tip": "Croissance par étapes validées."
+    },
+    "4-9": {
+      "mission_title": "Le Bâtisseur & L'Humanitaire",
+      "work_chemistry": [
+        "Réalisation + vision sociale",
+        "Construction qui sert"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Structure concrète",
+        "role_partner_2": "Mission humanitaire",
+        "synergy": "Bâtir pour le bien commun."
+      },
+      "project_signature": "Infrastructure sociale, éducation, projets éthiques.",
+      "risk_factors": ["Le 4 veut résultats", "Le 9 veut idéaux"],
+      "ideal_collaborations": ["Habitat éthique", "Éducation", "Infrastructure sociale"],
+      "pro_tip": "KPIs incluant impact humain."
+    },
+    "4-11": {
+      "mission_title": "Le Réalisateur & Le Visionnaire",
+      "work_chemistry": [
+        "Ancrage + inspiration",
+        "Manifestation concrète"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Matérialisation",
+        "role_partner_2": "Vision spirituelle",
+        "synergy": "Rendre la magie réelle."
+      },
+      "project_signature": "Tech innovante, architecture inspirée, projets révolutionnaires.",
+      "risk_factors": ["Le 11 frustré", "Le 4 trop lent"],
+      "ideal_collaborations": ["Tech spiritualiste", "Architecture sacrée", "Projets innovants"],
+      "pro_tip": "Phases inspiration + phases action."
+    },
+    "4-22": {
+      "mission_title": "Les Architectes Universels",
+      "work_chemistry": [
+        "Fondation + vision monumentale",
+        "Réalisation exceptionnelle"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Discipline quotidienne",
+        "role_partner_2": "Grands projets mondiaux",
+        "synergy": "Réaliser l'exceptionnel."
+      },
+      "project_signature": "Infrastructures majeures, projets planétaires.",
+      "risk_factors": ["Pression écrasante", "Surmenage"],
+      "ideal_collaborations": ["Megaprojets", "Urbanisme mondial", "Infrastructure planétaire"],
+      "pro_tip": "Rythme soutenable + délégation."
+    },
+    "4-33": {
+      "mission_title": "Le Bâtisseur & L'Enseignant",
+      "work_chemistry": [
+        "Structure + service",
+        "Institutions transformatrices"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Organisation durable",
+        "role_partner_2": "Enseignement compassionnel",
+        "synergy": "Créer des institutions qui transforment."
+      },
+      "project_signature": "Écoles, centres de guérison, structures d'enseignement.",
+      "risk_factors": ["Le 4 limite", "Le 33 veut tout donner"],
+      "ideal_collaborations": ["Éducation permanente", "Centres thérapeutiques", "Institutions bienfaisantes"],
+      "pro_tip": "Systèmes permettant servir sans s'épuiser."
+    },
+  
+    "5-5": {
+      "mission_title": "Les Électrons Libres",
+      "work_chemistry": [
+        "Liberté absolue",
+        "Innovation constante"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Explorateur opportuniste",
+        "role_partner_2": "Innovateur dynamique",
+        "synergy": "Saisir toutes les opportunités."
+      },
+      "project_signature": "Entrepreneuriat, réseaux, multiples projets.",
+      "risk_factors": ["Aucune ancre", "Trop de dispersion"],
+      "ideal_collaborations": ["Startups", "Réseaux", "Multi-projets"],
+      "pro_tip": "Un point fixe hebdomadaire obligatoire."
+    },
+    "5-6": {
+      "mission_title": "L'Aventurier & Le Gardien",
+      "work_chemistry": [
+        "Liberté + stabilité",
+        "Innovation responsable"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Exploration et opportunités",
+        "role_partner_2": "Responsabilité et qualité",
+        "synergy": "Innover sans compromettre l'essentiel."
+      },
+      "project_signature": "Services innovants, éducation adaptative, solutions créatives.",
+      "risk_factors": ["Le 5 fuit", "Le 6 s'accroche"],
+      "ideal_collaborations": ["Services à la demande", "Éducation innovante", "Solutions créatives"],
+      "pro_tip": "Liberté dans cadre défini."
+    },
+    "5-7": {
+      "mission_title": "L'Explorateur & Le Chercheur",
+      "work_chemistry": [
+        "Expérience + analyse",
+        "Compréhension expérimentale"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Tests et terrain",
+        "role_partner_2": "Recherche profonde",
+        "synergy": "Comprendre en expérimentant."
+      },
+      "project_signature": "R&D, tech expérimentale, recherche appliquée.",
+      "risk_factors": ["Le 5 agit trop vite", "Le 7 réfléchit trop"],
+      "ideal_collaborations": ["R&D agile", "Tech expérimentale", "Innovation scientifique"],
+      "pro_tip": "Sprints action + phases analyse."
+    },
+    "5-8": {
+      "mission_title": "Le Libérateur & Le Conquérant",
+      "work_chemistry": [
+        "Mouvement + pouvoir",
+        "Croissance explosive"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Adaptabilité rapide",
+        "role_partner_2": "Leadership ambitieux",
+        "synergy": "Croître vite et fort."
+      },
+      "project_signature": "Business expansion, conquête marchés, opportunités.",
+      "risk_factors": ["Le 8 contrôle", "Le 5 s'échappe"],
+      "ideal_collaborations": ["Startups en croissance", "Business international", "Conquête rapide"],
+      "pro_tip": "Autonomie avec objectifs clairs."
+    },
+    "5-9": {
+      "mission_title": "Le Nomade & L'Universaliste",
+      "work_chemistry": [
+        "Diversité + inclusion",
+        "Compréhension globale"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Exploration cultures",
+        "role_partner_2": "Vision universelle",
+        "synergy": "Relier le monde."
+      },
+      "project_signature": "International, éducation globale, réseaux universels.",
+      "risk_factors": ["Manque d'ancrage", "Pas de focus"],
+      "ideal_collaborations": ["Réseaux internationaux", "Éducation mondiale", "Projets globaux"],
+      "pro_tip": "Mission claire avec liberté."
+    },
+    "5-11": {
+      "mission_title": "Le Messager & Le Canal",
+      "work_chemistry": [
+        "Communication + intuition",
+        "Transmettre l'innovation"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Diffusion réseaux",
+        "role_partner_2": "Vision inspirée",
+        "synergy": "Répandre l'innovation spirituelle."
+      },
+      "project_signature": "Médias conscients, diffusion d'idées, innovation sociale.",
+      "risk_factors": ["Surcharge sensorielle", "Éparpillement"],
+      "ideal_collaborations": ["Médias inspirés", "Réseaux conscients", "Diffusion d'idées"],
+      "pro_tip": "Méditation quotidienne + priorisation."
+    },
+    "5-22": {
+      "mission_title": "L'Adaptateur & Le Mastermind",
+      "work_chemistry": [
+        "Agilité + vision massive",
+        "Pivots stratégiques"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Flexibilité opportuniste",
+        "role_partner_2": "Architecture mondiale",
+        "synergy": "Pivots stratégiques à grande échelle."
+      },
+      "project_signature": "Transformations majeures, business model innovants.",
+      "risk_factors": ["Le 5 change trop", "Le 22 a un plan géant"],
+      "ideal_collaborations": ["Transformations majeures", "Business models", "Stratégies globales"],
+      "pro_tip": "Vision fixe, tactiques variables."
+    },
+    "5-33": {
+      "mission_title": "Le Voyageur & Le Maître",
+      "work_chemistry": [
+        "Exploration + enseignement",
+        "Apprendre et transmettre"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Expériences diverses",
+        "role_partner_2": "Sagesse pédagogique",
+        "synergy": "Enseigner en mouvement."
+      },
+      "project_signature": "Formation nomade, apprentissage global, éducation mobile.",
+      "risk_factors": ["Le 5 ne s'engage pas assez"],
+      "ideal_collaborations": ["Formation nomade", "Éducation itinérante", "Apprentissage global"],
+      "pro_tip": "Missions courtes mais intenses."
+    },
+  
+    "6-6": {
+      "mission_title": "Les Protecteurs Universels",
+      "work_chemistry": [
+        "Service total",
+        "Dévouement absolu"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Responsabilité constante",
+        "role_partner_2": "Protection inlassable",
+        "synergy": "Créer le paradis pour tous."
+      },
+      "project_signature": "Services sociaux, éducation, soin universel.",
+      "risk_factors": ["Sacrifice total", "Burnout garanti"],
+      "ideal_collaborations": ["Services publics", "Éducation", "Santé"],
+      "pro_tip": "S'autoriser recevoir et refuser."
+    },
+    "6-7": {
+      "mission_title": "Le Nourricier & Le Sage",
+      "work_chemistry": [
+        "Soin + sagesse",
+        "Excellence thérapeutique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Chaleur et présence",
+        "role_partner_2": "Expertise profonde",
+        "synergy": "Soigner avec intelligence."
+      },
+      "project_signature": "Santé, thérapies, expertise médicale.",
+      "risk_factors": ["Le 6 étouffe", "Le 7 se retire"],
+      "ideal_collaborations": ["Médecine", "Thérapies", "Recherche médicale"],
+      "pro_tip": "Respecter besoins solitude."
+    },
+    "6-8": {
+      "mission_title": "Le Serviteur & Le Dirigeant",
+      "work_chemistry": [
+        "Soin + autorité",
+        "Puissance humaine"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Qualité humaine",
+        "role_partner_2": "Leadership stratégique",
+        "synergy": "Réussir AVEC humanité."
+      },
+      "project_signature": "Direction d'entreprises, management bienveillant.",
+      "risk_factors": ["Le 8 domine", "Le 6 se soumet"],
+      "ideal_collaborations": ["Direction RH", "Management", "Leadership éthique"],
+      "pro_tip": "Décisions partagées sur valeurs."
+    },
+    "6-9": {
+      "mission_title": "Les Bienfaiteurs Universels",
+      "work_chemistry": [
+        "Service + vision large",
+        "Dévouement intelligent"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Soin individuel",
+        "role_partner_2": "Inspiration globale",
+        "synergy": "Servir le bien commun."
+      },
+      "project_signature": "Humanitaire, éducation, bien-être collectif.",
+      "risk_factors": ["Donner sans limites", "Martyre"],
+      "ideal_collaborations": ["ONG", "Éducation", "Santé publique"],
+      "pro_tip": "Frontières saines obligatoires."
+    },
+    "6-11": {
+      "mission_title": "Le Protecteur & L'Inspiré",
+      "work_chemistry": [
+        "Soin + illumination",
+        "Guérison énergétique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Stabilité rassurante",
+        "role_partner_2": "Vision spirituelle",
+        "synergy": "Créer espaces sacrés fonctionnels."
+      },
+      "project_signature": "Thérapies alternatives, guérison énergétique, bien-être spirituel.",
+      "risk_factors": ["Le 11 trop idéaliste", "Le 6 trop pratique"],
+      "ideal_collaborations": ["Guérison énergétique", "Bien-être spirituel", "Thérapies holistiques"],
+      "pro_tip": "Ancrer vision avec soin."
+    },
+    "6-22": {
+      "mission_title": "Le Gardien & Le Bâtisseur Mondial",
+      "work_chemistry": [
+        "Qualité + impact massif",
+        "Excellence à grande échelle"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Excellence humaine",
+        "role_partner_2": "Infrastructure mondiale",
+        "synergy": "Construire grand SANS perdre l'humain."
+      },
+      "project_signature": "Infrastructure sociale, grands projets humanitaires.",
+      "risk_factors": ["Le 22 sacrifie qualité pour vitesse"],
+      "ideal_collaborations": ["Projets sociaux majeurs", "Infrastructure éducative", "Grands programmes"],
+      "pro_tip": "Standards non négociables + ambition."
+    },
+    "6-33": {
+      "mission_title": "Les Guérisseurs Universels",
+      "work_chemistry": [
+        "Service ×2",
+        "Amour inconditionnel"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Responsabilité totale",
+        "role_partner_2": "Compassion infinie",
+        "synergy": "Transformer par l'amour."
+      },
+      "project_signature": "Éducation thérapeutique, soin universel, guérison collective.",
+      "risk_factors": ["Porter monde sur épaules"],
+      "ideal_collaborations": ["Éducation thérapeutique", "Centres de guérison", "Institutions bienfaisantes"],
+      "pro_tip": "Accepter imperfection et déléguer."
+    },
+  
+    "7-7": {
+      "mission_title": "Les Sages Universels",
+      "work_chemistry": [
+        "Connaissance infinie",
+        "Profondeur absolue"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Expertise analytique",
+        "role_partner_2": "Recherche approfondie",
+        "synergy": "Découvertes révolutionnaires."
+      },
+      "project_signature": "Recherche, expertise, découvertes majeures.",
+      "risk_factors": ["Isolation totale", "Paralysie analyse"],
+      "ideal_collaborations": ["Recherche fondamentale", "Expertise technique", "Découvertes scientifiques"],
+      "pro_tip": "Deadlines externes + collaboration forcée."
+    },
+    "7-8": {
+      "mission_title": "Le Stratège & L'Exécutant",
+      "work_chemistry": [
+        "Intelligence + pouvoir",
+        "Domination intelligente"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Analyse stratégique",
+        "role_partner_2": "Leadership exécutif",
+        "synergy": "Conquérir le marché intelligemment."
+      },
+      "project_signature": "Stratégie business, intelligence financière, expertise technique.",
+      "risk_factors": ["Le 7 sur-analyse", "Le 8 sur-agit"],
+      "ideal_collaborations": ["Stratégie business", "Finance intelligente", "Tech stratégique"],
+      "pro_tip": "Phases stratégie PUIS action."
+    },
+    "7-9": {
+      "mission_title": "Le Philosophe & L'Humaniste",
+      "work_chemistry": [
+        "Sagesse + compassion",
+        "Élever la conscience"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Compréhension profonde",
+        "role_partner_2": "Vision universelle",
+        "synergy": "Transformer le monde par la sagesse."
+      },
+      "project_signature": "Éducation philosophique, recherche humanitaire, connaissance engagée.",
+      "risk_factors": ["Déconnexion monde matériel"],
+      "ideal_collaborations": ["Éducation supérieure", "Recherche humanitaire", "Philosophie appliquée"],
+      "pro_tip": "Projets concrets avec impact."
+    },
+    "7-11": {
+      "mission_title": "Le Mystique & Le Visionnaire",
+      "work_chemistry": [
+        "Connaissance + intuition divine",
+        "Accès universel"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Recherche spirituelle",
+        "role_partner_2": "Channeling inspiré",
+        "synergy": "Accéder au savoir universel."
+      },
+      "project_signature": "Recherche spirituelle, connaissance mystique, innovation sacrée.",
+      "risk_factors": ["Trop éthéré", "Déconnexion totale"],
+      "ideal_collaborations": ["Recherche spirituelle", "Sciences parallèles", "Connaissance mystique"],
+      "pro_tip": "Ancrage quotidien + action."
+    },
+    "7-22": {
+      "mission_title": "Le Penseur & L'Architecte Universel",
+      "work_chemistry": [
+        "Stratégie + réalisation mondiale",
+        "Systèmes révolutionnaires"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Intelligence stratégique",
+        "role_partner_2": "Vision monumentale",
+        "synergy": "Créer systèmes révolutionnaires à grande échelle."
+      },
+      "project_signature": "Projets scientifiques majeurs, infrastructure technologique.",
+      "risk_factors": ["Le 7 perfectionniste ralentit 22"],
+      "ideal_collaborations": ["Megascience", "Tech mondiale", "Systèmes globaux"],
+      "pro_tip": "Excellence dans exécution, pas préparation."
+    },
+    "7-33": {
+      "mission_title": "Le Sage & Le Maître Enseignant",
+      "work_chemistry": [
+        "Connaissance + transmission",
+        "Enseigner la sagesse"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Expertise profonde",
+        "role_partner_2": "Pédagogie compassionnelle",
+        "synergy": "Partager sagesse universelle."
+      },
+      "project_signature": "Enseignement supérieur, transmission de savoir, éducation sacrée.",
+      "risk_factors": ["Isolation vs connexion"],
+      "ideal_collaborations": ["Universités", "Enseignement supérieur", "Transmission savoir"],
+      "pro_tip": "Enseigner pour rester connecté."
+    },
+  
+    "8-8": {
+      "mission_title": "Les Empires Absolus",
+      "work_chemistry": [
+        "Pouvoir ×2",
+        "Domination totale"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Leadership conquérant",
+        "role_partner_2": "Autorité stratégique",
+        "synergy": "Bâtir dynasties."
+      },
+      "project_signature": "Empires business, conquête marchés, dominance.",
+      "risk_factors": ["Lutte pouvoir", "Écrasement mutuel"],
+      "ideal_collaborations": ["Empires commerciaux", "Conquête marchés", "Dominance industrielle"],
+      "pro_tip": "Co-leadership domaines distincts."
+    },
+    "8-9": {
+      "mission_title": "Le Magnat & Le Philanthrope",
+      "work_chemistry": [
+        "Pouvoir + générosité",
+        "Impact massif positif"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Capacité réalisation",
+        "role_partner_2": "Vision humanitaire",
+        "synergy": "Impact massif au service du bien."
+      },
+      "project_signature": "Entrepreneuriat social, fondations, impact positif.",
+      "risk_factors": ["Ego vs altruisme"],
+      "ideal_collaborations": ["Entreprise sociale", "Fondations", "Impact social"],
+      "pro_tip": "Modèle économique impact positif."
+    },
+    "8-11": {
+      "mission_title": "Le Conquérant & L'Inspiré",
+      "work_chemistry": [
+        "Matériel + spirituel",
+        "Manifester la vision"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Pouvoir matériel",
+        "role_partner_2": "Vision inspirée",
+        "synergy": "Manifester vision à grande échelle."
+      },
+      "project_signature": "Business spirituel, manifestation vision, innovation inspirée.",
+      "risk_factors": ["Le 8 écrase sensibilité 11"],
+      "ideal_collaborations": ["Business conscient", "Innovation inspirée", "Manifestation vision"],
+      "pro_tip": "8 protège et finance vision 11."
+    },
+    "8-22": {
+      "mission_title": "Les Maîtres du Monde",
+      "work_chemistry": [
+        "Pouvoir + vision monumentale",
+        "Changer le monde"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Leadership financier",
+        "role_partner_2": "Architecture mondiale",
+        "synergy": "Changer monde concrètement."
+      },
+      "project_signature": "Méga projets, empires globaux, transformation mondiale.",
+      "risk_factors": ["Pression extrême", "Burnout collectif"],
+      "ideal_collaborations": ["Megaprojets", "Empires globaux", "Transformations mondiales"],
+      "pro_tip": "Équilibre vie-travail STRICT."
+    },
+    "8-33": {
+      "mission_title": "Le Dirigeant & Le Guide Spirituel",
+      "work_chemistry": [
+        "Autorité + compassion",
+        "Leadership éclairé"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Pouvoir organisationnel",
+        "role_partner_2": "Enseignement compassionnel",
+        "synergy": "Leader transformateur."
+      },
+      "project_signature": "Entreprise sociale, leadership éthique, impact bienfaisant.",
+      "risk_factors": ["Profit vs service"],
+      "ideal_collaborations": ["Entreprise sociale", "Leadership éthique", "Business conscient"],
+      "pro_tip": "Entreprise sociale impact réel."
+    },
+  
+    "9-9": {
+      "mission_title": "Les Universalistes Absolus",
+      "work_chemistry": [
+        "Sagesse cosmique",
+        "Vision universelle totale"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Compassion inconditionnelle",
+        "role_partner_2": "Détachement sage",
+        "synergy": "Transformer monde par amour."
+      },
+      "project_signature": "Humanitaire global, éducation universelle, bien-être planétaire.",
+      "risk_factors": ["Idéalisme paralysant", "Martyre collectif"],
+      "ideal_collaborations": ["ONG globales", "Éducation mondiale", "Bien-être planétaire"],
+      "pro_tip": "Actions concrètes mesurables."
+    },
+    "9-11": {
+      "mission_title": "Le Sage & L'Illuminé",
+      "work_chemistry": [
+        "Sagesse + inspiration divine",
+        "Élever conscience planétaire"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Expérience universelle",
+        "role_partner_2": "Vision spirituelle",
+        "synergy": "Élever conscience mondiale."
+      },
+      "project_signature": "Éducation spirituelle, élévation collective, transformation planétaire.",
+      "risk_factors": ["Trop éthéré", "Manque ancrage"],
+      "ideal_collaborations": ["Éducation spirituelle", "Élévation collective", "Transformation planétaire"],
+      "pro_tip": "Projets incarnés résultats tangibles."
+    },
+    "9-22": {
+      "mission_title": "L'Humanitaire & Le Bâtisseur Mondial",
+      "work_chemistry": [
+        "Vision + réalisation globale",
+        "Changer monde à grande échelle"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Mission universelle",
+        "role_partner_2": "Infrastructure mondiale",
+        "synergy": "Changer monde grande échelle."
+      },
+      "project_signature": "Projets humanitaires majeurs, infrastructure sociale globale.",
+      "risk_factors": ["Idéalisme vs pragmatisme"],
+      "ideal_collaborations": ["Projets humanitaires majeurs", "Infrastructure sociale", "Transformations mondiales"],
+      "pro_tip": "Vision idéale + étapes réalistes."
+    },
+    "9-33": {
+      "mission_title": "Les Maîtres Spirituels Universels",
+      "work_chemistry": [
+        "Sagesse + enseignement sacré",
+        "Transformation spirituelle collective"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Détachement sage",
+        "role_partner_2": "Compassion active",
+        "synergy": "Transformer par sagesse et amour."
+      },
+      "project_signature": "Éducation sacrée, guérison collective, élévation mondiale.",
+      "risk_factors": ["Épuisement par sur-don"],
+      "ideal_collaborations": ["Éducation sacrée", "Guérison collective", "Élévation mondiale"],
+      "pro_tip": "Se ressourcer pour mieux servir."
+    },
+  
+    "11-11": {
+      "mission_title": "Les Prophètes Absolus",
+      "work_chemistry": [
+        "Inspiration ×2",
+        "Révolution spirituelle"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Intuition élevée",
+        "role_partner_2": "Vision inspirée",
+        "synergy": "Créer avenir inspiré."
+      },
+      "project_signature": "Innovation spirituelle, révolution consciente, avenir inspiré.",
+      "risk_factors": ["Hypersensibilité totale", "Déconnection"],
+      "ideal_collaborations": ["Innovation spirituelle", "Révolution consciente", "Avenir inspiré"],
+      "pro_tip": "Ancrage + protection énergétique."
+    },
+    "11-22": {
+      "mission_title": "Le Visionnaire & Le Matérialisateur",
+      "work_chemistry": [
+        "Inspiration + manifestation",
+        "Manifester miracles"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Vision spirituelle",
+        "role_partner_2": "Capacité réalisation",
+        "synergy": "Manifester miracles grande échelle."
+      },
+      "project_signature": "Projets révolutionnaires, manifestation inspirée, innovation planétaire.",
+      "risk_factors": ["11 nuages", "22 pression"],
+      "ideal_collaborations": ["Projets révolutionnaires", "Manifestation inspirée", "Innovation planétaire"],
+      "pro_tip": "Phases inspiration PUIS construction."
+    },
+    "11-33": {
+      "mission_title": "Les Guides de Lumière Universels",
+      "work_chemistry": [
+        "Vision + compassion divine",
+        "Élever et guérir par lumière"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Intuition élevée",
+        "role_partner_2": "Enseignement compassionnel",
+        "synergy": "Élever par amour inconditionnel."
+      },
+      "project_signature": "Guérison spirituelle, élévation collective, amour universel.",
+      "risk_factors": ["Porter monde émotionnel"],
+      "ideal_collaborations": ["Guérison spirituelle", "Élévation collective", "Amour universel"],
+      "pro_tip": "Rituel protection recharge."
+    },
+  
+    "22-22": {
+      "mission_title": "Les Architectes du Nouveau Monde",
+      "work_chemistry": [
+        "Vision monumentale ×2",
+        "Impact historique"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Grands projets",
+        "role_partner_2": "Infrastructure mondiale",
+        "synergy": "Bâtir l'impossible."
+      },
+      "project_signature": "Projets historiques, infrastructure planétaire, transformation mondiale.",
+      "risk_factors": ["Pression écrasante", "Perfectionnisme paralysant"],
+      "ideal_collaborations": ["Projets historiques", "Infrastructure planétaire", "Transformations mondiales"],
+      "pro_tip": "Accepter imperfection, déléguer."
+    },
+    "22-33": {
+      "mission_title": "Le Bâtisseur & Le Guérisseur Mondial",
+      "work_chemistry": [
+        "Infrastructure + service universel",
+        "Systèmes qui soignent"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Réalisation grands projets",
+        "role_partner_2": "Mission soin enseignement",
+        "synergy": "Créer systèmes qui soignent humanité."
+      },
+      "project_signature": "Infrastructure sociale, systèmes bienfaisants, guérison mondiale.",
+      "risk_factors": ["Épuisement", "Porter monde"],
+      "ideal_collaborations": ["Infrastructure sociale", "Systèmes bienfaisants", "Guérison mondiale"],
+      "pro_tip": "Équipe solide + temps récupération."
+    },
+  
+    "33-33": {
+      "mission_title": "Les Maîtres Enseignants Universels",
+      "work_chemistry": [
+        "Compassion ×2",
+        "Amour universel"
+      ],
+      "team_dynamics": {
+        "role_partner_1": "Enseignement sacré",
+        "role_partner_2": "Guérison compassionnelle",
+        "synergy": "Transformer par amour inconditionnel."
+      },
+      "project_signature": "Éducation sacrée globale, guérison mondiale, amour universel.",
+      "risk_factors": ["Donner jusqu'à dissolution"],
+      "ideal_collaborations": ["Éducation sacrée globale", "Guérison mondiale", "Amour universel"],
+      "pro_tip": "S'aimer soi pour aimer autres."
+    }
+  }

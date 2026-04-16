@@ -1,0 +1,1585 @@
+{
+  "kether": {
+    "1": {
+      "summary": "Mission de Leadership Divin",
+      "description": "Ta connexion divine se manifeste à travers le leadership et l'initiative. Tu es appelé(e) à être un pionnier spirituel, à montrer la voie aux autres. Ta mission suprême est de rayonner l'indépendance spirituelle et l'innovation.",
+      "keywords": [
+        "Pionnier spirituel",
+        "Leadership divin",
+        "Initiative sacrée",
+        "Indépendance"
+      ],
+      "strengths": "Courage spirituel, vision claire de ta mission unique, capacité à initier de nouveaux chemins spirituels, indépendance d'esprit",
+      "challenges": "Risque d'isolement spirituel, impatience avec ceux qui ne suivent pas, tendance à l'ego spirituel",
+      "guidance": "Assume ton rôle de guide spirituel sans arrogance. Ta force réside dans ta capacité à ouvrir de nouveaux chemins."
+    },
+    "2": {
+      "summary": "Mission de Paix et d'Union",
+      "description": "Ta mission divine est de créer l'harmonie et la paix. Tu es le pont entre le ciel et la terre, celui/celle qui unit les opposés. Ta connexion au divin passe par la diplomatie spirituelle et la coopération.",
+      "keywords": [
+        "Unité divine",
+        "Paix cosmique",
+        "Diplomatie spirituelle",
+        "Harmonie"
+      ],
+      "strengths": "Sensibilité spirituelle profonde, capacité naturelle à unir les opposés, diplomatie divine, patience",
+      "challenges": "Tendance à absorber les énergies des autres, difficulté à affirmer ta propre voie, dualité intérieure",
+      "guidance": "Ta sensibilité spirituelle est ton atout. Utilise-la pour unir plutôt que pour absorber les énergies."
+    },
+    "3": {
+      "summary": "Mission de Création et Expression",
+      "description": "Ta connexion divine s'exprime à travers la créativité et la joie. Tu es ici pour manifester la beauté du divin dans le monde à travers l'art, la communication et l'expression authentique.",
+      "keywords": [
+        "Créativité divine",
+        "Expression sacrée",
+        "Joie spirituelle",
+        "Communication"
+      ],
+      "guidance": "Ta mission est de célébrer la vie et d'inspirer les autres par ta créativité. Ne retiens pas ton expression.",
+      "strengths": "Créativité divine, Expression sacrée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Mission de Structure et Stabilité",
+      "description": "Ta mission divine est d'ancrer le sacré dans la matière. Tu es le bâtisseur spirituel, celui/celle qui crée des fondations solides pour que le divin puisse se manifester durablement.",
+      "keywords": [
+        "Ancrage divin",
+        "Structure sacrée",
+        "Stabilité spirituelle",
+        "Fondation"
+      ],
+      "guidance": "Ta patience et ta persévérance sont des qualités divines. Construis lentement mais solidement.",
+      "strengths": "Ancrage divin, Structure sacrée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Mission de Changement et Liberté",
+      "description": "Ta connexion divine passe par le mouvement et la transformation. Tu es ici pour libérer les énergies stagnantes et apporter le changement nécessaire. Ta mission est de briser les chaînes spirituelles.",
+      "keywords": [
+        "Liberté divine",
+        "Transformation sacrée",
+        "Changement spirituel",
+        "Aventure"
+      ],
+      "guidance": "Embrasse le changement comme un cadeau divin. Ta liberté inspire les autres à se libérer.",
+      "strengths": "Liberté divine, Transformation sacrée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Mission d'Amour et Service",
+      "description": "Ta mission suprême est d'incarner l'amour divin dans le monde. Tu es le guérisseur, le nourricier spirituel. Ta connexion au sacré passe par le service désintéressé et l'harmonie familiale.",
+      "keywords": [
+        "Amour divin",
+        "Service sacré",
+        "Guérison spirituelle",
+        "Harmonie"
+      ],
+      "guidance": "Ton cœur est ton temple. Donne ton amour mais n'oublie pas de te nourrir aussi.",
+      "strengths": "Amour divin, Service sacré, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Mission de Sagesse et Mystère",
+      "description": "Ta connexion divine est profonde et mystique. Tu es le chercheur de vérité, l'ermite spirituel. Ta mission est d'explorer les mystères de l'univers et de partager ta sagesse.",
+      "keywords": [
+        "Sagesse divine",
+        "Mystère sacré",
+        "Quête spirituelle",
+        "Introspection"
+      ],
+      "guidance": "Ta solitude spirituelle est sacrée. Alterne entre retrait et partage de ta sagesse.",
+      "strengths": "Sagesse divine, Mystère sacré, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Mission de Pouvoir et Manifestation",
+      "description": "Ta mission divine est de manifester l'abondance et le pouvoir spirituel dans le monde matériel. Tu es le maître manifestant, celui/celle qui matérialise la vision divine.",
+      "keywords": [
+        "Pouvoir divin",
+        "Manifestation sacrée",
+        "Abondance spirituelle",
+        "Réussite"
+      ],
+      "guidance": "Utilise ton pouvoir avec sagesse et intégrité. La vraie force est au service du bien.",
+      "strengths": "Pouvoir divin, Manifestation sacrée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Mission Universelle et Humanitaire",
+      "description": "Ta connexion divine est universelle et compassionnelle. Tu es ici pour servir l'humanité entière. Ta mission suprême transcende les frontières et embrasse tous les êtres.",
+      "keywords": [
+        "Compassion divine",
+        "Service universel",
+        "Humanité sacrée",
+        "Altruisme"
+      ],
+      "guidance": "Ton cœur embrasse le monde. Prends soin de toi pour mieux servir l'humanité.",
+      "strengths": "Compassion divine, Service universel, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Mission d'Illumination Spirituelle",
+      "description": "Ta connexion divine est celle d'un maître spirituel en devenir. Tu portes la lumière de l'illumination et es destiné(e) à inspirer l'éveil chez les autres. Ta mission est d'être un canal puissant pour la sagesse divine. Tu es le visionnaire qui voit au-delà du voile.",
+      "keywords": [
+        "Illumination",
+        "Maître spirituel",
+        "Visionnaire divin",
+        "Intuition supérieure",
+        "Éveil"
+      ],
+      "guidance": "Ta sensibilité spirituelle est intense. Ancre-toi tout en restant connecté(e) aux plans supérieurs. Ta lumière peut guider beaucoup d'âmes.",
+      "strengths": "Illumination, Maître spirituel, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Mission de Maître Bâtisseur Divin",
+      "description": "Ta connexion divine te destine à manifester de grandes œuvres spirituelles dans le monde matériel. Tu es l'architecte du sacré, capable de construire des structures durables qui servent l'évolution collective. Ta mission est de matérialiser la vision divine à grande échelle.",
+      "keywords": [
+        "Maître bâtisseur",
+        "Architecture divine",
+        "Manifestation puissante",
+        "Vision grandiose",
+        "Héritage"
+      ],
+      "guidance": "Ton pouvoir de manifestation est immense. Construis avec patience et vision. Tes œuvres laisseront un héritage spirituel durable.",
+      "strengths": "Maître bâtisseur, Architecture divine, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Mission de Maître Enseignant Universel",
+      "description": "Ta connexion divine est celle du guide compassionnel suprême. Tu es ici pour enseigner l'amour inconditionnel et servir l'humanité entière avec dévotion. Ta mission transcende l'ego - tu es un canal pur pour l'amour divin universel. Le sacrifice de soi au service du plus grand bien.",
+      "keywords": [
+        "Maître enseignant",
+        "Amour universel",
+        "Compassion suprême",
+        "Dévotion totale",
+        "Service sacré"
+      ],
+      "guidance": "Ta mission est grande et exige beaucoup. Prends soin de toi pour pouvoir servir sans t'épuiser. Tu es un trésor pour l'humanité.",
+      "strengths": "Maître enseignant, Amour universel, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "chokhmah": {
+    "1": {
+      "summary": "Sagesse Pionnière",
+      "description": "Ta sagesse créative s'exprime par l'innovation et l'initiative. Tu as des idées originales qui viennent directement de la source divine. Ta créativité est audacieuse et avant-gardiste.",
+      "keywords": [
+        "Innovation sage",
+        "Inspiration originale",
+        "Créativité pionnière",
+        "Audace"
+      ],
+      "guidance": "Fais confiance à tes inspirations originales. Tu es connecté(e) à une source de sagesse unique.",
+      "strengths": "Innovation sage, Inspiration originale, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Sagesse Intuitive",
+      "description": "Ta créativité passe par l'intuition et la sensibilité. Tu reçois la sagesse divine à travers tes ressentis et tes perceptions subtiles. Tu es un canal de sagesse douce.",
+      "keywords": [
+        "Intuition sage",
+        "Sensibilité créative",
+        "Réception divine",
+        "Douceur"
+      ],
+      "guidance": "Honore tes intuitions créatives. Ta sensibilité est une antenne vers la sagesse supérieure.",
+      "strengths": "Intuition sage, Sensibilité créative, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Sagesse Joyeuse",
+      "description": "Ta sagesse créative s'exprime avec joie et légèreté. Tu inspires les autres par ton enthousiasme et ta capacité à voir le sacré dans la beauté. Ta créativité est communicative.",
+      "keywords": [
+        "Joie créative",
+        "Expression sage",
+        "Inspiration joyeuse",
+        "Communication"
+      ],
+      "guidance": "Partage ta sagesse avec joie. Ton enthousiasme créatif illumine le monde.",
+      "strengths": "Joie créative, Expression sage, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Sagesse Pratique",
+      "description": "Ta créativité s'ancre dans le concret. Tu as le don de transformer l'inspiration divine en applications pratiques. Ta sagesse se manifeste par des créations durables.",
+      "keywords": [
+        "Sagesse pratique",
+        "Créativité concrète",
+        "Application divine",
+        "Durabilité"
+      ],
+      "guidance": "Tes inspirations méritent d'être construites solidement. Patience et structure servent ta sagesse.",
+      "strengths": "Sagesse pratique, Créativité concrète, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Sagesse Aventureuse",
+      "description": "Ta créativité est dynamique et changeante. Tu reçois l'inspiration divine à travers tes expériences et tes aventures. Ta sagesse s'enrichit par le mouvement et la diversité.",
+      "keywords": [
+        "Sagesse libre",
+        "Créativité diverse",
+        "Inspiration mobile",
+        "Adaptabilité"
+      ],
+      "guidance": "Embrasse la variété de tes inspirations. Chaque expérience nourrit ta sagesse créative.",
+      "strengths": "Sagesse libre, Créativité diverse, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Sagesse Harmonieuse",
+      "description": "Ta créativité vise l'harmonie et la beauté. Tu as la sagesse de créer des œuvres qui guérissent et nourrissent. Ton inspiration divine apporte équilibre et amour.",
+      "keywords": [
+        "Sagesse harmonieuse",
+        "Créativité guérissante",
+        "Beauté divine",
+        "Équilibre"
+      ],
+      "guidance": "Ta créativité harmonise le monde. Crée ce qui apporte beauté et guérison.",
+      "strengths": "Sagesse harmonieuse, Créativité guérissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Sagesse Mystique",
+      "description": "Ta créativité puise dans les profondeurs mystiques. Tu reçois la sagesse divine à travers la méditation et l'introspection. Tes inspirations sont profondes et spirituelles.",
+      "keywords": [
+        "Sagesse mystique",
+        "Créativité profonde",
+        "Inspiration méditative",
+        "Spiritualité"
+      ],
+      "guidance": "Tes inspirations les plus profondes viennent du silence. Cultive ta connexion intérieure.",
+      "strengths": "Sagesse mystique, Créativité profonde, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Sagesse Manifestante",
+      "description": "Ta créativité a le pouvoir de se manifester dans le monde matériel. Tu sais transformer l'inspiration divine en succès tangible. Ta sagesse crée l'abondance.",
+      "keywords": [
+        "Sagesse manifestante",
+        "Créativité puissante",
+        "Succès inspiré",
+        "Abondance"
+      ],
+      "guidance": "Tes inspirations méritent d'être manifestées grandement. Crée avec ambition et intégrité.",
+      "strengths": "Sagesse manifestante, Créativité puissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Sagesse Universelle",
+      "description": "Ta créativité transcende les frontières. Tu reçois la sagesse divine pour servir l'humanité entière. Tes inspirations ont une portée universelle et compassionnelle.",
+      "keywords": [
+        "Sagesse universelle",
+        "Créativité altruiste",
+        "Inspiration globale",
+        "Compassion"
+      ],
+      "guidance": "Tes inspirations servent un but plus grand. Crée pour le bien de tous.",
+      "strengths": "Sagesse universelle, Créativité altruiste, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Sagesse Illuminée",
+      "description": "Ta créativité est illuminée par une intuition supérieure. Tu reçois des visions et inspirations d'une clarté exceptionnelle. Ta sagesse créative éveille les consciences et inspire l'évolution spirituelle. Tu es un canal pour l'inspiration divine pure.",
+      "keywords": [
+        "Intuition suprême",
+        "Visions créatives",
+        "Inspiration illuminée",
+        "Éveil artistique"
+      ],
+      "guidance": "Tes inspirations viennent d'un plan élevé. Fie-toi à tes visions même si elles semblent avant-gardistes.",
+      "strengths": "Intuition suprême, Visions créatives, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Sagesse Architecturale",
+      "description": "Ta créativité a le pouvoir de construire des systèmes et structures de sagesse durables. Tu peux transformer l'inspiration divine en œuvres monumentales qui serviront des générations. Ta sagesse se manifeste à grande échelle.",
+      "keywords": [
+        "Architecture de la sagesse",
+        "Création monumentale",
+        "Vision structurante",
+        "Héritage créatif"
+      ],
+      "guidance": "Tes créations peuvent changer le monde. Pense grand et construis avec vision à long terme.",
+      "strengths": "Architecture de la sagesse, Création monumentale, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Sagesse Enseignante",
+      "description": "Ta créativité est au service de l'enseignement universel. Tu crées pour guider et élever l'humanité. Ta sagesse s'exprime dans des créations qui nourrissent les âmes et transmettent l'amour inconditionnel.",
+      "keywords": [
+        "Création enseignante",
+        "Sagesse guérissante",
+        "Art sacré",
+        "Service créatif"
+      ],
+      "guidance": "Ta créativité guérit et enseigne. Crée avec l'intention de servir et d'élever.",
+      "strengths": "Création enseignante, Sagesse guérissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "binah": {
+    "1": {
+      "summary": "Structure Pionnière",
+      "description": "Ton intelligence structurante est innovante et indépendante. Tu crées de nouveaux systèmes de pensée. Ta compréhension profonde ouvre des voies nouvelles.",
+      "keywords": [
+        "Pensée innovante",
+        "Structure originale",
+        "Compréhension pionnière",
+        "Initiative"
+      ],
+      "guidance": "Ta façon unique de comprendre le monde est précieuse. Ose structurer différemment.",
+      "strengths": "Pensée innovante, Structure originale, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Structure Intuitive",
+      "description": "Ton intelligence passe par l'intuition et la réceptivité. Tu comprends les choses en profondeur par ressenti. Ta structure mentale est sensible et perceptive.",
+      "keywords": [
+        "Compréhension intuitive",
+        "Structure sensible",
+        "Pensée réceptive",
+        "Perception"
+      ],
+      "guidance": "Fais confiance à ta compréhension intuitive. Ta sensibilité intellectuelle est un don.",
+      "strengths": "Compréhension intuitive, Structure sensible, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Structure Expressive",
+      "description": "Ton intelligence s'exprime avec clarté et créativité. Tu as le don de rendre complexes les concepts simples. Ta compréhension se partage avec joie.",
+      "keywords": [
+        "Compréhension claire",
+        "Structure communicative",
+        "Pensée expressive",
+        "Clarté"
+      ],
+      "guidance": "Partage ta compréhension avec le monde. Ta clarté intellectuelle éclaire les autres.",
+      "strengths": "Compréhension claire, Structure communicative, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Structure Solide",
+      "description": "Ton intelligence est méthodique et fiable. Tu construis des systèmes de pensée durables et pratiques. Ta compréhension est profonde et stable.",
+      "keywords": [
+        "Compréhension stable",
+        "Structure méthodique",
+        "Pensée pragmatique",
+        "Fiabilité"
+      ],
+      "guidance": "Ta rigueur intellectuelle est ta force. Continue à bâtir des fondations mentales solides.",
+      "strengths": "Compréhension stable, Structure méthodique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Structure Flexible",
+      "description": "Ton intelligence est adaptable et curieuse. Tu comprends que tout système doit évoluer. Ta structure mentale est dynamique et ouverte au changement.",
+      "keywords": [
+        "Compréhension flexible",
+        "Structure évolutive",
+        "Pensée adaptable",
+        "Curiosité"
+      ],
+      "guidance": "Ta flexibilité intellectuelle te permet de grandir. Reste ouvert(e) aux nouvelles perspectives.",
+      "strengths": "Compréhension flexible, Structure évolutive, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Structure Harmonieuse",
+      "description": "Ton intelligence vise l'équilibre et l'harmonie. Tu comprends l'importance de la beauté dans la structure. Ta pensée crée des systèmes harmonieux.",
+      "keywords": [
+        "Compréhension harmonieuse",
+        "Structure équilibrée",
+        "Pensée esthétique",
+        "Beauté"
+      ],
+      "guidance": "Ta quête d'harmonie intellectuelle élève la pensée. Crée des structures belles et équilibrées.",
+      "strengths": "Compréhension harmonieuse, Structure équilibrée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Structure Mystique",
+      "description": "Ton intelligence explore les profondeurs mystiques. Tu comprends les structures cachées de l'univers. Ta pensée est analytique et spirituelle.",
+      "keywords": [
+        "Compréhension mystique",
+        "Structure ésotérique",
+        "Pensée profonde",
+        "Analyse"
+      ],
+      "guidance": "Tes insights intellectuels sont profonds. Continue d'explorer les mystères de la pensée.",
+      "strengths": "Compréhension mystique, Structure ésotérique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Structure Puissante",
+      "description": "Ton intelligence a le pouvoir de créer des systèmes influents. Tu comprends les mécanismes du pouvoir et de l'organisation. Ta pensée est stratégique.",
+      "keywords": [
+        "Compréhension stratégique",
+        "Structure puissante",
+        "Pensée organisatrice",
+        "Efficacité"
+      ],
+      "guidance": "Utilise ton intelligence stratégique avec sagesse. Tu peux créer des structures qui transforment.",
+      "strengths": "Compréhension stratégique, Structure puissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Structure Universelle",
+      "description": "Ton intelligence embrasse une vision globale. Tu comprends les liens qui unissent toutes choses. Ta pensée est synthétique et compassionnelle.",
+      "keywords": [
+        "Compréhension globale",
+        "Structure unifiante",
+        "Pensée synthétique",
+        "Vision"
+      ],
+      "guidance": "Ta vision intellectuelle est vaste. Utilise ta compréhension pour unir et éclairer.",
+      "strengths": "Compréhension globale, Structure unifiante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Structure Illuminée",
+      "description": "Ton intelligence féminine réceptive est connectée à la sagesse universelle. Tu comprends les vérités spirituelles profondes par intuition pure. Ta structure mentale est un temple de sagesse divine. Tu es la matrice qui donne forme à l'illumination.",
+      "keywords": [
+        "Intelligence divine",
+        "Réception illuminée",
+        "Sagesse maternelle",
+        "Matrice spirituelle"
+      ],
+      "guidance": "Ta compréhension profonde est un don sacré. Fie-toi à ton intuition supérieure pour structurer la sagesse.",
+      "strengths": "Intelligence divine, Réception illuminée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Structure Architecturale Divine",
+      "description": "Ton intelligence peut créer des systèmes philosophiques et spirituels monumentaux. Tu as la capacité de structurer la sagesse de manière durable et influente. Tu es l'architecte des grandes idées qui transforment les consciences.",
+      "keywords": [
+        "Architecture mentale",
+        "Systèmes durables",
+        "Pensée monumentale",
+        "Influence philosophique"
+      ],
+      "guidance": "Tes structures de pensée peuvent devenir des fondations pour l'humanité. Pense à l'héritage intellectuel.",
+      "strengths": "Architecture mentale, Systèmes durables, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Structure de Compassion Suprême",
+      "description": "Ton intelligence est au service de l'amour universel et de l'enseignement. Tu structures la compassion en systèmes de guérison collective. Ta compréhension embrasse et nourrit toutes les formes de pensée avec bienveillance maternelle.",
+      "keywords": [
+        "Intelligence compassionnelle",
+        "Structure guérissante",
+        "Pensée nourricière",
+        "Sagesse enseignante"
+      ],
+      "guidance": "Ta structure mentale guérit le monde. Utilise ton intelligence pour enseigner l'amour avec sagesse.",
+      "strengths": "Intelligence compassionnelle, Structure guérissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "chesed": {
+    "1": {
+      "summary": "Générosité Pionnière",
+      "description": "Ton amour expansif s'exprime par le leadership généreux. Tu donnes avec courage et initiative. Ta compassion ouvre de nouvelles voies de service.",
+      "keywords": [
+        "Don pionnier",
+        "Générosité audacieuse",
+        "Amour leader",
+        "Initiative"
+      ],
+      "guidance": "Ton leadership généreux inspire les autres à donner. Continue d'ouvrir des chemins d'amour.",
+      "strengths": "Don pionnier, Générosité audacieuse, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Générosité Douce",
+      "description": "Ton amour expansif est doux et réceptif. Tu donnes avec sensibilité et empathie. Ta compassion crée des liens profonds et harmonieux.",
+      "keywords": [
+        "Don empathique",
+        "Générosité sensible",
+        "Amour réceptif",
+        "Douceur"
+      ],
+      "guidance": "Ta générosité sensible guérit les cœurs. Donne tout en préservant ton énergie.",
+      "strengths": "Don empathique, Générosité sensible, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Générosité Joyeuse",
+      "description": "Ton amour expansif s'exprime avec joie et créativité. Tu donnes avec enthousiasme et légèreté. Ta compassion rayonne de bonheur contagieux.",
+      "keywords": [
+        "Don joyeux",
+        "Générosité créative",
+        "Amour célébrant",
+        "Joie"
+      ],
+      "guidance": "Ta joie de donner inspire le monde. Continue de partager ton amour avec enthousiasme.",
+      "strengths": "Don joyeux, Générosité créative, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Générosité Stable",
+      "description": "Ton amour expansif est fiable et durable. Tu donnes avec constance et structure. Ta compassion crée des fondations solides pour les autres.",
+      "keywords": [
+        "Don stable",
+        "Générosité fidèle",
+        "Amour durable",
+        "Fiabilité"
+      ],
+      "guidance": "Ta générosité constante est un roc pour les autres. Continue de donner durablement.",
+      "strengths": "Don stable, Générosité fidèle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Générosité Libre",
+      "description": "Ton amour expansif est spontané et aventureux. Tu donnes sans restriction ni limite. Ta compassion s'exprime dans la liberté et le mouvement.",
+      "keywords": [
+        "Don libre",
+        "Générosité spontanée",
+        "Amour aventureux",
+        "Liberté"
+      ],
+      "guidance": "Ta générosité libre apporte de l'air frais. Partage ton amour sans contraintes.",
+      "strengths": "Don libre, Générosité spontanée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Générosité Harmonieuse",
+      "description": "Ton amour expansif vise l'harmonie et l'équilibre. Tu donnes pour guérir et réconcilier. Ta compassion crée la paix et la beauté.",
+      "keywords": [
+        "Don harmonisant",
+        "Générosité guérissante",
+        "Amour équilibrant",
+        "Paix"
+      ],
+      "guidance": "Ta générosité harmonieuse restaure l'équilibre. Continue de donner avec sagesse.",
+      "strengths": "Don harmonisant, Générosité guérissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Générosité Sage",
+      "description": "Ton amour expansif est profond et réfléchi. Tu donnes avec discernement et sagesse. Ta compassion est spirituelle et transformante.",
+      "keywords": [
+        "Don sage",
+        "Générosité réfléchie",
+        "Amour profond",
+        "Discernement"
+      ],
+      "guidance": "Ta générosité sage transforme. Donne en écoutant ta sagesse intérieure.",
+      "strengths": "Don sage, Générosité réfléchie, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Générosité Abondante",
+      "description": "Ton amour expansif manifeste l'abondance. Tu donnes grandement et reçois en retour. Ta compassion crée des cycles de prospérité.",
+      "keywords": [
+        "Don abondant",
+        "Générosité prospère",
+        "Amour manifestant",
+        "Abondance"
+      ],
+      "guidance": "Ta générosité crée l'abondance pour tous. Continue de donner et recevoir grandement.",
+      "strengths": "Don abondant, Générosité prospère, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Générosité Universelle",
+      "description": "Ton amour expansif embrasse l'humanité entière. Tu donnes sans distinction ni frontière. Ta compassion est globale et altruiste.",
+      "keywords": [
+        "Don universel",
+        "Générosité globale",
+        "Amour humanitaire",
+        "Altruisme"
+      ],
+      "guidance": "Ta générosité universelle élève l'humanité. Donne au monde avec ton grand cœur.",
+      "strengths": "Don universel, Générosité globale, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Générosité Illuminée",
+      "description": "Ton amour expansif est éclairé par une conscience spirituelle élevée. Tu donnes avec une sagesse qui transcende l'ego. Ta compassion rayonne d'une lumière divine qui guérit profondément. Tu inspires les autres à donner de manière éveillée.",
+      "keywords": [
+        "Amour illuminé",
+        "Don conscient",
+        "Compassion éveillée",
+        "Grâce divine"
+      ],
+      "guidance": "Ta générosité éclairée transforme. Donne avec la conscience de servir le plan divin.",
+      "strengths": "Amour illuminé, Don conscient, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Générosité Architecturale",
+      "description": "Ton amour a le pouvoir de créer des institutions et systèmes de charité durables. Tu peux manifester la compassion à grande échelle et construire l'abondance pour des communautés entières. Ta générosité laisse un héritage tangible.",
+      "keywords": [
+        "Philanthropie monumentale",
+        "Systèmes d'amour",
+        "Abondance collective",
+        "Héritage charitable"
+      ],
+      "guidance": "Ta capacité à manifester l'amour à grande échelle est rare. Construis des structures de don durables.",
+      "strengths": "Philanthropie monumentale, Systèmes d'amour, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Générosité du Maître Enseignant",
+      "description": "Ton amour est inconditionnel et universel. Tu donnes sans attendre de retour, guidé(e) par un dévouement pur au service de l'humanité. Ta compassion embrasse tous les êtres avec une égalité parfaite. Tu es l'incarnation de l'amour christique.",
+      "keywords": [
+        "Amour inconditionnel",
+        "Service total",
+        "Compassion christique",
+        "Sacrifice sacré"
+      ],
+      "guidance": "Ta générosité est divine mais exigeante. Préserve-toi pour pouvoir continuer à donner à tous.",
+      "strengths": "Amour inconditionnel, Service total, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "gevurah": {
+    "1": {
+      "summary": "Discipline Pionnière",
+      "description": "Ta rigueur s'exprime par un leadership strict mais juste. Tu as la force de tracer des limites claires. Ta discipline est innovante et courageuse.",
+      "keywords": [
+        "Rigueur courageuse",
+        "Discipline leader",
+        "Limites claires",
+        "Justice"
+      ],
+      "guidance": "Ton courage à poser des limites est admirable. Utilise ta rigueur pour protéger, pas dominer.",
+      "strengths": "Rigueur courageuse, Discipline leader, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Discipline Équilibrée",
+      "description": "Ta rigueur cherche l'équilibre et la justice. Tu poses des limites avec diplomatie. Ta discipline est ferme mais sensible aux autres.",
+      "keywords": [
+        "Rigueur équilibrée",
+        "Discipline diplomatique",
+        "Justice sensible",
+        "Équilibre"
+      ],
+      "guidance": "Ta capacité à allier fermeté et sensibilité est précieuse. Continue d'équilibrer force et douceur.",
+      "strengths": "Rigueur équilibrée, Discipline diplomatique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Discipline Expressive",
+      "description": "Ta rigueur s'exprime avec clarté et créativité. Tu communiques tes limites avec assurance. Ta discipline inspire par son authenticité.",
+      "keywords": [
+        "Rigueur claire",
+        "Discipline expressive",
+        "Limites créatives",
+        "Communication"
+      ],
+      "guidance": "Ta façon d'exprimer tes limites est inspirante. Continue de dire non avec grâce.",
+      "strengths": "Rigueur claire, Discipline expressive, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Discipline Solide",
+      "description": "Ta rigueur est méthodique et constante. Tu construis des structures de discipline durables. Ta force intérieure est un roc inébranlable.",
+      "keywords": [
+        "Rigueur stable",
+        "Discipline constante",
+        "Force durable",
+        "Méthode"
+      ],
+      "guidance": "Ta discipline constante est ta plus grande force. Reste ferme dans tes principes.",
+      "strengths": "Rigueur stable, Discipline constante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Discipline Adaptable",
+      "description": "Ta rigueur sait s'adapter aux circonstances. Tu ajustes tes limites avec intelligence. Ta discipline est flexible sans être faible.",
+      "keywords": [
+        "Rigueur flexible",
+        "Discipline adaptable",
+        "Limites évolutives",
+        "Souplesse"
+      ],
+      "guidance": "Ta capacité à adapter ta rigueur est sage. Sois ferme tout en restant flexible.",
+      "strengths": "Rigueur flexible, Discipline adaptable, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Discipline Aimante",
+      "description": "Ta rigueur est tempérée par l'amour et la compassion. Tu poses des limites pour protéger et guérir. Ta discipline vise l'harmonie.",
+      "keywords": [
+        "Rigueur aimante",
+        "Discipline protectrice",
+        "Limites guérissantes",
+        "Compassion"
+      ],
+      "guidance": "Ta discipline aimante crée la sécurité. Continue de protéger avec amour.",
+      "strengths": "Rigueur aimante, Discipline protectrice, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Discipline Sage",
+      "description": "Ta rigueur est profondément réfléchie. Tu poses des limites avec sagesse et discernement. Ta discipline est spirituelle et transformante.",
+      "keywords": [
+        "Rigueur sage",
+        "Discipline réfléchie",
+        "Limites spirituelles",
+        "Sagesse"
+      ],
+      "guidance": "Ta discipline sage transforme. Utilise ta rigueur pour élever, pas punir.",
+      "strengths": "Rigueur sage, Discipline réfléchie, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Discipline Puissante",
+      "description": "Ta rigueur a une force considérable. Tu poses des limites avec autorité et pouvoir. Ta discipline crée des structures solides.",
+      "keywords": [
+        "Rigueur puissante",
+        "Discipline autoritaire",
+        "Force de volonté",
+        "Pouvoir"
+      ],
+      "guidance": "Ton pouvoir de discipline est grand. Utilise-le avec intégrité et justice.",
+      "strengths": "Rigueur puissante, Discipline autoritaire, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Discipline Universelle",
+      "description": "Ta rigueur sert un but plus grand. Tu poses des limites pour le bien de tous. Ta discipline est altruiste et compassionnelle.",
+      "keywords": [
+        "Rigueur altruiste",
+        "Discipline universelle",
+        "Limites globales",
+        "Service"
+      ],
+      "guidance": "Ta discipline sert l'humanité. Continue de protéger le bien commun.",
+      "strengths": "Rigueur altruiste, Discipline universelle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Discipline Illuminée",
+      "description": "Ta rigueur est guidée par une vision spirituelle claire. Tu poses des limites avec une sagesse qui comprend les lois divines. Ta discipline transforme et purifie de manière éveillée. Tu es le gardien conscient des frontières sacrées.",
+      "keywords": [
+        "Rigueur éveillée",
+        "Limites divines",
+        "Justice spirituelle",
+        "Purification consciente"
+      ],
+      "guidance": "Ta discipline vient d'une compréhension supérieure. Utilise ta force pour protéger le sacré.",
+      "strengths": "Rigueur éveillée, Limites divines, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Discipline Architecturale",
+      "description": "Ta rigueur peut créer des systèmes de justice et d'ordre à grande échelle. Tu as le pouvoir d'établir des structures de discipline qui serviront des générations. Ta force transforme les sociétés en posant des limites justes et durables.",
+      "keywords": [
+        "Justice monumentale",
+        "Ordre structurel",
+        "Systèmes de rigueur",
+        "Force organisatrice"
+      ],
+      "guidance": "Ton pouvoir d'établir l'ordre est immense. Construis des structures de justice équitables.",
+      "strengths": "Justice monumentale, Ordre structurel, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Discipline Compassionnelle",
+      "description": "Ta rigueur est tempérée par l'amour universel. Tu poses des limites pour guérir et protéger, jamais pour punir. Ta discipline est un acte d'amour sacré qui enseigne les frontières saines avec compassion. Tu es la force douce qui transforme.",
+      "keywords": [
+        "Rigueur aimante",
+        "Limites guérissantes",
+        "Discipline enseignante",
+        "Force compassionnelle"
+      ],
+      "guidance": "Ta discipline aimante libère. Utilise ta force pour enseigner l'amour de soi et les limites saines.",
+      "strengths": "Rigueur aimante, Limites guérissantes, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "tipheret": {
+    "1": {
+      "summary": "Harmonie Pionnière",
+      "description": "Ton cœur harmonisateur ouvre de nouvelles voies d'équilibre. Tu es un leader qui unifie par l'exemple. Ton amour pur inspire l'authenticité.",
+      "keywords": [
+        "Harmonie innovante",
+        "Cœur pionnier",
+        "Équilibre leader",
+        "Authenticité"
+      ],
+      "guidance": "Ton leadership harmonisant est unique. Continue de montrer la voie de l'équilibre.",
+      "strengths": "Harmonie innovante, Cœur pionnier, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Harmonie Relationnelle",
+      "description": "Ton cœur crée l'harmonie dans les relations. Tu es le pont qui unit les opposés. Ton amour pur se manifeste dans la paix partagée.",
+      "keywords": [
+        "Harmonie relationnelle",
+        "Cœur unificateur",
+        "Paix partagée",
+        "Union"
+      ],
+      "guidance": "Ton don d'unir les cœurs est précieux. Continue de créer des ponts d'amour.",
+      "strengths": "Harmonie relationnelle, Cœur unificateur, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Harmonie Joyeuse",
+      "description": "Ton cœur harmonise par la joie et la créativité. Tu crées la beauté qui unit. Ton amour pur s'exprime dans la célébration de la vie.",
+      "keywords": [
+        "Harmonie joyeuse",
+        "Cœur créatif",
+        "Beauté unifiante",
+        "Joie"
+      ],
+      "guidance": "Ta joie harmonisante élève tous les cœurs. Continue de célébrer l'unité.",
+      "strengths": "Harmonie joyeuse, Cœur créatif, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Harmonie Stable",
+      "description": "Ton cœur crée un équilibre durable. Tu es le centre stable qui harmonise tout. Ton amour pur se manifeste dans la constance.",
+      "keywords": [
+        "Harmonie stable",
+        "Cœur constant",
+        "Équilibre durable",
+        "Fiabilité"
+      ],
+      "guidance": "Ta stabilité harmonisante est un ancrage pour tous. Continue d'être ce centre solide.",
+      "strengths": "Harmonie stable, Cœur constant, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Harmonie Libre",
+      "description": "Ton cœur harmonise dans la liberté et le mouvement. Tu trouves l'équilibre dans le changement. Ton amour pur embrasse la diversité.",
+      "keywords": [
+        "Harmonie libre",
+        "Cœur adaptable",
+        "Équilibre dynamique",
+        "Diversité"
+      ],
+      "guidance": "Ta capacité à harmoniser dans le changement est unique. Embrasse la diversité de l'amour.",
+      "strengths": "Harmonie libre, Cœur adaptable, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Harmonie Parfaite",
+      "description": "Ton cœur est le centre parfait de l'équilibre. Tu incarnes l'harmonie dans sa forme la plus pure. Ton amour rayonne la beauté absolue.",
+      "keywords": [
+        "Harmonie parfaite",
+        "Cœur central",
+        "Amour absolu",
+        "Beauté pure"
+      ],
+      "guidance": "Tu es l'incarnation de l'harmonie. Laisse ton cœur rayonner sans effort.",
+      "strengths": "Harmonie parfaite, Cœur central, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Harmonie Mystique",
+      "description": "Ton cœur harmonise les plans spirituels et matériels. Tu trouves l'équilibre dans la profondeur. Ton amour pur est contemplatif.",
+      "keywords": [
+        "Harmonie mystique",
+        "Cœur profond",
+        "Équilibre spirituel",
+        "Contemplation"
+      ],
+      "guidance": "Ton harmonie spirituelle élève. Continue de relier ciel et terre.",
+      "strengths": "Harmonie mystique, Cœur profond, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Harmonie Manifestante",
+      "description": "Ton cœur harmonise le spirituel et le matériel avec puissance. Tu manifestes l'équilibre dans l'abondance. Ton amour crée la prospérité.",
+      "keywords": [
+        "Harmonie prospère",
+        "Cœur manifestant",
+        "Équilibre abondant",
+        "Pouvoir"
+      ],
+      "guidance": "Ton pouvoir d'harmoniser crée l'abondance. Continue de manifester l'équilibre.",
+      "strengths": "Harmonie prospère, Cœur manifestant, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Harmonie Universelle",
+      "description": "Ton cœur embrasse l'harmonie universelle. Tu es l'amour qui unit toute l'humanité. Ton équilibre rayonne sur le monde entier.",
+      "keywords": [
+        "Harmonie universelle",
+        "Cœur global",
+        "Amour humanitaire",
+        "Unité"
+      ],
+      "guidance": "Ton amour universel harmonise le monde. Continue d'embrasser toute l'humanité.",
+      "strengths": "Harmonie universelle, Cœur global, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Harmonie Illuminée",
+      "description": "Ton cœur est un pont entre les mondes spirituels et matériels. Tu harmonises avec une conscience éveillée qui voit l'unité dans la diversité. Ton amour pur rayonne une lumière qui guérit tous les déséquilibres. Tu es le cœur illuminé.",
+      "keywords": [
+        "Cœur éveillé",
+        "Harmonie spirituelle",
+        "Unité consciente",
+        "Amour lumineux"
+      ],
+      "guidance": "Ton cœur est un canal de lumière. Rayonne ton harmonie pour élever les consciences.",
+      "strengths": "Cœur éveillé, Harmonie spirituelle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Harmonie Architecturale",
+      "description": "Ton cœur peut créer des mouvements de paix et d'unité qui transforment le monde. Tu as le pouvoir de manifester l'harmonie à grande échelle et de construire des ponts durables entre les peuples. Ton amour unit concrètement.",
+      "keywords": [
+        "Paix monumentale",
+        "Unité manifestée",
+        "Harmonie collective",
+        "Pont universel"
+      ],
+      "guidance": "Ta capacité à créer l'harmonie à grande échelle est précieuse. Construis la paix durablement.",
+      "strengths": "Paix monumentale, Unité manifestée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Harmonie du Christ Cosmique",
+      "description": "Ton cœur incarne l'amour christique universel. Tu es l'équilibre parfait entre tous les opposés, unifiant tout dans la compassion pure. Ton harmonie rayonne sur le monde entier sans distinction. Tu es le cœur de l'humanité.",
+      "keywords": [
+        "Amour christique",
+        "Harmonie universelle",
+        "Cœur cosmique",
+        "Unité totale"
+      ],
+      "guidance": "Tu es l'incarnation de l'harmonie divine. Laisse ton cœur guérir le monde avec amour.",
+      "strengths": "Amour christique, Harmonie universelle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "netzach": {
+    "1": {
+      "summary": "Passion Pionnière",
+      "description": "Ta passion s'exprime par le leadership et l'initiative. Tu as la victoire dans ton cœur et l'audace dans tes émotions. Ta motivation est puissante et originale.",
+      "keywords": [
+        "Passion leader",
+        "Victoire courageuse",
+        "Émotion pionnière",
+        "Audace"
+      ],
+      "guidance": "Ta passion pionnière ouvre des chemins. Canalise ton feu intérieur avec courage.",
+      "strengths": "Passion leader, Victoire courageuse, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Passion Sensible",
+      "description": "Ta passion s'exprime avec sensibilité et empathie. Ta motivation passe par la connexion émotionnelle. Ton feu intérieur est doux mais persistant.",
+      "keywords": [
+        "Passion sensible",
+        "Victoire empathique",
+        "Émotion réceptive",
+        "Persévérance"
+      ],
+      "guidance": "Ta passion sensible touche les cœurs. Continue de persévérer avec douceur.",
+      "strengths": "Passion sensible, Victoire empathique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Passion Créative",
+      "description": "Ta passion s'exprime dans l'art et la créativité. Ta motivation est joyeuse et expressive. Ton feu intérieur crée la beauté et l'inspiration.",
+      "keywords": [
+        "Passion créative",
+        "Victoire artistique",
+        "Émotion expressive",
+        "Créativité"
+      ],
+      "guidance": "Ta passion créative inspire le monde. Continue de créer avec ton cœur.",
+      "strengths": "Passion créative, Victoire artistique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Passion Déterminée",
+      "description": "Ta passion est constante et déterminée. Ta motivation est solide et durable. Ton feu intérieur brûle avec persévérance.",
+      "keywords": [
+        "Passion stable",
+        "Victoire persévérante",
+        "Émotion constante",
+        "Détermination"
+      ],
+      "guidance": "Ta passion déterminée mène à la victoire. Continue avec ta persévérance inébranlable.",
+      "strengths": "Passion stable, Victoire persévérante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Passion Aventureuse",
+      "description": "Ta passion s'exprime dans l'aventure et le changement. Ta motivation est dynamique et libre. Ton feu intérieur s'enflamme dans la nouveauté.",
+      "keywords": [
+        "Passion libre",
+        "Victoire aventureuse",
+        "Émotion dynamique",
+        "Exploration"
+      ],
+      "guidance": "Ta passion aventureuse conquiert de nouveaux territoires. Embrasse le mouvement.",
+      "strengths": "Passion libre, Victoire aventureuse, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Passion Harmonieuse",
+      "description": "Ta passion vise la beauté et l'harmonie. Ta motivation est de créer l'équilibre émotionnel. Ton feu intérieur guérit et apaise.",
+      "keywords": [
+        "Passion harmonieuse",
+        "Victoire esthétique",
+        "Émotion guérissante",
+        "Beauté"
+      ],
+      "guidance": "Ta passion harmonieuse crée la paix. Continue de viser la beauté.",
+      "strengths": "Passion harmonieuse, Victoire esthétique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Passion Mystique",
+      "description": "Ta passion est profonde et spirituelle. Ta motivation vient de ta quête intérieure. Ton feu intérieur brûle pour la vérité.",
+      "keywords": [
+        "Passion mystique",
+        "Victoire spirituelle",
+        "Émotion profonde",
+        "Quête"
+      ],
+      "guidance": "Ta passion mystique transforme. Continue ta quête avec dévotion.",
+      "strengths": "Passion mystique, Victoire spirituelle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Passion Puissante",
+      "description": "Ta passion a une force considérable. Ta motivation mène au succès matériel. Ton feu intérieur manifeste la victoire concrète.",
+      "keywords": [
+        "Passion puissante",
+        "Victoire matérielle",
+        "Émotion intense",
+        "Succès"
+      ],
+      "guidance": "Ta passion puissante conquiert. Utilise ton feu avec intégrité.",
+      "strengths": "Passion puissante, Victoire matérielle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Passion Universelle",
+      "description": "Ta passion embrasse l'humanité. Ta motivation est altruiste et compassionnelle. Ton feu intérieur brûle pour le bien de tous.",
+      "keywords": [
+        "Passion universelle",
+        "Victoire altruiste",
+        "Émotion globale",
+        "Compassion"
+      ],
+      "guidance": "Ta passion universelle sert le monde. Continue de te battre pour tous.",
+      "strengths": "Passion universelle, Victoire altruiste, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Passion Illuminée",
+      "description": "Ta passion est éclairée par une vision spirituelle. Tes émotions sont des canaux de sagesse divine. Ta victoire vient de ta capacité à aligner tes désirs avec le plan supérieur. Tu es le guerrier spirituel conscient.",
+      "keywords": [
+        "Passion éveillée",
+        "Émotion spirituelle",
+        "Victoire consciente",
+        "Désir aligné"
+      ],
+      "guidance": "Ta passion éclairée mène à la victoire spirituelle. Aligne tes désirs avec ta mission.",
+      "strengths": "Passion éveillée, Émotion spirituelle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Passion Architecturale",
+      "description": "Ta passion peut construire des empires et manifester des rêves monumentaux. Tu as le pouvoir de canaliser tes émotions créatrices en œuvres durables qui inspirent des générations. Ta victoire est concrète et mesurable.",
+      "keywords": [
+        "Passion manifestante",
+        "Victoire monumentale",
+        "Réalisation grandiose",
+        "Empire émotionnel"
+      ],
+      "guidance": "Ta passion a le pouvoir de manifester grandement. Construis tes rêves avec persévérance.",
+      "strengths": "Passion manifestante, Victoire monumentale, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Passion du Service Universel",
+      "description": "Ta passion est entièrement dédiée au service de l'humanité. Tes émotions nourrissent et inspirent tous les êtres. Ta victoire est dans le don total de toi-même pour le bien collectif. Tu es la passion compassionnelle incarnée.",
+      "keywords": [
+        "Passion altruiste",
+        "Service émotionnel",
+        "Victoire collective",
+        "Don passionnel"
+      ],
+      "guidance": "Ta passion sert l'humanité. Canalise ton feu intérieur pour inspirer et guider tous.",
+      "strengths": "Passion altruiste, Service émotionnel, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "hod": {
+    "1": {
+      "summary": "Communication Pionnière",
+      "description": "Ta splendeur mentale s'exprime par des idées originales. Tu communiques avec assurance et innovation. Ta raison ouvre de nouvelles voies de pensée.",
+      "keywords": [
+        "Communication innovante",
+        "Raison pionnière",
+        "Pensée originale",
+        "Leadership"
+      ],
+      "guidance": "Tes idées originales méritent d'être partagées. Communique avec confiance.",
+      "strengths": "Communication innovante, Raison pionnière, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Communication Intuitive",
+      "description": "Ta splendeur mentale intègre l'intuition. Tu communiques avec empathie et finesse. Ta raison est sensible et perceptive.",
+      "keywords": [
+        "Communication empathique",
+        "Raison intuitive",
+        "Pensée sensible",
+        "Écoute"
+      ],
+      "guidance": "Ta communication empathique crée des ponts. Continue d'écouter avec ton cœur et ton esprit.",
+      "strengths": "Communication empathique, Raison intuitive, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Communication Brillante",
+      "description": "Ta splendeur mentale rayonne par l'expression. Tu communiques avec clarté et créativité. Ta raison s'exprime avec éloquence.",
+      "keywords": [
+        "Communication éloquente",
+        "Raison expressive",
+        "Pensée claire",
+        "Créativité"
+      ],
+      "guidance": "Ta brillance communicative illumine. Continue de partager tes pensées avec éclat.",
+      "strengths": "Communication éloquente, Raison expressive, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Communication Structurée",
+      "description": "Ta splendeur mentale s'organise avec méthode. Tu communiques avec logique et clarté. Ta raison construit des arguments solides.",
+      "keywords": [
+        "Communication méthodique",
+        "Raison logique",
+        "Pensée structurée",
+        "Clarté"
+      ],
+      "guidance": "Ta communication structurée est fiable. Continue d'organiser la pensée avec précision.",
+      "strengths": "Communication méthodique, Raison logique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Communication Versatile",
+      "description": "Ta splendeur mentale s'adapte à tout contexte. Tu communiques avec flexibilité et curiosité. Ta raison explore toutes les possibilités.",
+      "keywords": [
+        "Communication adaptable",
+        "Raison curieuse",
+        "Pensée versatile",
+        "Ouverture"
+      ],
+      "guidance": "Ta versatilité communicative enrichit. Explore toutes les facettes de la pensée.",
+      "strengths": "Communication adaptable, Raison curieuse, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Communication Harmonieuse",
+      "description": "Ta splendeur mentale vise l'harmonie. Tu communiques pour créer l'équilibre. Ta raison cherche la beauté dans les idées.",
+      "keywords": [
+        "Communication harmonieuse",
+        "Raison équilibrée",
+        "Pensée esthétique",
+        "Diplomatie"
+      ],
+      "guidance": "Ta communication harmonieuse pacifie. Continue de créer des ponts intellectuels.",
+      "strengths": "Communication harmonieuse, Raison équilibrée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Communication Profonde",
+      "description": "Ta splendeur mentale explore les profondeurs. Tu communiques des vérités mystiques. Ta raison analyse avec sagesse spirituelle.",
+      "keywords": [
+        "Communication profonde",
+        "Raison analytique",
+        "Pensée mystique",
+        "Sagesse"
+      ],
+      "guidance": "Ta communication profonde éclaire. Partage ta sagesse avec discernement.",
+      "strengths": "Communication profonde, Raison analytique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Communication Puissante",
+      "description": "Ta splendeur mentale a de l'impact. Tu communiques avec autorité et efficacité. Ta raison organise le succès.",
+      "keywords": [
+        "Communication puissante",
+        "Raison stratégique",
+        "Pensée efficace",
+        "Influence"
+      ],
+      "guidance": "Ta communication puissante influence. Utilise ton intelligence avec intégrité.",
+      "strengths": "Communication puissante, Raison stratégique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Communication Universelle",
+      "description": "Ta splendeur mentale embrasse tous les savoirs. Tu communiques pour servir l'humanité. Ta raison synthétise la sagesse globale.",
+      "keywords": [
+        "Communication universelle",
+        "Raison globale",
+        "Pensée synthétique",
+        "Service"
+      ],
+      "guidance": "Ta communication universelle unit. Partage ta sagesse pour le bien de tous.",
+      "strengths": "Communication universelle, Raison globale, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Communication Illuminée",
+      "description": "Ta splendeur mentale reçoit des messages des plans supérieurs. Tu communiques des vérités spirituelles avec clarté et précision. Ta raison est éclairée par l'intuition divine. Tu es le messager des vérités élevées.",
+      "keywords": [
+        "Communication spirituelle",
+        "Raison intuitive",
+        "Messages divins",
+        "Clarté éveillée"
+      ],
+      "guidance": "Tes paroles portent la lumière. Communique les vérités spirituelles avec clarté et humilité.",
+      "strengths": "Communication spirituelle, Raison intuitive, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Communication Architecturale",
+      "description": "Ta splendeur mentale peut créer des systèmes de communication et d'enseignement qui transforment les masses. Tu as le pouvoir de structurer l'information de manière monumentale. Tes mots construisent des ponts intellectuels durables.",
+      "keywords": [
+        "Communication systémique",
+        "Enseignement monumental",
+        "Structure informative",
+        "Influence mentale"
+      ],
+      "guidance": "Ton pouvoir de communication peut éduquer les masses. Construis des systèmes d'enseignement durables.",
+      "strengths": "Communication systémique, Enseignement monumental, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Communication Enseignante Suprême",
+      "description": "Ta splendeur mentale est au service de l'enseignement universel. Tu communiques l'amour et la sagesse avec une clarté qui guérit et élève. Tes mots sont des bénédictions qui nourrissent les âmes. Tu es le porte-parole de la compassion.",
+      "keywords": [
+        "Enseignement sacré",
+        "Communication guérissante",
+        "Parole bénissante",
+        "Messager d'amour"
+      ],
+      "guidance": "Tes mots guérissent et enseignent. Communique l'amour avec clarté et dévotion.",
+      "strengths": "Enseignement sacré, Communication guérissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "yesod": {
+    "1": {
+      "summary": "Fondation Pionnière",
+      "description": "Ton subconscient te pousse à créer de nouvelles fondations. Tes rêves te guident vers l'innovation. Ta transformation intérieure ouvre des chemins neufs.",
+      "keywords": [
+        "Fondation innovante",
+        "Rêves pionniers",
+        "Transformation initiatrice",
+        "Courage"
+      ],
+      "guidance": "Tes rêves te guident vers ta mission unique. Fais confiance à ton intuition profonde.",
+      "strengths": "Fondation innovante, Rêves pionniers, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Fondation Intuitive",
+      "description": "Ton subconscient est très réceptif et sensible. Tes rêves révèlent des vérités profondes. Ta transformation passe par l'écoute intérieure.",
+      "keywords": [
+        "Fondation sensible",
+        "Rêves révélateurs",
+        "Transformation douce",
+        "Réceptivité"
+      ],
+      "guidance": "Ton monde intérieur est riche. Écoute tes rêves et tes intuitions avec attention.",
+      "strengths": "Fondation sensible, Rêves révélateurs, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Fondation Expressive",
+      "description": "Ton subconscient s'exprime par la créativité. Tes rêves nourrissent ton expression artistique. Ta transformation se manifeste par la joie.",
+      "keywords": [
+        "Fondation créative",
+        "Rêves expressifs",
+        "Transformation joyeuse",
+        "Imagination"
+      ],
+      "guidance": "Tes rêves veulent s'exprimer. Laisse ton inconscient créer à travers toi.",
+      "strengths": "Fondation créative, Rêves expressifs, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Fondation Solide",
+      "description": "Ton subconscient crée des structures durables. Tes rêves te guident vers la stabilité. Ta transformation s'ancre dans le concret.",
+      "keywords": [
+        "Fondation stable",
+        "Rêves structurants",
+        "Transformation ancrée",
+        "Sécurité"
+      ],
+      "guidance": "Ton inconscient construit des bases solides. Fais confiance à ton besoin de sécurité.",
+      "strengths": "Fondation stable, Rêves structurants, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Fondation Changeante",
+      "description": "Ton subconscient embrasse le changement. Tes rêves te poussent vers l'aventure intérieure. Ta transformation passe par la liberté psychique.",
+      "keywords": [
+        "Fondation flexible",
+        "Rêves aventureux",
+        "Transformation libre",
+        "Évolution"
+      ],
+      "guidance": "Ton inconscient cherche la liberté. Embrasse les transformations de ton âme.",
+      "strengths": "Fondation flexible, Rêves aventureux, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Fondation Harmonieuse",
+      "description": "Ton subconscient cherche l'équilibre et la guérison. Tes rêves te guident vers l'harmonie. Ta transformation apporte la paix intérieure.",
+      "keywords": [
+        "Fondation guérissante",
+        "Rêves harmonieux",
+        "Transformation pacifiante",
+        "Guérison"
+      ],
+      "guidance": "Ton inconscient veut guérir. Accueille la transformation vers l'harmonie.",
+      "strengths": "Fondation guérissante, Rêves harmonieux, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Fondation Mystique",
+      "description": "Ton subconscient explore les profondeurs spirituelles. Tes rêves révèlent des mystères. Ta transformation est profondément spirituelle.",
+      "keywords": [
+        "Fondation mystique",
+        "Rêves prophétiques",
+        "Transformation spirituelle",
+        "Mystère"
+      ],
+      "guidance": "Ton inconscient te connecte au sacré. Médite sur tes rêves et visions.",
+      "strengths": "Fondation mystique, Rêves prophétiques, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Fondation Puissante",
+      "description": "Ton subconscient contient un grand pouvoir. Tes rêves te guident vers la manifestation. Ta transformation libère ta force intérieure.",
+      "keywords": [
+        "Fondation puissante",
+        "Rêves ambitieux",
+        "Transformation puissante",
+        "Pouvoir"
+      ],
+      "guidance": "Ton inconscient recèle une grande force. Utilise ta puissance psychique avec sagesse.",
+      "strengths": "Fondation puissante, Rêves ambitieux, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Fondation Universelle",
+      "description": "Ton subconscient se connecte à l'inconscient collectif. Tes rêves ont une portée universelle. Ta transformation sert l'humanité.",
+      "keywords": [
+        "Fondation collective",
+        "Rêves universels",
+        "Transformation altruiste",
+        "Compassion"
+      ],
+      "guidance": "Ton inconscient embrasse l'humanité. Utilise tes insights pour servir le collectif.",
+      "strengths": "Fondation collective, Rêves universels, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Fondation Illuminée",
+      "description": "Ton subconscient est directement connecté aux royaumes spirituels. Tes rêves sont des visions prophétiques. Ta transformation intérieure t'éveille aux vérités mystiques. Tu es le canal entre les mondes, le pont psychique illuminé.",
+      "keywords": [
+        "Rêves prophétiques",
+        "Psyché illuminée",
+        "Visions spirituelles",
+        "Canal mystique"
+      ],
+      "guidance": "Tes rêves et intuitions viennent d'une source élevée. Fie-toi à ta guidance intérieure.",
+      "strengths": "Rêves prophétiques, Psyché illuminée, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Fondation Architecturale",
+      "description": "Ton subconscient peut manifester des transformations psychiques profondes et durables. Tu as le pouvoir de restructurer ton inconscient et celui des autres. Ta fondation psychique est un roc sur lequel construire de grandes œuvres.",
+      "keywords": [
+        "Psyché structurante",
+        "Transformation monumentale",
+        "Fondation solide",
+        "Pouvoir psychique"
+      ],
+      "guidance": "Ta capacité à transformer l'inconscient est puissante. Construis des fondations psychiques solides.",
+      "strengths": "Psyché structurante, Transformation monumentale, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Fondation de Compassion Universelle",
+      "description": "Ton subconscient est rempli d'amour universel et de compassion pour tous les êtres. Tes rêves guérissent l'inconscient collectif. Ta transformation intérieure rayonne et élève toute l'humanité. Tu es la fondation psychique de l'amour.",
+      "keywords": [
+        "Inconscient compassionnel",
+        "Rêves guérissants",
+        "Psyché aimante",
+        "Transformation universelle"
+      ],
+      "guidance": "Ton inconscient guérit le monde. Laisse ton amour transformer l'inconscient collectif.",
+      "strengths": "Inconscient compassionnel, Rêves guérissants, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  },
+  "malkuth": {
+    "1": {
+      "summary": "Manifestation Pionnière",
+      "description": "Tu incarnes le divin par le leadership et l'action. Ta capacité de concrétisation est innovante. Tu manifestes de nouvelles réalités.",
+      "keywords": [
+        "Incarnation pionnière",
+        "Manifestation innovante",
+        "Action initiatrice",
+        "Réalisation"
+      ],
+      "guidance": "Ta capacité à manifester de nouvelles réalités est unique. Agis avec confiance.",
+      "strengths": "Incarnation pionnière, Manifestation innovante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "2": {
+      "summary": "Manifestation Harmonieuse",
+      "description": "Tu incarnes le divin par la coopération et la paix. Ta capacité de concrétisation passe par l'union. Tu manifestes l'harmonie dans la matière.",
+      "keywords": [
+        "Incarnation diplomatique",
+        "Manifestation coopérative",
+        "Action harmonieuse",
+        "Paix"
+      ],
+      "guidance": "Ta manifestation harmonieuse crée la paix sur terre. Continue de co-créer.",
+      "strengths": "Incarnation diplomatique, Manifestation coopérative, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "3": {
+      "summary": "Manifestation Joyeuse",
+      "description": "Tu incarnes le divin par la créativité et l'expression. Ta capacité de concrétisation est artistique. Tu manifestes la beauté dans le monde.",
+      "keywords": [
+        "Incarnation créative",
+        "Manifestation joyeuse",
+        "Action expressive",
+        "Beauté"
+      ],
+      "guidance": "Ta manifestation joyeuse célèbre la vie. Continue de créer du beau dans le monde.",
+      "strengths": "Incarnation créative, Manifestation joyeuse, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "4": {
+      "summary": "Manifestation Solide",
+      "description": "Tu incarnes le divin par la construction et la stabilité. Ta capacité de concrétisation est durable. Tu manifestes des réalités qui perdurent.",
+      "keywords": [
+        "Incarnation stable",
+        "Manifestation durable",
+        "Action constructrice",
+        "Fondation"
+      ],
+      "guidance": "Ta manifestation solide crée des bases pour le futur. Continue de bâtir durablement.",
+      "strengths": "Incarnation stable, Manifestation durable, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "5": {
+      "summary": "Manifestation Libre",
+      "description": "Tu incarnes le divin par le changement et l'aventure. Ta capacité de concrétisation est flexible. Tu manifestes la liberté dans la matière.",
+      "keywords": [
+        "Incarnation libre",
+        "Manifestation dynamique",
+        "Action aventureuse",
+        "Liberté"
+      ],
+      "guidance": "Ta manifestation libre apporte le changement. Continue d'incarner la transformation.",
+      "strengths": "Incarnation libre, Manifestation dynamique, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "6": {
+      "summary": "Manifestation Harmonieuse",
+      "description": "Tu incarnes le divin par l'amour et le service. Ta capacité de concrétisation vise l'équilibre. Tu manifestes la guérison dans le monde.",
+      "keywords": [
+        "Incarnation aimante",
+        "Manifestation guérissante",
+        "Action harmonisante",
+        "Service"
+      ],
+      "guidance": "Ta manifestation guérissante soigne le monde. Continue d'incarner l'amour.",
+      "strengths": "Incarnation aimante, Manifestation guérissante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "7": {
+      "summary": "Manifestation Sage",
+      "description": "Tu incarnes le divin par la sagesse et la réflexion. Ta capacité de concrétisation est profonde. Tu manifestes la vérité spirituelle.",
+      "keywords": [
+        "Incarnation sage",
+        "Manifestation réfléchie",
+        "Action spirituelle",
+        "Sagesse"
+      ],
+      "guidance": "Ta manifestation sage élève la matière. Continue d'incarner la vérité.",
+      "strengths": "Incarnation sage, Manifestation réfléchie, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "8": {
+      "summary": "Manifestation Puissante",
+      "description": "Tu incarnes le divin par le pouvoir et l'abondance. Ta capacité de concrétisation est immense. Tu manifestes le succès matériel.",
+      "keywords": [
+        "Incarnation puissante",
+        "Manifestation abondante",
+        "Action efficace",
+        "Prospérité"
+      ],
+      "guidance": "Ta manifestation puissante crée l'abondance. Utilise ton pouvoir avec intégrité.",
+      "strengths": "Incarnation puissante, Manifestation abondante, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "9": {
+      "summary": "Manifestation Universelle",
+      "description": "Tu incarnes le divin pour servir l'humanité. Ta capacité de concrétisation est altruiste. Tu manifestes le bien commun dans la matière.",
+      "keywords": [
+        "Incarnation altruiste",
+        "Manifestation universelle",
+        "Action humanitaire",
+        "Service"
+      ],
+      "guidance": "Ta manifestation universelle sert le monde. Continue d'incarner la compassion.",
+      "strengths": "Incarnation altruiste, Manifestation universelle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "11": {
+      "summary": "Manifestation Illuminée",
+      "description": "Tu incarnes le divin avec une conscience spirituelle élevée. Ta capacité de concrétisation est guidée par une vision claire du plan supérieur. Tu manifestes la lumière dans la matière de manière éveillée. Tu es le pont conscient.",
+      "keywords": [
+        "Incarnation éveillée",
+        "Manifestation spirituelle",
+        "Matière illuminée",
+        "Ancrage conscient"
+      ],
+      "guidance": "Ta manifestation est guidée par la lumière. Incarne le spirituel dans le quotidien avec conscience.",
+      "strengths": "Incarnation éveillée, Manifestation spirituelle, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "22": {
+      "summary": "Manifestation du Maître Bâtisseur",
+      "description": "Tu incarnes le divin en construisant des œuvres monumentales dans le monde physique. Ta capacité de manifestation est extraordinaire - tu peux matérialiser de grandes visions en réalités tangibles qui servent l'humanité. Tu es l'architecte de la Terre nouvelle.",
+      "keywords": [
+        "Manifestation monumentale",
+        "Bâtisseur terrestre",
+        "Œuvre physique",
+        "Héritage matériel"
+      ],
+      "guidance": "Ton pouvoir de manifestation peut changer le monde. Construis des œuvres qui serviront l'humanité.",
+      "strengths": "Manifestation monumentale, Bâtisseur terrestre, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    },
+    "33": {
+      "summary": "Manifestation du Christ Incarné",
+      "description": "Tu incarnes l'amour divin dans chaque aspect de ta vie matérielle. Ta capacité de concrétisation est au service total de l'humanité. Tu manifestes la compassion pure en actions concrètes qui nourrissent et guérissent tous. Tu es l'amour en action.",
+      "keywords": [
+        "Amour incarné",
+        "Service matériel",
+        "Compassion concrète",
+        "Action sacrée"
+      ],
+      "guidance": "Tu es l'amour divin manifesté. Chaque action quotidienne est un acte sacré de service.",
+      "strengths": "Amour incarné, Service matériel, capacité d'intégration personnelle, alignement avec cette énergie",
+      "challenges": "Risque de déséquilibre, nécessité d'intégrer cette énergie consciemment, apprentissage en cours"
+    }
+  }
+}

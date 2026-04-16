@@ -7,6 +7,8 @@ const port = Number(process.env.PORT) || 3000;
 
 getJwtSecretOrThrow();
 
-app.listen(port, () => {
-  console.log(`Numora API listening on http://localhost:${port}`);
-});
+if (process.env.NODE_ENV !== "test") {
+  app.listen(port, () => {
+    console.log(`Numora API listening on http://localhost:${port}`);
+  });
+}

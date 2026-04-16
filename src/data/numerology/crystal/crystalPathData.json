@@ -1,0 +1,290 @@
+[
+    {
+      "chemin": "1",
+      "description": "Leader, indépendant",
+      "pierres": {
+        "amour": {
+          "nom": "Quartz Rose",
+          "proprietes": "Ouvre le cœur, favorise la tendresse et l’harmonie dans les relations",
+          "energie": "Apaisante et chaleureuse, encourage l’ouverture émotionnelle",
+          "objectif": "Renforcer l’amour et les relations affectives"
+        },
+        "carriere": {
+          "nom": "Cornaline",
+          "proprietes": "Stimule la motivation, le courage et la confiance en soi",
+          "energie": "Dynamisante et motivante, donne le courage d’agir",
+          "objectif": "Soutenir la réussite professionnelle et la prise d’initiative"
+        },
+        "spiritualite": {
+          "nom": "Jaspe Rouge",
+          "proprietes": "Ancrage, force intérieure, stabilité émotionnelle",
+          "energie": "Stabilisante et protectrice, renforce l’ancrage",
+          "objectif": "Favoriser l’équilibre émotionnel et la concentration spirituelle"
+        }
+      }
+    },
+    {
+      "chemin": "2",
+      "description": "Pacificateur, diplomate",
+      "pierres": {
+        "amour": {
+          "nom": "Pierre de Lune",
+          "proprietes": "Intuition, douceur, compréhension dans les relations",
+          "energie": "Douce et intuitive, développe la sensibilité aux émotions des autres",
+          "objectif": "Améliorer l’harmonie et la compréhension dans les relations"
+        },
+        "carriere": {
+          "nom": "Sélénite",
+          "proprietes": "Clarté mentale et harmonie dans le travail collaboratif",
+          "energie": "Purifiante et clarifiante, facilite la prise de décision équilibrée",
+          "objectif": "Soutenir la coopération et la clarté dans le travail"
+        },
+        "spiritualite": {
+          "nom": "Quartz Rose",
+          "proprietes": "Amour universel, paix intérieure",
+          "energie": "Calmante et réconfortante, favorise l’ouverture du cœur",
+          "objectif": "Accroître l’empathie et la paix intérieure"
+        }
+      }
+    },
+    {
+      "chemin": "3",
+      "description": "Communicatif, créatif",
+      "pierres": {
+        "amour": {
+          "nom": "Rhodochrosite",
+          "proprietes": "Favorise l’expression des émotions et la tendresse",
+          "energie": "Chaleureuse et affective, stimule la communication du cœur",
+          "objectif": "Renforcer les liens affectifs et l’expression émotionnelle"
+        },
+        "carriere": {
+          "nom": "Citrine",
+          "proprietes": "Créativité, succès, énergie positive pour les projets",
+          "energie": "Dynamique et joyeuse, stimule la créativité et la motivation",
+          "objectif": "Favoriser la réussite professionnelle et les projets créatifs"
+        },
+        "spiritualite": {
+          "nom": "Aventurine",
+          "proprietes": "Optimisme, inspiration, ouverture d’esprit",
+          "energie": "Équilibrante et stimulante, développe l’inspiration",
+          "objectif": "Encourager l’éveil personnel et la croissance spirituelle"
+        }
+      }
+    },
+    {
+      "chemin": "4",
+      "description": "Organisé, travailleur",
+      "pierres": {
+        "amour": {
+          "nom": "Howlite",
+          "proprietes": "Patience, tolérance, sérénité dans les relations",
+          "energie": "Apaisante et stabilisante, favorise la patience",
+          "objectif": "Maintenir la sérénité et la compréhension dans les relations"
+        },
+        "carriere": {
+          "nom": "Lapis-Lazuli",
+          "proprietes": "Concentration, sagesse, réussite durable",
+          "energie": "Clairvoyante et focalisante, stimule la réflexion et la discipline",
+          "objectif": "Favoriser la réussite durable et la concentration"
+        },
+        "spiritualite": {
+          "nom": "Hématite",
+          "proprietes": "Ancrage, force, discipline",
+          "energie": "Protectrice et stabilisante, renforce l’ancrage",
+          "objectif": "Soutenir l’équilibre intérieur et la force mentale"
+        }
+      }
+    },
+    {
+      "chemin": "5",
+      "description": "Aventurier, libre",
+      "pierres": {
+        "amour": {
+          "nom": "Turquoise",
+          "proprietes": "Protection, communication, fluidité dans les relations",
+          "energie": "Dynamique et apaisante, favorise la communication et la sécurité émotionnelle",
+          "objectif": "Améliorer les relations et la liberté émotionnelle"
+        },
+        "carriere": {
+          "nom": "Malachite",
+          "proprietes": "Adaptabilité, courage, transformation",
+          "energie": "Stimulante et transformatrice, favorise le changement positif",
+          "objectif": "Encourager la prise de risque et l’évolution professionnelle"
+        },
+        "spiritualite": {
+          "nom": "Ambre",
+          "proprietes": "Énergie vitale, confiance et optimisme",
+          "energie": "Chaleureuse et motivante, augmente la vitalité et la confiance",
+          "objectif": "Soutenir la croissance personnelle et l’énergie vitale"
+        }
+      }
+    },
+    {
+      "chemin": "6",
+      "description": "Responsable, protecteur",
+      "pierres": {
+        "amour": {
+          "nom": "Quartz Rose",
+          "proprietes": "Compassion, équilibre familial",
+          "energie": "Apaisante et réconfortante, favorise l’amour et l’empathie",
+          "objectif": "Maintenir l’harmonie et la tendresse dans les relations"
+        },
+        "carriere": {
+          "nom": "Chrysocolle",
+          "proprietes": "Équilibre entre travail et service aux autres",
+          "energie": "Stimulante et harmonisante, favorise la collaboration",
+          "objectif": "Soutenir l’efficacité professionnelle et l’harmonie"
+        },
+        "spiritualite": {
+          "nom": "Howlite",
+          "proprietes": "Paix intérieure et gestion du stress",
+          "energie": "Apaisante et stabilisante, réduit l’anxiété",
+          "objectif": "Favoriser le calme intérieur et la sérénité"
+        }
+      }
+    },
+    {
+      "chemin": "7",
+      "description": "Introspectif, spirituel",
+      "pierres": {
+        "amour": {
+          "nom": "Améthyste",
+          "proprietes": "Intuition, profondeur émotionnelle",
+          "energie": "Calmante et clarifiante, favorise l’intuition et la connexion intérieure",
+          "objectif": "Renforcer la compréhension émotionnelle et spirituelle"
+        },
+        "carriere": {
+          "nom": "Labradorite",
+          "proprietes": "Protection et clairvoyance dans les projets",
+          "energie": "Protectrice et stimulante, renforce la vision et la créativité",
+          "objectif": "Encourager la clairvoyance et la réussite dans les projets"
+        },
+        "spiritualite": {
+          "nom": "Fluorite",
+          "proprietes": "Éveil mental et spirituel",
+          "energie": "Énergisante et clarifiante, favorise l’équilibre et la concentration",
+          "objectif": "Soutenir le développement spirituel et l’alignement personnel"
+        }
+      }
+    },
+    {
+      "chemin": "8",
+      "description": "Ambitieux, matérialiste",
+      "pierres": {
+        "amour": {
+          "nom": "Oeil de Tigre",
+          "proprietes": "Stabilité et protection dans les relations",
+          "energie": "Protectrice et stabilisante, favorise la confiance et la sécurité émotionnelle",
+          "objectif": "Maintenir des relations solides et équilibrées"
+        },
+        "carriere": {
+          "nom": "Pyrite",
+          "proprietes": "Courage, réussite, matérialisation des objectifs",
+          "energie": "Dynamique et stimulante, favorise l’action et la concrétisation",
+          "objectif": "Soutenir l’ambition et la réussite professionnelle"
+        },
+        "spiritualite": {
+          "nom": "Onyx",
+          "proprietes": "Ancrage et maîtrise de soi",
+          "energie": "Protectrice et stabilisante, renforce la discipline et la force intérieure",
+          "objectif": "Favoriser la maîtrise de soi et la concentration spirituelle"
+        }
+      }
+    },
+    {
+      "chemin": "9",
+      "description": "Humanitaire, idéaliste",
+      "pierres": {
+        "amour": {
+          "nom": "Saphir",
+          "proprietes": "Loyauté, sagesse et harmonie",
+          "energie": "Apaisante et équilibrante, favorise la fidélité et l’harmonie relationnelle",
+          "objectif": "Renforcer la confiance et les liens affectifs"
+        },
+        "carriere": {
+          "nom": "Aigue-marine",
+          "proprietes": "Communication claire et diplomatie",
+          "energie": "Clairvoyante et apaisante, favorise la communication efficace",
+          "objectif": "Améliorer la collaboration et les relations professionnelles"
+        },
+        "spiritualite": {
+          "nom": "Quartz Clair",
+          "proprietes": "Clarté, alignement et guidance",
+          "energie": "Énergisante et clarifiante, favorise la concentration et l’éveil",
+          "objectif": "Soutenir l’alignement spirituel et la clarté mentale"
+        }
+      }
+    },
+    {
+      "chemin": "11",
+      "description": "Maître Nombre – L’Initié",
+      "pierres": {
+        "amour": {
+          "nom": "Labradorite",
+          "proprietes": "Intuition et protection dans les relations",
+          "energie": "Protectrice et intuitive, renforce la perception des émotions",
+          "objectif": "Développer l’intuition et l’harmonie relationnelle"
+        },
+        "carriere": {
+          "nom": "Améthyste",
+          "proprietes": "Inspiration et clairvoyance dans les projets",
+          "energie": "Clairvoyante et stimulante, favorise la vision et la créativité",
+          "objectif": "Renforcer l’inspiration et la réussite spirituelle/professionnelle"
+        },
+        "spiritualite": {
+          "nom": "Sélénite",
+          "proprietes": "Élévation spirituelle, connexion aux énergies supérieures",
+          "energie": "Purifiante et apaisante, favorise l’ouverture spirituelle",
+          "objectif": "Encourager la méditation et la guidance spirituelle"
+        }
+      }
+    },
+    {
+      "chemin": "22",
+      "description": "Maître Nombre – Le Bâtisseur",
+      "pierres": {
+        "amour": {
+          "nom": "Quartz Rose",
+          "proprietes": "Équilibre et amour relationnel",
+          "energie": "Apaisante et harmonisante, favorise la douceur dans les relations",
+          "objectif": "Maintenir l’harmonie et la tendresse dans les liens affectifs"
+        },
+        "carriere": {
+          "nom": "Pyrite",
+          "proprietes": "Matérialisation, succès et force intérieure",
+          "energie": "Dynamique et stimulante, favorise l’action et la concrétisation",
+          "objectif": "Renforcer la réussite professionnelle et la réalisation des projets"
+        },
+        "spiritualite": {
+          "nom": "Cristal de Roche",
+          "proprietes": "Alignement, clarté et force spirituelle",
+          "energie": "Purifiante et clarifiante, stimule la concentration et l’équilibre",
+          "objectif": "Soutenir l’éveil spirituel et l’alignement personnel"
+        }
+      }
+    },
+    {
+      "chemin": "33",
+      "description": "Maître Nombre – L’Enseignant",
+      "pierres": {
+        "amour": {
+          "nom": "Rhodochrosite",
+          "proprietes": "Amour inconditionnel et compassion",
+          "energie": "Chaleureuse et affective, favorise l’empathie et l’ouverture du cœur",
+          "objectif": "Développer la compassion et l’amour universel"
+        },
+        "carriere": {
+          "nom": "Citrine",
+          "proprietes": "Inspiration et créativité au service des autres",
+          "energie": "Dynamique et joyeuse, stimule la motivation et l’inspiration",
+          "objectif": "Encourager l’enseignement, la créativité et le soutien aux autres"
+        },
+        "spiritualite": {
+          "nom": "Améthyste",
+          "proprietes": "Éveil spirituel et guidance",
+          "energie": "Calmante et clarifiante, favorise la méditation et l’intuition",
+          "objectif": "Soutenir l’alignement spirituel et l’enseignement"
+        }
+      }
+    }
+  ]

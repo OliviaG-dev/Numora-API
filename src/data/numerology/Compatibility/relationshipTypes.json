@@ -1,0 +1,17 @@
+{
+  "love": {
+    "label": "Amour",
+    "icon": "heart",
+    "description": "Analyse de compatibilité amoureuse basée sur les chemins de vie"
+  },
+  "friendship": {
+    "label": "Amitié", 
+    "icon": "friendship",
+    "description": "Analyse de compatibilité amicale"
+  },
+  "work": {
+    "label": "Travail",
+    "icon": "work", 
+    "description": "Analyse de compatibilité professionnelle"
+  }
+}

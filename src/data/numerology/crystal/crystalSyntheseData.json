@@ -1,0 +1,2306 @@
+[
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Leadership et affirmation",
+        "objectif_global": "Initier, diriger et affirmer son identité",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Dynamisante et stimulante",
+          "objectif": "Renforcer la confiance et l’audace"
+        },
+        "message_cle": "Ose prendre ta place et montrer l'exemple."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Leadership et coopération",
+        "objectif_global": "Diriger tout en tenant compte des autres",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Développer l’écoute et l’intelligence émotionnelle"
+        },
+        "message_cle": "Écoute les autres pour mieux les guider."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Leadership et créativité",
+        "objectif_global": "Exprimer ses idées avec enthousiasme et originalité",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Joyeuse et expressive",
+          "objectif": "Stimuler la créativité et la communication"
+        },
+        "message_cle": "Partage tes idées avec confiance."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Leadership et structure",
+        "objectif_global": "Construire et organiser avec autorité",
+        "pierre_prioritaire": {
+          "nom": "Lapis-Lazuli",
+          "energie": "Structurante et clarifiante",
+          "objectif": "Apporter rigueur et clarté dans l’action"
+        },
+        "message_cle": "Ta force s’exprime quand tu bâtis sur du solide."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Leadership et liberté",
+        "objectif_global": "Innover, explorer et ouvrir de nouvelles voies",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et audacieuse",
+          "objectif": "Accompagner le changement et l’évolution"
+        },
+        "message_cle": "N'hésite pas à explorer de nouvelles voies."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Leadership et responsabilité",
+        "objectif_global": "Diriger avec bienveillance et sens du devoir",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et équilibrante",
+          "objectif": "Allier autorité et cœur"
+        },
+        "message_cle": "Ta force grandit quand elle est guidée par l’amour."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Leadership et introspection",
+        "objectif_global": "Diriger en restant fidèle à sa vérité intérieure",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Calmante et clarifiante",
+          "objectif": "Aligner action et sagesse intérieure"
+        },
+        "message_cle": "Écoute ton intuition pour prendre de bonnes décisions."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Leadership et pouvoir",
+        "objectif_global": "Concrétiser ses ambitions et diriger avec assurance",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Renforcer la détermination et la confiance"
+        },
+        "message_cle": "Accepte et utilise tes talents naturels."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Leadership et humanisme",
+        "objectif_global": "Mettre son autorité au service du collectif",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et équilibrante",
+          "objectif": "Guider avec justesse et altruisme"
+        },
+        "message_cle": "Un bon leader pense au bien de tous."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Leadership et inspiration",
+        "objectif_global": "Inspirer et éclairer par une vision élevée",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Canaliser l’inspiration et protéger l’énergie"
+        },
+        "message_cle": "Partage ta vision, elle peut inspirer les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Leadership et construction",
+        "objectif_global": "Bâtir des projets ambitieux et durables",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et dynamique",
+          "objectif": "Transformer l’ambition en réalisation concrète"
+        },
+        "message_cle": "Construis des projets solides qui durent."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 1,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Leadership et amour universel",
+        "objectif_global": "Guider par l’exemple et l’amour inconditionnel",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Chaleureuse et profondément aimante",
+          "objectif": "Allier autorité et compassion"
+        },
+        "message_cle": "Dirige avec bienveillance pour aider les autres à grandir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Harmonie et affirmation",
+        "objectif_global": "S’affirmer tout en préservant l’équilibre relationnel",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et rassurante",
+          "objectif": "Oser s’exprimer avec douceur et assurance"
+        },
+        "message_cle": "Affirme-toi sans rompre l’harmonie."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Harmonie et sensibilité",
+        "objectif_global": "Créer des relations équilibrées et sincères",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Favoriser l’écoute, l’empathie et la coopération"
+        },
+        "message_cle": "Ta sensibilité te permet de mieux comprendre les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Harmonie et créativité",
+        "objectif_global": "Exprimer la joie et la communication dans les relations",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Joyeuse et expressive",
+          "objectif": "Encourager la communication positive"
+        },
+        "message_cle": "Ta joie de vivre rapproche les gens."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Harmonie et stabilité",
+        "objectif_global": "Instaurer une sécurité émotionnelle durable",
+        "pierre_prioritaire": {
+          "nom": "Lapis-Lazuli",
+          "energie": "Stabilisante et clarifiante",
+          "objectif": "Apporter clarté et solidité dans les échanges"
+        },
+        "message_cle": "Ta régularité rassure ceux qui t'entourent."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Harmonie et liberté",
+        "objectif_global": "Trouver l’équilibre entre relation et indépendance",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Accompagner les changements émotionnels"
+        },
+        "message_cle": "Évolue tout en gardant tes liens avec les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Harmonie et amour",
+        "objectif_global": "Nourrir les relations par la bienveillance et le soin",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et réconfortante",
+          "objectif": "Ouvrir le cœur et renforcer les liens affectifs"
+        },
+        "message_cle": "Ton amour apporte la paix autour de toi."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Harmonie et introspection",
+        "objectif_global": "Respecter son besoin de calme tout en restant relié aux autres",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Calmante et spirituelle",
+          "objectif": "Trouver l’équilibre entre intériorité et relation"
+        },
+        "message_cle": "Prends du temps pour toi, cela améliore tes relations."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Harmonie et autorité",
+        "objectif_global": "Assumer des responsabilités avec diplomatie",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Renforcer la confiance dans la prise de décision"
+        },
+        "message_cle": "La diplomatie est une vraie force."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Harmonie et humanisme",
+        "objectif_global": "Servir et rassembler avec compassion",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et apaisante",
+          "objectif": "Guider avec empathie et ouverture"
+        },
+        "message_cle": "Ta douceur peut toucher beaucoup de monde."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Harmonie et intuition",
+        "objectif_global": "Inspirer par la sensibilité et la perception subtile",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Canaliser l’intuition sans s’épuiser"
+        },
+        "message_cle": "Ton intuition t'aide à mieux comprendre les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Harmonie et construction",
+        "objectif_global": "Créer des projets durables fondés sur la coopération",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et motivante",
+          "objectif": "Transformer la coopération en réalisations concrètes"
+        },
+        "message_cle": "Travaille en équipe plutôt que seul."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 2,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Harmonie et amour universel",
+        "objectif_global": "Guider et apaiser par l’amour inconditionnel",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Chaleureuse et profondément aimante",
+          "objectif": "Diffuser la compassion et la guérison émotionnelle"
+        },
+        "message_cle": "Ta douceur peut inspirer les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Créativité et affirmation",
+        "objectif_global": "Exprimer ses idées avec confiance et initiative",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et dynamisante",
+          "objectif": "Renforcer l’audace et l’élan créatif"
+        },
+        "message_cle": "N'hésite pas à exprimer ta créativité."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Créativité et sensibilité",
+        "objectif_global": "Communiquer avec douceur et empathie",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Exprimer les émotions avec sensibilité"
+        },
+        "message_cle": "Ta sensibilité rend ton expression plus riche."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Créativité et expression",
+        "objectif_global": "Rayonner par la communication et la joie",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Joyeuse et expressive",
+          "objectif": "Amplifier la créativité et la communication"
+        },
+        "message_cle": "Exprime-toi librement et partage ta bonne humeur."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Créativité et structure",
+        "objectif_global": "Donner une forme concrète aux idées créatives",
+        "pierre_prioritaire": {
+          "nom": "Lapis-Lazuli",
+          "energie": "Clarifiante et structurante",
+          "objectif": "Organiser et canaliser l’expression"
+        },
+        "message_cle": "Structure tes idées pour qu’elles prennent vie."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Créativité et liberté",
+        "objectif_global": "Explorer, expérimenter et inspirer par le mouvement",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Soutenir l’audace et le changement"
+        },
+        "message_cle": "Explore librement et inspire les autres par tes actions."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Créativité et amour",
+        "objectif_global": "Créer des liens joyeux et harmonieux",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et bienveillante",
+          "objectif": "Exprimer l’amour à travers la créativité"
+        },
+        "message_cle": "Ta créativité touche les cœurs."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Créativité et introspection",
+        "objectif_global": "Exprimer la profondeur intérieure avec authenticité",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Calmante et inspirante",
+          "objectif": "Relier expression et sagesse intérieure"
+        },
+        "message_cle": "Partage ce que tu découvres en toi."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Créativité et ambition",
+        "objectif_global": "Mettre son expression au service de la réussite",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Affirmante et protectrice",
+          "objectif": "Assumer sa valeur et sa visibilité"
+        },
+        "message_cle": "Utilise ta créativité pour réussir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Créativité et humanisme",
+        "objectif_global": "Inspirer et élever les autres par l’expression",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et inspirante",
+          "objectif": "Transmettre des messages porteurs de sens"
+        },
+        "message_cle": "Ta voix peut aider les autres à grandir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Créativité et inspiration",
+        "objectif_global": "Canaliser une expression inspirée et intuitive",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Protéger et affiner l’inspiration"
+        },
+        "message_cle": "Exprime l’invisible avec confiance."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Créativité et construction",
+        "objectif_global": "Bâtir des projets créatifs durables",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et motivante",
+          "objectif": "Concrétiser les idées créatives"
+        },
+        "message_cle": "Transforme tes idées en projets concrets."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 3,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Créativité et amour universel",
+        "objectif_global": "Guérir et inspirer par l’expression du cœur",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Chaleureuse et aimante",
+          "objectif": "Diffuser l’amour à travers la créativité"
+        },
+        "message_cle": "Ta créativité est un acte d’amour."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Structure et affirmation",
+        "objectif_global": "Construire et diriger avec méthode",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et ancrante",
+          "objectif": "Renforcer l’assurance dans l’action"
+        },
+        "message_cle": "Avance étape par étape avec confiance."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Structure et coopération",
+        "objectif_global": "Bâtir des relations fiables et durables",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et stabilisante",
+          "objectif": "Apporter équilibre émotionnel et écoute"
+        },
+        "message_cle": "La coopération apporte la stabilité."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Structure et créativité",
+        "objectif_global": "Exprimer la créativité de manière organisée",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Joyeuse et stimulante",
+          "objectif": "Fluidifier l’expression créative"
+        },
+        "message_cle": "Donne une forme concrète à tes idées créatives."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Stabilité et structure",
+        "objectif_global": "Ancrer, sécuriser et pérenniser",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Ancrante et stabilisante",
+          "objectif": "Renforcer la solidité et l’endurance"
+        },
+        "message_cle": "Ta force vient de ta régularité."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Structure et mouvement",
+        "objectif_global": "Apprendre à évoluer sans perdre ses bases",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et dynamique",
+          "objectif": "Accompagner les changements structurants"
+        },
+        "message_cle": "Évolue tout en gardant tes valeurs."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Structure et responsabilité",
+        "objectif_global": "Construire pour protéger et soutenir",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et équilibrante",
+          "objectif": "Adoucir la rigueur par le cœur"
+        },
+        "message_cle": "Ta solidité rassure et protège ceux qui t'entourent."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Structure et introspection",
+        "objectif_global": "Allier rigueur et profondeur intérieure",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Calmante et clarifiante",
+          "objectif": "Harmoniser réflexion et discipline"
+        },
+        "message_cle": "La sagesse rend tes projets plus solides."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Structure et pouvoir",
+        "objectif_global": "Diriger et bâtir avec autorité",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Renforcer la détermination et le leadership"
+        },
+        "message_cle": "Ta structure devient force quand tu l’assumes."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Structure et humanisme",
+        "objectif_global": "Mettre la stabilité au service du collectif",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et équilibrante",
+          "objectif": "Guider avec justesse et responsabilité"
+        },
+        "message_cle": "Construis des projets qui aident tout le monde."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Structure et inspiration",
+        "objectif_global": "Donner une forme concrète à une vision élevée",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Ancrer l’inspiration dans le réel"
+        },
+        "message_cle": "Transforme ta vision en actions concrètes."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Structure et maîtrise",
+        "objectif_global": "Bâtir des œuvres durables et d’envergure",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Puissante et structurante",
+          "objectif": "Soutenir la réalisation de grands projets"
+        },
+        "message_cle": "Tu as le talent pour construire des projets importants."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 4,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Structure et amour universel",
+        "objectif_global": "Créer des bases solides fondées sur l’amour",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et réparatrice",
+          "objectif": "Humaniser la rigueur par la compassion"
+        },
+        "message_cle": "Les projets les plus solides viennent du cœur."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Liberté et affirmation",
+        "objectif_global": "Explorer et initier avec audace",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et énergisante",
+          "objectif": "Oser agir et s’affirmer"
+        },
+        "message_cle": "N'hésite pas à explorer de nouvelles voies."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Liberté et harmonie",
+        "objectif_global": "Trouver l’équilibre entre indépendance et relation",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Apaisante et intuitive",
+          "objectif": "Stabiliser les émotions dans le mouvement"
+        },
+        "message_cle": "Évolue librement tout en gardant tes liens."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Liberté et expression",
+        "objectif_global": "Communiquer, partager et inspirer par l’expérience",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Joyeuse et expressive",
+          "objectif": "Exprimer la joie et la créativité"
+        },
+        "message_cle": "Partage tes expériences avec joie."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Liberté et structure",
+        "objectif_global": "Apprendre à canaliser l’énergie du changement",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Ancrante et stabilisante",
+          "objectif": "Maintenir l’équilibre dans l’action"
+        },
+        "message_cle": "L’ancrage sécurise la liberté."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Liberté et mouvement",
+        "objectif_global": "Vivre pleinement le changement et l’exploration",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et dynamique",
+          "objectif": "Accompagner les grandes transitions"
+        },
+        "message_cle": "Le changement est là où tu excelles."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Liberté et responsabilité",
+        "objectif_global": "Allier indépendance et engagement affectif",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et réconfortante",
+          "objectif": "Maintenir l’ouverture du cœur"
+        },
+        "message_cle": "Tu peux être libre tout en aimant les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Liberté et introspection",
+        "objectif_global": "Explorer autant l’extérieur que l’intérieur",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Calmante et clarifiante",
+          "objectif": "Apporter clarté et recentrage"
+        },
+        "message_cle": "Prends du temps pour te connaître, c'est important."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Liberté et ambition",
+        "objectif_global": "Conquérir sans perdre son indépendance",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Renforcer la détermination et la maîtrise"
+        },
+        "message_cle": "Maîtrise ton pouvoir sans t’enchaîner."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Liberté et humanisme",
+        "objectif_global": "Transmettre et éveiller par l’expérience vécue",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et inspirante",
+          "objectif": "Partager une vision éclairée"
+        },
+        "message_cle": "Ton parcours peut inspirer d'autres personnes."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Liberté et inspiration",
+        "objectif_global": "Canaliser une vision inspirée en restant libre",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Protéger l’inspiration dans le mouvement"
+        },
+        "message_cle": "Ta liberté stimule ta créativité."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Liberté et construction",
+        "objectif_global": "Bâtir sans renoncer à l’indépendance",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et motivante",
+          "objectif": "Ancrer la liberté dans la matière"
+        },
+        "message_cle": "Construis ta liberté sur des bases solides."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 5,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Liberté et amour universel",
+        "objectif_global": "Guérir et élever par l’expérience et l’ouverture",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et transformatrice",
+          "objectif": "Diffuser l’amour dans le changement"
+        },
+        "message_cle": "Ta liberté peut aider à guérir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Amour et leadership",
+        "objectif_global": "Prendre des initiatives tout en protégeant et soutenant les autres",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Dynamisante et rassurante",
+          "objectif": "Affirmer son rôle tout en restant bienveillant"
+        },
+        "message_cle": "Dirige avec bienveillance et prends ta place."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Amour et sensibilité",
+        "objectif_global": "Créer l’harmonie émotionnelle dans les relations",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Favoriser l’écoute et l’équilibre affectif"
+        },
+        "message_cle": "Ta douceur est un refuge pour les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Amour et créativité",
+        "objectif_global": "Exprimer la joie et la créativité au service de l’harmonie",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Joyeuse et stimulante",
+          "objectif": "Exprimer la créativité et la communication naturelle"
+        },
+        "message_cle": "Mets ta créativité au service de l’amour."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Amour et stabilité",
+        "objectif_global": "Construire une sécurité émotionnelle durable",
+        "pierre_prioritaire": {
+          "nom": "Lapis-Lazuli",
+          "energie": "Structurante et apaisante",
+          "objectif": "Apporter clarté et solidité relationnelle"
+        },
+        "message_cle": "Ta régularité rassure ceux qui t'entourent."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Amour et liberté",
+        "objectif_global": "Équilibrer engagement affectif et besoin de mouvement",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice",
+          "objectif": "Accompagner les changements émotionnels"
+        },
+        "message_cle": "Aime sans t’oublier, évolue sans te fermer."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Amour et responsabilité",
+        "objectif_global": "Apporter soutien, équilibre et protection",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et réconfortante",
+          "objectif": "Ouvrir le cœur et diffuser l’amour"
+        },
+        "message_cle": "L’amour que tu offres est ta mission."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Amour et introspection",
+        "objectif_global": "Allier profondeur intérieure et bienveillance",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Calmante et spirituelle",
+          "objectif": "Trouver l’équilibre entre don et intériorité"
+        },
+        "message_cle": "Aime les autres tout en prenant soin de toi."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Amour et puissance",
+        "objectif_global": "Assumer des responsabilités avec autorité et cœur",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Renforcer la confiance dans les décisions"
+        },
+        "message_cle": "Ta force est juste quand elle vient du cœur."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Amour et humanisme",
+        "objectif_global": "Servir le collectif avec compassion",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et apaisante",
+          "objectif": "Guider avec altruisme et justesse"
+        },
+        "message_cle": "Ton amour peut toucher beaucoup de monde."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Amour et inspiration",
+        "objectif_global": "Inspirer par la bienveillance et l’intuition",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Canaliser l’inspiration sans s’épuiser"
+        },
+        "message_cle": "Protège ta sensibilité, elle peut inspirer les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Amour et construction",
+        "objectif_global": "Bâtir des projets solides au service des autres",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et motivante",
+          "objectif": "Transformer l’amour en actions concrètes"
+        },
+        "message_cle": "Construis avec le cœur, agis avec méthode."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 6,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Amour universel",
+        "objectif_global": "Guider et soutenir par l’amour inconditionnel",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Chaleureuse et profondément aimante",
+          "objectif": "Exprimer la compassion la plus pure"
+        },
+        "message_cle": "Ton amour peut enseigner aux autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Intériorité et affirmation",
+        "objectif_global": "S’affirmer sans trahir sa profondeur intérieure",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et rassurante",
+          "objectif": "Oser agir avec confiance"
+        },
+        "message_cle": "Exprime-toi sans oublier qui tu es vraiment."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Intériorité et sensibilité",
+        "objectif_global": "Créer des liens profonds et sincères",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Accueillir les émotions avec justesse"
+        },
+        "message_cle": "Ta sensibilité est une forme de sagesse."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Intériorité et expression",
+        "objectif_global": "Partager sa profondeur avec légèreté",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Joyeuse et clarifiante",
+          "objectif": "Fluidifier l’expression"
+        },
+        "message_cle": "Partage ta profondeur de manière simple."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Intériorité et structure",
+        "objectif_global": "Ancrer la sagesse dans le concret",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Ancrante et stabilisante",
+          "objectif": "Relier esprit et matière"
+        },
+        "message_cle": "L’ancrage donne corps à la sagesse."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Intériorité et liberté",
+        "objectif_global": "Explorer sans perdre son centre",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Accompagner l’évolution intérieure"
+        },
+        "message_cle": "Explore le monde tout en restant fidèle à toi-même."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Intériorité et responsabilité",
+        "objectif_global": "Offrir soutien et présence consciente",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et réconfortante",
+          "objectif": "Adoucir la réserve émotionnelle"
+        },
+        "message_cle": "Ta présence apaisante rassure les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Sagesse et introspection",
+        "objectif_global": "Approfondir la connaissance de soi",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Spirituelle et clarifiante",
+          "objectif": "Favoriser la lucidité intérieure"
+        },
+        "message_cle": "Ta recherche personnelle est ta force."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Intériorité et pouvoir",
+        "objectif_global": "Maîtriser le pouvoir sans perdre la sagesse",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et équilibrante",
+          "objectif": "Ancrer la confiance et la maîtrise"
+        },
+        "message_cle": "Le vrai pouvoir vient de l'intérieur."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Intériorité et humanisme",
+        "objectif_global": "Transmettre la sagesse acquise",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et apaisante",
+          "objectif": "Partager une vision éclairée"
+        },
+        "message_cle": "Partage ta sagesse avec les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Intériorité et intuition élevée",
+        "objectif_global": "Canaliser une perception spirituelle claire",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Protéger et affiner l’intuition"
+        },
+        "message_cle": "Fais confiance à ton intuition."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Sagesse et construction",
+        "objectif_global": "Ancrer une vision profonde dans le monde",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et stabilisante",
+          "objectif": "Concrétiser la sagesse intérieure"
+        },
+        "message_cle": "Transforme ta vision en quelque chose de concret et durable."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 7,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Sagesse et amour universel",
+        "objectif_global": "Guider et apaiser par la conscience élevée",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et réparatrice",
+          "objectif": "Unir sagesse et compassion"
+        },
+        "message_cle": "Ta sagesse peut aider à guérir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Pouvoir et affirmation",
+        "objectif_global": "Diriger et entreprendre avec autorité",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et affirmante",
+          "objectif": "Renforcer la confiance et l’élan"
+        },
+        "message_cle": "Accepte et utilise tes talents naturels."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Pouvoir et diplomatie",
+        "objectif_global": "Diriger avec tact et intelligence relationnelle",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Apaisante et intuitive",
+          "objectif": "Tempérer l’autorité par l’écoute"
+        },
+        "message_cle": "La vraie force sait être douce."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Pouvoir et expression",
+        "objectif_global": "Influencer et inspirer par la communication",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Rayonnante et expressive",
+          "objectif": "Renforcer le charisme et la visibilité"
+        },
+        "message_cle": "Ta façon de communiquer peut ouvrir des portes."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Pouvoir et structure",
+        "objectif_global": "Bâtir et gérer avec rigueur",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Ancrante et stabilisante",
+          "objectif": "Renforcer l’endurance et la maîtrise"
+        },
+        "message_cle": "Ta force s’appuie sur des bases solides."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Pouvoir et liberté",
+        "objectif_global": "Diriger sans s’enfermer dans le contrôle",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Accompagner les changements de pouvoir"
+        },
+        "message_cle": "Le vrai pouvoir sait s'adapter."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Pouvoir et responsabilité",
+        "objectif_global": "Protéger, encadrer et sécuriser",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et équilibrante",
+          "objectif": "Humaniser l’autorité"
+        },
+        "message_cle": "Le pouvoir est noble quand il protège les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Pouvoir et sagesse",
+        "objectif_global": "Exercer l’autorité avec recul et lucidité",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Clarifiante et apaisante",
+          "objectif": "Équilibrer ambition et sagesse"
+        },
+        "message_cle": "Voir les choses clairement renforce ton autorité."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Pouvoir et maîtrise",
+        "objectif_global": "Atteindre la réussite matérielle et stratégique",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Renforcer la maîtrise et la détermination"
+        },
+        "message_cle": "Tu as le talent pour réussir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Pouvoir et humanisme",
+        "objectif_global": "Mettre la réussite au service du collectif",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et équilibrante",
+          "objectif": "Guider avec éthique et vision"
+        },
+        "message_cle": "La réussite a plus de sens quand elle aide les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Pouvoir et vision",
+        "objectif_global": "Porter une vision inspirante et stratégique",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Protéger la vision et l’intuition"
+        },
+        "message_cle": "Ta vision peut changer les choses."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Pouvoir et construction majeure",
+        "objectif_global": "Bâtir des œuvres d’envergure et durables",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Puissante et structurante",
+          "objectif": "Soutenir les grandes réalisations"
+        },
+        "message_cle": "Tu as le talent pour construire de grands projets."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 8,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Pouvoir et amour universel",
+        "objectif_global": "Diriger avec compassion et conscience élevée",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et réparatrice",
+          "objectif": "Humaniser le pouvoir par le cœur"
+        },
+        "message_cle": "Le pouvoir guidé par l’amour élève tout."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Humanisme et affirmation",
+        "objectif_global": "Agir pour le collectif avec détermination",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et engagée",
+          "objectif": "Soutenir l’action altruiste"
+        },
+        "message_cle": "Agis avec courage pour aider tout le monde."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Humanisme et compassion",
+        "objectif_global": "Relier, apaiser et soutenir les autres",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Favoriser l’empathie et la compréhension"
+        },
+        "message_cle": "Ta douceur est un refuge pour les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Humanisme et expression",
+        "objectif_global": "Inspirer et sensibiliser par la parole",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Rayonnante et communicative",
+          "objectif": "Transmettre des messages porteurs d’espoir"
+        },
+        "message_cle": "Ta voix peut faire réfléchir les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Humanisme et structure",
+        "objectif_global": "Organiser et soutenir des causes durables",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Ancrante et stabilisante",
+          "objectif": "Donner de la solidité aux engagements"
+        },
+        "message_cle": "Structure ton engagement pour qu’il dure."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Humanisme et liberté",
+        "objectif_global": "Transmettre par l’expérience et le mouvement",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Accompagner les transformations collectives"
+        },
+        "message_cle": "Le changement peut être un message."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Humanisme et amour",
+        "objectif_global": "Protéger, soigner et accompagner",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et aimante",
+          "objectif": "Soutenir l’amour et la compassion"
+        },
+        "message_cle": "Ton amour peut aider à guérir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Humanisme et sagesse",
+        "objectif_global": "Transmettre une compréhension profonde de la vie",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Spirituelle et clarifiante",
+          "objectif": "Élever la conscience"
+        },
+        "message_cle": "Ta sagesse guide les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Humanisme et pouvoir",
+        "objectif_global": "Mettre l’influence au service du bien commun",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Agir avec justesse et force"
+        },
+        "message_cle": "Le pouvoir est juste quand il aide les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Humanisme et accomplissement",
+        "objectif_global": "Clore des cycles et transmettre l’essentiel",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et équilibrante",
+          "objectif": "Guider avec détachement et clarté"
+        },
+        "message_cle": "Transmets l’essentiel et laisse aller le reste."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Humanisme et inspiration",
+        "objectif_global": "Éveiller et inspirer les consciences",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Canaliser l’inspiration collective"
+        },
+        "message_cle": "Ta lumière peut inspirer les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Humanisme et construction majeure",
+        "objectif_global": "Bâtir des projets humanitaires durables",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et engagée",
+          "objectif": "Concrétiser des idéaux collectifs"
+        },
+        "message_cle": "Tu peux réaliser tes idéaux."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 9,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Humanisme et amour universel",
+        "objectif_global": "Guider et aimer sans condition",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et guérisseuse",
+          "objectif": "Diffuser l’amour inconditionnel"
+        },
+        "message_cle": "L’amour est ton plus grand enseignement."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Inspiration et affirmation",
+        "objectif_global": "Exprimer son leadership avec intuition",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et motivante",
+          "objectif": "Renforcer l’audace intuitive"
+        },
+        "message_cle": "N'hésite pas à agir selon ton inspiration."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Inspiration et sensibilité",
+        "objectif_global": "Créer l’harmonie en inspirant les autres",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Accorder l’émotion et l’action"
+        },
+        "message_cle": "Ta sensibilité renforce ton pouvoir d'inspirer."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Inspiration et expression",
+        "objectif_global": "Communiquer de manière créative et visionnaire",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Rayonnante et lumineuse",
+          "objectif": "Amplifier l’inspiration et la créativité"
+        },
+        "message_cle": "Exprime tes idées clairement."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Inspiration et structure",
+        "objectif_global": "Concrétiser des visions élevées avec méthode",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Stabilisante et énergisante",
+          "objectif": "Ancrer la créativité dans la réalité"
+        },
+        "message_cle": "Organise tes inspirations pour les concrétiser."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Inspiration et liberté",
+        "objectif_global": "Explorer de nouvelles idées et chemins avec intuition",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Soutenir les changements créatifs"
+        },
+        "message_cle": "Laisse libre cours à ton inspiration et teste."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Inspiration et amour",
+        "objectif_global": "Allier créativité et bienveillance dans tes relations",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et aimante",
+          "objectif": "Harmoniser inspiration et cœur"
+        },
+        "message_cle": "Rayonne l’amour à travers tes idées."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Inspiration et introspection",
+        "objectif_global": "Approfondir la connaissance de soi pour guider les autres",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Spirituelle et clarifiante",
+          "objectif": "Développer l’intuition et la sagesse"
+        },
+        "message_cle": "Ta compréhension intérieure guide les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Inspiration et puissance",
+        "objectif_global": "Diriger et concrétiser des projets visionnaires",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Assumer leadership et responsabilité"
+        },
+        "message_cle": "Le vrai pouvoir inspire et fait grandir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Inspiration et humanisme",
+        "objectif_global": "Œuvrer pour le bien commun avec vision",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et inspirante",
+          "objectif": "Transmettre des valeurs élevées"
+        },
+        "message_cle": "Ta vision humaniste guide les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Intuition et illumination",
+        "objectif_global": "Vibrer et rayonner comme un canal inspiré",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Canaliser l’inspiration divine"
+        },
+        "message_cle": "Ton rayonnement peut éclairer le monde."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Inspiration et construction majeure",
+        "objectif_global": "Transformer les visions en projets concrets à grande échelle",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et motivante",
+          "objectif": "Ancrer les idées élevées dans la réalité"
+        },
+        "message_cle": "Ta vision peut construire l'avenir."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 11,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Inspiration et amour universel",
+        "objectif_global": "Guider et soigner avec une conscience élevée",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et transformatrice",
+          "objectif": "Diffuser amour et inspiration universelle"
+        },
+        "message_cle": "Ton amour et ton inspiration élèvent tous ceux qui t’entourent."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Vision et leadership",
+        "objectif_global": "Diriger et bâtir avec vision et audace",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et motivante",
+          "objectif": "Renforcer l’assurance et l’initiative"
+        },
+        "message_cle": "N'hésite pas à commencer tes grands projets."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Vision et coopération",
+        "objectif_global": "Allier ambition et sens relationnel",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Harmoniser leadership et sensibilité"
+        },
+        "message_cle": "La collaboration donne de l’ampleur à ta vision."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Vision et expression",
+        "objectif_global": "Communiquer des idées de manière inspirante et claire",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Rayonnante et communicative",
+          "objectif": "Amplifier la créativité et le charisme"
+        },
+        "message_cle": "Exprime ton talent avec clarté."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Vision et structure",
+        "objectif_global": "Bâtir des projets solides et durables",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Ancrante et stabilisante",
+          "objectif": "Donner force et stabilité aux constructions"
+        },
+        "message_cle": "Ta vision doit s’appuyer sur des bases solides."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Vision et liberté",
+        "objectif_global": "Innover et adapter sans perdre la structure",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Accompagner le changement et la croissance"
+        },
+        "message_cle": "Être flexible rend ton projet plus puissant."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Vision et responsabilité",
+        "objectif_global": "Allier leadership et service aux autres",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et équilibrante",
+          "objectif": "Harmoniser autorité et bienveillance"
+        },
+        "message_cle": "Ton pouvoir est plus grand quand il aide les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Vision et introspection",
+        "objectif_global": "Approfondir la stratégie et la planification",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Clairvoyante et calmante",
+          "objectif": "Favoriser la réflexion et la lucidité"
+        },
+        "message_cle": "Réfléchis profondément avant d’agir à grande échelle."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Vision et puissance",
+        "objectif_global": "Diriger et réussir avec influence et maîtrise",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Renforcer confiance et leadership"
+        },
+        "message_cle": "Ta maîtrise augmente ton influence."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Vision et humanisme",
+        "objectif_global": "Servir l’humanité à grande échelle",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et éclairante",
+          "objectif": "Guider avec intégrité et discernement"
+        },
+        "message_cle": "Ton œuvre a pour mission d’élever le collectif."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Vision et inspiration",
+        "objectif_global": "Innover avec intuition et clairvoyance",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Canaliser l’inspiration dans le concret"
+        },
+        "message_cle": "L’intuition guide les projets les plus grands."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Vision et maîtrise suprême",
+        "objectif_global": "Créer des œuvres durables et d’envergure exceptionnelle",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et puissante",
+          "objectif": "Soutenir la réalisation des ambitions majeures"
+        },
+        "message_cle": "Tu as le talent pour construire des œuvres durables."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 22,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Vision et amour universel",
+        "objectif_global": "Guider avec une conscience et un amour collectifs",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et guérisseuse",
+          "objectif": "Allier réalisation et compassion universelle"
+        },
+        "message_cle": "Tes grandes constructions portent l’amour et la guérison."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 1,
+      "synthese": {
+        "energie_dominante": "Amour universel et affirmation",
+        "objectif_global": "Diriger et inspirer avec compassion",
+        "pierre_prioritaire": {
+          "nom": "Cornaline",
+          "energie": "Stimulante et motivante",
+          "objectif": "Allier action et amour"
+        },
+        "message_cle": "Agis avec courage pour le bien collectif."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 2,
+      "synthese": {
+        "energie_dominante": "Amour universel et harmonie",
+        "objectif_global": "Apporter paix et équilibre autour de soi",
+        "pierre_prioritaire": {
+          "nom": "Pierre de Lune",
+          "energie": "Douce et intuitive",
+          "objectif": "Guider avec empathie et délicatesse"
+        },
+        "message_cle": "Ta sensibilité guide les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 3,
+      "synthese": {
+        "energie_dominante": "Amour universel et expression",
+        "objectif_global": "Partager joie, inspiration et sagesse",
+        "pierre_prioritaire": {
+          "nom": "Citrine",
+          "energie": "Rayonnante et communicative",
+          "objectif": "Inspirer et motiver avec légèreté"
+        },
+        "message_cle": "Ta parole éclaire et élève ceux qui t’écoutent."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 4,
+      "synthese": {
+        "energie_dominante": "Amour universel et structure",
+        "objectif_global": "Mettre en place des actions durables pour le collectif",
+        "pierre_prioritaire": {
+          "nom": "Jaspe Rouge",
+          "energie": "Stabilisante et ancrante",
+          "objectif": "Donner solidité et constance aux projets"
+        },
+        "message_cle": "L’ancrage rend ton amour concret et durable."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 5,
+      "synthese": {
+        "energie_dominante": "Amour universel et liberté",
+        "objectif_global": "Éveiller et guider par l’expérience et le mouvement",
+        "pierre_prioritaire": {
+          "nom": "Malachite",
+          "energie": "Transformatrice et évolutive",
+          "objectif": "Accompagner les transformations positives"
+        },
+        "message_cle": "Ta liberté peut enrichir et guider les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 6,
+      "synthese": {
+        "energie_dominante": "Amour universel et responsabilité",
+        "objectif_global": "Soutenir et soigner avec conscience et cœur",
+        "pierre_prioritaire": {
+          "nom": "Quartz Rose",
+          "energie": "Apaisante et aimante",
+          "objectif": "Renforcer l’amour et la bienveillance"
+        },
+        "message_cle": "Ton engagement est guidé par l’amour universel."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 7,
+      "synthese": {
+        "energie_dominante": "Amour universel et sagesse",
+        "objectif_global": "Transmettre une compréhension profonde de la vie",
+        "pierre_prioritaire": {
+          "nom": "Améthyste",
+          "energie": "Spirituelle et clarifiante",
+          "objectif": "Élever la conscience et l’intuition"
+        },
+        "message_cle": "Ta sagesse inspire et fait grandir les autres."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 8,
+      "synthese": {
+        "energie_dominante": "Amour universel et pouvoir",
+        "objectif_global": "Diriger avec compassion et influence positive",
+        "pierre_prioritaire": {
+          "nom": "Oeil de Tigre",
+          "energie": "Protectrice et affirmante",
+          "objectif": "Allier autorité et bienveillance"
+        },
+        "message_cle": "Ton pouvoir devient lumière quand il sert l’amour."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 9,
+      "synthese": {
+        "energie_dominante": "Amour universel et humanisme",
+        "objectif_global": "Servir l’humanité avec compassion et vision",
+        "pierre_prioritaire": {
+          "nom": "Saphir",
+          "energie": "Sage et éclairante",
+          "objectif": "Guider avec intégrité et discernement"
+        },
+        "message_cle": "Ton amour peut changer des vies."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 11,
+      "synthese": {
+        "energie_dominante": "Amour universel et intuition",
+        "objectif_global": "Canaliser inspiration et guidance supérieure",
+        "pierre_prioritaire": {
+          "nom": "Labradorite",
+          "energie": "Intuitive et protectrice",
+          "objectif": "Soutenir vision et clairvoyance"
+        },
+        "message_cle": "Ton intuition guide le collectif."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 22,
+      "synthese": {
+        "energie_dominante": "Amour universel et construction",
+        "objectif_global": "Mettre en œuvre des projets durables et bénéfiques pour tous",
+        "pierre_prioritaire": {
+          "nom": "Pyrite",
+          "energie": "Structurante et puissante",
+          "objectif": "Concrétiser l’amour dans l’action"
+        },
+        "message_cle": "Ta capacité à construire sert l’élévation collective."
+      }
+    }
+  },
+  {
+    "profil_synthese": {
+      "chemin_de_vie": 33,
+      "nombre_expression": 33,
+      "synthese": {
+        "energie_dominante": "Amour universel et maîtrise spirituelle",
+        "objectif_global": "Élever, guérir et guider à grande échelle",
+        "pierre_prioritaire": {
+          "nom": "Rhodochrosite",
+          "energie": "Aimante et transformatrice",
+          "objectif": "Diffuser amour et guérison universelle"
+        },
+        "message_cle": "Ton existence devient un enseignement d’amour et de lumière."
+      }
+    }
+  }
+]

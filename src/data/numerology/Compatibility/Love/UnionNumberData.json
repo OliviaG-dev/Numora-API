@@ -1,0 +1,98 @@
+{
+    "1": {
+      "title": "L’Union des Pionniers",
+      "keywords": ["initiative", "indépendance", "action"],
+      "description": "Votre couple dégage une énergie de nouveauté et de conquête. Ensemble, vous aimez entreprendre, diriger et explorer des territoires inconnus. Cette union pousse à l’autonomie et à l’affirmation du ‘je’ dans le ‘nous’.",
+      "strengths": "Motivation, ambition commune, esprit d’équipe dynamique.",
+      "challenges": "Compétition, égo fort, besoin de dominer.",
+      "advice": "Transformez votre indépendance en moteur d’inspiration mutuelle plutôt qu’en lutte de pouvoir."
+    },
+    "2": {
+      "title": "L’Union de l’Harmonie",
+      "keywords": ["coopération", "écoute", "équilibre"],
+      "description": "C’est une relation fondée sur la douceur et la compréhension. Vous avancez main dans la main, avec une forte sensibilité émotionnelle et un besoin de paix. Ensemble, vous créez un cocon d’amour et de respect.",
+      "strengths": "Empathie, tendresse, sens du compromis.",
+      "challenges": "Dépendance émotionnelle, peur du conflit.",
+      "advice": "Exprimez vos besoins sans craindre de blesser : la vérité nourrit la confiance."
+    },
+    "3": {
+      "title": "L’Union de la Joie",
+      "keywords": ["créativité", "expression", "plaisir"],
+      "description": "Votre lien est vivant, communicatif et coloré. Ensemble, vous riez, partagez et inspirez. La joie de vivre est votre ciment, mais elle doit s’accompagner d’un ancrage pour durer.",
+      "strengths": "Optimisme, complicité, légèreté.",
+      "challenges": "Distractions, manque de profondeur.",
+      "advice": "Mêlez le jeu et la sincérité pour bâtir une relation durable."
+    },
+    "4": {
+      "title": "L’Union du Bâtisseur",
+      "keywords": ["stabilité", "engagement", "structure"],
+      "description": "Votre couple repose sur des bases solides. Vous cherchez la sécurité, la loyauté et la construction à long terme. Ensemble, vous bâtissez quelque chose de concret et durable.",
+      "strengths": "Fiabilité, constance, loyauté.",
+      "challenges": "Rigidité, routine, contrôle excessif.",
+      "advice": "Accueillez le changement comme un moyen de renforcer vos fondations, pas de les menacer."
+    },
+    "5": {
+      "title": "L’Union de la Liberté",
+      "keywords": ["aventure", "mouvement", "renouveau"],
+      "description": "Une relation vibrante et pleine d’expériences. Vous aimez découvrir, apprendre et vous réinventer ensemble. Rien n’est figé, tout est en évolution.",
+      "strengths": "Passion, curiosité, ouverture d’esprit.",
+      "challenges": "Instabilité, besoin d’indépendance trop fort.",
+      "advice": "Cultivez la confiance pour que la liberté reste un choix partagé, pas une fuite."
+    },
+    "6": {
+      "title": "L’Union du Cœur",
+      "keywords": ["amour", "famille", "harmonie"],
+      "description": "C’est une union fondée sur l’amour inconditionnel, la loyauté et le besoin de créer un foyer chaleureux. Vous avez à cœur de prendre soin l’un de l’autre.",
+      "strengths": "Dévouement, stabilité affective, sens du lien.",
+      "challenges": "Jalousie, attentes excessives, sacrifice.",
+      "advice": "Aimez avec équilibre : donnez sans vous oublier."
+    },
+    "7": {
+      "title": "L’Union Spirituelle",
+      "keywords": ["introspection", "profondeur", "connexion d’âme"],
+      "description": "Une relation de l’esprit et de l’âme. Vous vous comprenez souvent sans mots. Ensemble, vous cherchez la vérité, la sagesse et la sérénité.",
+      "strengths": "Lien intuitif, compréhension mutuelle, paix intérieure.",
+      "challenges": "Isolement, distance émotionnelle.",
+      "advice": "Partagez vos réflexions et émotions pour nourrir la complicité terrestre autant que spirituelle."
+    },
+    "8": {
+      "title": "L’Union du Pouvoir",
+      "keywords": ["réalisation", "succès", "ambition"],
+      "description": "Votre couple est une alliance de force et de volonté. Ensemble, vous pouvez accomplir de grandes choses si vous harmonisez ambition et respect mutuel.",
+      "strengths": "Puissance commune, succès matériel, soutien solide.",
+      "challenges": "Domination, déséquilibre de pouvoir.",
+      "advice": "Faites de votre ambition un projet d’équipe et non une compétition silencieuse."
+    },
+    "9": {
+      "title": "L’Union de l’Altruisme",
+      "keywords": ["empathie", "idéal", "humanité"],
+      "description": "Une relation empreinte de sagesse et de compassion. Vous partagez un idéal d’amour universel, mais devez veiller à ne pas vous perdre dans le dévouement.",
+      "strengths": "Bienveillance, ouverture de cœur, compréhension.",
+      "challenges": "Sacrifice de soi, flou émotionnel.",
+      "advice": "Gardez vos pieds sur terre : le couple est aussi une aventure humaine, pas seulement spirituelle."
+    },
+    "11": {
+      "title": "L’Union Inspirée",
+      "keywords": ["illumination", "vision", "élévation spirituelle"],
+      "description": "Votre relation porte une vibration supérieure : elle vous pousse à grandir, à créer et à inspirer les autres. Ensemble, vous éveillez les consciences.",
+      "strengths": "Profondeur spirituelle, créativité, lien d’âme.",
+      "challenges": "Tensions émotionnelles, attentes idéales.",
+      "advice": "Restez ancrés : votre lumière intérieure a besoin d’un socle solide pour briller."
+    },
+    "22": {
+      "title": "L’Union des Bâtisseurs de Monde",
+      "keywords": ["grandeur", "mission", "réalisation collective"],
+      "description": "C’est une relation de réalisation à grande échelle. Vous êtes appelés à construire ensemble, à matérialiser un rêve qui dépasse le cadre du couple.",
+      "strengths": "Vision commune, stabilité, impact concret.",
+      "challenges": "Pression, perfectionnisme, peur de l’échec.",
+      "advice": "Avancez pas à pas — chaque petit geste nourrit votre grande mission commune."
+    },
+    "33": {
+      "title": "L’Union des Guérisseurs",
+      "keywords": ["compassion", "amour universel", "transmission"],
+      "description": "C’est la vibration de l’amour inconditionnel et de la guérison mutuelle. Votre couple rayonne naturellement et inspire les autres à aimer avec sagesse et sincérité.",
+      "strengths": "Empathie, soutien, dévouement lumineux.",
+      "challenges": "Dissolution dans l’autre, épuisement émotionnel.",
+      "advice": "Apprenez à canaliser votre énergie d’amour pour ne pas la disperser : guérissez ensemble, pas l’un à travers l’autre."
+    }
+  }

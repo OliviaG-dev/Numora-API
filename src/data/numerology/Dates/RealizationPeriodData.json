@@ -1,0 +1,62 @@
+{
+    "1": {
+      "summary": "Indépendance et leadership.",
+      "description": "Temps d’initier, d’oser et de prendre des décisions personnelles.",
+      "challenge": "Éviter l’ego excessif ou l’impatience."
+    },
+    "2": {
+      "summary": "Coopération et associations.",
+      "description": "Accent sur les relations, la sensibilité et le travail en duo.",
+      "challenge": "Dépendance ou manque de confiance."
+    },
+    "3": {
+      "summary": "Expression et créativité.",
+      "description": "Opportunité d’épanouir ses talents artistiques et sociaux.",
+      "challenge": "Dispersion, instabilité ou superficialité."
+    },
+    "4": {
+      "summary": "Construction et organisation.",
+      "description": "Nécessité d’effort, de rigueur et de bâtir des bases solides.",
+      "challenge": "Dureté, fatigue ou enfermement dans la routine."
+    },
+    "5": {
+      "summary": "Liberté et changements.",
+      "description": "Exploration de nouvelles expériences, voyages ou transformations.",
+      "challenge": "Instabilité, excès ou dispersion."
+    },
+    "6": {
+      "summary": "Responsabilité et harmonie.",
+      "description": "Accent sur le foyer, l’amour, la beauté et l’équilibre.",
+      "challenge": "Se sacrifier ou contrôler excessivement."
+    },
+    "7": {
+      "summary": "Introspection et spiritualité.",
+      "description": "Temps d’études, de recherche intérieure et de sagesse.",
+      "challenge": "Isolement, scepticisme ou doute excessif."
+    },
+    "8": {
+      "summary": "Pouvoir et réussite matérielle.",
+      "description": "Possibilités de carrière, d’argent et de reconnaissance.",
+      "challenge": "Excès de matérialisme ou autoritarisme."
+    },
+    "9": {
+      "summary": "Accomplissement et humanisme.",
+      "description": "Temps de transmission, de bilan et d’achèvement.",
+      "challenge": "Détachement difficile ou sentiment de perte."
+    },
+    "11": {
+      "summary": "Inspiration et vision spirituelle.",
+      "description": "Invitation à servir de guide et à exprimer un idéal élevé.",
+      "challenge": "Instabilité émotionnelle, excès de tension nerveuse."
+    },
+    "22": {
+      "summary": "Maître bâtisseur.",
+      "description": "Concrétiser des projets ambitieux et utiles au collectif.",
+      "challenge": "Pression énorme, difficulté à canaliser son énergie."
+    },
+    "33": {
+      "summary": "Maître enseignant.",
+      "description": "Service aux autres, amour universel, guérison.",
+      "challenge": "Excès de sacrifice personnel ou dépendance affective."
+    }
+}

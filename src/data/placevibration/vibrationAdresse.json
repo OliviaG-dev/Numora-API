@@ -1,0 +1,268 @@
+[
+    {
+      "nombre": 1,
+      "mots_cles": ["indépendance", "initiative", "nouveau départ"],
+      "energie": "Une énergie qui pousse à agir, entreprendre et se positionner",
+      "ressenti": "On se sent stimulé, motivé, avec une envie de faire et d’avancer",
+      "points_forts": [
+        "Favorise les projets personnels",
+        "Donne de l’élan et de la motivation",
+        "Renforce la confiance en soi"
+      ],
+      "points_de_vigilance": [
+        "Risque d’isolement",
+        "Tendance à tout vouloir gérer seul"
+      ],
+      "ideal_pour": [
+        "Entrepreneurs",
+        "Personnes en nouveau départ",
+        "Travail à domicile"
+      ],
+      "conseil": "Crée, lance-toi, mais n’oublie pas de t’entourer",
+      "question_a_se_poser": "Est-ce que je prends vraiment ma place dans ma vie ?"
+    },
+    {
+      "nombre": 2,
+      "mots_cles": ["harmonie", "relation", "sensibilité"],
+      "energie": "Une énergie douce qui favorise les liens et la coopération",
+      "ressenti": "Atmosphère calme, apaisante, propice aux échanges",
+      "points_forts": [
+        "Favorise la vie de couple",
+        "Apporte sérénité et paix",
+        "Encourage l’écoute"
+      ],
+      "points_de_vigilance": [
+        "Dépendance affective",
+        "Difficulté à prendre des décisions"
+      ],
+      "ideal_pour": [
+        "Couples",
+        "Colocations",
+        "Personnes sensibles"
+      ],
+      "conseil": "Cultive l’équilibre entre toi et les autres",
+      "question_a_se_poser": "Est-ce que je m’oublie pour les autres ?"
+    },
+    {
+      "nombre": 3,
+      "mots_cles": ["joie", "expression", "créativité"],
+      "energie": "Une énergie vivante qui pousse à communiquer et créer",
+      "ressenti": "Lieu dynamique, joyeux, souvent animé",
+      "points_forts": [
+        "Favorise la créativité",
+        "Stimule la communication",
+        "Apporte de la légèreté"
+      ],
+      "points_de_vigilance": [
+        "Dispersion",
+        "Manque de structure"
+      ],
+      "ideal_pour": [
+        "Artistes",
+        "Créatifs",
+        "Vie sociale active"
+      ],
+      "conseil": "Exprime-toi mais garde un cadre",
+      "question_a_se_poser": "Est-ce que je vais au bout de mes idées ?"
+    },
+
+    {
+      "nombre": 4,
+      "mots_cles": ["stabilité", "structure", "sécurité"],
+      "energie": "Une énergie solide qui favorise l’organisation et la construction",
+      "ressenti": "Lieu stable, rassurant, cadré",
+      "points_forts": [
+        "Sécurisant",
+        "Idéal pour construire sur le long terme",
+        "Favorise la discipline"
+      ],
+      "points_de_vigilance": [
+        "Rigidité",
+        "Routine pesante"
+      ],
+      "ideal_pour": [
+        "Familles",
+        "Projets long terme",
+        "Personnes organisées"
+      ],
+      "conseil": "Structure sans te bloquer",
+      "question_a_se_poser": "Est-ce que je laisse assez de place au changement ?"
+    },
+
+    {
+      "nombre": 5,
+      "mots_cles": ["liberté", "changement", "mouvement"],
+      "energie": "Une énergie instable mais riche en opportunités",
+      "ressenti": "Lieu vivant, imprévisible, stimulant",
+      "points_forts": [
+        "Apporte du renouveau",
+        "Stimule l’adaptabilité",
+        "Favorise les rencontres"
+      ],
+      "points_de_vigilance": [
+        "Instabilité",
+        "Difficulté à se poser"
+      ],
+      "ideal_pour": [
+        "Personnes en transition",
+        "Voyageurs",
+        "Profils dynamiques"
+      ],
+      "conseil": "Profite du mouvement sans te disperser",
+      "question_a_se_poser": "Est-ce que je fuis la stabilité ?"
+    },
+    {
+        "nombre": 6,
+        "mots_cles": ["amour", "famille", "responsabilité"],
+        "energie": "Une énergie chaleureuse centrée sur le foyer et les liens",
+        "ressenti": "Lieu cocooning, sécurisant et affectif",
+        "points_forts": [
+          "Favorise la vie de famille",
+          "Apporte réconfort et stabilité émotionnelle",
+          "Encourage la solidarité"
+        ],
+        "points_de_vigilance": [
+          "Charge mentale",
+          "Tendance à trop donner"
+        ],
+        "ideal_pour": [
+          "Familles",
+          "Couples",
+          "Activités de soin"
+        ],
+        "conseil": "Prends soin des autres sans t’oublier",
+        "question_a_se_poser": "Est-ce que je me priorise autant que les autres ?"
+      },
+      {
+        "nombre": 7,
+        "mots_cles": ["introspection", "spiritualité", "calme"],
+        "energie": "Une énergie tournée vers la réflexion et la recherche intérieure",
+        "ressenti": "Lieu calme, intime, propice au recul",
+        "points_forts": [
+          "Favorise la méditation",
+          "Aide à la concentration",
+          "Encourage l’introspection"
+        ],
+        "points_de_vigilance": [
+          "Isolement",
+          "Repli sur soi"
+        ],
+        "ideal_pour": [
+          "Personnes spirituelles",
+          "Chercheurs",
+          "Télétravail calme"
+        ],
+        "conseil": "Reste connecté au monde extérieur",
+        "question_a_se_poser": "Est-ce que je m’isole trop ?"
+      },
+      {
+        "nombre": 8,
+        "mots_cles": ["réussite", "pouvoir", "matériel"],
+        "energie": "Une énergie orientée vers l’ambition et la réussite concrète",
+        "ressenti": "Lieu structuré, intense, orienté objectifs",
+        "points_forts": [
+          "Favorise la réussite financière",
+          "Développe la discipline",
+          "Renforce l’ambition"
+        ],
+        "points_de_vigilance": [
+          "Stress",
+          "Pression ou contrôle"
+        ],
+        "ideal_pour": [
+          "Entrepreneurs",
+          "Dirigeants",
+          "Profils ambitieux"
+        ],
+        "conseil": "Garde un équilibre entre réussite et bien-être",
+        "question_a_se_poser": "Est-ce que je cours après le résultat au détriment de moi ?"
+      },
+      {
+        "nombre": 9,
+        "mots_cles": ["humanisme", "partage", "ouverture"],
+        "energie": "Une énergie tournée vers les autres et le collectif",
+        "ressenti": "Lieu ouvert, généreux, parfois chargé émotionnellement",
+        "points_forts": [
+          "Favorise l’entraide",
+          "Encourage l’ouverture",
+          "Développe l’empathie"
+        ],
+        "points_de_vigilance": [
+          "Dispersion émotionnelle",
+          "Difficulté à se protéger"
+        ],
+        "ideal_pour": [
+          "Professions sociales",
+          "Artistes",
+          "Voyageurs"
+        ],
+        "conseil": "Aide les autres sans te perdre",
+        "question_a_se_poser": "Est-ce que je garde mon équilibre émotionnel ?"
+      },
+      {
+        "nombre": 11,
+        "mots_cles": ["intuition", "inspiration", "sensibilité"],
+        "energie": "Une énergie élevée qui amplifie les ressentis et les idées",
+        "ressenti": "Lieu vibrant, inspirant mais intense",
+        "points_forts": [
+          "Développe l’intuition",
+          "Stimule la créativité profonde",
+          "Favorise les prises de conscience"
+        ],
+        "points_de_vigilance": [
+          "Hypersensibilité",
+          "Surcharge mentale"
+        ],
+        "ideal_pour": [
+          "Créatifs",
+          "Spirituels",
+          "Thérapeutes"
+        ],
+        "conseil": "Apprends à canaliser ton énergie",
+        "question_a_se_poser": "Est-ce que je suis aligné avec ce que je ressens ?"
+      },
+      {
+        "nombre": 22,
+        "mots_cles": ["construction", "vision", "puissance"],
+        "energie": "Une énergie de bâtisseur tournée vers les grands projets",
+        "ressenti": "Lieu puissant, structuré, exigeant",
+        "points_forts": [
+          "Permet de concrétiser de grands projets",
+          "Apporte une vision long terme",
+          "Renforce la capacité d’organisation"
+        ],
+        "points_de_vigilance": [
+          "Pression élevée",
+          "Perfectionnisme"
+        ],
+        "ideal_pour": [
+          "Entrepreneurs",
+          "Projets ambitieux",
+          "Leadership"
+        ],
+        "conseil": "Avance étape par étape",
+        "question_a_se_poser": "Est-ce que je transforme vraiment mes idées en actions ?"
+      },
+      {
+        "nombre": 33,
+        "mots_cles": ["amour universel", "guérison", "transmission"],
+        "energie": "Une énergie très élevée tournée vers l’aide et la guidance",
+        "ressenti": "Lieu apaisant, profond, très chargé émotionnellement",
+        "points_forts": [
+          "Favorise la guérison",
+          "Encourage l’entraide",
+          "Développe la conscience"
+        ],
+        "points_de_vigilance": [
+          "Épuisement émotionnel",
+          "Sacrifice de soi"
+        ],
+        "ideal_pour": [
+          "Thérapeutes",
+          "Enseignants",
+          "Accompagnants"
+        ],
+        "conseil": "Donne sans te sacrifier",
+        "question_a_se_poser": "Est-ce que je me respecte autant que j’aide les autres ?"
+      }
+]

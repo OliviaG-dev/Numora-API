@@ -1,0 +1,860 @@
+{
+  "1-1": {
+    "emotional_theme": "Deux volontés en miroir",
+    "connection_style": "Intense et passionnée, leur union repose sur la stimulation mutuelle et l’indépendance.",
+    "emotional_needs": {
+      "partner_1": "Liberté, reconnaissance, intensité",
+      "partner_2": "Autonomie, respect, admiration"
+    },
+    "strengths": ["Énergie commune", "Motivation", "Respect des ambitions"],
+    "challenges": ["Compétition", "Manque d’écoute", "Domination mutuelle"],
+    "growth_advice": "Cultivez la coopération au lieu du contrôle — le pouvoir partagé crée l’amour durable."
+  },
+  "1-2": {
+    "emotional_theme": "Puissance et douceur",
+    "connection_style": "Le 1 mène, le 2 soutient avec tendresse. Une relation basée sur la sécurité et l’admiration réciproque.",
+    "emotional_needs": {
+      "partner_1": "Confiance, liberté, loyauté",
+      "partner_2": "Stabilité, attention, douceur"
+    },
+    "strengths": ["Complémentarité", "Protection mutuelle", "Équilibre des polarités"],
+    "challenges": ["Dépendance affective", "Autorité excessive", "Besoin de validation"],
+    "growth_advice": "Apprenez à diriger à deux, pas l’un sur l’autre."
+  },
+  "1-3": {
+    "emotional_theme": "Créativité et enthousiasme",
+    "connection_style": "Une relation vivante et inspirante où le 3 stimule la joie du 1, et le 1 offre une direction concrète.",
+    "emotional_needs": {
+      "partner_1": "Reconnaissance, admiration, loyauté",
+      "partner_2": "Jeu, communication, liberté émotionnelle"
+    },
+    "strengths": ["Énergie positive", "Créativité commune", "Motivation"],
+    "challenges": ["Instabilité", "Manque de profondeur", "Ego surdimensionné"],
+    "growth_advice": "Apprenez à canaliser la passion vers des projets partagés."
+  },
+  "1-4": {
+    "emotional_theme": "Volonté et structure",
+    "connection_style": "Le 1 impulse, le 4 stabilise. Ensemble, ils construisent solide et avancent avec pragmatisme.",
+    "emotional_needs": {
+      "partner_1": "Autonomie, vitesse, reconnaissance",
+      "partner_2": "Sécurité, fiabilité, loyauté"
+    },
+    "strengths": ["Vision + rigueur", "Projets concrets", "Fidélité"],
+    "challenges": ["Rigidité", "Impulsivité", "Besoin de contrôle"],
+    "growth_advice": "Alliez ambition et méthode : définissez des règles souples pour réussir sans vous brider."
+  },
+  "1-5": {
+    "emotional_theme": "Feu et liberté",
+    "connection_style": "Relation vibrante et imprévisible où le 1 ose et le 5 explore. Passion et mouvement constants.",
+    "emotional_needs": {
+      "partner_1": "Victoire, autonomie, intensité",
+      "partner_2": "Aventure, variété, espace personnel"
+    },
+    "strengths": ["Passion", "Ouverture", "Capacité à rebondir"],
+    "challenges": ["Instabilité", "Impulsivité", "Peurs d’attache"],
+    "growth_advice": "Fixez quelques repères communs tout en gardant la spontanéité qui vous unit."
+  },
+  "1-6": {
+    "emotional_theme": "Leadership et foyer",
+    "connection_style": "Le 1 apporte l’élan, le 6 la chaleur du foyer. Couple protecteur et orienté vers l’avenir.",
+    "emotional_needs": {
+      "partner_1": "Respect, autonomie, résultats",
+      "partner_2": "Harmonie, engagement, affection"
+    },
+    "strengths": ["Protection", "Sens des responsabilités", "Stabilité affective"],
+    "challenges": ["Autoritarisme", "Sacrifice excessif", "Rancœurs tacites"],
+    "growth_advice": "Négociez équitablement les rôles : direction partagée, tendresse assumée."
+  },
+  "1-7": {
+    "emotional_theme": "Ambition et profondeur",
+    "connection_style": "Le 1 agit, le 7 contemple. Une union qui gagne à respecter le besoin d’espace mental du 7.",
+    "emotional_needs": {
+      "partner_1": "Efficacité, admiration, défis",
+      "partner_2": "Intimité intellectuelle, silence, authenticité"
+    },
+    "strengths": ["Vision stratégique", "Respect de l’individualité", "Croissance personnelle"],
+    "challenges": ["Isolement", "Impulsivité vs. retrait", "Malentendus"],
+    "growth_advice": "Planifiez des temps d’action et des temps de recul pour vous synchroniser."
+  },
+  "1-8": {
+    "emotional_theme": "Pouvoir et vision",
+    "connection_style": "Duo magnétique, ambitieux et performant. Les deux aiment décider et réussir.",
+    "emotional_needs": {
+      "partner_1": "Leadership, liberté, impact",
+      "partner_2": "Résultats, respect, loyauté"
+    },
+    "strengths": ["Puissance créatrice", "Succès matériel", "Clarté d’objectif"],
+    "challenges": ["Lutte d’ego", "Exigence élevée", "Pression"],
+    "growth_advice": "Transformez la compétition en alliance : co-décidez vos priorités."
+  },
+  "1-9": {
+    "emotional_theme": "Indépendance et altruisme",
+    "connection_style": "Le 1 est centré objectif, le 9 sur le sens. Ensemble : projet et idéal.",
+    "emotional_needs": {
+      "partner_1": "Reconnaissance, autonomie, défis",
+      "partner_2": "Humanité, compréhension, don de soi"
+    },
+    "strengths": ["Vision inspirante", "Générosité", "Impact utile"],
+    "challenges": ["Priorités différentes", "Sensibilité du 9", "Focalisation excessive du 1"],
+    "growth_advice": "Placez vos talents au service d’un but commun qui vous dépasse."
+  },
+  "2-2": {
+    "emotional_theme": "Deux sensibilités en résonance",
+    "connection_style": "Relation tendre, intuitive et diplomate. Besoin de sécurité élevé.",
+    "emotional_needs": {
+      "partner_1": "Écoute, attention, constance",
+      "partner_2": "Affection, réassurance, douceur"
+    },
+    "strengths": ["Empathie", "Loyauté", "Coopération"],
+    "challenges": ["Évitement du conflit", "Dépendance", "Non-dits"],
+    "growth_advice": "Osez des conversations franches pour consolider la confiance."
+  },
+  "2-3": {
+    "emotional_theme": "Sensibilité et expression",
+    "connection_style": "Le 2 rassure, le 3 illumine. Une alliance joyeuse et relationnelle.",
+    "emotional_needs": {
+      "partner_1": "Sécurité, délicatesse, temps",
+      "partner_2": "Jeu, spontanéité, partage"
+    },
+    "strengths": ["Communication", "Chaleur sociale", "Équilibre émotionnel"],
+    "challenges": ["Oscillations d’humeur", "Besoin d’attention", "Hypersensibilité"],
+    "growth_advice": "Créez des rituels de connexion qui honorent vos rythmes différents."
+  },
+  "2-4": {
+    "emotional_theme": "Cocon et structure",
+    "connection_style": "Duo stable et fiable : le 2 nourrit, le 4 sécurise.",
+    "emotional_needs": {
+      "partner_1": "Tendresse, présence, écoute",
+      "partner_2": "Routines, clarté, loyauté"
+    },
+    "strengths": ["Stabilité", "Fidélité", "Protection mutuelle"],
+    "challenges": ["Routine", "Peurs du changement", "Rancœurs silencieuses"],
+    "growth_advice": "Insufflez de la nouveauté planifiée pour garder la flamme."
+  },
+  "2-5": {
+    "emotional_theme": "Cœur délicat et vent de liberté",
+    "connection_style": "Le 2 cherche l’assurance, le 5 l’exploration. Apprentissage mutuel.",
+    "emotional_needs": {
+      "partner_1": "Stabilité, preuve d’amour, douceur",
+      "partner_2": "Espace, mouvement, surprise"
+    },
+    "strengths": ["Adaptabilité", "Ouverture d’esprit", "Équilibre sécurité-liberté"],
+    "challenges": ["Insécurité", "Inconstance", "Malentendus"],
+    "growth_advice": "Contractez un ‘pacte de liberté sécurisée’ clair pour chacun."
+  },
+  "2-6": {
+    "emotional_theme": "Service et dévouement",
+    "connection_style": "Deux cœurs nourriciers tournés vers le foyer, l’esthétique et le soin.",
+    "emotional_needs": {
+      "partner_1": "Soutien, reconnaissance, intimité",
+      "partner_2": "Harmonie, beauté, responsabilités partagées"
+    },
+    "strengths": ["Chaleur familiale", "Loyauté", "Compassion"],
+    "challenges": ["Surinvestissement", "Surcharges", "Contrôle subtil"],
+    "growth_advice": "Prenez soin de vous autant que des autres : équilibre du don et du recevoir."
+  },
+  "2-7": {
+    "emotional_theme": "Intuition et profondeur",
+    "connection_style": "Lien fin et spirituel : le 2 ressent, le 7 contemple.",
+    "emotional_needs": {
+      "partner_1": "Sécurité émotionnelle, douceur, écoute",
+      "partner_2": "Temps seul, vérité, sens"
+    },
+    "strengths": ["Lien subtil", "Écoute", "Réflexion"],
+    "challenges": ["Retrait", "Doutes", "Rythmes différents"],
+    "growth_advice": "Définissez des espaces sacrés communs et individuels."
+  },
+  "2-8": {
+    "emotional_theme": "Protection et réussite",
+    "connection_style": "Le 2 soutient, le 8 protège et organise. Alliance cœur-business.",
+    "emotional_needs": {
+      "partner_1": "Réassurance, proximité, considération",
+      "partner_2": "Respect, efficacité, loyauté"
+    },
+    "strengths": ["Solidité", "Objectifs clairs", "Soutien concret"],
+    "challenges": ["Rapports de force", "Exigence", "Stress"],
+    "growth_advice": "Honorez l’émotion autant que la performance."
+  },
+  "2-9": {
+    "emotional_theme": "Compassion et romantisme",
+    "connection_style": "Duo idéaliste, dévoué et inspirant : amour humaniste et artistique.",
+    "emotional_needs": {
+      "partner_1": "Sécurité affective, douceur, attention",
+      "partner_2": "Sens, beauté, générosité"
+    },
+    "strengths": ["Empathie", "Romantisme", "Élan altruiste"],
+    "challenges": ["Susceptibilité", "Sacrifice", "Flou pratique"],
+    "growth_advice": "Mettez de la structure au service de votre idéal."
+  },
+  "3-3": {
+    "emotional_theme": "Joie démultipliée",
+    "connection_style": "Relation vive, créative et sociale : deux 3 s’animent et se comprennent.",
+    "emotional_needs": {
+      "partner_1": "Expression, rires, liberté",
+      "partner_2": "Jeu, légèreté, applaudissements"
+    },
+    "strengths": ["Créativité", "Sociabilité", "Optimisme"],
+    "challenges": ["Dispersion", "Superficialité", "Jalousie d’attention"],
+    "growth_advice": "Canalisez votre joie dans des créations communes."
+  },
+  "3-4": {
+    "emotional_theme": "Inspiration et discipline",
+    "connection_style": "Le 3 inspire, le 4 ancre. Duo productif si l’on respecte les rythmes.",
+    "emotional_needs": {
+      "partner_1": "Public, variété, jeu",
+      "partner_2": "Prévisibilité, fiabilité, clarté"
+    },
+    "strengths": ["Complémentarité", "Résultats tangibles", "Respect des talents"],
+    "challenges": ["Frustrations de rythme", "Critiques", "Rigidité"],
+    "growth_advice": "Planifiez et laissez des espaces de spontanéité."
+  },
+  "3-5": {
+    "emotional_theme": "Fête des sens et des idées",
+    "connection_style": "Relation pétillante, curieuse et mobile. Beaucoup d’expériences.",
+    "emotional_needs": {
+      "partner_1": "Visibilité, partage, humour",
+      "partner_2": "Liberté, aventure, nouveauté"
+    },
+    "strengths": ["Amplitude sociale", "Adaptabilité", "Plaisir"],
+    "challenges": ["Inconstance", "Retards", "Éparpillement"],
+    "growth_advice": "Définissez quelques priorités stables à deux."
+  },
+  "3-6": {
+    "emotional_theme": "Beauté et cœur",
+    "connection_style": "Le 3 exprime, le 6 harmonise. Amour artistique et chaleureux.",
+    "emotional_needs": {
+      "partner_1": "Appréciation, liberté, humour",
+      "partner_2": "Amitié, esthétique, constance"
+    },
+    "strengths": ["Affection", "Création commune", "Ambiance joyeuse"],
+    "challenges": ["Susceptibilité", "Besoin d’attention", "Dramatisation"],
+    "growth_advice": "Écoutez sans ironie, encouragez sans exiger."
+  },
+  "3-7": {
+    "emotional_theme": "Poésie et sagesse",
+    "connection_style": "Union subtile entre expression et intériorité. Richesse mentale et sensible.",
+    "emotional_needs": {
+      "partner_1": "Partage, jeu, reconnaissance",
+      "partner_2": "Silence, profondeur, authenticité"
+    },
+    "strengths": ["Complémentarité mentale", "Créativité inspirée", "Respect des espaces"],
+    "challenges": ["Malentendus", "Rythmes discordants", "Retrait"],
+    "growth_advice": "Rythmez votre vie entre inspiration et contemplation."
+  },
+  "3-8": {
+    "emotional_theme": "Charisme et réalisation",
+    "connection_style": "Le 3 attire, le 8 structure et propulse. Couple visible et performant.",
+    "emotional_needs": {
+      "partner_1": "Approbation, liberté, fun",
+      "partner_2": "Efficience, respect, engagement"
+    },
+    "strengths": ["Rayonnement", "Succès", "Clarté des buts"],
+    "challenges": ["Pression", "Égos", "Méprises d’intention"],
+    "growth_advice": "Protégez votre intimité de l’extérieur, célébrez sans compétitions."
+  },
+  "3-9": {
+    "emotional_theme": "Romance et idéal",
+    "connection_style": "Amour inspirant, artistique et altruiste. Beaucoup d’émotion et de sens.",
+    "emotional_needs": {
+      "partner_1": "Admiration, liberté, légèreté",
+      "partner_2": "Sens, compassion, partage"
+    },
+    "strengths": ["Élévation", "Empathie", "Créativité"],
+    "challenges": ["Hypersensibilité", "Flou pratique", "Dispersions"],
+    "growth_advice": "Donnez-vous un cadre doux pour concrétiser vos élans."
+  },
+  "4-4": {
+    "emotional_theme": "Deux bâtisseurs",
+    "connection_style": "Couple fiable, patient et concret. Sécurité avant tout.",
+    "emotional_needs": {
+      "partner_1": "Clarté, routine, loyauté",
+      "partner_2": "Prévisibilité, respect, stabilité"
+    },
+    "strengths": ["Solidité", "Fiabilité", "Durabilité"],
+    "challenges": ["Rigidité", "Routine", "Peu de spontanéité"],
+    "growth_advice": "Insufflez des moments d’imprévu cadrés."
+  },
+  "4-5": {
+    "emotional_theme": "Cadre et liberté",
+    "connection_style": "Le 4 sécurise, le 5 libère. Alliance riche si les règles sont claires.",
+    "emotional_needs": {
+      "partner_1": "Respect des règles, constance, loyauté",
+      "partner_2": "Espace, surprises, mouvement"
+    },
+    "strengths": ["Complémentarité", "Apprentissages croisés", "Équilibre"],
+    "challenges": ["Frictions sur les limites", "Retard/rigidité", "Pression"],
+    "growth_advice": "Convenez d’un ‘cadre vivant’ révisable régulièrement."
+  },
+  "4-6": {
+    "emotional_theme": "Maison forte",
+    "connection_style": "Foyer solide, valeurs claires, fidélité assumée.",
+    "emotional_needs": {
+      "partner_1": "Ordre, sécurité, respect",
+      "partner_2": "Écoute, beauté, chaleur"
+    },
+    "strengths": ["Stabilité", "Loyauté", "Responsabilité"],
+    "challenges": ["Inflexibilité", "Rôle figé", "Ressentiment"],
+    "growth_advice": "Partagez charge mentale et décisions avec souplesse."
+  },
+  "4-7": {
+    "emotional_theme": "Structure et recherche",
+    "connection_style": "Le 4 construit, le 7 conceptualise. Relation sérieuse et réfléchie.",
+    "emotional_needs": {
+      "partner_1": "Règles, clarté, fidélité",
+      "partner_2": "Vérité, espace, calme"
+    },
+    "strengths": ["Profondeur", "Crédibilité", "Projets sensés"],
+    "challenges": ["Dureté", "Doute", "Peu d’expression affective"],
+    "growth_advice": "Exprimez vos ressentis, ritualisez les moments d’intimité."
+  },
+  "4-8": {
+    "emotional_theme": "Gestion et réussite",
+    "connection_style": "Couple d’organisateurs-nés. On vise haut avec rigueur.",
+    "emotional_needs": {
+      "partner_1": "Loyauté, méthode, sécurité",
+      "partner_2": "Efficacité, respect, résultats"
+    },
+    "strengths": ["Performance", "Fiabilité", "Persévérance"],
+    "challenges": ["Stress", "Autoritarisme", "Vie privée négligée"],
+    "growth_advice": "Planifiez du temps sacré non-négociable pour le couple."
+  },
+  "4-9": {
+    "emotional_theme": "Devoir et humanisme",
+    "connection_style": "Le 4 veut le concret, le 9 le sens. Ensemble, ils bâtissent utile.",
+    "emotional_needs": {
+      "partner_1": "Ordre, loyauté, sécurité",
+      "partner_2": "Inspiration, compassion, vision"
+    },
+    "strengths": ["Utilité sociale", "Solidité", "Éthique"],
+    "challenges": ["Différences de priorités", "Rigidité", "Patience émotionnelle"],
+    "growth_advice": "Traduisez l’idéal en étapes claires et mesurables."
+  },
+  "5-5": {
+    "emotional_theme": "Vents contraires, même horizon",
+    "connection_style": "Relation libre, mobile, intense : on expérimente sans cesse.",
+    "emotional_needs": {
+      "partner_1": "Aventure, variété, spontanéité",
+      "partner_2": "Liberté, découverte, sensations"
+    },
+    "strengths": ["Adaptation", "Fun", "Ouverture"],
+    "challenges": ["Engagement fluctuant", "Éparpillement", "Exès"],
+    "growth_advice": "Gardez 2-3 piliers fixes (valeurs, rituels, projet) pour vous ancrer."
+  },
+  "5-6": {
+    "emotional_theme": "Liberté et foyer",
+    "connection_style": "Le 5 bouge, le 6 accueille. On concilie espace et attachement.",
+    "emotional_needs": {
+      "partner_1": "Souplesse, nouveauté, non-jugement",
+      "partner_2": "Présence, attention, stabilité"
+    },
+    "strengths": ["Équilibre liberté/engagement", "Tolérance", "Joie de vivre"],
+    "challenges": ["Insécurité du 6", "Inconstance du 5", "Jalousies"],
+    "growth_advice": "Établissez des accords clairs qui sécurisent sans enfermer."
+  },
+  "5-7": {
+    "emotional_theme": "Exploration et sagesse",
+    "connection_style": "Voyage extérieur et intérieur : curiosité du 5, profondeur du 7.",
+    "emotional_needs": {
+      "partner_1": "Mouvement, expériences, liberté",
+      "partner_2": "Sens, solitude choisie, sincérité"
+    },
+    "strengths": ["Apprentissages", "Ouverture", "Sagesse partagée"],
+    "challenges": ["Rythmes opposés", "Retrait", "Volatilité"],
+    "growth_advice": "Programmez des phases d’expansion et de contemplation."
+  },
+  "5-8": {
+    "emotional_theme": "Audace et maîtrise",
+    "connection_style": "Le 5 initie, le 8 canalise pour réussir. Alliance très dynamique.",
+    "emotional_needs": {
+      "partner_1": "Aventure, liberté, souplesse",
+      "partner_2": "Respect, résultats, cadre"
+    },
+    "strengths": ["Innovation", "Performance", "Réseaux"],
+    "challenges": ["Exigence", "Instabilité", "Tensions de contrôle"],
+    "growth_advice": "Fixez un cap ferme avec des chemins flexibles."
+  },
+  "5-9": {
+    "emotional_theme": "Ailes et horizon",
+    "connection_style": "Amour libre et inspirant : le 5 ouvre, le 9 élève.",
+    "emotional_needs": {
+      "partner_1": "Liberté, surprises, légèreté",
+      "partner_2": "Idéal, compassion, profondeur"
+    },
+    "strengths": ["Élévation", "Tolérance", "Curiosité"],
+    "challenges": ["Flou", "Émotivité", "Inconstance"],
+    "growth_advice": "Articulez rêve et réalité : petits pas vers un grand idéal."
+  },
+  "6-6": {
+    "emotional_theme": "Foyer sacré",
+    "connection_style": "Union tendre, dévouée et esthétique. L’amour comme valeur centrale.",
+    "emotional_needs": {
+      "partner_1": "Chaleur, engagement, beauté",
+      "partner_2": "Confiance, équilibre, tendresse"
+    },
+    "strengths": ["Dévotion", "Responsabilité", "Solidarité"],
+    "challenges": ["Surprotection", "Surcharge", "Dramatisation"],
+    "growth_advice": "Préservez des temps individuels pour nourrir le couple durablement."
+  },
+  "6-7": {
+    "emotional_theme": "Cœur et contemplation",
+    "connection_style": "Le 6 aime relier, le 7 approfondir. Amour discret et sincère.",
+    "emotional_needs": {
+      "partner_1": "Affect, stabilité, partage",
+      "partner_2": "Vérité, espace, authenticité"
+    },
+    "strengths": ["Soutien", "Finesse", "Maturité"],
+    "challenges": ["Retrait", "Blessures anciennes", "Silences"],
+    "growth_advice": "Ritualisez des rendez-vous cœur à cœur."
+  },
+  "6-8": {
+    "emotional_theme": "Protection et réussite du foyer",
+    "connection_style": "Le 6 protège, le 8 pourvoit. Couple stable et ambitieux pour la famille.",
+    "emotional_needs": {
+      "partner_1": "Harmonie, reconnaissance, douceur",
+      "partner_2": "Respect, efficacité, loyauté"
+    },
+    "strengths": ["Sécurité", "Organisation", "But commun"],
+    "challenges": ["Contrôle", "Pression", "Émotions mises de côté"],
+    "growth_advice": "Mesurez la réussite aussi à l’aune de la qualité relationnelle."
+  },
+  "6-9": {
+    "emotional_theme": "Amour et idéal",
+    "connection_style": "Union romantique, tournée vers le soin et la beauté du monde.",
+    "emotional_needs": {
+      "partner_1": "Affection, sécurité, harmonie",
+      "partner_2": "Sens, compassion, élévation"
+    },
+    "strengths": ["Générosité", "Poésie", "Solidarité"],
+    "challenges": ["Sacrifice", "Susceptibilité", "Flou concret"],
+    "growth_advice": "Posez des limites saines pour préserver la magie."
+  },
+  "7-7": {
+    "emotional_theme": "Deux ermites lumineux",
+    "connection_style": "Lien profond, discret, spirituel. Haute exigence de vérité.",
+    "emotional_needs": {
+      "partner_1": "Authenticité, calme, sens",
+      "partner_2": "Intégrité, espace, profondeur"
+    },
+    "strengths": ["Intuition", "Sagesse", "Loyauté"],
+    "challenges": ["Isolement", "Peu d’expression", "Exigence"],
+    "growth_advice": "Osez la vulnérabilité et la célébration des petites joies."
+  },
+  "7-8": {
+    "emotional_theme": "Stratégie et maîtrise",
+    "connection_style": "Le 7 pense, le 8 met en œuvre. Duo puissant quand l’écoute est mutuelle.",
+    "emotional_needs": {
+      "partner_1": "Vérité, indépendance, profondeur",
+      "partner_2": "Respect, efficacité, reconnaissance"
+    },
+    "strengths": ["Vision", "Réalisation", "Crédibilité"],
+    "challenges": ["Froid perçu", "Contrôle", "Priorités matérielles"],
+    "growth_advice": "Reliez vos décisions à un sens partagé."
+  },
+  "7-9": {
+    "emotional_theme": "Sagesse et compassion",
+    "connection_style": "Union noble et inspirée : profondeur du 7, universalité du 9.",
+    "emotional_needs": {
+      "partner_1": "Sincérité, silence, indépendance",
+      "partner_2": "Altruisme, beauté, pardon"
+    },
+    "strengths": ["Hauteur de vue", "Bienveillance", "Spiritualité"],
+    "challenges": ["Idéalisme", "Distance émotionnelle", "Praticité"],
+    "growth_advice": "Enracinez vos idéaux dans des gestes concrets."
+  },
+  "8-8": {
+    "emotional_theme": "Pouvoir partagé",
+    "connection_style": "Couple leader : ambitieux, structuré, influent.",
+    "emotional_needs": {
+      "partner_1": "Respect, réussite, loyauté",
+      "partner_2": "Impact, équité, maîtrise"
+    },
+    "strengths": ["Succès", "Décision", "Protection"],
+    "challenges": ["Rapports de force", "Pression", "Vie privée fragilisée"],
+    "growth_advice": "Créez un espace d’amour inviolable, au-dessus des enjeux d’ego."
+  },
+  "8-9": {
+    "emotional_theme": "Puissance et humanisme",
+    "connection_style": "Le 8 structure, le 9 donne du sens. Alliance généreuse et efficace.",
+    "emotional_needs": {
+      "partner_1": "Résultats, loyauté, justice",
+      "partner_2": "Compassion, idéal, beauté"
+    },
+    "strengths": ["Impact utile", "Générosité", "Vision partagée"],
+    "challenges": ["Conflits de priorités", "Exigence", "Émotivité"],
+    "growth_advice": "Mesurez la réussite à l’aune de votre contribution."
+  },
+  "9-9": {
+    "emotional_theme": "Deux cœurs universels",
+    "connection_style": "Amour vaste, artistique, compatissant. Idéal élevé.",
+    "emotional_needs": {
+      "partner_1": "Sens, générosité, beauté",
+      "partner_2": "Pardon, douceur, élévation"
+    },
+    "strengths": ["Empathie", "Altruisme", "Romantisme"],
+    "challenges": ["Sacrifice", "Hypersensibilité", "Flou pratique"],
+    "growth_advice": "Ancrez votre amour par des engagements concrets."
+  },
+  "11-1": {
+    "emotional_theme": "Vision et leadership",
+    "connection_style": "Le 11 inspire, le 1 concrétise. Couple pionnier et charismatique.",
+    "emotional_needs": {
+      "partner_1": "Inspiration, profondeur, mission",
+      "partner_2": "Autonomie, reconnaissance, victoire"
+    },
+    "strengths": ["Intuition", "Courage", "Influence positive"],
+    "challenges": ["Nervosité du 11", "Impulsivité du 1", "Déphasages"],
+    "growth_advice": "Reliez l’élan du 1 à la vision du 11 : cap, calme et courage."
+  },
+  "11-2": {
+    "emotional_theme": "Intuition et tendresse sacrée",
+    "connection_style": "Lien fin et protecteur : le 11 éclaire, le 2 apaise.",
+    "emotional_needs": {
+      "partner_1": "Élévation, vérité, sens",
+      "partner_2": "Sécurité, attention, douceur"
+    },
+    "strengths": ["Empathie", "Connexion spirituelle", "Dévouement"],
+    "challenges": ["Hypersensibilité", "Doutes", "Manque d’ancrage"],
+    "growth_advice": "Ancrez vos intuitions dans des rituels simples et stables."
+  },
+  "11-3": {
+    "emotional_theme": "Inspiration et expression supérieure",
+    "connection_style": "Le 11 canalise, le 3 diffuse. Rayonnement créatif.",
+    "emotional_needs": {
+      "partner_1": "Sens, vérité, profondeur",
+      "partner_2": "Public, joie, liberté"
+    },
+    "strengths": ["Créativité inspirée", "Charisme", "Transmission"],
+    "challenges": ["Instabilité nerveuse", "Éparpillement", "Idéalisme"],
+    "growth_advice": "Cadrez vos élans par des cycles créatifs réguliers."
+  },
+  "11-4": {
+    "emotional_theme": "Vision ancrée",
+    "connection_style": "Le 11 voit loin, le 4 bâtit. Union de mission et de méthode.",
+    "emotional_needs": {
+      "partner_1": "Vérité, élévation, authenticité",
+      "partner_2": "Clarté, sécurité, loyauté"
+    },
+    "strengths": ["Stabilité sacrée", "Crédibilité", "Projets à impact"],
+    "challenges": ["Rigidité", "Perfectionnisme", "Pression"],
+    "growth_advice": "Planifiez peu mais bien : étapes claires au service du sens."
+  },
+  "11-5": {
+    "emotional_theme": "Liberté inspirée",
+    "connection_style": "Le 11 élève, le 5 libère. Grande respiration de l’âme.",
+    "emotional_needs": {
+      "partner_1": "Intuition, mission, sincérité",
+      "partner_2": "Aventure, mouvement, légèreté"
+    },
+    "strengths": ["Ouverture", "Créativité", "Guérison"],
+    "challenges": ["Nervosité", "Flottement", "Inconstance"],
+    "growth_advice": "Restez fidèles à un fil conducteur qui vous rassemble."
+  },
+  "11-6": {
+    "emotional_theme": "Amour élevé",
+    "connection_style": "Couple nourricier et spirituel : cœur, beauté et sens.",
+    "emotional_needs": {
+      "partner_1": "Pureté d’intention, éthique, intuition",
+      "partner_2": "Harmonie, sécurité, affection"
+    },
+    "strengths": ["Compassion", "Profondeur", "Engagement"],
+    "challenges": ["Sacrifice", "Idéalisation", "Vulnérabilité"],
+    "growth_advice": "Entourez votre amour d’actions simples et concrètes."
+  },
+  "11-7": {
+    "emotional_theme": "Mystique et sagesse",
+    "connection_style": "Lien rare, d’une grande profondeur intérieure.",
+    "emotional_needs": {
+      "partner_1": "Vérité, lumière, authenticité",
+      "partner_2": "Sens, espace, silence"
+    },
+    "strengths": ["Intuition", "Clarté mentale", "Spiritualité"],
+    "challenges": ["Isolement", "Exigence", "Peu de mondanité"],
+    "growth_advice": "Créez des moments de beauté partagée accessibles et réguliers."
+  },
+  "11-8": {
+    "emotional_theme": "Vision et réalisation",
+    "connection_style": "Le 11 inspire, le 8 structure et impacte. Couple de mission.",
+    "emotional_needs": {
+      "partner_1": "Sens, intégrité, inspiration",
+      "partner_2": "Respect, résultats, équité"
+    },
+    "strengths": ["Influence positive", "Crédibilité", "Succès utile"],
+    "challenges": ["Pression", "Nervosité", "Conflit idéal/matière"],
+    "growth_advice": "Alignez vos objectifs sur des valeurs non négociables."
+  },
+  "11-9": {
+    "emotional_theme": "Amour universel",
+    "connection_style": "Union lumineuse, tournée vers le service et la beauté.",
+    "emotional_needs": {
+      "partner_1": "Élévation, compassion, mission",
+      "partner_2": "Altruisme, romantisme, pardon"
+    },
+    "strengths": ["Générosité", "Inspiration", "Guérison"],
+    "challenges": ["Sacrifice", "Hypersensibilité", "Flou concret"],
+    "growth_advice": "Préservez-vous : donnez sans vous oublier."
+  },
+  "11-11": {
+    "emotional_theme": "Deux phares",
+    "connection_style": "Vibration élevée, créativité spirituelle, intuition partagée.",
+    "emotional_needs": {
+      "partner_1": "Vérité, expression de l’âme, liberté",
+      "partner_2": "Intégrité, lumière, sens"
+    },
+    "strengths": ["Clarté", "Inspiration", "Soutien subtil"],
+    "challenges": ["Nervosité", "Idéalisme", "Ancrage"],
+    "growth_advice": "Ramenez régulièrement la relation au corps et au quotidien."
+  },
+  "11-22": {
+    "emotional_theme": "Vision et bâtisseur sacré",
+    "connection_style": "Le 11 révèle le sens, le 22 réalise à grande échelle.",
+    "emotional_needs": {
+      "partner_1": "Inspiration, authenticité, intuition",
+      "partner_2": "Structure, efficacité, loyauté"
+    },
+    "strengths": ["Projets de vie", "Crédibilité", "Impact"],
+    "challenges": ["Pression", "Perfectionnisme", "Fatigue nerveuse"],
+    "growth_advice": "Équilibrez vision, méthode et repos conscient."
+  },
+  "11-33": {
+    "emotional_theme": "Inspiration et amour guérisseur",
+    "connection_style": "Le 11 éclaire, le 33 console et guérit. Amour dévotionnel.",
+    "emotional_needs": {
+      "partner_1": "Vérité, mission, élévation",
+      "partner_2": "Compassion, service, harmonie"
+    },
+    "strengths": ["Empathie sacrée", "Altruisme", "Beauté"],
+    "challenges": ["Sacrifice", "Fatigue émotionnelle", "Idéalisation"],
+    "growth_advice": "Protégez votre cœur par des limites claires et aimantes."
+  },
+  "22-1": {
+    "emotional_theme": "Bâtisseur et pionnier",
+    "connection_style": "Le 22 planifie grand, le 1 impulse. Union pour concrétiser des rêves audacieux.",
+    "emotional_needs": {
+      "partner_1": "Effet utile, loyauté, méthode",
+      "partner_2": "Autonomie, défi, victoire"
+    },
+    "strengths": ["Réalisation", "Clarté", "Endurance"],
+    "challenges": ["Autorité", "Pression", "Impulsivité"],
+    "growth_advice": "Unissez rythme et méthode : plan court + vision longue."
+  },
+  "22-2": {
+    "emotional_theme": "Grand œuvre et douceur",
+    "connection_style": "Le 22 construit, le 2 relie et apaise. Maison forte et cœur tendre.",
+    "emotional_needs": {
+      "partner_1": "Efficacité, stabilité, loyauté",
+      "partner_2": "Sécurité, attention, temps"
+    },
+    "strengths": ["Stabilité", "Solidarité", "Utilité"],
+    "challenges": ["Surcharge", "Inquiétudes", "Peurs du changement"],
+    "growth_advice": "Planifiez le soin autant que l’œuvre."
+  },
+  "22-3": {
+    "emotional_theme": "Architecture et expression",
+    "connection_style": "Le 22 structure, le 3 rayonne. Projet visible et inspirant.",
+    "emotional_needs": {
+      "partner_1": "Résultats, fiabilité, méthode",
+      "partner_2": "Liberté, public, plaisir"
+    },
+    "strengths": ["Crédibilité", "Créativité", "Réseau"],
+    "challenges": ["Exigence", "Éparpillement", "Rythmes différents"],
+    "growth_advice": "Réglez le tempo : jalons + fenêtres de jeu."
+  },
+  "22-4": {
+    "emotional_theme": "Maîtrise du concret",
+    "connection_style": "Deux bâtisseurs, dont l’un opère à grande échelle.",
+    "emotional_needs": {
+      "partner_1": "Efficience, loyauté, vision",
+      "partner_2": "Stabilité, clarté, rigueur"
+    },
+    "strengths": ["Solidité exceptionnelle", "Durée", "Impact"],
+    "challenges": ["Rigidité", "Pression", "Vie intime à nourrir"],
+    "growth_advice": "Placez l’amour en priorité 1 dans l’agenda."
+  },
+  "22-5": {
+    "emotional_theme": "Structure et mouvement",
+    "connection_style": "Le 22 cadre, le 5 innove. Résultats concrets et modernes.",
+    "emotional_needs": {
+      "partner_1": "Fiabilité, aboutissement, respect",
+      "partner_2": "Liberté, variété, curiosité"
+    },
+    "strengths": ["Efficacité", "Agilité", "Vision pratique"],
+    "challenges": ["Contrôle vs. imprévu", "Stress", "Inconstance"],
+    "growth_advice": "Cadrez souplement, révisez souvent."
+  },
+  "22-6": {
+    "emotional_theme": "Maison-grand projet",
+    "connection_style": "Le 22 bâtit, le 6 embellit et protège. Foyer d’exception.",
+    "emotional_needs": {
+      "partner_1": "Résultats, loyauté, structure",
+      "partner_2": "Chaleur, harmonie, sécurité"
+    },
+    "strengths": ["Stabilité", "Beauté", "Transmission"],
+    "challenges": ["Surcharge", "Contrôle", "Auto-exigence"],
+    "growth_advice": "Répartissez les rôles, ménagez du repos."
+  },
+  "22-7": {
+    "emotional_theme": "Bâtisseur et sage",
+    "connection_style": "Le 22 réalise, le 7 donne du sens. Couple sérieux, discret et durable.",
+    "emotional_needs": {
+      "partner_1": "Crédibilité, méthode, réussite",
+      "partner_2": "Vérité, espace, profondeur"
+    },
+    "strengths": ["Crédibilité", "Profondeur", "Résilience"],
+    "challenges": ["Peu d’expressivité", "Pression", "Solitude"],
+    "growth_advice": "Célébrez les victoires, même petites, avec cœur."
+  },
+  "22-8": {
+    "emotional_theme": "Maîtrise et succès",
+    "connection_style": "Duo très performant et protecteur. Haut niveau d’exigence.",
+    "emotional_needs": {
+      "partner_1": "Loyauté, efficacité, mission",
+      "partner_2": "Respect, résultats, leadership"
+    },
+    "strengths": ["Puissance", "Organisation", "Crédibilité"],
+    "challenges": ["Sur-contrôle", "Stress", "Vie intime négligée"],
+    "growth_advice": "Sanctuarisez des espaces d’amour gratuits."
+  },
+  "22-9": {
+    "emotional_theme": "Œuvre et compassion",
+    "connection_style": "Le 22 concrétise, le 9 humanise. Du beau et du bien.",
+    "emotional_needs": {
+      "partner_1": "Efficience, loyauté, stabilité",
+      "partner_2": "Idéal, générosité, art"
+    },
+    "strengths": ["Impact social", "Éthique", "Durabilité"],
+    "challenges": ["Priorités différentes", "Fatigue", "Susceptibilité"],
+    "growth_advice": "Équilibrez objectifs et douceur relationnelle."
+  },
+  "22-22": {
+    "emotional_theme": "Deux maîtres d’œuvre",
+    "connection_style": "Stature, exemplarité et exigence. Couples ‘piliers’.",
+    "emotional_needs": {
+      "partner_1": "Fidélité, vision, méthode",
+      "partner_2": "Intégrité, résultats, stabilité"
+    },
+    "strengths": ["Réalisation majeure", "Respect", "Solidité"],
+    "challenges": ["Pression forte", "Perfectionnisme", "Vie privée"],
+    "growth_advice": "Rappelez-vous que l’amour précède l’œuvre."
+  },
+  "22-33": {
+    "emotional_theme": "Bâtir pour aimer",
+    "connection_style": "Le 22 construit des espaces, le 33 y répand la compassion.",
+    "emotional_needs": {
+      "partner_1": "Ordre, loyauté, contribution",
+      "partner_2": "Amour, guérison, beauté"
+    },
+    "strengths": ["Bien commun", "Stabilité", "Générosité"],
+    "challenges": ["Surcharge du 22", "Sacrifice du 33", "Épuisement"],
+    "growth_advice": "Protégez l’énergie : repos, délégation, gratitude."
+  },
+  "33-1": {
+    "emotional_theme": "Amour et initiative",
+    "connection_style": "Le 33 aime, le 1 ouvre la voie. Duo protecteur et pionnier.",
+    "emotional_needs": {
+      "partner_1": "Compassion, harmonie, expression du cœur",
+      "partner_2": "Autonomie, reconnaissance, défi"
+    },
+    "strengths": ["Chaleur", "Courage", "Créativité"],
+    "challenges": ["Sacrifice", "Impulsivité", "Malentendus sur le rythme"],
+    "growth_advice": "Misez sur une communication douce et directe."
+  },
+  "33-2": {
+    "emotional_theme": "Cœur à cœur",
+    "connection_style": "Deux âmes sensibles : l’une universelle (33), l’autre intime (2).",
+    "emotional_needs": {
+      "partner_1": "Don, beauté, bonté",
+      "partner_2": "Sécurité, attention, douceur"
+    },
+    "strengths": ["Tendresse", "Soutien", "Guérison"],
+    "challenges": ["Sacrifice", "Fusion", "Hypersensibilité"],
+    "growth_advice": "Gardez des frontières aimantes et nettes."
+  },
+  "33-3": {
+    "emotional_theme": "Art et amour",
+    "connection_style": "Joie, créativité, chaleur : rayonnement partagé.",
+    "emotional_needs": {
+      "partner_1": "Expression du cœur, service, beauté",
+      "partner_2": "Jeu, public, liberté"
+    },
+    "strengths": ["Charme", "Créativité", "Générosité"],
+    "challenges": ["Éparpillement", "Idéalisation", "Fatigue émotionnelle"],
+    "growth_advice": "Cadrez la création, protégez le temps de repos."
+  },
+  "33-4": {
+    "emotional_theme": "Amour incarné",
+    "connection_style": "Le 33 aime, le 4 structure. Sécurité affective et beauté simple.",
+    "emotional_needs": {
+      "partner_1": "Compassion, expression, douceur",
+      "partner_2": "Clarté, fiabilité, routine"
+    },
+    "strengths": ["Stabilité", "Bienveillance", "Concret"],
+    "challenges": ["Rigide vs. hyper-empathique", "Surcharge du 33", "Usure"],
+    "growth_advice": "Rythmez amour et organisation sans dureté."
+  },
+  "33-5": {
+    "emotional_theme": "Amour et liberté",
+    "connection_style": "Le 33 soigne, le 5 libère : duo lumineux et vivant.",
+    "emotional_needs": {
+      "partner_1": "Partage, compassion, harmonie",
+      "partner_2": "Mouvement, variété, espace"
+    },
+    "strengths": ["Joie", "Ouverture", "Lien guérisseur"],
+    "challenges": ["Inconstance", "Émotivité", "Frontières"],
+    "growth_advice": "Protégez votre lien par des accords simples et vivants."
+  },
+  "33-6": {
+    "emotional_theme": "Cœur magnifié",
+    "connection_style": "Deux vibrations du service : chaleur et beauté élevées.",
+    "emotional_needs": {
+      "partner_1": "Amour universel, expression, douceur",
+      "partner_2": "Foyer, équilibre, fidélité"
+    },
+    "strengths": ["Dévotion", "Esthétique", "Solidarité"],
+    "challenges": ["Sacrifice", "Surcharge", "Sensibilité"],
+    "growth_advice": "Prenez soin du couple autant que des autres."
+  },
+  "33-7": {
+    "emotional_theme": "Amour et sagesse",
+    "connection_style": "Le 33 réchauffe, le 7 éclaire. Grande dignité du lien.",
+    "emotional_needs": {
+      "partner_1": "Partage, douceur, beauté",
+      "partner_2": "Vérité, espace, silence"
+    },
+    "strengths": ["Élévation", "Respect", "Intuition"],
+    "challenges": ["Retrait", "Fatigue du don", "Exigence"],
+    "growth_advice": "Mêlez cœur, vérité et repos."
+  },
+  "33-8": {
+    "emotional_theme": "Amour qui impacte",
+    "connection_style": "Le 33 soigne, le 8 protège et réalise. Couple généreux et solide.",
+    "emotional_needs": {
+      "partner_1": "Expression du cœur, compassion, harmonie",
+      "partner_2": "Respect, résultats, justice"
+    },
+    "strengths": ["Protection", "Utilité", "Rayonnement"],
+    "challenges": ["Fatigue", "Contrôle", "Priorités"],
+    "growth_advice": "Programmez du repos et de la joie gratuite."
+  },
+  "33-9": {
+    "emotional_theme": "Amour universel et romantisme",
+    "connection_style": "Deux cœurs immenses : l’art, la compassion et la beauté comme langage.",
+    "emotional_needs": {
+      "partner_1": "Don, guérison, harmonie",
+      "partner_2": "Idéal, poésie, pardon"
+    },
+    "strengths": ["Générosité", "Beauté", "Élévation"],
+    "challenges": ["Sacrifice", "Hypersensibilité", "Flou matériel"],
+    "growth_advice": "Honorez la matière : simplicité, cadre doux, choix concrets."
+  },
+  "33-33": {
+    "emotional_theme": "Deux cœurs-maîtres",
+    "connection_style": "Amour dévotionnel, rayonnant et guérisseur. Haut potentiel spirituel.",
+    "emotional_needs": {
+      "partner_1": "Compassion, beauté, vérité",
+      "partner_2": "Service, harmonie, authenticité"
+    },
+    "strengths": ["Amour inconditionnel", "Guérison", "Inspiration"],
+    "challenges": ["Sacrifice", "Épuisement", "Idéalisation"],
+    "growth_advice": "Canalisez votre amour par des limites claires et des rituels nourrissants."
+  }
+}

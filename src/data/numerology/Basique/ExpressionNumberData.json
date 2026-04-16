@@ -1,0 +1,98 @@
+{
+"1": {
+    "title": "L’Initiateur",
+    "keywords": ["Indépendance", "Leadership", "Innovation"],
+    "description": "Le nombre d’Expression 1 décrit une personnalité intrinsèquement autonome et innovante. Vous avez une capacité naturelle à prendre des initiatives, à vous démarquer et à influencer les autres par votre confiance et votre dynamisme. Votre style d’action est direct et affirmé, vous aimez être reconnu pour votre originalité.",
+    "strengths": "Autonomie, créativité, audace, capacité à inspirer et motiver les autres.",
+    "challenges": "Tendance à vouloir tout contrôler, impatience, difficulté à déléguer.",
+    "mission": "Exprimer vos idées et talents de façon indépendante, tout en apprenant à collaborer quand c’est nécessaire."
+  },
+  "2": {
+    "title": "Le Diplomate",
+    "keywords": ["Coopération", "Sensibilité", "Écoute"],
+    "description": "Le nombre d’Expression 2 montre une capacité naturelle à établir des relations harmonieuses. Vous êtes doué pour écouter, comprendre et adapter votre comportement selon les autres. Votre style d’expression repose sur la diplomatie, l’empathie et la capacité à créer des ponts entre les personnes.",
+    "strengths": "Patience, intuition, finesse relationnelle, capacité à unir et harmoniser.",
+    "challenges": "Tendance à éviter les conflits, à dépendre trop des autres pour décider.",
+    "mission": "Utiliser votre sensibilité et vos talents relationnels pour faciliter la coopération et soutenir les autres, sans perdre votre autonomie."
+  },
+  "3": {
+    "title": "Le Créatif",
+    "keywords": ["Expression", "Optimisme", "Communication"],
+    "description": "Le nombre d’Expression 3 reflète un talent naturel pour la communication, l’expression artistique et la joie de vivre. Vous savez captiver, divertir et inspirer les autres grâce à vos idées et votre enthousiasme. Votre style est souvent expressif et imaginatif, ce qui vous rend unique dans vos interactions.",
+    "strengths": "Charisme, créativité, humour, capacité à motiver et enthousiasmer.",
+    "challenges": "Tendance à se disperser ou à manquer de constance dans vos projets.",
+    "mission": "Exprimer vos idées et votre créativité de manière concrète, en touchant et en inspirant ceux qui vous entourent."
+  },
+  "4": {
+    "title": "Le Bâtisseur",
+    "keywords": ["Organisation", "Fiabilité", "Rigueur"],
+    "description": "Le nombre d’Expression 4 indique une personnalité pratique et structurée. Vous excellez dans la planification, l’organisation et la création de systèmes efficaces. Votre style d’expression est méthodique et réfléchi, vous inspirez confiance et fiabilité aux autres.",
+    "strengths": "Rigueur, sens de l’organisation, persévérance, pragmatisme.",
+    "challenges": "Tendance à la rigidité, à être trop critique ou perfectionniste.",
+    "mission": "Mettre vos capacités organisationnelles et votre fiabilité au service de projets concrets et durables."
+  },
+  "5": {
+    "title": "L’Aventurier",
+    "keywords": ["Liberté", "Adaptabilité", "Curiosité"],
+    "description": "Le nombre d’Expression 5 montre une personnalité dynamique et versatile. Vous possédez une facilité naturelle à vous adapter à différents contextes et à gérer le changement. Votre style est audacieux et ouvert, ce qui attire les expériences nouvelles et enrichissantes.",
+    "strengths": "Adaptabilité, curiosité, énergie, capacité à inspirer par l’exemple.",
+    "challenges": "Instabilité, impulsivité, difficulté à se concentrer sur un seul projet.",
+    "mission": "Exprimer votre liberté et votre curiosité pour explorer, apprendre et enrichir votre entourage."
+  },
+  "6": {
+    "title": "Le Protecteur",
+    "keywords": ["Responsabilité", "Harmonie", "Soutien"],
+    "description": "Le nombre d’Expression 6 révèle une personne naturellement orientée vers le soutien et l’équilibre. Vous savez créer un environnement chaleureux et harmonieux, et votre style d’expression est nourrissant et rassurant pour ceux qui vous entourent.",
+    "strengths": "Altruisme, loyauté, empathie, capacité à prendre soin des autres.",
+    "challenges": "Sacrifice excessif, tendance à trop contrôler pour le bien des autres.",
+    "mission": "Mettre votre sensibilité et vos talents relationnels au service de la stabilité et du bien-être des autres, tout en préservant votre autonomie."
+  },
+  "7": {
+    "title": "Le Sage",
+    "keywords": ["Analyse", "Intuition", "Réflexion"],
+    "description": "Le nombre d’Expression 7 décrit une personne introspective et analytique. Vous avez une capacité naturelle à observer, réfléchir et comprendre en profondeur. Votre style d’expression est souvent discret, mais précis et éclairant pour ceux qui vous entourent.",
+    "strengths": "Intuition, profondeur, esprit analytique, capacité à guider et conseiller.",
+    "challenges": "Isolement, scepticisme excessif, difficulté à partager vos connaissances.",
+    "mission": "Exprimer votre sagesse et votre compréhension pour éclairer et inspirer les autres."
+  },
+  "8": {
+    "title": "Le Stratège",
+    "keywords": ["Leadership", "Gestion", "Ambition"],
+    "description": "Le nombre d’Expression 8 reflète une aptitude naturelle au leadership et à l’organisation de projets ambitieux. Vous avez un talent pour gérer des ressources, structurer des équipes et atteindre des objectifs concrets. Votre style est assertif et orienté vers les résultats.",
+    "strengths": "Leadership, sens de l’organisation, persévérance, efficacité.",
+    "challenges": "Tendance à l’autoritarisme, obsession pour le contrôle ou le succès matériel.",
+    "mission": "Utiliser vos capacités de gestion et votre ambition pour produire des résultats tangibles tout en respectant les autres."
+  },
+  "9": {
+    "title": "L’Humaniste",
+    "keywords": ["Générosité", "Compassion", "Vision"],
+    "description": "Le nombre d’Expression 9 indique une personnalité tournée vers l’altruisme et la contribution à un idéal. Vous possédez un talent naturel pour inspirer, aider et partager votre vision avec ceux qui vous entourent.",
+    "strengths": "Compassion, générosité, ouverture d’esprit, capacité à mobiliser et inspirer.",
+    "challenges": "Tendance à l’excès d’émotion ou au sacrifice de soi.",
+    "mission": "Exprimer votre humanité et votre générosité pour influencer positivement votre entourage."
+  },
+  "11": {
+    "title": "Le Visionnaire Spirituel",
+    "keywords": ["Intuition", "Inspiration", "Éveil"],
+    "description": "Le nombre d’Expression 11 montre une capacité exceptionnelle à inspirer et guider par l’intuition et la sensibilité. Vous possédez un magnétisme naturel et une créativité qui influence et motive ceux qui vous entourent.",
+    "strengths": "Intuition, inspiration, charisme, capacité à éveiller les autres.",
+    "challenges": "Sensibilité excessive, nervosité, difficulté à canaliser l’énergie.",
+    "mission": "Exprimer votre inspiration et votre intuition pour influencer positivement et guider ceux qui vous entourent."
+  },
+  "22": {
+    "title": "Le Maître Bâtisseur",
+    "keywords": ["Vision", "Concrétisation", "Leadership"],
+    "description": "Le nombre d’Expression 22 reflète un talent exceptionnel pour transformer des visions ambitieuses en projets concrets et durables. Vous avez une aptitude naturelle à organiser, planifier et diriger de grandes réalisations.",
+    "strengths": "Vision stratégique, organisation, capacité à concrétiser de grandes idées.",
+    "challenges": "Pression, perfectionnisme, peur de l’échec.",
+    "mission": "Mettre vos talents de bâtisseur au service de projets ambitieux et impactants, tout en gardant un équilibre personnel."
+  },
+  "33": {
+    "title": "Le Maître Guérisseur",
+    "keywords": ["Amour universel", "Compassion", "Service"],
+    "description": "Le nombre d’Expression 33 décrit une personne qui inspire et soutient les autres grâce à son amour, sa générosité et sa sagesse. Vous avez un talent naturel pour guérir, enseigner et transmettre des valeurs élevées.",
+    "strengths": "Compassion, générosité, capacité à apaiser et inspirer.",
+    "challenges": "Sacrifice de soi, responsabilités excessives, idéalisation trop forte.",
+    "mission": "Exprimer votre amour et votre générosité pour guider et soutenir les autres sans vous perdre."
+  }
+}

@@ -8,6 +8,7 @@ import {
   parseCreateReadingInput,
   ReadingValidationError
 } from "../services/readings.service";
+import { HttpError, asyncHandler } from "../utils/http";
 
 function getUserId(res: Response): string | null {
   const userId = res.locals.auth?.userId;
@@ -27,26 +28,20 @@ function getReadingId(req: Request): string | null {
   return readingId;
 }
 
-export async function getReadings(_req: Request, res: Response): Promise<void> {
+export const getReadings = asyncHandler(async (_req: Request, res: Response): Promise<void> => {
   const userId = getUserId(res);
   if (!userId) {
-    res.status(401).json({ error: "Unauthorized" });
-    return;
+    throw new HttpError(401, "Unauthorized");
   }
 
-  try {
-    const readings = await listReadingsByUser(userId);
-    res.json({ readings });
-  } catch {
-    res.status(500).json({ error: "failed to fetch readings" });
-  }
-}
+  const readings = await listReadingsByUser(userId);
+  res.json({ readings });
+});
 
-export async function createReading(req: Request, res: Response): Promise<void> {
+export const createReading = asyncHandler(async (req: Request, res: Response): Promise<void> => {
   const userId = getUserId(res);
   if (!userId) {
-    res.status(401).json({ error: "Unauthorized" });
-    return;
+    throw new HttpError(401, "Unauthorized");
   }
 
   try {
@@ -55,60 +50,45 @@ export async function createReading(req: Request, res: Response): Promise<void> 
     res.status(201).json({ reading });
   } catch (error) {
     if (error instanceof ReadingValidationError) {
-      res.status(400).json({ error: error.message });
-      return;
+      throw new HttpError(400, error.message);
     }
-
-    res.status(500).json({ error: "failed to create reading" });
+    throw error;
   }
-}
+});
 
-export async function getReadingById(req: Request, res: Response): Promise<void> {
+export const getReadingById = asyncHandler(
+  async (req: Request, res: Response): Promise<void> => {
   const userId = getUserId(res);
   if (!userId) {
-    res.status(401).json({ error: "Unauthorized" });
-    return;
+    throw new HttpError(401, "Unauthorized");
   }
   const readingId = getReadingId(req);
   if (!readingId) {
-    res.status(400).json({ error: "invalid reading id" });
-    return;
+    throw new HttpError(400, "invalid reading id");
   }
 
-  try {
-    const reading = await getReadingByIdForUser(userId, readingId);
-    if (!reading) {
-      res.status(404).json({ error: "reading not found" });
-      return;
-    }
-
-    res.json({ reading });
-  } catch {
-    res.status(500).json({ error: "failed to fetch reading" });
+  const reading = await getReadingByIdForUser(userId, readingId);
+  if (!reading) {
+    throw new HttpError(404, "reading not found");
   }
-}
 
-export async function deleteReading(req: Request, res: Response): Promise<void> {
+  res.json({ reading });
+});
+
+export const deleteReading = asyncHandler(async (req: Request, res: Response): Promise<void> => {
   const userId = getUserId(res);
   if (!userId) {
-    res.status(401).json({ error: "Unauthorized" });
-    return;
+    throw new HttpError(401, "Unauthorized");
   }
   const readingId = getReadingId(req);
   if (!readingId) {
-    res.status(400).json({ error: "invalid reading id" });
-    return;
+    throw new HttpError(400, "invalid reading id");
   }
 
-  try {
-    const deleted = await deleteReadingByIdForUser(userId, readingId);
-    if (!deleted) {
-      res.status(404).json({ error: "reading not found" });
-      return;
-    }
-
-    res.status(204).send();
-  } catch {
-    res.status(500).json({ error: "failed to delete reading" });
+  const deleted = await deleteReadingByIdForUser(userId, readingId);
+  if (!deleted) {
+    throw new HttpError(404, "reading not found");
   }
-}
+
+  res.status(204).send();
+});

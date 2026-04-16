@@ -1,0 +1,74 @@
+{
+    "1": {
+      "summary": "Élan d’indépendance",
+      "mission": "Projeter une image de force, d’audace et d’innovation.",
+      "strengths": ["impact immédiat", "initiative", "leadership"],
+      "challenges": ["impatience", "égocentrisme", "isolement"]
+    },
+    "2": {
+      "summary": "Énergie de coopération",
+      "mission": "Attirer les autres par la douceur, la diplomatie et le soutien.",
+      "strengths": ["écoute", "équilibre", "sensibilité"],
+      "challenges": ["timidité", "dépendance", "indécision"]
+    },
+    "3": {
+      "summary": "Ouverture et créativité",
+      "mission": "Séduire par la communication, la légèreté et l’expression.",
+      "strengths": ["charme", "créativité", "facilité relationnelle"],
+      "challenges": ["superficialité", "dispersion", "instabilité"]
+    },
+    "4": {
+      "summary": "Solidité apparente",
+      "mission": "Inspirer confiance par la rigueur et la discipline.",
+      "strengths": ["organisation", "fiabilité", "persévérance"],
+      "challenges": ["rigidité", "manque de souplesse", "routine"]
+    },
+    "5": {
+      "summary": "Image dynamique et mobile",
+      "mission": "Donner une impression de liberté, d’évolution et de modernité.",
+      "strengths": ["adaptabilité", "audace", "mouvement"],
+      "challenges": ["instabilité", "imprévisibilité", "manque de cadre"]
+    },
+    "6": {
+      "summary": "Énergie bienveillante",
+      "mission": "Attirer par le soin, l’harmonie et le sens esthétique.",
+      "strengths": ["altruisme", "empathie", "équilibre"],
+      "challenges": ["contrôle excessif", "perfectionnisme", "sacrifice de soi"]
+    },
+    "7": {
+      "summary": "Image de sagesse",
+      "mission": "Projeter une aura de profondeur, de réflexion et de savoir.",
+      "strengths": ["analyse", "spiritualité", "sérieux"],
+      "challenges": ["froideur", "isolement", "scepticisme"]
+    },
+    "8": {
+      "summary": "Aura de puissance",
+      "mission": "Imposer respect, succès matériel et autorité.",
+      "strengths": ["ambition", "gestion", "leadership"],
+      "challenges": ["autoritarisme", "matérialisme", "dureté"]
+    },
+    "9": {
+      "summary": "Énergie humaniste",
+      "mission": "Se montrer ouvert, généreux et tourné vers les autres.",
+      "strengths": ["empathie", "rayonnement", "vision"],
+      "challenges": ["idéalisme", "instabilité", "sacrifice excessif"]
+    },
+    "11": {
+      "summary": "Inspiration lumineuse",
+      "mission": "Impressionner par une aura visionnaire et intuitive.",
+      "strengths": ["charisme", "intuition", "guidance"],
+      "challenges": ["tension nerveuse", "instabilité émotionnelle", "doutes"]
+    },
+    "22": {
+      "summary": "Image de bâtisseur",
+      "mission": "Donner l’impression d’une puissance tournée vers de grandes réalisations.",
+      "strengths": ["organisation", "ambition", "stabilité"],
+      "challenges": ["pression énorme", "énergie mal canalisée", "échec brutal possible"]
+    },
+    "33": {
+      "summary": "Aura de service universel",
+      "mission": "Inspirer par l’amour, la pédagogie et la générosité.",
+      "strengths": ["empathie", "rayonnement", "transmission"],
+      "challenges": ["sacrifice personnel", "déséquilibre affectif", "idéalisme excessif"]
+    }
+  }

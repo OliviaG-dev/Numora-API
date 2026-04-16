@@ -1,0 +1,110 @@
+[
+    {
+      "nombre_expression": "1",
+      "description": "Expression du leadership, de l’initiative et de l’indépendance",
+      "pierre": {
+        "nom": "Cornaline",
+        "energie": "Dynamisante et stimulante, renforce la confiance et le courage",
+        "objectif": "Exprimer son leadership naturel et oser prendre des initiatives"
+      }
+    },
+    {
+      "nombre_expression": "2",
+      "description": "Expression de la coopération, de la sensibilité et de l’harmonie",
+      "pierre": {
+        "nom": "Pierre de Lune",
+        "energie": "Douce et intuitive, favorise l’écoute et l’empathie",
+        "objectif": "Exprimer la diplomatie, la douceur et l’harmonie relationnelle"
+      }
+    },
+    {
+      "nombre_expression": "3",
+      "description": "Expression de la créativité, de la communication et de la joie",
+      "pierre": {
+        "nom": "Citrine",
+        "energie": "Joyeuse et stimulante, active la créativité et l’optimisme",
+        "objectif": "Exprimer ses talents créatifs et sa capacité à communiquer"
+      }
+    },
+    {
+      "nombre_expression": "4",
+      "description": "Expression de la structure, de la rigueur et de la stabilité",
+      "pierre": {
+        "nom": "Lapis-Lazuli",
+        "energie": "Structurante et clarifiante, favorise la concentration et la sagesse",
+        "objectif": "Exprimer la discipline, l’organisation et la fiabilité"
+      }
+    },
+    {
+      "nombre_expression": "5",
+      "description": "Expression de la liberté, de l’adaptabilité et du changement",
+      "pierre": {
+        "nom": "Malachite",
+        "energie": "Transformatrice et puissante, accompagne les évolutions et le mouvement",
+        "objectif": "Exprimer la liberté, l’audace et l’adaptation au changement"
+      }
+    },
+    {
+      "nombre_expression": "6",
+      "description": "Expression de l’amour, de la responsabilité et de la protection",
+      "pierre": {
+        "nom": "Quartz Rose",
+        "energie": "Apaisante et réconfortante, ouvre le cœur et favorise l’amour",
+        "objectif": "Exprimer la compassion, l’harmonie et le sens du service"
+      }
+    },
+    {
+      "nombre_expression": "7",
+      "description": "Expression de l’introspection, de la spiritualité et de l’analyse",
+      "pierre": {
+        "nom": "Améthyste",
+        "energie": "Calmante et spirituelle, favorise l’intuition et la clarté intérieure",
+        "objectif": "Exprimer la sagesse intérieure et la quête de sens"
+      }
+    },
+    {
+      "nombre_expression": "8",
+      "description": "Expression de l’ambition, du pouvoir et de la réalisation matérielle",
+      "pierre": {
+        "nom": "Oeil de Tigre",
+        "energie": "Protectrice et dynamisante, renforce la volonté et la confiance",
+        "objectif": "Exprimer l’autorité naturelle et la capacité à réussir"
+      }
+    },
+    {
+      "nombre_expression": "9",
+      "description": "Expression de l’altruisme, de l’humanisme et de l’idéalisme",
+      "pierre": {
+        "nom": "Saphir",
+        "energie": "Apaisante et équilibrante, favorise la sagesse et l’ouverture du cœur",
+        "objectif": "Exprimer la compassion, l’idéal et le service aux autres"
+      }
+    },
+    {
+      "nombre_expression": "11",
+      "description": "Maître Nombre – Expression de l’intuition et de l’inspiration",
+      "pierre": {
+        "nom": "Labradorite",
+        "energie": "Protectrice et intuitive, amplifie la perception et la sensibilité",
+        "objectif": "Exprimer une intuition élevée et inspirer les autres"
+      }
+    },
+    {
+      "nombre_expression": "22",
+      "description": "Maître Nombre – Expression de la construction et de la réalisation",
+      "pierre": {
+        "nom": "Pyrite",
+        "energie": "Dynamique et structurante, soutient l’action et la concrétisation",
+        "objectif": "Exprimer la capacité à bâtir et matérialiser de grands projets"
+      }
+    },
+    {
+      "nombre_expression": "33",
+      "description": "Maître Nombre – Expression de l’amour universel et de l’enseignement",
+      "pierre": {
+        "nom": "Rhodochrosite",
+        "energie": "Chaleureuse et profondément affective, ouvre le cœur à la compassion",
+        "objectif": "Exprimer l’amour inconditionnel et la guidance des autres"
+      }
+    }
+  ]

@@ -1,0 +1,2575 @@
+{
+    "1-1": {
+      "friendship_type": "Les Leaders Indomptables",
+      "vibe": "Ambition + Indépendance",
+      "tagline": "Deux alpha, une seule direction : en avant.",
+      "why_they_click": [
+        "Ils se comprennent sans parler",
+        "Ils se motivent mutuellement",
+        "Ils adorent relever des défis ensemble"
+      ],
+      "what_they_love_doing": [
+        "Compétitions sportives 💪",
+        "Tester des projets ambitieux",
+        "Soirées où chacun veut briller 😎"
+      ],
+      "friction_points": [
+        "Ego contre ego → duel permanent",
+        "Difficulté à lâcher le contrôle"
+      ],
+      "friendship_superpower": "Transformer l’audace en réussite 🚀",
+      "friendship_vibe_rating": {
+        "fun": 9,
+        "trust": 7,
+        "deep_connection": 6,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Hackathon, startup challenge 💼",
+        "Jeux de stratégie ♟️"
+      ],
+      "anthem": "« Qui commande ici ? Les deux. »",
+      "keep_the_magic_alive": "Apprendre à admirer l’autre sans compétition."
+    },
+  
+    "1-2": {
+      "friendship_type": "Le Pilote & Le Copilote",
+      "vibe": "Action + Harmonie",
+      "tagline": "L’un mène, l’autre fluidifie.",
+      "why_they_click": [
+        "Le 2 admire la force du 1",
+        "Le 1 se repose sur la loyauté du 2",
+        "Ils forment une équipe naturelle"
+      ],
+      "what_they_love_doing": [
+        "Escape game 🔐",
+        "Organisation d’événements",
+        "S’entraider dans leurs projets"
+      ],
+      "friction_points": [
+        "Le 1 peut manquer de délicatesse",
+        "Le 2 peut se sentir sous-estimé"
+      ],
+      "friendship_superpower": "Faire avancer les choses en harmonie 🌈",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 9,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Team cooking 👨‍🍳",
+        "Atelier bien-être & objectifs 📓"
+      ],
+      "anthem": "« Ensemble, c’est facile. »",
+      "keep_the_magic_alive": "Valoriser davantage le soutien du 2."
+    },
+  
+    "1-3": {
+      "friendship_type": "Les Showmen",
+      "vibe": "Créativité + Conquête",
+      "tagline": "On brille ensemble ✨",
+      "why_they_click": [
+        "Énergie sociale explosive",
+        "Encouragement mutuel",
+        "Humour & projets fun"
+      ],
+      "what_they_love_doing": [
+        "Soirées festives 🎉",
+        "Contenu réseaux sociaux 📸",
+        "Spectacles & activités artistiques 🎭"
+      ],
+      "friction_points": [
+        "L’un veut commander, l’autre veut attirer la lumière",
+        "Projets parfois sans fin"
+      ],
+      "friendship_superpower": "Faire vibrer la pièce partout où ils passent ⚡",
+      "friendship_vibe_rating": {
+        "fun": 10,
+        "trust": 7,
+        "deep_connection": 7,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Karaoké 🔥",
+        "Voyage city-trip ✈️"
+      ],
+      "anthem": "« Si ça ne fait pas grandiose, ça ne nous intéresse pas ! »",
+      "keep_the_magic_alive": "Ne pas transformer chaque fun en concours."
+    },
+  
+    "1-4": {
+      "friendship_type": "Les Bâtisseurs",
+      "vibe": "Vision + Structure",
+      "tagline": "On ne parle pas. On fait.",
+      "why_they_click": [
+        "Ils réussissent tout ce qu’ils planifient",
+        "Complémentarité extrême",
+        "Respect mutuel dans l’action"
+      ],
+      "what_they_love_doing": [
+        "DIY & construction 🛠️",
+        "Gestion de projets",
+        "Planification d’avenir"
+      ],
+      "friction_points": [
+        "Le 1 trop impulsif",
+        "Le 4 trop rigide"
+      ],
+      "friendship_superpower": "Transformer les plans en réalité solide 🧱",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 7,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Escape Game stratégique 🎯",
+        "Design maison ou bureau 🏡"
+      ],
+      "anthem": "« On avance, point. »",
+      "keep_the_magic_alive": "Le 1 doit accepter la méthode du 4."
+    },
+  
+    "1-5": {
+      "friendship_type": "Les Aventuriers",
+      "vibe": "Liberté + Adrénaline",
+      "tagline": "Tu es prêt ? On part.",
+      "why_they_click": [
+        "Aucune limite ni contrainte",
+        "Toujours partants pour l’inconnu",
+        "Humour et audace irrépressible"
+      ],
+      "what_they_love_doing": [
+        "Voyages spontanés 🌍",
+        "Sports extrêmes",
+        "Sorties improvisées"
+      ],
+      "friction_points": [
+        "Zéro stabilité",
+        "Engagement oubliable 😆"
+      ],
+      "friendship_superpower": "S’évader de la routine 🚀",
+      "friendship_vibe_rating": {
+        "fun": 10,
+        "trust": 6,
+        "deep_connection": 6,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Road trip 🛣️",
+        "Concert & festivals 🎶"
+      ],
+      "anthem": "« On vit, après on réfléchit. »",
+      "keep_the_magic_alive": "Fixer quelques rendez-vous stables."
+    },
+  
+    "1-6": {
+      "friendship_type": "Le Protecteur & Le Leader",
+      "vibe": "Ambition + Sécurité",
+      "tagline": "On construit une vie meilleure.",
+      "why_they_click": [
+        "Le 6 soutient le 1 loyalement",
+        "Ils ont une ambition saine",
+        "Valeurs fortes partagées"
+      ],
+      "what_they_love_doing": [
+        "Soirées maison cosy 🏠",
+        "Projets associatifs",
+        "Petits challenges à deux"
+      ],
+      "friction_points": [
+        "Le 1 doit respecter le monde émotionnel du 6"
+      ],
+      "friendship_superpower": "Créer un soutien solide et durable 🤝",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Cuisiner ensemble 👩‍🍳",
+        "Projets déco 🪴"
+      ],
+      "anthem": "« Ensemble, on ne lâche rien. »",
+      "keep_the_magic_alive": "Le 1 doit montrer sa gratitude."
+    },
+  
+    "1-7": {
+      "friendship_type": "Les Solitaires Complices",
+      "vibe": "Indépendance + Sagesse",
+      "tagline": "On se laisse respirer et on se respecte.",
+      "why_they_click": [
+        "Chacun comprend le besoin d’espace de l’autre",
+        "Connection intellectuelle rare",
+        "Grande loyauté"
+      ],
+      "what_they_love_doing": [
+        "Randonnée de contemplation 🌄",
+        "Soirées calmes à discuter",
+        "Mystères et enquêtes 🔍"
+      ],
+      "friction_points": [
+        "Le 7 fuit parfois l’intensité sociale",
+        "Le 1 manque de tact dans le partage"
+      ],
+      "friendship_superpower": "Grandir intérieurement ensemble 🌌",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Film + débat 🧠",
+        "Exploration nature 🍃"
+      ],
+      "anthem": "« Pas besoin de parler pour se comprendre. »",
+      "keep_the_magic_alive": "Le 1 ralentit, le 7 s’ouvre."
+    },
+  
+    "1-8": {
+      "friendship_type": "Le Duo de Titans",
+      "vibe": "Pouvoir + Résultats",
+      "tagline": "Partenaires de victoire.",
+      "why_they_click": [
+        "Ils veulent réussir leur vie",
+        "Stratégie & énergie combinées",
+        "Ils se comprennent dans leurs ambitions"
+      ],
+      "what_they_love_doing": [
+        "Business & placement d’argent 📈",
+        "Salle de sport",
+        "Networking & soirées élites"
+      ],
+      "friction_points": [
+        "Guerres d’ego",
+        "Exigences trop hautes l’un envers l’autre"
+      ],
+      "friendship_superpower": "Construire un empire ensemble 👑",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 7,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Coaching business",
+        "Travel business 🏙️"
+      ],
+      "anthem": "« On gagne ou on apprend. »",
+      "keep_the_magic_alive": "Humilité & écoute."
+    },
+  
+    "1-9": {
+      "friendship_type": "Les Héros Altruistes",
+      "vibe": "Vision + Humanité",
+      "tagline": "On change le monde à notre façon.",
+      "why_they_click": [
+        "Le 9 inspire le sens au 1",
+        "Le 1 donne l’élan pour agir",
+        "Ils croient en un monde meilleur"
+      ],
+      "what_they_love_doing": [
+        "Actions humanitaires 🌍",
+        "Débats sur la société",
+        "Art engagé"
+      ],
+      "friction_points": [
+        "Conflits de valeurs",
+        "Émotivité vs impulsivité"
+      ],
+      "friendship_superpower": "Réaliser des idéaux concrets ✨",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Bénévolat 🤝",
+        "Voyage culturel ✈️"
+      ],
+      "anthem": "« Pour eux, pour nous, pour le monde. »",
+      "keep_the_magic_alive": "Chercher l’équilibre cœur/action."
+    },
+  
+    "1-11": {
+      "friendship_type": "Les Inspirateurs",
+      "vibe": "Intuition + Action",
+      "tagline": "Tu vois, je fais.",
+      "why_they_click": [
+        "Conversation profonde & projets ambitieux",
+        "Grand respect de l'énergie de l’autre",
+        "Sentiment de destin commun"
+      ],
+      "what_they_love_doing": [
+        "Brainstorming créatif 💡",
+        "Retraite ou stage de développement perso",
+        "Créer des choses avec sens"
+      ],
+      "friction_points": [
+        "Intensité émotionnelle",
+        "Idéalisme parfois fatigant pour le 1"
+      ],
+      "friendship_superpower": "Manifester des rêves élevés 🔥",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Cours de méditation + action positive ✨",
+        "Atelier artistique visionnaire"
+      ],
+      "anthem": "« Ensemble, on crée du sens. »",
+      "keep_the_magic_alive": "Garder les pieds sur terre."
+    },
+  
+    "1-22": {
+      "friendship_type": "Les Architectes du Futur",
+      "vibe": "Construction + Leadership",
+      "tagline": "Grand projet uniquement.",
+      "why_they_click": [
+        "Ils partagent une ambition gigantesque",
+        "Le concret rencontre la vision",
+        "Potentiel extraordinaire"
+      ],
+      "what_they_love_doing": [
+        "Projets immobiliers ou business 💼",
+        "Planifier des accomplissements massifs",
+        "Événements de réseautage"
+      ],
+      "friction_points": [
+        "Pression extrême",
+        "Impitoyabilité mutuelle 😅"
+      ],
+      "friendship_superpower": "Changer la vie à grande échelle 🌍",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Lancement de startup",
+        "Mastermind business"
+      ],
+      "anthem": "« On ne rêve pas petit. Jamais. »",
+      "keep_the_magic_alive": "Gérer la pression avec humour."
+    },
+  
+    "1-33": {
+      "friendship_type": "Les Guerriers du Cœur",
+      "vibe": "Passion + Bienveillance",
+      "tagline": "On aide, on aime, on agit.",
+      "why_they_click": [
+        "Le 33 croit au potentiel du 1",
+        "Le 1 se bat pour les causes du 33",
+        "Beaucoup de loyauté"
+      ],
+      "what_they_love_doing": [
+        "Coaching émotionnel & motivation ❤️",
+        "Actions humanitaires ensemble",
+        "Projets créatifs inspirants"
+      ],
+      "friction_points": [
+        "Émotions intenses → risque d'étouffement",
+        "Le 1 doit respecter le cœur du 33"
+      ],
+      "friendship_superpower": "Guérir par l'action et le courage 💘",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Mentorat ou bénévolat",
+        "Projet artistique émotionnel ​🎨"
+      ],
+      "anthem": "« Si on peut aider, on y va. »",
+      "keep_the_magic_alive": "Gardez un espace léger avec zéro pression."
+    },
+  
+    "2-2": {
+      "friendship_type": "Les Âmes Sœurs",
+      "vibe": "Empathie + Douceur",
+      "tagline": "On se comprend sans même parler.",
+      "why_they_click": [
+        "Sensibilité partagée profonde",
+        "Ils devinent les besoins de l'autre",
+        "Sécurité émotionnelle totale"
+      ],
+      "what_they_love_doing": [
+        "Soirées cocooning 🛋️",
+        "Conversations intimes",
+        "Activités créatives calmes 🎨"
+      ],
+      "friction_points": [
+        "Trop de dépendance émotionnelle",
+        "Difficile de trancher ou prendre l'initiative"
+      ],
+      "friendship_superpower": "Créer un sanctuaire d'amour et de paix 🕊️",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 5
+      },
+      "best_activities": [
+        "Spa & bien-être 🧖",
+        "Jardinage ensemble 🌸"
+      ],
+      "anthem": "« Avec toi, je me sens chez moi. »",
+      "keep_the_magic_alive": "Oser sortir de la zone de confort ensemble."
+    },
+  
+    "2-3": {
+      "friendship_type": "L'Équilibre Parfait",
+      "vibe": "Soutien + Joie",
+      "tagline": "Tu m'écoutes, je te fais rire.",
+      "why_they_click": [
+        "Le 3 apporte la lumière au 2",
+        "Le 2 offre stabilité émotionnelle au 3",
+        "Harmonie naturelle"
+      ],
+      "what_they_love_doing": [
+        "Brunch & papotage 🥐",
+        "Shopping & sorties culturelles",
+        "Activités artistiques ✨"
+      ],
+      "friction_points": [
+        "Le 3 peut paraître superficiel au 2",
+        "Le 2 peut freiner l'énergie du 3"
+      ],
+      "friendship_superpower": "S'enrichir mutuellement dans la différence 🌈",
+      "friendship_vibe_rating": {
+        "fun": 9,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Karaoké intimiste 🎤",
+        "Atelier créatif 🎭"
+      ],
+      "anthem": "« Ensemble, on brille mieux. »",
+      "keep_the_magic_alive": "Le 3 doit écouter davantage le 2."
+    },
+  
+    "2-4": {
+      "friendship_type": "Les Fidèles",
+      "vibe": "Stabilité + Loyauté",
+      "tagline": "Ensemble dans la durée.",
+      "why_they_click": [
+        "Valeurs traditionnelles partagées",
+        "Fiabilité absolue",
+        "Ils construisent quelque chose de solide"
+      ],
+      "what_they_love_doing": [
+        "Projets maison & bricolage 🔨",
+        "Routines réconfortantes",
+        "Soirées jeux de société 🎲"
+      ],
+      "friction_points": [
+        "Manque de spontanéité",
+        "Le 4 peut sembler trop rigide pour le 2"
+      ],
+      "friendship_superpower": "Être là l'un pour l'autre, toujours 🪨",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 10,
+        "deep_connection": 8,
+        "adventure": 5
+      },
+      "best_activities": [
+        "Cuisine ensemble 👨‍🍳",
+        "Marche nature 🌲"
+      ],
+      "anthem": "« Solides comme un roc. »",
+      "keep_the_magic_alive": "S'autoriser quelques folies de temps en temps."
+    },
+  
+    "2-5": {
+      "friendship_type": "Le Duo Complémentaire",
+      "vibe": "Stabilité + Liberté",
+      "tagline": "Tu m'ancres, je t'envole.",
+      "why_they_click": [
+        "Le 2 admire l'audace du 5",
+        "Le 5 apprécie la présence rassurante du 2",
+        "Ils s'équilibrent parfaitement"
+      ],
+      "what_they_love_doing": [
+        "Voyages avec planning et imprévus ✈️",
+        "Découvrir de nouveaux lieux",
+        "Activités variées 🎪"
+      ],
+      "friction_points": [
+        "Le 5 peut faire sentir le 2 abandonné",
+        "Le 2 peut étouffer le 5"
+      ],
+      "friendship_superpower": "S'ouvrir mutuellement à de nouveaux horizons 🌅",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 7,
+        "deep_connection": 7,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Weekend surprise 🎁",
+        "Festival ou concert 🎶"
+      ],
+      "anthem": "« Tu m'apprends à vivre autrement. »",
+      "keep_the_magic_alive": "Respecter les besoins de chacun sans jugement."
+    },
+  
+    "2-6": {
+      "friendship_type": "Les Gardiens du Cœur",
+      "vibe": "Harmonie + Protection",
+      "tagline": "Prendre soin l'un de l'autre.",
+      "why_they_click": [
+        "Empathie doublée",
+        "Amour inconditionnel mutuel",
+        "Valeurs familiales fortes"
+      ],
+      "what_they_love_doing": [
+        "Repas en famille ou entre amis 🍽️",
+        "Projets de décoration 🏡",
+        "Activités caritatives"
+      ],
+      "friction_points": [
+        "Risque de co-dépendance",
+        "Difficulté à dire non"
+      ],
+      "friendship_superpower": "Créer un cocon d'amour indestructible 💝",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 5
+      },
+      "best_activities": [
+        "Tricot ou activités manuelles 🧶",
+        "Bénévolat ensemble 🤲"
+      ],
+      "anthem": "« On est là l'un pour l'autre, toujours. »",
+      "keep_the_magic_alive": "Garder des limites saines et respecter son propre espace."
+    },
+  
+    "2-7": {
+      "friendship_type": "Les Contemplatifs",
+      "vibe": "Intuition + Introspection",
+      "tagline": "Le silence qui parle.",
+      "why_they_click": [
+        "Compréhension mutuelle profonde",
+        "Respect de l'intimité de l'autre",
+        "Connexion spirituelle"
+      ],
+      "what_they_love_doing": [
+        "Méditation ou yoga 🧘",
+        "Balades contemplatives",
+        "Discussions philosophiques 📚"
+      ],
+      "friction_points": [
+        "Trop d'introversion peut créer de la distance",
+        "Le 7 peut sembler froid au 2"
+      ],
+      "friendship_superpower": "Grandir spirituellement ensemble 🌟",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Retraite spirituelle 🕉️",
+        "Lecture de poésie 📖"
+      ],
+      "anthem": "« Nos âmes se reconnaissent. »",
+      "keep_the_magic_alive": "Le 7 doit s'ouvrir émotionnellement au 2."
+    },
+  
+    "2-8": {
+      "friendship_type": "La Force et la Douceur",
+      "vibe": "Pouvoir + Sensibilité",
+      "tagline": "Tu es ma force, je suis ton cœur.",
+      "why_they_click": [
+        "Le 2 humanise le 8",
+        "Le 8 protège et guide le 2",
+        "Complémentarité impressionnante"
+      ],
+      "what_they_love_doing": [
+        "Projets ambitieux avec une touche humaine",
+        "Dîners haut de gamme 🍷",
+        "Investir ensemble"
+      ],
+      "friction_points": [
+        "Le 8 peut paraître trop dominateur",
+        "Le 2 peut se sentir éclipsé"
+      ],
+      "friendship_superpower": "Allier réussite et humanité 👔💛",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Networking avec impact social",
+        "Projets entrepreneuriaux éthiques 📊"
+      ],
+      "anthem": "« Ensemble, on est imbattables. »",
+      "keep_the_magic_alive": "Le 8 doit valoriser la contribution du 2."
+    },
+  
+    "2-9": {
+      "friendship_type": "Les Humanistes",
+      "vibe": "Compassion + Idéalisme",
+      "tagline": "Guérir le monde, une âme à la fois.",
+      "why_they_click": [
+        "Sensibilité partagée envers l'humanité",
+        "Altruisme profond",
+        "Connexion émotionnelle rare"
+      ],
+      "what_they_love_doing": [
+        "Bénévolat et causes sociales 🌍",
+        "Art thérapie",
+        "Conversations profondes sur la vie"
+      ],
+      "friction_points": [
+        "Le 9 peut paraître distant émotionnellement",
+        "Risque de se perdre dans les causes"
+      ],
+      "friendship_superpower": "Transformer la souffrance en amour 💫",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Projet humanitaire ❤️",
+        "Festival de films engagés 🎬"
+      ],
+      "anthem": "« On est là pour servir avec amour. »",
+      "keep_the_magic_alive": "Ne pas oublier de prendre soin de soi aussi."
+    },
+  
+    "2-11": {
+      "friendship_type": "Les Visionnaires Sensibles",
+      "vibe": "Intuition + Inspiration",
+      "tagline": "Tu vois ce que je ressens.",
+      "why_they_click": [
+        "Connexion psychique puissante",
+        "Compréhension au-delà des mots",
+        "Soutien spirituel mutuel"
+      ],
+      "what_they_love_doing": [
+        "Séances de tarot ou oracle 🔮",
+        "Ateliers de développement personnel",
+        "Créations artistiques inspirées ✨"
+      ],
+      "friction_points": [
+        "Intensité émotionnelle parfois lourde",
+        "Le 11 peut être trop idéaliste pour le 2"
+      ],
+      "friendship_superpower": "Manifester des miracles ensemble 🌙",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Cercles de guérison 🕯️",
+        "Voyages spirituels"
+      ],
+      "anthem": "« Nos âmes se connaissent depuis toujours. »",
+      "keep_the_magic_alive": "S'ancrer dans le réel régulièrement."
+    },
+  
+    "2-22": {
+      "friendship_type": "Les Bâtisseurs d'Harmonie",
+      "vibe": "Vision + Soutien",
+      "tagline": "On construit grand, avec cœur.",
+      "why_they_click": [
+        "Le 2 croit en la vision du 22",
+        "Le 22 valorise la loyauté du 2",
+        "Impact collectif positif"
+      ],
+      "what_they_love_doing": [
+        "Projets communautaires d'envergure",
+        "Événements caritatifs organisés",
+        "Planification stratégique avec âme"
+      ],
+      "friction_points": [
+        "Le 22 peut être trop exigeant",
+        "Le 2 peut se sentir dépassé par l'ampleur"
+      ],
+      "friendship_superpower": "Créer des structures qui servent l'humanité 🏛️",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Fondation d'association",
+        "Grands projets sociaux 🌐"
+      ],
+      "anthem": "« Ensemble, on change des vies. »",
+      "keep_the_magic_alive": "Le 22 doit reconnaître la contribution émotionnelle du 2."
+    },
+  
+    "2-33": {
+      "friendship_type": "Les Guérisseurs Universels",
+      "vibe": "Amour + Compassion",
+      "tagline": "Ensemble, on soigne les âmes.",
+      "why_they_click": [
+        "Empathie infinie partagée",
+        "Mission de guérison commune",
+        "Connexion divine"
+      ],
+      "what_they_love_doing": [
+        "Thérapies holistiques",
+        "Ateliers de guérison émotionnelle 💗",
+        "Créer des espaces sacrés"
+      ],
+      "friction_points": [
+        "Trop d'émotions peut être épuisant",
+        "Difficulté à poser des limites"
+      ],
+      "friendship_superpower": "Incarner l'amour inconditionnel 🌺",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Cercles de femmes/hommes sacrés",
+        "Retraites de guérison 🕊️"
+      ],
+      "anthem": "« Notre amitié est un sanctuaire. »",
+      "keep_the_magic_alive": "Se protéger énergétiquement et garder de la légèreté."
+    },
+  
+    "3-3": {
+      "friendship_type": "Les Étincelles",
+      "vibe": "Créativité × 2",
+      "tagline": "On fait briller la vie ensemble ✨",
+      "why_they_click": [
+        "Énergie contagieuse mutuelle",
+        "Humour et légèreté permanents",
+        "Ils s'inspirent créativement"
+      ],
+      "what_they_love_doing": [
+        "Soirées dansantes 💃",
+        "Projets artistiques communs",
+        "Créer du contenu viral 📱"
+      ],
+      "friction_points": [
+        "Manque de profondeur parfois",
+        "Difficulté à gérer les moments sérieux"
+      ],
+      "friendship_superpower": "Transformer le quotidien en fête 🎉",
+      "friendship_vibe_rating": {
+        "fun": 10,
+        "trust": 7,
+        "deep_connection": 7,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Impro théâtre 🎭",
+        "Voyages city-breaks ✈️"
+      ],
+      "anthem": "« La vie est trop courte pour être ennuyeuse ! »",
+      "keep_the_magic_alive": "S'accorder des moments de vraie connexion émotionnelle."
+    },
+  
+    "3-4": {
+      "friendship_type": "L'Artiste & L'Architecte",
+      "vibe": "Spontanéité + Structure",
+      "tagline": "Tu rêves, je construis.",
+      "why_they_click": [
+        "Complémentarité parfaite créativité/concrétisation",
+        "Le 4 admire la légèreté du 3",
+        "Le 3 apprécie la stabilité du 4"
+      ],
+      "what_they_love_doing": [
+        "Projets DIY créatifs 🎨",
+        "Organiser des événements",
+        "Redécorer des espaces"
+      ],
+      "friction_points": [
+        "Le 3 trouve le 4 trop sérieux",
+        "Le 4 trouve le 3 trop dispersé"
+      ],
+      "friendship_superpower": "Créer des choses belles ET durables 🏗️",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 7,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Ateliers créatifs structurés",
+        "Jardinage artistique 🌻"
+      ],
+      "anthem": "« Ensemble, on fait des miracles concrets. »",
+      "keep_the_magic_alive": "Le 4 doit lâcher prise, le 3 doit finir ce qu'il commence."
+    },
+  
+    "3-5": {
+      "friendship_type": "Les Papillons Libres",
+      "vibe": "Créativité + Aventure",
+      "tagline": "Toujours prêts pour la prochaine folie !",
+      "why_they_click": [
+        "Zéro routine, zéro ennui",
+        "Curiosité infinie partagée",
+        "Énergie débordante"
+      ],
+      "what_they_love_doing": [
+        "Voyages spontanés 🌏",
+        "Festivals et concerts 🎪",
+        "Expériences extrêmes"
+      ],
+      "friction_points": [
+        "Aucune stabilité financière ou émotionnelle",
+        "Projets rarement terminés"
+      ],
+      "friendship_superpower": "Vivre à 200% sans regrets 🚀",
+      "friendship_vibe_rating": {
+        "fun": 10,
+        "trust": 6,
+        "deep_connection": 6,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Road trip improvisé 🛣️",
+        "Événements culturels insolites"
+      ],
+      "anthem": "« YOLO à l'état pur ! »",
+      "keep_the_magic_alive": "Planifier au moins quelques rendez-vous fixes."
+    },
+  
+    "3-6": {
+      "friendship_type": "Le Cœur Joyeux",
+      "vibe": "Légèreté + Dévouement",
+      "tagline": "Tu me fais rire, je prends soin de toi.",
+      "why_they_click": [
+        "Le 6 adore l'énergie positive du 3",
+        "Le 3 apprécie l'amour inconditionnel du 6",
+        "Équilibre fun et sécurité"
+      ],
+      "what_they_love_doing": [
+        "Soirées à la maison conviviales 🏠",
+        "Cuisine créative ensemble 🍰",
+        "Fêtes familiales"
+      ],
+      "friction_points": [
+        "Le 6 peut trouver le 3 trop superficiel",
+        "Le 3 peut se sentir étouffé par l'attention du 6"
+      ],
+      "friendship_superpower": "Créer de la joie avec amour 💛",
+      "friendship_vibe_rating": {
+        "fun": 9,
+        "trust": 9,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Organiser des surprises pour les proches",
+        "Activités artistiques en famille 🎨"
+      ],
+      "anthem": "« Avec toi, je me sens aimé(e) ET vivant(e). »",
+      "keep_the_magic_alive": "Le 3 doit montrer sa reconnaissance sincèrement."
+    },
+  
+    "3-7": {
+      "friendship_type": "L'Énigme Fascinante",
+      "vibe": "Éclat + Mystère",
+      "tagline": "Tu m'intrigues infiniment.",
+      "why_they_click": [
+        "Attraction des opposés",
+        "Le 7 aime l'énergie du 3",
+        "Le 3 est fasciné par la profondeur du 7"
+      ],
+      "what_they_love_doing": [
+        "Discussions philosophiques inattendues",
+        "Explorations mystérieuses 🔍",
+        "Musées et expos 🖼️"
+      ],
+      "friction_points": [
+        "Le 7 a besoin de solitude que le 3 ne comprend pas",
+        "Le 3 peut paraître superficiel au 7"
+      ],
+      "friendship_superpower": "S'enrichir par la différence 🌓",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 7,
+        "deep_connection": 8,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Escape rooms intellectuels 🧩",
+        "Randonnées avec discussions profondes"
+      ],
+      "anthem": "« On est totalement différents, et c'est parfait. »",
+      "keep_the_magic_alive": "Respecter mutuellement les besoins d'espace et de connexion."
+    },
+  
+    "3-8": {
+      "friendship_type": "Le Showbiz",
+      "vibe": "Charisme + Pouvoir",
+      "tagline": "Ensemble, on règne.",
+      "why_they_click": [
+        "Ambition de briller et réussir",
+        "Réseau social puissant ensemble",
+        "Admiration mutuelle"
+      ],
+      "what_they_love_doing": [
+        "Événements VIP 🍾",
+        "Networking stratégique",
+        "Voyages luxueux ✈️💎"
+      ],
+      "friction_points": [
+        "Compétition pour l'attention",
+        "Le 8 peut trouver le 3 trop léger"
+      ],
+      "friendship_superpower": "Dominer la scène sociale 👑",
+      "friendship_vibe_rating": {
+        "fun": 9,
+        "trust": 7,
+        "deep_connection": 6,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Galas et événements prestigieux",
+        "Lancement de projets ambitieux 🚀"
+      ],
+      "anthem": "« On attire tous les regards. »",
+      "keep_the_magic_alive": "Créer des moments authentiques sans spectacle."
+    },
+  
+    "3-9": {
+      "friendship_type": "L'Artiste Humaniste",
+      "vibe": "Créativité + Compassion",
+      "tagline": "On crée pour inspirer le monde.",
+      "why_they_click": [
+        "Vision artistique commune",
+        "Le 9 donne du sens au talent du 3",
+        "Le 3 apporte joie au sérieux du 9"
+      ],
+      "what_they_love_doing": [
+        "Projets artistiques engagés 🎨",
+        "Concerts caritatifs",
+        "Voyages culturels ✈️"
+      ],
+      "friction_points": [
+        "Le 9 peut être trop intense émotionnellement",
+        "Le 3 peut paraître égocentrique au 9"
+      ],
+      "friendship_superpower": "Toucher les cœurs par l'art ❤️",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Créer de l'art avec impact social",
+        "Festivals engagés 🌍"
+      ],
+      "anthem": "« Notre créativité change des vies. »",
+      "keep_the_magic_alive": "Équilibrer légèreté et profondeur."
+    },
+  
+    "3-11": {
+      "friendship_type": "Les Inspirateurs Lumineux",
+      "vibe": "Expression + Intuition",
+      "tagline": "On manifeste la magie.",
+      "why_they_click": [
+        "Créativité spirituelle fusionnée",
+        "Grande inspiration mutuelle",
+        "Connexion énergétique forte"
+      ],
+      "what_they_love_doing": [
+        "Ateliers de co-création inspirée ✨",
+        "Méditation créative",
+        "Projets visionnaires"
+      ],
+      "friction_points": [
+        "Le 11 trop dans sa tête",
+        "Le 3 pas assez ancré"
+      ],
+      "friendship_superpower": "Créer du contenu qui élève l'humanité 🌟",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 9,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Retraites créatives spirituelles",
+        "Art visionnaire 🎨"
+      ],
+      "anthem": "« Ensemble, on illumine le chemin. »",
+      "keep_the_magic_alive": "Rester ancrés dans la réalité."
+    },
+  
+    "3-22": {
+      "friendship_type": "Les Bâtisseurs de Rêves",
+      "vibe": "Créativité + Vision",
+      "tagline": "Grand, beau, et concret.",
+      "why_they_click": [
+        "Le 22 structure les idées du 3",
+        "Le 3 apporte couleur aux plans du 22",
+        "Potentiel de réalisation majeur"
+      ],
+      "what_they_love_doing": [
+        "Lancer des projets d'envergure 🏢",
+        "Événements grandioses",
+        "Créations architecturales ou artistiques"
+      ],
+      "friction_points": [
+        "Le 22 peut être trop exigeant",
+        "Le 3 peut manquer de rigueur"
+      ],
+      "friendship_superpower": "Manifester des projets extraordinaires 🌍",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 7,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Projets entrepreneuriaux créatifs",
+        "Design d'espaces innovants 🏗️"
+      ],
+      "anthem": "« Si on le rêve, on le construit. »",
+      "keep_the_magic_alive": "Le 3 doit s'engager, le 22 doit garder du fun."
+    },
+  
+    "3-33": {
+      "friendship_type": "Les Créateurs de Lumière",
+      "vibe": "Joie + Amour Universel",
+      "tagline": "Répandre le bonheur partout.",
+      "why_they_click": [
+        "Positivité contagieuse partagée",
+        "Mission d'apporter joie et guérison",
+        "Créativité au service de l'amour"
+      ],
+      "what_they_love_doing": [
+        "Ateliers de bien-être créatifs 💕",
+        "Art-thérapie communautaire",
+        "Événements joyeux et inspirants"
+      ],
+      "friction_points": [
+        "Le 33 peut trouver le 3 trop léger",
+        "Risque de burn-out émotionnel"
+      ],
+      "friendship_superpower": "Guérir par la joie et la créativité 🌈",
+      "friendship_vibe_rating": {
+        "fun": 9,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Projets artistiques caritatifs",
+        "Ateliers d'expression émotionnelle 🎭"
+      ],
+      "anthem": "« Ensemble, on illumine les cœurs. »",
+      "keep_the_magic_alive": "Garder des moments de légèreté pure sans mission."
+    },
+  
+    "4-4": {
+      "friendship_type": "Les Piliers",
+      "vibe": "Stabilité × 2",
+      "tagline": "Solides. Ensemble. Toujours.",
+      "why_they_click": [
+        "Valeurs communes inébranlables",
+        "Confiance absolue",
+        "Ils construisent pour durer"
+      ],
+      "what_they_love_doing": [
+        "Projets de rénovation 🔨",
+        "Routines réconfortantes",
+        "Planification financière ensemble 💰"
+      ],
+      "friction_points": [
+        "Trop rigides parfois",
+        "Manque de spontanéité créative"
+      ],
+      "friendship_superpower": "Bâtir une amitié indestructible 🏔️",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 10,
+        "deep_connection": 8,
+        "adventure": 4
+      },
+      "best_activities": [
+        "Bricolage & DIY 🛠️",
+        "Randonnées structurées 🥾"
+      ],
+      "anthem": "« On ne lâche rien. Jamais. »",
+      "keep_the_magic_alive": "S'autoriser des moments de folie spontanée."
+    },
+  
+    "4-5": {
+      "friendship_type": "Le Roc & Le Vent",
+      "vibe": "Stabilité + Liberté",
+      "tagline": "Tu m'ancres, tu m'envoles.",
+      "why_they_click": [
+        "Complémentarité totale",
+        "Le 4 admire la liberté du 5",
+        "Le 5 apprécie la sécurité du 4"
+      ],
+      "what_they_love_doing": [
+        "Voyages bien planifiés avec imprévus 🗺️",
+        "Activités variées mais structurées",
+        "Découvrir tout en gardant un repère"
+      ],
+      "friction_points": [
+        "Le 5 frustre le besoin de contrôle du 4",
+        "Le 4 limite l'aventure du 5"
+      ],
+      "friendship_superpower": "S'équilibrer mutuellement 🌊",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 8,
+        "deep_connection": 7,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Road trip avec étapes fixes 🚗",
+        "Expériences nouvelles encadrées"
+      ],
+      "anthem": "« Ensemble, on trouve l'équilibre parfait. »",
+      "keep_the_magic_alive": "Respecter les besoins de chacun sans forcer."
+    },
+  
+    "4-6": {
+      "friendship_type": "Les Gardiens",
+      "vibe": "Sécurité + Amour",
+      "tagline": "Ensemble pour la vie.",
+      "why_they_click": [
+        "Valeurs familiales fortes",
+        "Dévouement mutuel profond",
+        "Ils créent un foyer émotionnel"
+      ],
+      "what_they_love_doing": [
+        "Repas maison traditionnels 🍲",
+        "Projets pour la communauté",
+        "S'occuper des autres ensemble"
+      ],
+      "friction_points": [
+        "Peut devenir trop routinier",
+        "Difficulté à sortir de la zone de confort"
+      ],
+      "friendship_superpower": "Créer un havre de paix stable 🏡",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 9,
+        "adventure": 5
+      },
+      "best_activities": [
+        "Jardinage communautaire 🌱",
+        "Artisanat traditionnel 🧶"
+      ],
+      "anthem": "« Ensemble, on crée un foyer. »",
+      "keep_the_magic_alive": "Oser de petites aventures de temps en temps."
+    },
+  
+    "4-7": {
+      "friendship_type": "Les Chercheurs de Vérité",
+      "vibe": "Structure + Sagesse",
+      "tagline": "Construire avec sens.",
+      "why_they_click": [
+        "Respect mutuel profond",
+        "Quête de vérité partagée",
+        "Indépendance compatible"
+      ],
+      "what_they_love_doing": [
+        "Lectures et discussions philosophiques 📚",
+        "Projets de recherche",
+        "Marches contemplatives 🌲"
+      ],
+      "friction_points": [
+        "Le 7 peut sembler trop détaché pour le 4",
+        "Le 4 peut paraître trop matérialiste au 7"
+      ],
+      "friendship_superpower": "Allier pragmatisme et profondeur 🧭",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Retraites studieuses",
+        "Documentaires et analyses 🎥"
+      ],
+      "anthem": "« On construit sur du sens. »",
+      "keep_the_magic_alive": "Le 7 doit s'ancrer, le 4 doit rêver un peu."
+    },
+  
+    "4-8": {
+      "friendship_type": "Les Bâtisseurs d'Empire",
+      "vibe": "Travail + Ambition",
+      "tagline": "On construit pour régner.",
+      "why_they_click": [
+        "Éthique de travail partagée",
+        "Ambitions matérielles communes",
+        "Respect de la discipline"
+      ],
+      "what_they_love_doing": [
+        "Investissements et business 💼",
+        "Projets immobiliers",
+        "Gym et discipline physique 💪"
+      ],
+      "friction_points": [
+        "Trop axés sur le matériel",
+        "Risque de burn-out mutuel"
+      ],
+      "friendship_superpower": "Bâtir une fortune ensemble 🏛️",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 7,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Séminaires business",
+        "Projets d'investissement 📈"
+      ],
+      "anthem": "« On travaille dur, on réussit fort. »",
+      "keep_the_magic_alive": "Se rappeler de célébrer et de se détendre."
+    },
+  
+    "4-9": {
+      "friendship_type": "Le Pragmatique & l'Idéaliste",
+      "vibe": "Réalisme + Vision",
+      "tagline": "Ensemble, on fait du bien concret.",
+      "why_they_click": [
+        "Le 4 concrétise les rêves du 9",
+        "Le 9 donne du sens au travail du 4",
+        "Impact social positif"
+      ],
+      "what_they_love_doing": [
+        "Projets humanitaires structurés 🌍",
+        "Construction d'infrastructures sociales",
+        "Bénévolat organisé"
+      ],
+      "friction_points": [
+        "Le 9 peut trouver le 4 trop terre-à-terre",
+        "Le 4 peut trouver le 9 trop idéaliste"
+      ],
+      "friendship_superpower": "Changer le monde méthodiquement 🛠️❤️",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 8,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Construire des écoles ou puits",
+        "ONG avec impact mesurable 📊"
+      ],
+      "anthem": "« On aide vraiment, concrètement. »",
+      "keep_the_magic_alive": "Équilibrer tête et cœur."
+    },
+  
+    "4-11": {
+      "friendship_type": "Le Fondement & la Vision",
+      "vibe": "Ancrage + Inspiration",
+      "tagline": "Tu vois, je construis.",
+      "why_they_click": [
+        "Le 4 donne forme aux intuitions du 11",
+        "Le 11 inspire le 4 au-delà du matériel",
+        "Potentiel de manifestation puissant"
+      ],
+      "what_they_love_doing": [
+        "Projets spirituels tangibles 🕉️",
+        "Créer des espaces sacrés",
+        "Ateliers de manifestation pratique"
+      ],
+      "friction_points": [
+        "Le 11 trop dans les nuages pour le 4",
+        "Le 4 trop sceptique pour le 11"
+      ],
+      "friendship_superpower": "Manifester des rêves en réalité solide ✨🏗️",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 8,
+        "deep_connection": 9,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Construire un centre de bien-être",
+        "Projets éco-spirituels 🌱"
+      ],
+      "anthem": "« Rêves + action = magie réelle. »",
+      "keep_the_magic_alive": "Le 4 doit croire un peu plus, le 11 doit agir davantage."
+    },
+  
+    "4-22": {
+      "friendship_type": "Les Maîtres Bâtisseurs",
+      "vibe": "Travail + Vision Monumentale",
+      "tagline": "On construit l'histoire.",
+      "why_they_click": [
+        "Ambition commune démesurée",
+        "Capacité de réalisation extraordinaire",
+        "Vision à long terme partagée"
+      ],
+      "what_they_love_doing": [
+        "Projets d'envergure mondiale 🌐",
+        "Infrastructures majeures",
+        "Planification stratégique globale"
+      ],
+      "friction_points": [
+        "Pression immense",
+        "Exigences extrêmes mutuelles"
+      ],
+      "friendship_superpower": "Créer des monuments durables 🏗️",
+      "friendship_vibe_rating": {
+        "fun": 5,
+        "trust": 9,
+        "deep_connection": 8,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Grands projets entrepreneuriaux",
+        "Fondations internationales 🌍"
+      ],
+      "anthem": "« On ne fait rien de petit. »",
+      "keep_the_magic_alive": "Se rappeler de vivre aussi dans le présent."
+    },
+  
+    "4-33": {
+      "friendship_type": "Les Constructeurs de Paix",
+      "vibe": "Stabilité + Amour Universel",
+      "tagline": "Construire un monde meilleur.",
+      "why_they_click": [
+        "Le 4 donne structure à la compassion du 33",
+        "Le 33 donne sens au travail du 4",
+        "Impact humanitaire concret"
+      ],
+      "what_they_love_doing": [
+        "Projets sociaux durables 🏘️",
+        "Création de refuges ou centres d'aide",
+        "Bénévolat organisé et efficace"
+      ],
+      "friction_points": [
+        "Le 33 peut être trop émotionnel pour le 4",
+        "Le 4 peut manquer d'empathie apparente"
+      ],
+      "friendship_superpower": "Bâtir des structures qui soignent 🏥💕",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 10,
+        "deep_connection": 9,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Construire des centres communautaires",
+        "Projets d'aide structurée 🤝"
+      ],
+      "anthem": "« Ensemble, on bâtit l'amour. »",
+      "keep_the_magic_alive": "Le 4 doit montrer ses émotions, le 33 doit rester pragmatique."
+    },
+  
+    "5-5": {
+      "friendship_type": "Les Nomades",
+      "vibe": "Liberté × 2",
+      "tagline": "On ne s'arrête jamais.",
+      "why_they_click": [
+        "Zéro contrainte, maximum d'aventures",
+        "Curiosité insatiable partagée",
+        "Énergie sauvage et libre"
+      ],
+      "what_they_love_doing": [
+        "Voyages improvisés 🌍",
+        "Fêtes et festivals non-stop 🎪",
+        "Expériences extrêmes et nouvelles"
+      ],
+      "friction_points": [
+        "Aucune stabilité émotionnelle ou financière",
+        "Difficulté à se poser ensemble"
+      ],
+      "friendship_superpower": "Vivre intensément chaque instant 🔥",
+      "friendship_vibe_rating": {
+        "fun": 10,
+        "trust": 6,
+        "deep_connection": 5,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Backpacking spontané 🎒",
+        "Sports extrêmes 🏄"
+      ],
+      "anthem": "« On vit maintenant ou jamais ! »",
+      "keep_the_magic_alive": "Créer au moins quelques rituels pour se retrouver."
+    },
+  
+    "5-6": {
+      "friendship_type": "L'Explorateur & Le Gardien",
+      "vibe": "Aventure + Protection",
+      "tagline": "Tu pars, je t'attends.",
+      "why_they_click": [
+        "Le 6 offre un port d'attache au 5",
+        "Le 5 inspire le 6 à sortir de sa zone",
+        "Équilibre liberté/sécurité"
+      ],
+      "what_they_love_doing": [
+        "Voyages avec retour au foyer 🏠✈️",
+        "Découvertes avec partage",
+        "Aventures sécurisées"
+      ],
+      "friction_points": [
+        "Le 5 peut se sentir étouffé",
+        "Le 6 peut se sentir abandonné"
+      ],
+      "friendship_superpower": "S'équilibrer entre exploration et ancrage ⚖️",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Voyages familiaux ou entre amis",
+        "Activités d'exploration douce 🚴"
+      ],
+      "anthem": "« Tu es mon aventure et mon chez-moi. »",
+      "keep_the_magic_alive": "Le 5 doit rassurer, le 6 doit lâcher prise."
+    },
+  
+    "5-7": {
+      "friendship_type": "Les Âmes Libres",
+      "vibe": "Liberté + Sagesse",
+      "tagline": "On explore l'inconnu ensemble.",
+      "why_they_click": [
+        "Indépendance mutuelle respectée",
+        "Quête de vérité partagée",
+        "Profondeur dans la liberté"
+      ],
+      "what_they_love_doing": [
+        "Voyages philosophiques 🏔️",
+        "Explorations mystiques",
+        "Discussions profondes sous les étoiles ✨"
+      ],
+      "friction_points": [
+        "Trop d'espace peut créer de la distance",
+        "Difficulté à s'engager émotionnellement"
+      ],
+      "friendship_superpower": "Grandir dans la liberté absolue 🕊️",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 7,
+        "deep_connection": 8,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Retraites spirituelles isolées",
+        "Randonnées solitaires ensemble 🥾"
+      ],
+      "anthem": "« Libres et profonds. »",
+      "keep_the_magic_alive": "Créer des moments de vraie connexion émotionnelle."
+    },
+  
+    "5-8": {
+      "friendship_type": "Les Conquérants",
+      "vibe": "Liberté + Pouvoir",
+      "tagline": "Le monde nous appartient.",
+      "why_they_click": [
+        "Ambition et audace combinées",
+        "Ils ne reculent devant rien",
+        "Énergie dominante partagée"
+      ],
+      "what_they_love_doing": [
+        "Voyages d'affaires luxueux 💼✈️",
+        "Networking international",
+        "Défis et compétitions 🏆"
+      ],
+      "friction_points": [
+        "Ego battles",
+        "Difficulté à ralentir ensemble"
+      ],
+      "friendship_superpower": "Conquérir le monde ensemble 🌎",
+      "friendship_vibe_rating": {
+        "fun": 9,
+        "trust": 7,
+        "deep_connection": 6,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Projets entrepreneuriaux audacieux",
+        "Voyages VIP 🛩️"
+      ],
+      "anthem": "« Rien ne peut nous arrêter. »",
+      "keep_the_magic_alive": "Se rappeler qu'il n'y a pas de compétition entre vous."
+    },
+  
+    "5-9": {
+      "friendship_type": "Les Citoyens du Monde",
+      "vibe": "Exploration + Humanité",
+      "tagline": "On découvre pour comprendre.",
+      "why_they_click": [
+        "Passion pour les cultures et les gens",
+        "Ouverture d'esprit totale",
+        "Vision globale partagée"
+      ],
+      "what_they_love_doing": [
+        "Voyages humanitaires 🌍",
+        "Découvrir des cultures différentes",
+        "Projets sociaux internationaux"
+      ],
+      "friction_points": [
+        "Le 5 peut manquer d'engagement",
+        "Le 9 peut être trop idéaliste"
+      ],
+      "friendship_superpower": "Connecter les mondes et les cœurs 💫",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 7,
+        "deep_connection": 8,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Voyages solidaires",
+        "Festivals multiculturels 🎭"
+      ],
+      "anthem": "« Le monde est notre maison. »",
+      "keep_the_magic_alive": "Ancrer les expériences dans des actions concrètes."
+    },
+  
+    "5-11": {
+      "friendship_type": "Les Visionnaires Nomades",
+      "vibe": "Liberté + Intuition",
+      "tagline": "On suit les signes de l'univers.",
+      "why_they_click": [
+        "Connexion spirituelle dans le mouvement",
+        "Quête de sens par l'expérience",
+        "Synchronicités magiques"
+      ],
+      "what_they_love_doing": [
+        "Voyages spirituels 🕉️",
+        "Retraites énergétiques",
+        "Suivre l'intuition ensemble ✨"
+      ],
+      "friction_points": [
+        "Trop d'instabilité émotionnelle",
+        "Difficulté à s'ancrer dans le réel"
+      ],
+      "friendship_superpower": "Manifester des expériences transcendantes 🌠",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 7,
+        "deep_connection": 9,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Pèlerinages spirituels",
+        "Festivals transformationnels 🎪"
+      ],
+      "anthem": "« L'univers nous guide. »",
+      "keep_the_magic_alive": "Garder un minimum de structure pour se retrouver."
+    },
+  
+    "5-22": {
+      "friendship_type": "Les Pionniers Globaux",
+      "vibe": "Aventure + Vision",
+      "tagline": "On explore pour construire.",
+      "why_they_click": [
+        "Le 5 inspire l'audace au 22",
+        "Le 22 donne sens aux explorations du 5",
+        "Potentiel d'impact mondial"
+      ],
+      "what_they_love_doing": [
+        "Projets internationaux d'envergure 🌐",
+        "Lancer des innovations globales",
+        "Voyages stratégiques"
+      ],
+      "friction_points": [
+        "Le 5 peut manquer de rigueur",
+        "Le 22 peut être trop exigeant"
+      ],
+      "friendship_superpower": "Changer le monde par l'innovation 🚀",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 7,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Startups internationales",
+        "Projets d'innovation sociale 💡"
+      ],
+      "anthem": "« On explore, on construit, on impacte. »",
+      "keep_the_magic_alive": "Le 5 doit s'engager, le 22 doit rester flexible."
+    },
+  
+    "5-33": {
+      "friendship_type": "Les Guérisseurs Aventuriers",
+      "vibe": "Liberté + Compassion",
+      "tagline": "On soigne le monde en voyageant.",
+      "why_they_click": [
+        "Mission humanitaire mobile",
+        "Apporter l'amour partout",
+        "Liberté au service du cœur"
+      ],
+      "what_they_love_doing": [
+        "Missions humanitaires itinérantes 🌍❤️",
+        "Thérapies alternatives en voyage",
+        "Créer des ponts entre les cultures"
+      ],
+      "friction_points": [
+        "Le 5 peut fuir l'émotionnel",
+        "Le 33 peut vouloir trop s'attacher"
+      ],
+      "friendship_superpower": "Guérir en mouvement 🕊️✨",
+      "friendship_vibe_rating": {
+        "fun": 9,
+        "trust": 8,
+        "deep_connection": 9,
+        "adventure": 10
+      },
+      "best_activities": [
+        "Voyages de volontariat",
+        "Retraites de guérison internationales 🧘"
+      ],
+      "anthem": "« Notre voyage est notre mission. »",
+      "keep_the_magic_alive": "Le 33 doit lâcher l'attachement, le 5 doit s'ouvrir émotionnellement."
+    },
+  
+    "6-6": {
+      "friendship_type": "Le Cercle d'Amour",
+      "vibe": "Harmonie × 2",
+      "tagline": "Ensemble, on crée une famille.",
+      "why_they_click": [
+        "Empathie et dévouement doublés",
+        "Valeurs familiales partagées",
+        "Sécurité émotionnelle totale"
+      ],
+      "what_they_love_doing": [
+        "Recevoir et prendre soin des autres 🏠",
+        "Cuisine et repas partagés 🍽️",
+        "Créer un cocon chaleureux"
+      ],
+      "friction_points": [
+        "Risque de co-dépendance",
+        "Oubli de soi au profit des autres"
+      ],
+      "friendship_superpower": "Créer un sanctuaire d'amour inconditionnel 💕",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 5
+      },
+      "best_activities": [
+        "Organiser des repas familiaux",
+        "Projets caritatifs ensemble 🤲"
+      ],
+      "anthem": "« On s'aime inconditionnellement. »",
+      "keep_the_magic_alive": "Garder du temps pour soi et éviter le sacrifice excessif."
+    },
+  
+    "6-7": {
+      "friendship_type": "Le Cœur & L'Esprit",
+      "vibe": "Amour + Sagesse",
+      "tagline": "Tu ressens, je comprends.",
+      "why_they_click": [
+        "Équilibre émotion/raison",
+        "Le 7 admire la bonté du 6",
+        "Le 6 respecte la profondeur du 7"
+      ],
+      "what_they_love_doing": [
+        "Discussions philosophiques à la maison 🏡",
+        "Lectures et réflexions partagées",
+        "Moments de calme ensemble"
+      ],
+      "friction_points": [
+        "Le 7 peut sembler froid au 6",
+        "Le 6 peut étouffer le besoin de solitude du 7"
+      ],
+      "friendship_superpower": "Allier compassion et sagesse 💛🧠",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 5
+      },
+      "best_activities": [
+        "Clubs de lecture 📚",
+        "Retraites contemplatives"
+      ],
+      "anthem": "« Ensemble, on trouve l'équilibre parfait. »",
+      "keep_the_magic_alive": "Le 7 doit s'ouvrir émotionnellement, le 6 doit laisser de l'espace."
+    },
+  
+    "6-8": {
+      "friendship_type": "Le Protecteur & Le Pourvoyeur",
+      "vibe": "Amour + Abondance",
+      "tagline": "Je prends soin, tu protèges.",
+      "why_they_click": [
+        "Le 8 apporte sécurité matérielle",
+        "Le 6 apporte chaleur émotionnelle",
+        "Protection mutuelle forte"
+      ],
+      "what_they_love_doing": [
+        "Investir dans la famille 🏡💰",
+        "Organiser des fêtes généreuses",
+        "Construire un patrimoine ensemble"
+      ],
+      "friction_points": [
+        "Le 8 peut être trop focalisé sur le matériel",
+        "Le 6 peut trouver le 8 trop dur"
+      ],
+      "friendship_superpower": "Créer une forteresse de prospérité et d'amour 🏰",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 9,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Investissements familiaux",
+        "Voyages luxueux en groupe ✈️"
+      ],
+      "anthem": "« Ensemble, on bâtit l'abondance avec cœur. »",
+      "keep_the_magic_alive": "Le 8 doit montrer ses émotions, le 6 doit valoriser la réussite."
+    },
+  
+    "6-9": {
+      "friendship_type": "Les Anges Terrestres",
+      "vibe": "Dévouement + Compassion",
+      "tagline": "On aime le monde entier.",
+      "why_they_click": [
+        "Altruisme partagé profond",
+        "Mission d'aider l'humanité",
+        "Sensibilité émotionnelle forte"
+      ],
+      "what_they_love_doing": [
+        "Bénévolat et missions humanitaires 🌍",
+        "Aider les causes justes",
+        "Créer du lien social"
+      ],
+      "friction_points": [
+        "Risque d'épuisement émotionnel",
+        "Oubli de leurs propres besoins"
+      ],
+      "friendship_superpower": "Guérir le monde par l'amour 💖",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Projets caritatifs ensemble",
+        "Cercles de partage ❤️"
+      ],
+      "anthem": "« On est là pour servir avec amour. »",
+      "keep_the_magic_alive": "Apprendre à recevoir autant qu'à donner."
+    },
+  
+    "6-11": {
+      "friendship_type": "Les Gardiens de Lumière",
+      "vibe": "Protection + Inspiration",
+      "tagline": "Tu guides, je protège.",
+      "why_they_click": [
+        "Le 6 ancre les visions du 11",
+        "Le 11 inspire l'âme du 6",
+        "Soutien spirituel et émotionnel"
+      ],
+      "what_they_love_doing": [
+        "Créer des espaces sacrés 🕯️",
+        "Ateliers de guérison",
+        "Prières et méditations ensemble"
+      ],
+      "friction_points": [
+        "Le 11 peut être trop intense pour le 6",
+        "Le 6 peut vouloir trop ancrer le 11"
+      ],
+      "friendship_superpower": "Manifester l'amour divin sur terre 🌟",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Cercles de femmes/hommes sacrés",
+        "Retraites spirituelles 🧘"
+      ],
+      "anthem": "« Notre amour éclaire le chemin. »",
+      "keep_the_magic_alive": "Équilibrer spiritualité et vie quotidienne."
+    },
+  
+    "6-22": {
+      "friendship_type": "Les Bâtisseurs de Foyers",
+      "vibe": "Amour + Vision",
+      "tagline": "On construit pour les générations futures.",
+      "why_they_click": [
+        "Le 6 humanise la vision du 22",
+        "Le 22 structure l'amour du 6",
+        "Impact familial et social majeur"
+      ],
+      "what_they_love_doing": [
+        "Projets communautaires d'envergure 🏘️",
+        "Créer des structures pour les familles",
+        "Événements rassembleurs"
+      ],
+      "friction_points": [
+        "Le 22 peut être trop exigeant",
+        "Le 6 peut se sentir dépassé"
+      ],
+      "friendship_superpower": "Créer des communautés prospères et aimantes 🌍",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Fonder des associations familiales",
+        "Grands projets sociaux 🏗️"
+      ],
+      "anthem": "« Ensemble, on bâtit un héritage d'amour. »",
+      "keep_the_magic_alive": "Le 22 doit ralentir, le 6 doit oser plus grand."
+    },
+  
+    "6-33": {
+      "friendship_type": "Les Maîtres de l'Amour",
+      "vibe": "Dévouement + Compassion Universelle",
+      "tagline": "L'amour incarné.",
+      "why_they_click": [
+        "Empathie et compassion infinies",
+        "Mission de guérison partagée",
+        "Connexion divine"
+      ],
+      "what_they_love_doing": [
+        "Thérapies et guérison émotionnelle 💗",
+        "Créer des sanctuaires d'amour",
+        "Accompagner les âmes blessées"
+      ],
+      "friction_points": [
+        "Risque d'épuisement compassionnel",
+        "Difficulté à dire non"
+      ],
+      "friendship_superpower": "Incarner l'amour inconditionnel absolu 🌺",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Cercles de guérison",
+        "Retraites d'amour universel 🕊️"
+      ],
+      "anthem": "« Notre amitié est une église d'amour. »",
+      "keep_the_magic_alive": "Protéger leur énergie et garder des limites saines."
+    },
+  
+    "7-7": {
+      "friendship_type": "Les Ermites Complices",
+      "vibe": "Sagesse × 2",
+      "tagline": "Ensemble dans le silence.",
+      "why_they_click": [
+        "Compréhension mutuelle sans mots",
+        "Respect total de la solitude de l'autre",
+        "Quête spirituelle partagée"
+      ],
+      "what_they_love_doing": [
+        "Méditations silencieuses 🧘",
+        "Lectures et recherches profondes",
+        "Randonnées contemplatives 🏔️"
+      ],
+      "friction_points": [
+        "Trop d'isolement peut créer de la distance",
+        "Manque de chaleur émotionnelle"
+      ],
+      "friendship_superpower": "Atteindre la sagesse ultime ensemble 🌌",
+      "friendship_vibe_rating": {
+        "fun": 5,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Retraites monastiques",
+        "Études philosophiques 📚"
+      ],
+      "anthem": "« Le silence est notre conversation. »",
+      "keep_the_magic_alive": "S'obliger à se voir et à partager émotionnellement."
+    },
+  
+    "7-8": {
+      "friendship_type": "Le Sage & Le Stratège",
+      "vibe": "Sagesse + Pouvoir",
+      "tagline": "Savoir et pouvoir unis.",
+      "why_they_click": [
+        "Le 7 apporte profondeur au 8",
+        "Le 8 apporte action au 7",
+        "Respect mutuel intellectuel"
+      ],
+      "what_they_love_doing": [
+        "Stratégies business philosophiques 💼",
+        "Investissements réfléchis",
+        "Discussions de pouvoir et sens"
+      ],
+      "friction_points": [
+        "Le 7 trouve le 8 trop matérialiste",
+        "Le 8 trouve le 7 trop détaché"
+      ],
+      "friendship_superpower": "Allier sagesse et réussite matérielle 👔🧠",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Clubs privés intellectuels",
+        "Investissements éthiques 📈"
+      ],
+      "anthem": "« La sagesse mène au pouvoir vrai. »",
+      "keep_the_magic_alive": "Le 8 doit ralentir, le 7 doit agir un peu plus."
+    },
+  
+    "7-9": {
+      "friendship_type": "Les Mystiques",
+      "vibe": "Sagesse + Compassion",
+      "tagline": "Comprendre pour aimer.",
+      "why_they_click": [
+        "Vision spirituelle partagée",
+        "Profondeur émotionnelle et intellectuelle",
+        "Quête de vérité universelle"
+      ],
+      "what_they_love_doing": [
+        "Retraites spirituelles 🕉️",
+        "Discussions philosophiques profondes",
+        "Voyages mystiques"
+      ],
+      "friction_points": [
+        "Le 7 peut être trop froid",
+        "Le 9 peut être trop émotionnel"
+      ],
+      "friendship_superpower": "Atteindre l'illumination ensemble ✨",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Pèlerinages sacrés",
+        "Études ésotériques 📖"
+      ],
+      "anthem": "« Ensemble, on touche l'universel. »",
+      "keep_the_magic_alive": "Équilibrer tête et cœur."
+    },
+  
+    "7-11": {
+      "friendship_type": "Les Visionnaires Spirituels",
+      "vibe": "Sagesse + Intuition",
+      "tagline": "On voit au-delà du voile.",
+      "why_they_click": [
+        "Connexion spirituelle puissante",
+        "Capacités intuitives développées",
+        "Quête de vérité transcendante"
+      ],
+      "what_they_love_doing": [
+        "Méditations profondes 🧘",
+        "Channeling et messages spirituels",
+        "Explorations métaphysiques ✨"
+      ],
+      "friction_points": [
+        "Trop dans les hauteurs spirituelles",
+        "Difficulté à s'ancrer dans le quotidien"
+      ],
+      "friendship_superpower": "Accéder aux dimensions supérieures 🌠",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Cercles de méditation avancée",
+        "Études de textes sacrés 📜"
+      ],
+      "anthem": "« Nos âmes voyagent ensemble. »",
+      "keep_the_magic_alive": "Garder un ancrage terrestre régulier."
+    },
+  
+    "7-22": {
+      "friendship_type": "Les Architectes de Sagesse",
+      "vibe": "Sagesse + Vision Monumentale",
+      "tagline": "Construire avec profondeur.",
+      "why_they_click": [
+        "Le 7 donne sens aux projets du 22",
+        "Le 22 concrétise les visions du 7",
+        "Impact durable et profond"
+      ],
+      "what_they_love_doing": [
+        "Projets éducatifs d'envergure 🏫",
+        "Universités et centres de recherche",
+        "Infrastructures spirituelles"
+      ],
+      "friction_points": [
+        "Le 7 peut freiner l'action du 22",
+        "Le 22 peut bousculer la contemplation du 7"
+      ],
+      "friendship_superpower": "Bâtir des temples de connaissance 🏛️",
+      "friendship_vibe_rating": {
+        "fun": 5,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Fonder des instituts de recherche",
+        "Grands projets culturels 📚"
+      ],
+      "anthem": "« On construit sur la sagesse. »",
+      "keep_the_magic_alive": "Le 7 doit agir, le 22 doit méditer."
+    },
+  
+    "7-33": {
+      "friendship_type": "Les Guérisseurs Sages",
+      "vibe": "Sagesse + Amour Universel",
+      "tagline": "Comprendre pour guérir.",
+      "why_they_click": [
+        "Le 7 apporte sagesse à la compassion du 33",
+        "Le 33 apporte chaleur à la sagesse du 7",
+        "Guérison profonde et éclairée"
+      ],
+      "what_they_love_doing": [
+        "Thérapies holistiques avancées 🕉️",
+        "Enseignements spirituels",
+        "Retraites de guérison profonde"
+      ],
+      "friction_points": [
+        "Le 7 peut sembler froid au 33",
+        "Le 33 peut paraître trop émotionnel au 7"
+      ],
+      "friendship_superpower": "Guérir avec sagesse et amour 💫",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 6
+      },
+      "best_activities": [
+        "Enseignements spirituels",
+        "Centres de guérison holistique 🌿"
+      ],
+      "anthem": "« Notre sagesse guérit les âmes. »",
+      "keep_the_magic_alive": "Le 7 doit s'ouvrir émotionnellement."
+    },
+  
+    "8-8": {
+      "friendship_type": "Les Empereurs",
+      "vibe": "Pouvoir × 2",
+      "tagline": "On règne ensemble.",
+      "why_they_click": [
+        "Ambition et détermination partagées",
+        "Respect mutuel de la force",
+        "Comprennent le prix du succès"
+      ],
+      "what_they_love_doing": [
+        "Deals et investissements 💰",
+        "Networking d'élite",
+        "Sport compétitif 🏆"
+      ],
+      "friction_points": [
+        "Luttes de pouvoir constantes",
+        "Difficulté à montrer la vulnérabilité"
+      ],
+      "friendship_superpower": "Conquérir l'impossible ensemble 👑",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 6,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Business ventures",
+        "Voyages de luxe 🛩️"
+      ],
+      "anthem": "« Les gagnants reconnaissent les gagnants. »",
+      "keep_the_magic_alive": "Apprendre à être vulnérables l'un avec l'autre."
+    },
+  
+    "8-9": {
+      "friendship_type": "Le Pouvoir & La Compassion",
+      "vibe": "Réussite + Humanité",
+      "tagline": "Changer le monde avec impact.",
+      "why_they_click": [
+        "Le 8 finance les rêves du 9",
+        "Le 9 humanise le pouvoir du 8",
+        "Impact social majeur"
+      ],
+      "what_they_love_doing": [
+        "Philanthropie d'envergure 🌍",
+        "Projets sociaux impactants",
+        "Investissements à impact"
+      ],
+      "friction_points": [
+        "Le 9 trouve le 8 trop matérialiste",
+        "Le 8 trouve le 9 trop idéaliste"
+      ],
+      "friendship_superpower": "Transformer le pouvoir en bien collectif 💎❤️",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Fonder des ONG puissantes",
+        "Galas caritatifs 🎩"
+      ],
+      "anthem": "« Le vrai pouvoir est de servir. »",
+      "keep_the_magic_alive": "Équilibrer profits et mission."
+    },
+  
+    "8-11": {
+      "friendship_type": "Les Visionnaires Puissants",
+      "vibe": "Pouvoir + Inspiration",
+      "tagline": "Manifester l'impossible.",
+      "why_they_click": [
+        "Le 8 concrétise les visions du 11",
+        "Le 11 inspire les ambitions du 8",
+        "Potentiel de manifestation énorme"
+      ],
+      "what_they_love_doing": [
+        "Projets innovants révolutionnaires 🚀",
+        "Startups visionnaires",
+        "Transformation sociale"
+      ],
+      "friction_points": [
+        "Le 8 peut être trop pragmatique",
+        "Le 11 peut être trop idéaliste"
+      ],
+      "friendship_superpower": "Créer des empires inspirants ✨👑",
+      "friendship_vibe_rating": {
+        "fun": 8,
+        "trust": 8,
+        "deep_connection": 8,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Lancer des mouvements",
+        "Conférences inspirantes 🎤"
+      ],
+      "anthem": "« On manifeste des miracles concrets. »",
+      "keep_the_magic_alive": "Le 8 doit croire plus, le 11 doit agir plus."
+    },
+  
+    "8-22": {
+      "friendship_type": "Les Maîtres Bâtisseurs d'Empire",
+      "vibe": "Pouvoir + Vision Monumentale",
+      "tagline": "On construit des légendes.",
+      "why_they_click": [
+        "Ambition démesurée partagée",
+        "Capacité d'exécution extraordinaire",
+        "Vision à échelle mondiale"
+      ],
+      "what_they_love_doing": [
+        "Projets internationaux massifs 🌐",
+        "Empires économiques",
+        "Infrastructures mondiales"
+      ],
+      "friction_points": [
+        "Pression extrême constante",
+        "Exigences mutuelles très élevées"
+      ],
+      "friendship_superpower": "Façonner le monde à leur image 🏛️",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 8,
+        "deep_connection": 7,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Deals internationaux",
+        "Fondation de conglomérats 💼"
+      ],
+      "anthem": "« On écrit l'histoire. »",
+      "keep_the_magic_alive": "Se rappeler de rire et de respirer."
+    },
+  
+    "8-33": {
+      "friendship_type": "Les Leaders du Cœur",
+      "vibe": "Pouvoir + Amour Universel",
+      "tagline": "Régner avec compassion.",
+      "why_they_click": [
+        "Le 8 protège la mission du 33",
+        "Le 33 humanise le leadership du 8",
+        "Impact humanitaire puissant"
+      ],
+      "what_they_love_doing": [
+        "Organisations caritatives puissantes 💗",
+        "Business social d'envergure",
+        "Transformation systémique"
+      ],
+      "friction_points": [
+        "Le 8 peut manquer de sensibilité",
+        "Le 33 peut être trop émotionnel"
+      ],
+      "friendship_superpower": "Créer un monde plus juste et prospère 🌍💫",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Fonder des empires éthiques",
+        "Philanthropie stratégique 🤝"
+      ],
+      "anthem": "« Le pouvoir au service de l'amour. »",
+      "keep_the_magic_alive": "Le 8 doit s'ouvrir émotionnellement."
+    },
+  
+    "9-9": {
+      "friendship_type": "Les Âmes Universelles",
+      "vibe": "Compassion × 2",
+      "tagline": "Ensemble pour l'humanité.",
+      "why_they_click": [
+        "Vision humanitaire partagée",
+        "Sensibilité émotionnelle profonde",
+        "Comprennent la mission de l'autre"
+      ],
+      "what_they_love_doing": [
+        "Causes humanitaires 🌍",
+        "Art engagé et émotionnel",
+        "Voyages pour comprendre le monde"
+      ],
+      "friction_points": [
+        "Risque d'épuisement compassionnel",
+        "Difficulté à s'ancrer dans le concret"
+      ],
+      "friendship_superpower": "Transformer le monde par l'amour 💫",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Missions humanitaires",
+        "Festivals de la paix 🕊️"
+      ],
+      "anthem": "« Notre amour embrasse le monde entier. »",
+      "keep_the_magic_alive": "Se rappeler de prendre soin d'eux-mêmes aussi."
+    },
+  
+    "9-11": {
+      "friendship_type": "Les Lumières de l'Humanité",
+      "vibe": "Compassion + Intuition",
+      "tagline": "Éclairer et guérir le monde.",
+      "why_they_click": [
+        "Mission spirituelle d'envergure",
+        "Sensibilité et vision partagées",
+        "Connexion d'âmes anciennes"
+      ],
+      "what_they_love_doing": [
+        "Enseignements spirituels 🕉️",
+        "Projets de transformation collective",
+        "Art et guérison ✨"
+      ],
+      "friction_points": [
+        "Intensité émotionnelle très forte",
+        "Difficulté à rester ancrés"
+      ],
+      "friendship_superpower": "Élever la conscience collective 🌟",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Retraites transformationnelles",
+        "Créer des mouvements spirituels 💫"
+      ],
+      "anthem": "« Ensemble, on illumine l'humanité. »",
+      "keep_the_magic_alive": "Garder des moments de légèreté et d'ancrage."
+    },
+  
+    "9-22": {
+      "friendship_type": "Les Humanitaires Puissants",
+      "vibe": "Compassion + Vision",
+      "tagline": "Construire un monde meilleur.",
+      "why_they_click": [
+        "Le 9 inspire l'âme du 22",
+        "Le 22 structure l'idéalisme du 9",
+        "Impact humanitaire massif"
+      ],
+      "what_they_love_doing": [
+        "Organisations humanitaires globales 🌍",
+        "Infrastructures pour le bien commun",
+        "Projets de paix internationale"
+      ],
+      "friction_points": [
+        "Le 9 peut trouver le 22 trop pragmatique",
+        "Le 22 peut trouver le 9 trop émotionnel"
+      ],
+      "friendship_superpower": "Changer structurellement le monde 🏛️❤️",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 9,
+        "deep_connection": 9,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Fonder des ONU alternatives",
+        "Grands projets de paix 🕊️"
+      ],
+      "anthem": "« On bâtit un héritage d'amour universel. »",
+      "keep_the_magic_alive": "Équilibrer cœur et stratégie."
+    },
+  
+    "9-33": {
+      "friendship_type": "Les Maîtres de l'Amour Universel",
+      "vibe": "Compassion × Infini",
+      "tagline": "L'incarnation de l'amour divin.",
+      "why_they_click": [
+        "Mission d'amour universel partagée",
+        "Compassion infinie pour l'humanité",
+        "Connexion divine absolue"
+      ],
+      "what_they_love_doing": [
+        "Guérison collective 💗",
+        "Créer des sanctuaires d'amour",
+        "Servir l'humanité entière"
+      ],
+      "friction_points": [
+        "Épuisement compassionnel majeur",
+        "Difficulté à poser des limites"
+      ],
+      "friendship_superpower": "Incarner l'amour inconditionnel total 🌺✨",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Missions de guérison mondiale",
+        "Créer des mouvements d'amour 🕊️"
+      ],
+      "anthem": "« Nous sommes l'amour que le monde attend. »",
+      "keep_the_magic_alive": "Protection énergétique absolue et moments de joie pure."
+    },
+  
+    "11-11": {
+      "friendship_type": "Les Visionnaires Illuminés",
+      "vibe": "Intuition × 2",
+      "tagline": "Ensemble au-delà du voile.",
+      "why_they_click": [
+        "Connexion psychique puissante",
+        "Comprennent leurs visions mutuelles",
+        "Mission spirituelle commune"
+      ],
+      "what_they_love_doing": [
+        "Méditations profondes 🧘",
+        "Channeling et messages divins",
+        "Créations artistiques inspirées ✨"
+      ],
+      "friction_points": [
+        "Trop d'intensité émotionnelle",
+        "Difficulté à rester ancrés dans le réel"
+      ],
+      "friendship_superpower": "Accéder aux dimensions supérieures ensemble 🌠",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Retraites spirituelles avancées",
+        "Création d'enseignements sacrés 📜"
+      ],
+      "anthem": "« Nos âmes dansent dans la lumière. »",
+      "keep_the_magic_alive": "S'ancrer régulièrement dans le monde physique."
+    },
+  
+    "11-22": {
+      "friendship_type": "Les Architectes Divins",
+      "vibe": "Intuition + Vision",
+      "tagline": "Manifester le divin sur terre.",
+      "why_they_click": [
+        "Le 11 voit, le 22 construit",
+        "Vision spirituelle monumentale",
+        "Potentiel de transformation mondiale"
+      ],
+      "what_they_love_doing": [
+        "Projets spirituels d'envergure 🌍",
+        "Bâtir des centres de transformation",
+        "Mouvements de conscience globale"
+      ],
+      "friction_points": [
+        "Le 11 trop idéaliste pour le 22",
+        "Le 22 trop exigeant pour le 11"
+      ],
+      "friendship_superpower": "Incarner des visions divines en structures réelles 🏛️✨",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 10,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Fonder des écoles spirituelles",
+        "Grands projets de transformation 🌟"
+      ],
+      "anthem": "« On construit le nouveau monde. »",
+      "keep_the_magic_alive": "Le 11 doit agir, le 22 doit rêver."
+    },
+  
+    "11-33": {
+      "friendship_type": "Les Maîtres Ascensionnés",
+      "vibe": "Intuition + Amour Divin",
+      "tagline": "Canaliser l'amour universel.",
+      "why_they_click": [
+        "Mission divine partagée",
+        "Capacités spirituelles élevées",
+        "Guérison et illumination combinées"
+      ],
+      "what_they_love_doing": [
+        "Enseignements spirituels sacrés 🕉️",
+        "Guérison énergétique avancée",
+        "Créer des temples de lumière ✨"
+      ],
+      "friction_points": [
+        "Intensité spirituelle écrasante",
+        "Difficulté à vivre normalement"
+      ],
+      "friendship_superpower": "Être des canaux d'amour divin 💫💖",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Cérémonies sacrées",
+        "Créer des communautés spirituelles 🕊️"
+      ],
+      "anthem": "« Nous sommes la lumière incarnée. »",
+      "keep_the_magic_alive": "Protection énergétique et moments de normalité."
+    },
+  
+    "22-22": {
+      "friendship_type": "Les Titans",
+      "vibe": "Vision × 2",
+      "tagline": "Ensemble, on refait le monde.",
+      "why_they_click": [
+        "Ambition monumentale partagée",
+        "Comprennent les défis de l'autre",
+        "Capacité d'exécution extraordinaire"
+      ],
+      "what_they_love_doing": [
+        "Projets d'envergure mondiale 🌍",
+        "Bâtir des empires et des systèmes",
+        "Planification stratégique massive"
+      ],
+      "friction_points": [
+        "Pression extrême constante",
+        "Risque de compétition sur la vision"
+      ],
+      "friendship_superpower": "Transformer radicalement le monde 🏛️",
+      "friendship_vibe_rating": {
+        "fun": 6,
+        "trust": 9,
+        "deep_connection": 8,
+        "adventure": 9
+      },
+      "best_activities": [
+        "Fonder des institutions majeures",
+        "Sommets de leaders mondiaux 🌐"
+      ],
+      "anthem": "« On construit l'impossible. »",
+      "keep_the_magic_alive": "Se rappeler qu'ils sont humains aussi."
+    },
+  
+    "22-33": {
+      "friendship_type": "Les Bâtisseurs Divins",
+      "vibe": "Vision + Amour Universel",
+      "tagline": "Construire un monde d'amour.",
+      "why_they_click": [
+        "Le 22 structure l'amour du 33",
+        "Le 33 humanise la vision du 22",
+        "Impact humanitaire massif et durable"
+      ],
+      "what_they_love_doing": [
+        "Projets humanitaires globaux 🌍❤️",
+        "Créer des systèmes de guérison",
+        "Bâtir des civilisations d'amour"
+      ],
+      "friction_points": [
+        "Le 22 peut être trop exigeant",
+        "Le 33 peut être trop émotionnel"
+      ],
+      "friendship_superpower": "Créer un nouveau paradigme d'amour et de structure 💫🏗️",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 8
+      },
+      "best_activities": [
+        "Fonder des cités de lumière",
+        "Organisations de transformation mondiale 🕊️"
+      ],
+      "anthem": "« On bâtit le ciel sur terre. »",
+      "keep_the_magic_alive": "Équilibrer grandeur et simplicité humaine."
+    },
+  
+    "33-33": {
+      "friendship_type": "Les Avatars de l'Amour",
+      "vibe": "Amour Divin × 2",
+      "tagline": "L'amour pur incarné.",
+      "why_they_click": [
+        "Mission d'amour universel partagée",
+        "Compassion infinie mutuelle",
+        "Comprennent le sacrifice sacré de l'autre"
+      ],
+      "what_they_love_doing": [
+        "Guérison collective mondiale 💗",
+        "Créer des sanctuaires sacrés",
+        "Servir l'humanité avec dévotion totale"
+      ],
+      "friction_points": [
+        "Épuisement compassionnel extrême",
+        "Difficulté à exister pour eux-mêmes",
+        "Risque de martyre"
+      ],
+      "friendship_superpower": "Être l'incarnation vivante de l'amour divin 🌟💖",
+      "friendship_vibe_rating": {
+        "fun": 7,
+        "trust": 10,
+        "deep_connection": 10,
+        "adventure": 7
+      },
+      "best_activities": [
+        "Missions de guérison sacrée",
+        "Créer des mouvements d'amour planétaire 🕊️✨"
+      ],
+      "anthem": "« Ensemble, nous sommes l'amour que Dieu envoie. »",
+      "keep_the_magic_alive": "Protection énergétique absolue, limites sacrées, et se rappeler qu'ils ont le droit d'être humains et heureux aussi."
+    }
+  }

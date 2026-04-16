@@ -1,0 +1,1094 @@
+{
+    "1-1": {
+      "relation_theme": "Les leaders en miroir",
+      "vibration": "Feu et Feu – énergie et initiative.",
+      "connection_type": "Dynamique et compétitive.",
+      "dynamic": {
+        "how_they_connect": "Deux 1 se défient et se motivent mutuellement, toujours en mouvement.",
+        "emotional_language": "Clair et direct, parfois abrupt.",
+        "chemistry": "Une force brute, parfois explosive mais passionnante.",
+        "growth_potential": "Apprendre à partager le pouvoir et valoriser les succès de l’autre."
+      },
+      "strengths": ["Ambition partagée", "Courage", "Détermination"],
+      "challenges": ["Ego fort", "Compétition excessive"],
+      "tips_for_balance": "Apprenez la patience et le compromis, valorisez l’équipe plutôt que l’individu."
+    },
+    "1-2": {
+      "relation_theme": "Le Leader et le Diplomate",
+      "vibration": "Feu et Eau – force et douceur.",
+      "connection_type": "Complémentaire et harmonieuse.",
+      "dynamic": {
+        "how_they_connect": "Le 1 guide et le 2 équilibre, apportant harmonie et structure.",
+        "emotional_language": "Le 2 ressent profondément et tempère les impulsions du 1.",
+        "chemistry": "Attraction naturelle entre action et sensibilité.",
+        "growth_potential": "Le 1 apprend la patience, le 2 la confiance en soi."
+      },
+      "strengths": ["Complémentarité", "Soutien mutuel", "Équilibre émotionnel"],
+      "challenges": ["Dépendance affective du 2", "Impulsivité du 1"],
+      "tips_for_balance": "Respectez les rythmes de chacun et valorisez les talents uniques de l’autre."
+    },
+    "1-3": {
+      "relation_theme": "Le Leader et le Communicant",
+      "vibration": "Feu et Air – dynamisme et créativité.",
+      "connection_type": "Active et inspirante.",
+      "dynamic": {
+        "how_they_connect": "Le 1 initie, le 3 inspire et colore la vie du 1.",
+        "emotional_language": "Humour, expressions et passion partagée.",
+        "chemistry": "Une relation vivante, stimulante et joyeuse.",
+        "growth_potential": "Apprendre à combiner action et expression pour créer ensemble."
+      },
+      "strengths": ["Optimisme", "Créativité", "Action commune"],
+      "challenges": ["Tendance à l’impatience", "Superficialité possible"],
+      "tips_for_balance": "Encouragez les projets communs et valorisez les moments de calme pour approfondir la connexion."
+    },
+    "1-4": {
+      "relation_theme": "Le Leader et le Bâtisseur",
+      "vibration": "Feu et Terre – force et stabilité.",
+      "connection_type": "Pratique et structurée.",
+      "dynamic": {
+        "how_they_connect": "Le 1 agit et le 4 organise, construisant ensemble des projets solides.",
+        "emotional_language": "Clair et pragmatique, parfois un peu rigide.",
+        "chemistry": "Une connexion stable, basée sur la confiance et la loyauté.",
+        "growth_potential": "Le 1 apprend la patience, le 4 à être plus flexible."
+      },
+      "strengths": ["Stabilité", "Pragmatisme", "Détermination commune"],
+      "challenges": ["Rigidité", "Conflits de contrôle"],
+      "tips_for_balance": "Apprenez à accepter les méthodes différentes et à célébrer les petites victoires."
+    },
+    "1-5": {
+      "relation_theme": "Le Leader et l’Aventurier",
+      "vibration": "Feu et Air – liberté et dynamisme.",
+      "connection_type": "Excitante et imprévisible.",
+      "dynamic": {
+        "how_they_connect": "Le 1 prend l’initiative, le 5 explore de nouvelles voies. Leur lien est basé sur l’aventure.",
+        "emotional_language": "Spontanéité et enthousiasme dominent la communication.",
+        "chemistry": "Une relation pleine d’énergie et de surprises.",
+        "growth_potential": "Le 1 apprend à lâcher prise, le 5 à canaliser son énergie."
+      },
+      "strengths": ["Énergie", "Curiosité", "Flexibilité"],
+      "challenges": ["Impulsivité", "Instabilité possible"],
+      "tips_for_balance": "Planifiez des moments de calme et respectez les besoins de liberté de chacun."
+    },
+    "1-6": {
+      "relation_theme": "Le Leader et le Protecteur",
+      "vibration": "Feu et Terre – responsabilité et engagement.",
+      "connection_type": "Fiable et affectueuse.",
+      "dynamic": {
+        "how_they_connect": "Le 1 dirige, le 6 prend soin, créant un équilibre entre action et soutien.",
+        "emotional_language": "Chaleureux et protecteur, avec des moments de confrontation constructive.",
+        "chemistry": "Une relation solide basée sur l’amour et le respect.",
+        "growth_potential": "Le 1 apprend la patience, le 6 à ne pas trop contrôler."
+      },
+      "strengths": ["Responsabilité", "Soutien mutuel", "Loyauté"],
+      "challenges": ["Tendance au contrôle", "Exigences élevées"],
+      "tips_for_balance": "Cultivez la confiance et laissez chacun exprimer son indépendance."
+    },
+    "1-7": {
+      "relation_theme": "Le Leader et le Sage",
+      "vibration": "Feu et Eau – action et introspection.",
+      "connection_type": "Profondément intellectuelle.",
+      "dynamic": {
+        "how_they_connect": "Le 1 agit, le 7 réfléchit. Leur lien se nourrit de contrastes entre action et contemplation.",
+        "emotional_language": "Silences et mots choisis avec soin.",
+        "chemistry": "Une connexion spirituelle et intellectuelle, parfois mystérieuse.",
+        "growth_potential": "Trouver un équilibre entre impulsion et retrait pour s’enrichir mutuellement."
+      },
+      "strengths": ["Complémentarité", "Réflexion mutuelle", "Curiosité intellectuelle"],
+      "challenges": ["Isolement du 7", "Impulsivité du 1"],
+      "tips_for_balance": "Respectez les temps de solitude et partagez vos idées sans jugements."
+    },
+    "1-8": {
+      "relation_theme": "Le Leader et le Maître",
+      "vibration": "Feu et Terre – pouvoir et ambition.",
+      "connection_type": "Intense et orientée vers le succès.",
+      "dynamic": {
+        "how_they_connect": "Deux forces se rencontrent pour bâtir, gouverner et réussir ensemble.",
+        "emotional_language": "Directe, parfois dominante mais passionnée.",
+        "chemistry": "Relation puissante, motivée par la réussite et la reconnaissance.",
+        "growth_potential": "Apprendre à partager le pouvoir et respecter les limites de chacun."
+      },
+      "strengths": ["Ambition", "Leadership", "Efficacité"],
+      "challenges": ["Conflits de pouvoir", "Rigidité"],
+      "tips_for_balance": "Encouragez la collaboration et célébrez les succès communs."
+    },
+    "1-9": {
+      "relation_theme": "Le Leader et le Visionnaire",
+      "vibration": "Feu et Feu – passion et idéal.",
+      "connection_type": "Inspirante et humaniste.",
+      "dynamic": {
+        "how_they_connect": "Le 1 agit, le 9 rêve grand. Ensemble, ils peuvent transformer des idées en actions concrètes.",
+        "emotional_language": "Intense et engagée, avec des moments de grande émotion.",
+        "chemistry": "Relation motivante et parfois bouleversante.",
+        "growth_potential": "Le 1 apprend l’altruisme, le 9 à canaliser son idéal pour agir."
+      },
+      "strengths": ["Vision commune", "Énergie", "Engagement"],
+      "challenges": ["Frustration mutuelle", "Impulsivité"],
+      "tips_for_balance": "Respectez vos valeurs et soutenez les rêves de chacun sans imposer les vôtres."
+    },
+    "1-11": {
+      "relation_theme": "Le Leader et le Maître Intuitif",
+      "vibration": "Feu et Lumière – inspiration et clairvoyance.",
+      "connection_type": "Spirituelle et motivante.",
+      "dynamic": {
+        "how_they_connect": "Le 1 initie, le 11 illumine. Leur lien est chargé d’intuition et de vision.",
+        "emotional_language": "Communication intense et inspirante, parfois mystérieuse.",
+        "chemistry": "Une alchimie basée sur la vision et la motivation mutuelle.",
+        "growth_potential": "Apprendre à combiner action et sensibilité pour créer un impact positif."
+      },
+      "strengths": ["Inspiration", "Leadership visionnaire", "Créativité"],
+      "challenges": ["Tension entre pragmatisme et idéal", "Fatigue émotionnelle"],
+      "tips_for_balance": "Apprenez à équilibrer les rêves et la réalité sans vous perdre l’un l’autre."
+    },
+    "1-22": {
+      "relation_theme": "Le Leader et le Bâtisseur Universel",
+      "vibration": "Feu et Terre – ambition et construction.",
+      "connection_type": "Puissante et structurée.",
+      "dynamic": {
+        "how_they_connect": "Le 1 initie, le 22 matérialise les visions. Leur relation peut transformer le concret.",
+        "emotional_language": "Directe et pragmatique, mais visionnaire.",
+        "chemistry": "Une force incroyable pour réaliser de grands projets.",
+        "growth_potential": "Combiner ambition personnelle et vision à long terme."
+      },
+      "strengths": ["Puissance", "Vision concrète", "Leadership"],
+      "challenges": ["Rigidité", "Désaccord sur le rythme"],
+      "tips_for_balance": "Respectez les forces de chacun et coordonnez vos projets pour éviter les conflits."
+    },
+    "1-33": {
+      "relation_theme": "Le Leader et le Maître Enseignant",
+      "vibration": "Feu et Compassion – action et guidance.",
+      "connection_type": "Spirituelle et nourrissante.",
+      "dynamic": {
+        "how_they_connect": "Le 1 agit, le 33 guide et inspire. Ensemble, ils peuvent avoir un impact profond sur leur entourage.",
+        "emotional_language": "Expression chaleureuse et profonde.",
+        "chemistry": "Relation intense, motivée par l’amour et le service.",
+        "growth_potential": "Allier leadership et service pour créer un lien durable et enrichissant."
+      },
+      "strengths": ["Compassion", "Leadership éclairé", "Soutien mutuel"],
+      "challenges": ["Désaccord sur l’action et la patience", "Charge émotionnelle"],
+      "tips_for_balance": "Respectez le rythme de chacun et utilisez vos talents pour élever le lien mutuellement."
+    },
+    "2-2": {
+        "relation_theme": "Les Diplomates en miroir",
+        "vibration": "Eau et Eau – sensibilité et intuition.",
+        "connection_type": "Émotionnelle et douce",
+        "dynamic": {
+          "how_they_connect": "Deux 2 créent un lien basé sur l’écoute et le soutien mutuel.",
+          "emotional_language": "Communication empathique et intuitive.",
+          "chemistry": "Relation profondément harmonieuse et affectueuse.",
+          "growth_potential": "Apprendre à prendre des initiatives et à exprimer clairement ses besoins."
+        },
+        "strengths": ["Empathie", "Harmonie", "Écoute mutuelle"],
+        "challenges": ["Dépendance affective", "Indécision"],
+        "tips_for_balance": "Exprimez vos désirs clairement et faites confiance à l’autre."
+      },
+      "2-3": {
+        "relation_theme": "Le Diplomate et le Communicant",
+        "vibration": "Eau et Air – sensibilité et créativité.",
+        "connection_type": "Communicative et légère",
+        "dynamic": {
+          "how_they_connect": "Le 2 ressent et le 3 exprime. Ils équilibrent émotion et expression.",
+          "emotional_language": "Humour, empathie et gestes attentionnés.",
+          "chemistry": "Relation joyeuse et affectueuse.",
+          "growth_potential": "Le 2 apprend à s’amuser davantage, le 3 à écouter profondément."
+        },
+        "strengths": ["Complémentarité", "Éveil émotionnel", "Optimisme"],
+        "challenges": ["Manque de discipline", "Sensibilité aux critiques"],
+        "tips_for_balance": "Mélangez légèreté et profondeur dans vos échanges."
+      },
+      "2-4": {
+        "relation_theme": "Le Diplomate et le Bâtisseur",
+        "vibration": "Eau et Terre – stabilité et sensibilité.",
+        "connection_type": "Fiable et structurée",
+        "dynamic": {
+          "how_they_connect": "Le 2 soutient et le 4 organise, créant des bases solides.",
+          "emotional_language": "Communication claire et rassurante.",
+          "chemistry": "Relation stable et durable.",
+          "growth_potential": "Le 2 apprend la rigueur, le 4 l’ouverture émotionnelle."
+        },
+        "strengths": ["Stabilité", "Loyauté", "Soutien mutuel"],
+        "challenges": ["Rigidité", "Dépendance affective"],
+        "tips_for_balance": "Respectez les méthodes de chacun et soyez patients."
+      },
+      "2-5": {
+    "relation_theme": "Le Diplomate et l’Aventurier",
+    "vibration": "Eau et Air – fluidité et liberté.",
+    "connection_type": "Légère et stimulante",
+    "dynamic": {
+      "how_they_connect": "Le 2 calme l’énergie du 5, tandis que le 5 ouvre de nouvelles expériences.",
+      "emotional_language": "Expressions spontanées et attentives.",
+      "chemistry": "Attraction basée sur la curiosité et la flexibilité.",
+      "growth_potential": "Le 2 s’aventure plus, le 5 apprend la patience émotionnelle."
+    },
+    "strengths": ["Curiosité mutuelle", "Adaptabilité", "Énergie"],
+    "challenges": ["Inconstance", "Sensibilité excessive"],
+    "tips_for_balance": "Combinez aventure et écoute pour une relation équilibrée."
+  },
+  "2-6": {
+    "relation_theme": "Le Diplomate et le Protecteur",
+    "vibration": "Eau et Terre – soutien et responsabilité.",
+    "connection_type": "Chaleureuse et sécurisante",
+    "dynamic": {
+      "how_they_connect": "Le 2 comprend et le 6 protège, créant un environnement harmonieux.",
+      "emotional_language": "Affection et communication attentive.",
+      "chemistry": "Relation basée sur le soin mutuel et la loyauté.",
+      "growth_potential": "Le 2 apprend à s’affirmer, le 6 à lâcher prise."
+    },
+    "strengths": ["Soutien mutuel", "Loyauté", "Responsabilité"],
+    "challenges": ["Tendance au contrôle", "Dépendance affective"],
+    "tips_for_balance": "Équilibrer soin et indépendance pour harmoniser le lien."
+  },
+  "2-7": {
+    "relation_theme": "Le Diplomate et le Sage",
+    "vibration": "Eau et Eau – introspection et intuition.",
+    "connection_type": "Spirituelle et réfléchie",
+    "dynamic": {
+      "how_they_connect": "Le 2 ressent profondément et le 7 analyse, leur lien est subtil et intellectuel.",
+      "emotional_language": "Silences pleins de sens et mots choisis avec soin.",
+      "chemistry": "Attraction intellectuelle et émotionnelle.",
+      "growth_potential": "Trouver un équilibre entre solitude et partage pour s’enrichir mutuellement."
+    },
+    "strengths": ["Complémentarité", "Réflexion mutuelle", "Empathie"],
+    "challenges": ["Isolement", "Difficulté à exprimer les émotions"],
+    "tips_for_balance": "Respectez les moments de silence et encouragez la communication ouverte."
+  },
+  "2-8": {
+    "relation_theme": "Le Diplomate et le Maître",
+    "vibration": "Eau et Terre – ambition et sensibilité.",
+    "connection_type": "Pragmatique et émotionnelle",
+    "dynamic": {
+      "how_they_connect": "Le 2 comprend et le 8 agit, ensemble ils combinent intuition et puissance.",
+      "emotional_language": "Directe mais respectueuse, avec beaucoup d’attention.",
+      "chemistry": "Relation solide, orientée vers la réussite commune.",
+      "growth_potential": "Le 2 apprend à se faire entendre, le 8 à intégrer l’empathie."
+    },
+    "strengths": ["Soutien mutuel", "Ambition équilibrée", "Pragmatisme"],
+    "challenges": ["Tension entre sensibilité et autorité", "Rigidité"],
+    "tips_for_balance": "Respectez les émotions de chacun tout en poursuivant vos objectifs."
+  },
+  "2-9": {
+    "relation_theme": "Le Diplomate et le Visionnaire",
+    "vibration": "Eau et Feu – idéal et sensibilité.",
+    "connection_type": "Inspirante et humaniste",
+    "dynamic": {
+      "how_they_connect": "Le 2 soutient le 9 dans ses idéaux, le 9 motive le 2 à élargir ses horizons.",
+      "emotional_language": "Expression émotionnelle intense et sincère.",
+      "chemistry": "Attraction basée sur l’inspiration mutuelle.",
+      "growth_potential": "Le 2 apprend à suivre ses idéaux, le 9 à écouter et intégrer le ressenti de l’autre."
+    },
+    "strengths": ["Inspiration mutuelle", "Empathie", "Éveil spirituel"],
+    "challenges": ["Idéalisation excessive", "Sensibilité aux conflits"],
+    "tips_for_balance": "Restez réalistes tout en soutenant les rêves de chacun."
+  },
+  "2-11": {
+    "relation_theme": "Le Diplomate et le Maître Intuitif",
+    "vibration": "Eau et Lumière – inspiration et clairvoyance.",
+    "connection_type": "Spirituelle et motivante",
+    "dynamic": {
+      "how_they_connect": "Le 2 ressent, le 11 illumine; ensemble ils créent un lien intuitif et puissant.",
+      "emotional_language": "Communication profonde et inspirante.",
+      "chemistry": "Connexion basée sur la compréhension et la vision mutuelle.",
+      "growth_potential": "Le 2 développe son intuition, le 11 apprend à tempérer sa sensibilité par l’écoute." 
+    },
+    "strengths": ["Intuition", "Éveil émotionnel", "Inspiration"],
+    "challenges": ["Tension émotionnelle", "Idéalisation"],
+    "tips_for_balance": "Combinez clairvoyance et empathie pour avancer ensemble." 
+  },
+  "2-22": {
+    "relation_theme": "Le Diplomate et le Bâtisseur Universel",
+    "vibration": "Eau et Terre – vision et structure.",
+    "connection_type": "Puissante et harmonieuse",
+    "dynamic": {
+      "how_they_connect": "Le 2 équilibre les visions du 22, apportant sensibilité et intuition.",
+      "emotional_language": "Communication claire et bienveillante.",
+      "chemistry": "Relation basée sur la construction commune de projets ambitieux.",
+      "growth_potential": "Le 2 apprend à canaliser son énergie, le 22 à intégrer l'empathie dans ses ambitions."
+    },
+    "strengths": ["Vision partagée", "Empathie", "Ambition harmonieuse"],
+    "challenges": ["Pression des responsabilités", "Sensibilité excessive"],
+    "tips_for_balance": "Combinez vos talents pour construire avec harmonie et respect mutuel."
+  },
+  "2-33": {
+    "relation_theme": "Le Diplomate et le Maître Enseignant",
+    "vibration": "Eau et Compassion – service et guidance.",
+    "connection_type": "Spirituelle et nourrissante",
+    "dynamic": {
+      "how_they_connect": "Le 2 soutient et reçoit la guidance du 33, créant un lien très enrichissant.",
+      "emotional_language": "Communication chaleureuse et pleine de sens.",
+      "chemistry": "Relation intense, centrée sur le service et la croissance mutuelle.",
+      "growth_potential": "Le 2 développe la compassion et la patience, le 33 apprend à respecter le rythme de l'autre."
+    },
+    "strengths": ["Compassion", "Soutien mutuel", "Éveil spirituel"],
+    "challenges": ["Charge émotionnelle", "Désaccord sur les priorités"],
+    "tips_for_balance": "Alliez guidance et écoute pour un lien durable et harmonieux."
+  },
+  "3-3": {
+    "relation_theme": "Les Communicants en miroir",
+    "vibration": "Air et Air – expression et créativité.",
+    "connection_type": "Joyeuse et communicative",
+    "dynamic": {
+      "how_they_connect": "Deux 3 partagent une communication fluide, pleine d'humour et de légèreté.",
+      "emotional_language": "Expression spontanée, rires et partage constant.",
+      "chemistry": "Relation vivante, colorée et pleine de surprises.",
+      "growth_potential": "Apprendre à approfondir les échanges au-delà de la surface."
+    },
+    "strengths": ["Créativité", "Optimisme", "Communication fluide"],
+    "challenges": ["Superficialité", "Dispersion"],
+    "tips_for_balance": "Cultivez la profondeur sans perdre votre légèreté naturelle."
+  },
+  "3-4": {
+    "relation_theme": "Le Communicant et le Bâtisseur",
+    "vibration": "Air et Terre – expression et structure.",
+    "connection_type": "Équilibrée et constructive",
+    "dynamic": {
+      "how_they_connect": "Le 3 apporte la créativité, le 4 la structure pour concrétiser les idées.",
+      "emotional_language": "Le 3 exprime, le 4 organise avec pragmatisme.",
+      "chemistry": "Complémentarité entre imagination et réalisation.",
+      "growth_potential": "Le 3 apprend la discipline, le 4 la spontanéité."
+    },
+    "strengths": ["Créativité structurée", "Équilibre", "Réalisation commune"],
+    "challenges": ["Rythmes différents", "Frustration mutuelle"],
+    "tips_for_balance": "Respectez les besoins de liberté et de stabilité de chacun."
+  },
+  "3-5": {
+    "relation_theme": "Le Communicant et l'Aventurier",
+    "vibration": "Air et Air – mouvement et expression.",
+    "connection_type": "Dynamique et changeante",
+    "dynamic": {
+      "how_they_connect": "Deux esprits libres qui s'inspirent mutuellement dans l'exploration.",
+      "emotional_language": "Communication spontanée et enthousiaste.",
+      "chemistry": "Relation pleine d'énergie et de découvertes.",
+      "growth_potential": "Apprendre à s'ancrer tout en gardant leur vivacité."
+    },
+    "strengths": ["Énergie", "Adaptabilité", "Curiosité partagée"],
+    "challenges": ["Instabilité", "Manque d'engagement"],
+    "tips_for_balance": "Créez des rituels communs pour ancrer votre relation."
+  },
+  "3-6": {
+    "relation_theme": "Le Communicant et le Protecteur",
+    "vibration": "Air et Terre – expression et responsabilité.",
+    "connection_type": "Chaleureuse et familiale",
+    "dynamic": {
+      "how_they_connect": "Le 3 illumine le foyer que le 6 construit avec amour.",
+      "emotional_language": "Affection, humour et attention mutuelle.",
+      "chemistry": "Relation harmonieuse basée sur le partage et la joie.",
+      "growth_potential": "Le 3 apprend la responsabilité, le 6 la légèreté."
+    },
+    "strengths": ["Harmonie", "Affection", "Vie de famille joyeuse"],
+    "challenges": ["Attentes du 6", "Légèreté du 3"],
+    "tips_for_balance": "Le 6 doit accepter l'insouciance du 3, le 3 montrer son engagement."
+  },
+  "3-7": {
+    "relation_theme": "Le Communicant et le Sage",
+    "vibration": "Air et Eau – expression et introspection.",
+    "connection_type": "Intrigante et contrastée",
+    "dynamic": {
+      "how_they_connect": "Le 3 parle, le 7 écoute et analyse. Leur lien mêle légèreté et profondeur.",
+      "emotional_language": "Alternance entre bavardage et silences réflexifs.",
+      "chemistry": "Attraction par les différences, enrichissement mutuel.",
+      "growth_potential": "Trouver un équilibre entre expression et contemplation."
+    },
+    "strengths": ["Complémentarité", "Enrichissement", "Curiosité intellectuelle"],
+    "challenges": ["Incompréhension", "Solitude du 7"],
+    "tips_for_balance": "Respectez les besoins de chacun : parole et silence."
+  },
+  "3-8": {
+    "relation_theme": "Le Communicant et le Maître",
+    "vibration": "Air et Terre – expression et pouvoir.",
+    "connection_type": "Ambitieuse et sociable",
+    "dynamic": {
+      "how_they_connect": "Le 3 sait communiquer les ambitions du 8 avec charme et éloquence.",
+      "emotional_language": "Expression directe et stratégique.",
+      "chemistry": "Relation orientée vers le succès social et matériel.",
+      "growth_potential": "Le 3 gagne en profondeur, le 8 en légèreté."
+    },
+    "strengths": ["Réussite sociale", "Charisme", "Ambition partagée"],
+    "challenges": ["Superficialité", "Domination du 8"],
+    "tips_for_balance": "Équilibrez ambition et authenticité dans vos échanges."
+  },
+  "3-9": {
+    "relation_theme": "Le Communicant et le Visionnaire",
+    "vibration": "Air et Feu – expression et idéal.",
+    "connection_type": "Inspirante et humaniste",
+    "dynamic": {
+      "how_they_connect": "Le 3 exprime les idéaux du 9 avec créativité et optimisme.",
+      "emotional_language": "Communication passionnée et engagée.",
+      "chemistry": "Relation motivée par des valeurs communes et l'expression créative.",
+      "growth_potential": "Le 3 approfondit son engagement, le 9 apprend la légèreté."
+    },
+    "strengths": ["Inspiration", "Créativité", "Vision partagée"],
+    "challenges": ["Idéalisation", "Manque de pragmatisme"],
+    "tips_for_balance": "Ancrez vos idéaux dans des actions concrètes."
+  },
+  "3-11": {
+    "relation_theme": "Le Communicant et le Maître Intuitif",
+    "vibration": "Air et Lumière – expression et inspiration.",
+    "connection_type": "Créative et spirituelle",
+    "dynamic": {
+      "how_they_connect": "Le 3 donne forme aux inspirations du 11 par la parole et l'art.",
+      "emotional_language": "Communication inspirée et intuitive.",
+      "chemistry": "Relation créative avec une dimension spirituelle.",
+      "growth_potential": "Le 3 développe sa sensibilité, le 11 sa capacité d'expression."
+    },
+    "strengths": ["Créativité inspirée", "Intuition", "Expression authentique"],
+    "challenges": ["Hypersensibilité du 11", "Légèreté du 3"],
+    "tips_for_balance": "Respectez la sensibilité du 11 tout en gardant votre joie de vivre."
+  },
+  "3-22": {
+    "relation_theme": "Le Communicant et le Bâtisseur Universel",
+    "vibration": "Air et Terre – expression et manifestation.",
+    "connection_type": "Créative et concrète",
+    "dynamic": {
+      "how_they_connect": "Le 3 communique la vision du 22, l'aidant à partager ses projets ambitieux.",
+      "emotional_language": "Expression claire des objectifs communs.",
+      "chemistry": "Relation orientée vers la réalisation de grands projets.",
+      "growth_potential": "Le 3 gagne en vision, le 22 en souplesse communicative."
+    },
+    "strengths": ["Vision créative", "Réalisation", "Communication efficace"],
+    "challenges": ["Pression des responsabilités", "Légèreté vs sérieux"],
+    "tips_for_balance": "Alliez créativité et structure pour construire ensemble."
+  },
+  "3-33": {
+    "relation_theme": "Le Communicant et le Maître Enseignant",
+    "vibration": "Air et Compassion – expression et service.",
+    "connection_type": "Créative et nourrissante",
+    "dynamic": {
+      "how_they_connect": "Le 3 exprime avec joie les enseignements du 33, créant un lien léger et profond.",
+      "emotional_language": "Communication chaleureuse et inspirante.",
+      "chemistry": "Relation qui mêle créativité et compassion.",
+      "growth_potential": "Le 3 développe sa profondeur, le 33 sa légèreté."
+    },
+    "strengths": ["Expression créative", "Compassion", "Inspiration mutuelle"],
+    "challenges": ["Responsabilités du 33", "Insouciance du 3"],
+    "tips_for_balance": "Équilibrez joie de vivre et engagement dans le service."
+  },
+  "4-4": {
+    "relation_theme": "Les Bâtisseurs en miroir",
+    "vibration": "Terre et Terre – stabilité et construction.",
+    "connection_type": "Solide et pragmatique",
+    "dynamic": {
+      "how_they_connect": "Deux 4 construisent ensemble une relation basée sur la loyauté et la confiance.",
+      "emotional_language": "Communication claire, directe et pragmatique.",
+      "chemistry": "Relation stable et durable, ancrée dans le concret.",
+      "growth_potential": "Apprendre à s'ouvrir au changement et à la spontanéité."
+    },
+    "strengths": ["Stabilité", "Fiabilité", "Construction commune"],
+    "challenges": ["Rigidité", "Routine", "Résistance au changement"],
+    "tips_for_balance": "Intégrez de la flexibilité et des surprises dans votre quotidien."
+  },
+  "4-5": {
+    "relation_theme": "Le Bâtisseur et l'Aventurier",
+    "vibration": "Terre et Air – stabilité et mouvement.",
+    "connection_type": "Contrastée et challengeante",
+    "dynamic": {
+      "how_they_connect": "Le 4 cherche la sécurité, le 5 la liberté. Leur défi est de trouver l'équilibre.",
+      "emotional_language": "Le 4 rassure, le 5 dynamise.",
+      "chemistry": "Tension créative entre ancrage et exploration.",
+      "growth_potential": "Le 4 apprend la flexibilité, le 5 la stabilité."
+    },
+    "strengths": ["Complémentarité", "Équilibre potentiel", "Croissance mutuelle"],
+    "challenges": ["Conflit liberté-contrôle", "Frustrations"],
+    "tips_for_balance": "Respectez les besoins de sécurité et de liberté de chacun."
+  },
+  "4-6": {
+    "relation_theme": "Le Bâtisseur et le Protecteur",
+    "vibration": "Terre et Terre – responsabilité et engagement.",
+    "connection_type": "Stable et familiale",
+    "dynamic": {
+      "how_they_connect": "Deux piliers qui construisent un foyer solide et aimant.",
+      "emotional_language": "Communication basée sur le respect et la loyauté.",
+      "chemistry": "Relation profondément stable et sécurisante.",
+      "growth_potential": "Apprendre à lâcher le contrôle et accueillir la légèreté."
+    },
+    "strengths": ["Stabilité", "Dévouement", "Construction familiale"],
+    "challenges": ["Rigidité", "Contrôle excessif"],
+    "tips_for_balance": "Autorisez-vous des moments de spontanéité et de plaisir."
+  },
+  "4-7": {
+    "relation_theme": "Le Bâtisseur et le Sage",
+    "vibration": "Terre et Eau – structure et contemplation.",
+    "connection_type": "Réfléchie et profonde",
+    "dynamic": {
+      "how_they_connect": "Le 4 construit, le 7 réfléchit. Ensemble, ils créent avec sagesse.",
+      "emotional_language": "Communication mesurée et réfléchie.",
+      "chemistry": "Relation intellectuelle et stable.",
+      "growth_potential": "Le 4 s'ouvre à l'introspection, le 7 à l'action concrète."
+    },
+    "strengths": ["Stabilité", "Profondeur", "Respect mutuel"],
+    "challenges": ["Distance émotionnelle", "Isolement"],
+    "tips_for_balance": "Cultivez l'intimité émotionnelle au-delà de la réflexion."
+  },
+  "4-8": {
+    "relation_theme": "Le Bâtisseur et le Maître",
+    "vibration": "Terre et Terre – construction et pouvoir.",
+    "connection_type": "Ambitieuse et solide",
+    "dynamic": {
+      "how_they_connect": "Deux forces qui construisent un empire ensemble, orientées vers le succès.",
+      "emotional_language": "Communication directe et orientée résultats.",
+      "chemistry": "Relation puissante basée sur l'ambition commune.",
+      "growth_potential": "Apprendre à équilibrer travail et vie personnelle."
+    },
+    "strengths": ["Ambition", "Détermination", "Réussite matérielle"],
+    "challenges": ["Workaholisme", "Rigidité", "Manque d'émotions"],
+    "tips_for_balance": "N'oubliez pas de nourrir l'intimité au-delà des projets."
+  },
+  "4-9": {
+    "relation_theme": "Le Bâtisseur et le Visionnaire",
+    "vibration": "Terre et Feu – structure et idéal.",
+    "connection_type": "Complémentaire et inspirante",
+    "dynamic": {
+      "how_they_connect": "Le 4 donne forme aux visions du 9, créant un impact concret.",
+      "emotional_language": "Le 4 ancre, le 9 inspire.",
+      "chemistry": "Relation qui mêle pragmatisme et idéalisme.",
+      "growth_potential": "Le 4 s'ouvre à la vision, le 9 à la concrétisation."
+    },
+    "strengths": ["Complémentarité", "Impact réel", "Vision concrète"],
+    "challenges": ["Frustration du 9", "Rigidité du 4"],
+    "tips_for_balance": "Alliez rêves et réalité pour créer ensemble."
+  },
+  "4-11": {
+    "relation_theme": "Le Bâtisseur et le Maître Intuitif",
+    "vibration": "Terre et Lumière – structure et inspiration.",
+    "connection_type": "Stable et inspirée",
+    "dynamic": {
+      "how_they_connect": "Le 4 ancre les intuitions du 11 dans le monde matériel.",
+      "emotional_language": "Le 4 rassure, le 11 inspire.",
+      "chemistry": "Relation qui équilibre pragmatisme et spiritualité.",
+      "growth_potential": "Le 4 développe sa sensibilité, le 11 son ancrage."
+    },
+    "strengths": ["Équilibre", "Vision ancrée", "Stabilité inspirée"],
+    "challenges": ["Incompréhension", "Sensibilité du 11"],
+    "tips_for_balance": "Respectez l'intuition du 11 tout en gardant les pieds sur terre."
+  },
+  "4-22": {
+    "relation_theme": "Le Bâtisseur et le Bâtisseur Universel",
+    "vibration": "Terre et Terre – construction et manifestation.",
+    "connection_type": "Puissante et structurée",
+    "dynamic": {
+      "how_they_connect": "Deux architectes qui construisent des projets d'envergure ensemble.",
+      "emotional_language": "Communication pragmatique et visionnaire.",
+      "chemistry": "Relation orientée vers la réalisation de grands objectifs.",
+      "growth_potential": "Apprendre à célébrer les petites victoires et l'intimité."
+    },
+    "strengths": ["Puissance", "Vision", "Réalisation concrète"],
+    "challenges": ["Pression", "Manque d'émotions", "Workaholisme"],
+    "tips_for_balance": "Équilibrez ambition et moment de qualité ensemble."
+  },
+  "4-33": {
+    "relation_theme": "Le Bâtisseur et le Maître Enseignant",
+    "vibration": "Terre et Compassion – structure et service.",
+    "connection_type": "Stable et nourrissante",
+    "dynamic": {
+      "how_they_connect": "Le 4 structure les projets de service du 33 avec efficacité.",
+      "emotional_language": "Communication bienveillante et pragmatique.",
+      "chemistry": "Relation qui allie concrétisation et compassion.",
+      "growth_potential": "Le 4 s'ouvre à la compassion, le 33 à la structure."
+    },
+    "strengths": ["Stabilité", "Service organisé", "Impact durable"],
+    "challenges": ["Rigidité", "Charge émotionnelle du 33"],
+    "tips_for_balance": "Alliez efficacité et sensibilité pour servir ensemble."
+  },
+  "5-5": {
+    "relation_theme": "Les Aventuriers en miroir",
+    "vibration": "Air et Air – liberté et mouvement.",
+    "connection_type": "Dynamique et changeante",
+    "dynamic": {
+      "how_they_connect": "Deux 5 partagent un amour de la liberté et des expériences nouvelles.",
+      "emotional_language": "Communication spontanée et enthousiaste.",
+      "chemistry": "Relation pleine d'énergie, d'aventures et de découvertes.",
+      "growth_potential": "Apprendre à créer de la stabilité sans perdre la liberté."
+    },
+    "strengths": ["Énergie", "Aventure", "Passion partagée"],
+    "challenges": ["Instabilité", "Difficulté d'engagement", "Manque d'ancrage"],
+    "tips_for_balance": "Créez des ancrages communs tout en préservant votre liberté."
+  },
+  "5-6": {
+    "relation_theme": "L'Aventurier et le Protecteur",
+    "vibration": "Air et Terre – liberté et responsabilité.",
+    "connection_type": "Contrastée et enrichissante",
+    "dynamic": {
+      "how_they_connect": "Le 5 explore, le 6 accueille. Leur défi est d'équilibrer liberté et engagement.",
+      "emotional_language": "Le 6 exprime l'amour, le 5 le besoin d'espace.",
+      "chemistry": "Tension entre stabilité et mouvement.",
+      "growth_potential": "Le 5 apprend la responsabilité, le 6 la confiance."
+    },
+    "strengths": ["Complémentarité", "Équilibre potentiel", "Croissance"],
+    "challenges": ["Conflit engagement-liberté", "Jalousie possible"],
+    "tips_for_balance": "Le 6 doit lâcher prise, le 5 montrer son engagement."
+  },
+  "5-7": {
+    "relation_theme": "L'Aventurier et le Sage",
+    "vibration": "Air et Eau – exploration et contemplation.",
+    "connection_type": "Intrigante et intellectuelle",
+    "dynamic": {
+      "how_they_connect": "Le 5 explore le monde extérieur, le 7 le monde intérieur.",
+      "emotional_language": "Alternance entre mouvement et réflexion.",
+      "chemistry": "Attraction par les différences, respect mutuel.",
+      "growth_potential": "Le 5 développe la profondeur, le 7 l'ouverture."
+    },
+    "strengths": ["Liberté partagée", "Respect", "Enrichissement mutuel"],
+    "challenges": ["Distance", "Manque de stabilité émotionnelle"],
+    "tips_for_balance": "Trouvez un équilibre entre exploration et introspection."
+  },
+  "5-8": {
+    "relation_theme": "L'Aventurier et le Maître",
+    "vibration": "Air et Terre – liberté et pouvoir.",
+    "connection_type": "Intense et passionnée",
+    "dynamic": {
+      "how_they_connect": "Le 5 cherche la liberté, le 8 le contrôle. Relation électrique.",
+      "emotional_language": "Communication directe et parfois conflictuelle.",
+      "chemistry": "Passion et tension entre deux forces opposées.",
+      "growth_potential": "Le 5 gagne en détermination, le 8 en flexibilité."
+    },
+    "strengths": ["Passion", "Énergie", "Ambition"],
+    "challenges": ["Lutte de pouvoir", "Conflit liberté-contrôle"],
+    "tips_for_balance": "Respectez la liberté du 5 et l'autorité du 8."
+  },
+  "5-9": {
+    "relation_theme": "L'Aventurier et le Visionnaire",
+    "vibration": "Air et Feu – mouvement et idéal.",
+    "connection_type": "Libre et inspirante",
+    "dynamic": {
+      "how_they_connect": "Deux esprits libres unis par des idéaux communs.",
+      "emotional_language": "Communication passionnée et idéaliste.",
+      "chemistry": "Relation dynamique orientée vers un but plus grand.",
+      "growth_potential": "Le 5 s'engage dans une cause, le 9 s'ancre dans l'action."
+    },
+    "strengths": ["Liberté", "Vision partagée", "Passion"],
+    "challenges": ["Instabilité", "Idéalisme excessif"],
+    "tips_for_balance": "Ancrez vos idéaux dans des actions concrètes."
+  },
+  "5-11": {
+    "relation_theme": "L'Aventurier et le Maître Intuitif",
+    "vibration": "Air et Lumière – exploration et inspiration.",
+    "connection_type": "Dynamique et spirituelle",
+    "dynamic": {
+      "how_they_connect": "Le 5 explore le monde matériel, le 11 les dimensions spirituelles.",
+      "emotional_language": "Communication inspirée et changeante.",
+      "chemistry": "Relation qui mêle aventure et élévation spirituelle.",
+      "growth_potential": "Le 5 s'ouvre à la spiritualité, le 11 à l'expérience."
+    },
+    "strengths": ["Ouverture", "Exploration spirituelle", "Passion"],
+    "challenges": ["Instabilité", "Hypersensibilité du 11"],
+    "tips_for_balance": "Créez de la stabilité tout en explorant ensemble."
+  },
+  "5-22": {
+    "relation_theme": "L'Aventurier et le Bâtisseur Universel",
+    "vibration": "Air et Terre – liberté et manifestation.",
+    "connection_type": "Contrastée et puissante",
+    "dynamic": {
+      "how_they_connect": "Le 5 apporte la flexibilité aux grands projets du 22.",
+      "emotional_language": "Le 22 structure, le 5 dynamise.",
+      "chemistry": "Tension créative entre stabilité et mouvement.",
+      "growth_potential": "Le 5 apprend l'engagement, le 22 la flexibilité."
+    },
+    "strengths": ["Innovation", "Vision", "Adaptabilité"],
+    "challenges": ["Conflit stabilité-liberté", "Pression du 22"],
+    "tips_for_balance": "Alliez vision et flexibilité pour créer ensemble."
+  },
+  "5-33": {
+    "relation_theme": "L'Aventurier et le Maître Enseignant",
+    "vibration": "Air et Compassion – liberté et service.",
+    "connection_type": "Libre et bienveillante",
+    "dynamic": {
+      "how_they_connect": "Le 5 explore, le 33 enseigne. Relation qui mêle liberté et compassion.",
+      "emotional_language": "Communication ouverte et bienveillante.",
+      "chemistry": "Relation dynamique orientée vers le service.",
+      "growth_potential": "Le 5 développe la compassion, le 33 la liberté."
+    },
+    "strengths": ["Liberté", "Compassion", "Ouverture"],
+    "challenges": ["Engagement du 5", "Responsabilités du 33"],
+    "tips_for_balance": "Respectez la liberté et l'engagement de chacun."
+  },
+  "6-6": {
+    "relation_theme": "Les Protecteurs en miroir",
+    "vibration": "Terre et Terre – amour et responsabilité.",
+    "connection_type": "Chaleureuse et familiale",
+    "dynamic": {
+      "how_they_connect": "Deux 6 créent un cocon d'amour, de soin et de dévouement mutuel.",
+      "emotional_language": "Communication affectueuse et attentionnée.",
+      "chemistry": "Relation profondément aimante et stable.",
+      "growth_potential": "Apprendre à recevoir autant qu'ils donnent."
+    },
+    "strengths": ["Amour", "Dévouement", "Harmonie familiale"],
+    "challenges": ["Sacrifice excessif", "Attentes élevées", "Jalousie"],
+    "tips_for_balance": "Prenez soin de vous autant que de l'autre."
+  },
+  "6-7": {
+    "relation_theme": "Le Protecteur et le Sage",
+    "vibration": "Terre et Eau – amour et contemplation.",
+    "connection_type": "Profonde et contrastée",
+    "dynamic": {
+      "how_they_connect": "Le 6 exprime l'amour, le 7 cherche la profondeur. Relation introspective.",
+      "emotional_language": "Le 6 verbalise, le 7 contemple.",
+      "chemistry": "Attraction par les différences, respect mutuel.",
+      "growth_potential": "Le 6 développe l'introspection, le 7 l'expression affective."
+    },
+    "strengths": ["Profondeur", "Respect", "Fidélité"],
+    "challenges": ["Distance du 7", "Besoin d'affection du 6"],
+    "tips_for_balance": "Le 7 doit s'ouvrir, le 6 respecter le besoin de solitude."
+  },
+  "6-8": {
+    "relation_theme": "Le Protecteur et le Maître",
+    "vibration": "Terre et Terre – amour et pouvoir.",
+    "connection_type": "Stable et ambitieuse",
+    "dynamic": {
+      "how_they_connect": "Le 6 soutient les ambitions du 8, créant un partenariat fort.",
+      "emotional_language": "Le 6 exprime l'amour, le 8 la détermination.",
+      "chemistry": "Relation solide orientée vers la réussite familiale et matérielle.",
+      "growth_potential": "Le 6 gagne en force, le 8 en tendresse."
+    },
+    "strengths": ["Stabilité", "Ambition", "Soutien mutuel"],
+    "challenges": ["Workaholisme du 8", "Sacrifice du 6"],
+    "tips_for_balance": "Équilibrez ambition professionnelle et vie familiale."
+  },
+  "6-9": {
+    "relation_theme": "Le Protecteur et le Visionnaire",
+    "vibration": "Terre et Feu – amour et idéal.",
+    "connection_type": "Harmonieuse et humaniste",
+    "dynamic": {
+      "how_they_connect": "Le 6 aime et protège, le 9 rêve et inspire. Belle complémentarité.",
+      "emotional_language": "Communication chaleureuse et idéaliste.",
+      "chemistry": "Relation orientée vers le service et l'amour universel.",
+      "growth_potential": "Le 6 élargit sa vision, le 9 s'ancre dans le quotidien."
+    },
+    "strengths": ["Compassion", "Harmonie", "Service"],
+    "challenges": ["Idéalisme du 9", "Possessivité du 6"],
+    "tips_for_balance": "Alliez amour personnel et amour universel."
+  },
+  "6-11": {
+    "relation_theme": "Le Protecteur et le Maître Intuitif",
+    "vibration": "Terre et Lumière – amour et inspiration.",
+    "connection_type": "Nourrissante et spirituelle",
+    "dynamic": {
+      "how_they_connect": "Le 6 prend soin du 11 sensible, créant un cocon sécurisant.",
+      "emotional_language": "Communication affectueuse et intuitive.",
+      "chemistry": "Relation qui mêle tendresse et élévation spirituelle.",
+      "growth_potential": "Le 6 s'ouvre à la spiritualité, le 11 à la stabilité émotionnelle."
+    },
+    "strengths": ["Tendresse", "Intuition", "Soutien mutuel"],
+    "challenges": ["Hypersensibilité du 11", "Possessivité du 6"],
+    "tips_for_balance": "Respectez la sensibilité du 11 tout en exprimant vos besoins."
+  },
+  "6-22": {
+    "relation_theme": "Le Protecteur et le Bâtisseur Universel",
+    "vibration": "Terre et Terre – amour et manifestation.",
+    "connection_type": "Stable et visionnaire",
+    "dynamic": {
+      "how_they_connect": "Le 6 crée le foyer, le 22 construit la vision. Partenariat puissant.",
+      "emotional_language": "Communication pratique et affectueuse.",
+      "chemistry": "Relation orientée vers la construction d'un héritage durable.",
+      "growth_potential": "Le 6 élargit sa vision, le 22 développe sa tendresse."
+    },
+    "strengths": ["Stabilité", "Vision", "Construction familiale"],
+    "challenges": ["Pression du 22", "Sacrifice du 6"],
+    "tips_for_balance": "Équilibrez grands projets et intimité familiale."
+  },
+  "6-33": {
+    "relation_theme": "Le Protecteur et le Maître Enseignant",
+    "vibration": "Terre et Compassion – amour et service.",
+    "connection_type": "Profondément nourrissante",
+    "dynamic": {
+      "how_they_connect": "Deux cœurs unis par l'amour et le désir de servir.",
+      "emotional_language": "Communication chaleureuse et bienveillante.",
+      "chemistry": "Relation qui rayonne d'amour et de compassion.",
+      "growth_potential": "Le 6 élargit son cercle d'amour, le 33 l'approfondit."
+    },
+    "strengths": ["Amour profond", "Compassion", "Service"],
+    "challenges": ["Épuisement émotionnel", "Sacrifice excessif"],
+    "tips_for_balance": "Prenez soin de vous pour mieux prendre soin des autres."
+  },
+  "7-7": {
+    "relation_theme": "Les Sages en miroir",
+    "vibration": "Eau et Eau – contemplation et profondeur.",
+    "connection_type": "Intellectuelle et spirituelle",
+    "dynamic": {
+      "how_they_connect": "Deux 7 partagent un besoin de solitude et de réflexion profonde.",
+      "emotional_language": "Communication par silences et mots choisis.",
+      "chemistry": "Relation basée sur la compréhension intellectuelle et spirituelle.",
+      "growth_potential": "Apprendre à exprimer les émotions et partager l'intimité."
+    },
+    "strengths": ["Profondeur", "Respect mutuel", "Connexion spirituelle"],
+    "challenges": ["Isolement", "Distance émotionnelle", "Manque de chaleur"],
+    "tips_for_balance": "Cultivez l'expression émotionnelle et la présence physique."
+  },
+  "7-8": {
+    "relation_theme": "Le Sage et le Maître",
+    "vibration": "Eau et Terre – contemplation et action.",
+    "connection_type": "Contrastée et respectueuse",
+    "dynamic": {
+      "how_they_connect": "Le 7 réfléchit, le 8 agit. Complémentarité entre pensée et réalisation.",
+      "emotional_language": "Communication stratégique et réfléchie.",
+      "chemistry": "Respect mutuel basé sur l'intelligence et la détermination.",
+      "growth_potential": "Le 7 passe à l'action, le 8 développe l'introspection."
+    },
+    "strengths": ["Intelligence", "Stratégie", "Respect"],
+    "challenges": ["Distance émotionnelle", "Priorités différentes"],
+    "tips_for_balance": "Équilibrez réflexion et action, solitude et partage."
+  },
+  "7-9": {
+    "relation_theme": "Le Sage et le Visionnaire",
+    "vibration": "Eau et Feu – contemplation et idéal.",
+    "connection_type": "Spirituelle et idéaliste",
+    "dynamic": {
+      "how_they_connect": "Le 7 cherche la vérité, le 9 l'idéal. Union spirituelle profonde.",
+      "emotional_language": "Communication philosophique et inspirée.",
+      "chemistry": "Relation orientée vers la quête de sens et la sagesse.",
+      "growth_potential": "Le 7 s'ouvre au monde, le 9 approfondit sa quête intérieure."
+    },
+    "strengths": ["Spiritualité", "Sagesse", "Idéaux partagés"],
+    "challenges": ["Déconnexion du quotidien", "Idéalisme excessif"],
+    "tips_for_balance": "Ancrez votre quête spirituelle dans la vie quotidienne."
+  },
+  "7-11": {
+    "relation_theme": "Le Sage et le Maître Intuitif",
+    "vibration": "Eau et Lumière – contemplation et inspiration.",
+    "connection_type": "Profondément spirituelle",
+    "dynamic": {
+      "how_they_connect": "Le 7 analyse, le 11 ressent. Union mystique et intellectuelle.",
+      "emotional_language": "Communication intuitive et réfléchie.",
+      "chemistry": "Relation qui transcende le matériel pour explorer le spirituel.",
+      "growth_potential": "Le 7 intègre l'intuition, le 11 la logique."
+    },
+    "strengths": ["Connexion spirituelle", "Intuition", "Profondeur"],
+    "challenges": ["Hypersensibilité", "Isolement du monde"],
+    "tips_for_balance": "Restez connectés au monde matériel et aux autres."
+  },
+  "7-22": {
+    "relation_theme": "Le Sage et le Bâtisseur Universel",
+    "vibration": "Eau et Terre – contemplation et manifestation.",
+    "connection_type": "Stratégique et visionnaire",
+    "dynamic": {
+      "how_they_connect": "Le 7 apporte la sagesse, le 22 la réalisation de grandes visions.",
+      "emotional_language": "Communication réfléchie et stratégique.",
+      "chemistry": "Relation qui allie profondeur et concrétisation.",
+      "growth_potential": "Le 7 passe à l'action, le 22 approfondit sa réflexion."
+    },
+    "strengths": ["Sagesse", "Vision", "Stratégie"],
+    "challenges": ["Distance émotionnelle", "Pression du 22"],
+    "tips_for_balance": "Équilibrez réflexion et réalisation, solitude et collaboration."
+  },
+  "7-33": {
+    "relation_theme": "Le Sage et le Maître Enseignant",
+    "vibration": "Eau et Compassion – contemplation et service.",
+    "connection_type": "Spirituelle et enseignante",
+    "dynamic": {
+      "how_they_connect": "Le 7 cherche la vérité, le 33 l'enseigne avec compassion.",
+      "emotional_language": "Communication profonde et bienveillante.",
+      "chemistry": "Relation orientée vers la sagesse et le service.",
+      "growth_potential": "Le 7 partage sa sagesse, le 33 approfondit sa connaissance."
+    },
+    "strengths": ["Sagesse", "Compassion", "Enseignement"],
+    "challenges": ["Isolement", "Charge émotionnelle du 33"],
+    "tips_for_balance": "Partagez votre sagesse tout en restant présents l'un pour l'autre."
+  },
+  "8-8": {
+    "relation_theme": "Les Maîtres en miroir",
+    "vibration": "Terre et Terre – pouvoir et ambition.",
+    "connection_type": "Puissante et compétitive",
+    "dynamic": {
+      "how_they_connect": "Deux 8 construisent un empire ensemble, mais peuvent aussi rivaliser.",
+      "emotional_language": "Communication directe et stratégique.",
+      "chemistry": "Relation intense orientée vers le succès et le pouvoir.",
+      "growth_potential": "Apprendre à collaborer plutôt qu'à rivaliser."
+    },
+    "strengths": ["Ambition", "Détermination", "Réussite matérielle"],
+    "challenges": ["Lutte de pouvoir", "Workaholisme", "Manque d'intimité"],
+    "tips_for_balance": "Transformez la compétition en collaboration."
+  },
+  "8-9": {
+    "relation_theme": "Le Maître et le Visionnaire",
+    "vibration": "Terre et Feu – pouvoir et idéal.",
+    "connection_type": "Contrastée et inspirante",
+    "dynamic": {
+      "how_they_connect": "Le 8 matérialise les visions du 9, créant un impact concret.",
+      "emotional_language": "Le 8 dirige, le 9 inspire.",
+      "chemistry": "Tension entre ambition matérielle et idéalisme.",
+      "growth_potential": "Le 8 s'ouvre aux valeurs, le 9 à la concrétisation."
+    },
+    "strengths": ["Impact", "Vision", "Réalisation"],
+    "challenges": ["Valeurs différentes", "Matérialisme vs idéalisme"],
+    "tips_for_balance": "Alliez succès matériel et valeurs humanistes."
+  },
+  "8-11": {
+    "relation_theme": "Le Maître et le Maître Intuitif",
+    "vibration": "Terre et Lumière – pouvoir et inspiration.",
+    "connection_type": "Puissante et sensible",
+    "dynamic": {
+      "how_they_connect": "Le 8 donne la force, le 11 l'inspiration. Partenariat puissant.",
+      "emotional_language": "Le 8 dirige, le 11 guide intuitivement.",
+      "chemistry": "Relation qui mêle détermination et sensibilité.",
+      "growth_potential": "Le 8 développe sa sensibilité, le 11 sa force."
+    },
+    "strengths": ["Puissance", "Intuition", "Vision"],
+    "challenges": ["Domination du 8", "Hypersensibilité du 11"],
+    "tips_for_balance": "Le 8 doit respecter la sensibilité du 11."
+  },
+  "8-22": {
+    "relation_theme": "Le Maître et le Bâtisseur Universel",
+    "vibration": "Terre et Terre – pouvoir et manifestation.",
+    "connection_type": "Extrêmement puissante",
+    "dynamic": {
+      "how_they_connect": "Deux forces qui peuvent changer le monde ensemble.",
+      "emotional_language": "Communication stratégique et visionnaire.",
+      "chemistry": "Relation orientée vers des réalisations exceptionnelles.",
+      "growth_potential": "Apprendre à équilibrer ambition et vie personnelle."
+    },
+    "strengths": ["Puissance", "Vision", "Réalisation exceptionnelle"],
+    "challenges": ["Pression intense", "Workaholisme", "Manque d'émotions"],
+    "tips_for_balance": "N'oubliez pas l'intimité au-delà des projets."
+  },
+  "8-33": {
+    "relation_theme": "Le Maître et le Maître Enseignant",
+    "vibration": "Terre et Compassion – pouvoir et service.",
+    "connection_type": "Puissante et altruiste",
+    "dynamic": {
+      "how_they_connect": "Le 8 apporte la force, le 33 la compassion. Impact social puissant.",
+      "emotional_language": "Communication directe et bienveillante.",
+      "chemistry": "Relation orientée vers le service à grande échelle.",
+      "growth_potential": "Le 8 développe la compassion, le 33 la force."
+    },
+    "strengths": ["Impact social", "Puissance", "Service"],
+    "challenges": ["Domination du 8", "Charge du 33"],
+    "tips_for_balance": "Alliez pouvoir et compassion pour servir ensemble."
+  },
+  "9-9": {
+    "relation_theme": "Les Visionnaires en miroir",
+    "vibration": "Feu et Feu – idéal et humanisme.",
+    "connection_type": "Idéaliste et passionnée",
+    "dynamic": {
+      "how_they_connect": "Deux 9 partagent des idéaux élevés et un amour universel.",
+      "emotional_language": "Communication passionnée et idéaliste.",
+      "chemistry": "Relation orientée vers un but plus grand qu'eux-mêmes.",
+      "growth_potential": "Apprendre à s'ancrer et à vivre le moment présent."
+    },
+    "strengths": ["Idéaux partagés", "Passion", "Compassion"],
+    "challenges": ["Idéalisme excessif", "Déception", "Manque de pragmatisme"],
+    "tips_for_balance": "Ancrez vos idéaux dans des actions concrètes."
+  },
+  "9-11": {
+    "relation_theme": "Le Visionnaire et le Maître Intuitif",
+    "vibration": "Feu et Lumière – idéal et inspiration.",
+    "connection_type": "Spirituelle et inspirante",
+    "dynamic": {
+      "how_they_connect": "Le 9 porte la vision humaniste, le 11 l'inspiration divine.",
+      "emotional_language": "Communication inspirée et idéaliste.",
+      "chemistry": "Relation qui transcende le matériel pour servir l'humanité.",
+      "growth_potential": "Le 9 approfondit son intuition, le 11 élargit sa vision."
+    },
+    "strengths": ["Inspiration", "Idéaux élevés", "Service spirituel"],
+    "challenges": ["Idéalisme excessif", "Hypersensibilité"],
+    "tips_for_balance": "Ancrez votre vision spirituelle dans la réalité."
+  },
+  "9-22": {
+    "relation_theme": "Le Visionnaire et le Bâtisseur Universel",
+    "vibration": "Feu et Terre – idéal et manifestation.",
+    "connection_type": "Visionnaire et concrète",
+    "dynamic": {
+      "how_they_connect": "Le 9 inspire, le 22 matérialise. Partenariat puissant pour l'humanité.",
+      "emotional_language": "Le 9 rêve, le 22 construit.",
+      "chemistry": "Relation orientée vers la réalisation de grandes visions humanistes.",
+      "growth_potential": "Le 9 s'ancre, le 22 s'inspire de l'idéal."
+    },
+    "strengths": ["Vision", "Réalisation", "Impact mondial"],
+    "challenges": ["Pression", "Idéalisme vs pragmatisme"],
+    "tips_for_balance": "Alliez rêves et réalité pour créer un impact durable."
+  },
+  "9-33": {
+    "relation_theme": "Le Visionnaire et le Maître Enseignant",
+    "vibration": "Feu et Compassion – idéal et service.",
+    "connection_type": "Profondément humaniste",
+    "dynamic": {
+      "how_they_connect": "Deux âmes unies par l'amour universel et le désir de servir.",
+      "emotional_language": "Communication compassionnelle et idéaliste.",
+      "chemistry": "Relation qui rayonne d'amour et de service à l'humanité.",
+      "growth_potential": "Le 9 approfondit sa compassion, le 33 élargit sa vision."
+    },
+    "strengths": ["Compassion universelle", "Service", "Amour"],
+    "challenges": ["Épuisement", "Idéalisme", "Oubli de soi"],
+    "tips_for_balance": "Prenez soin de vous pour mieux servir le monde."
+  },
+  "11-11": {
+    "relation_theme": "Les Maîtres Intuitifs en miroir",
+    "vibration": "Lumière et Lumière – inspiration et intuition.",
+    "connection_type": "Intensément spirituelle",
+    "dynamic": {
+      "how_they_connect": "Deux 11 partagent une connexion spirituelle profonde et une grande sensibilité.",
+      "emotional_language": "Communication intuitive et inspirée.",
+      "chemistry": "Relation qui transcende le matériel pour explorer les dimensions spirituelles.",
+      "growth_potential": "Apprendre à s'ancrer dans le monde matériel."
+    },
+    "strengths": ["Connexion spirituelle", "Intuition partagée", "Inspiration mutuelle"],
+    "challenges": ["Hypersensibilité", "Déconnexion du réel", "Surcharge émotionnelle"],
+    "tips_for_balance": "Ancrez votre spiritualité dans le quotidien et prenez soin de votre équilibre émotionnel."
+  },
+  "11-22": {
+    "relation_theme": "Le Maître Intuitif et le Bâtisseur Universel",
+    "vibration": "Lumière et Terre – inspiration et manifestation.",
+    "connection_type": "Spirituelle et concrète",
+    "dynamic": {
+      "how_they_connect": "Le 11 inspire, le 22 matérialise. Partenariat puissant pour réaliser de grandes visions.",
+      "emotional_language": "Le 11 ressent, le 22 structure.",
+      "chemistry": "Relation qui allie intuition et concrétisation.",
+      "growth_potential": "Le 11 s'ancre, le 22 s'ouvre à l'intuition."
+    },
+    "strengths": ["Vision inspirée", "Réalisation concrète", "Impact puissant"],
+    "challenges": ["Sensibilité du 11", "Pression du 22"],
+    "tips_for_balance": "Respectez la sensibilité du 11 tout en avançant vers vos objectifs."
+  },
+  "11-33": {
+    "relation_theme": "Le Maître Intuitif et le Maître Enseignant",
+    "vibration": "Lumière et Compassion – inspiration et service.",
+    "connection_type": "Profondément spirituelle",
+    "dynamic": {
+      "how_they_connect": "Deux âmes élevées unies par l'intuition et la compassion.",
+      "emotional_language": "Communication spirituelle et bienveillante.",
+      "chemistry": "Relation qui rayonne d'amour universel et de guidance.",
+      "growth_potential": "Le 11 développe la compassion, le 33 l'intuition."
+    },
+    "strengths": ["Spiritualité élevée", "Compassion", "Guidance mutuelle"],
+    "challenges": ["Hypersensibilité", "Épuisement émotionnel", "Oubli de soi"],
+    "tips_for_balance": "Prenez soin de votre équilibre émotionnel pour mieux servir."
+  },
+  "22-22": {
+    "relation_theme": "Les Bâtisseurs Universels en miroir",
+    "vibration": "Terre et Terre – manifestation et vision.",
+    "connection_type": "Extrêmement puissante",
+    "dynamic": {
+      "how_they_connect": "Deux 22 unissent leurs forces pour créer des réalisations extraordinaires.",
+      "emotional_language": "Communication stratégique et visionnaire.",
+      "chemistry": "Relation orientée vers la transformation du monde.",
+      "growth_potential": "Apprendre à équilibrer ambition et vie personnelle."
+    },
+    "strengths": ["Puissance exceptionnelle", "Vision partagée", "Impact mondial"],
+    "challenges": ["Pression intense", "Workaholisme", "Négligence émotionnelle"],
+    "tips_for_balance": "Créez des moments d'intimité au-delà des grands projets."
+  },
+  "22-33": {
+    "relation_theme": "Le Bâtisseur Universel et le Maître Enseignant",
+    "vibration": "Terre et Compassion – manifestation et service.",
+    "connection_type": "Puissante et altruiste",
+    "dynamic": {
+      "how_they_connect": "Le 22 construit, le 33 enseigne. Partenariat pour servir l'humanité.",
+      "emotional_language": "Le 22 structure, le 33 compassionne.",
+      "chemistry": "Relation orientée vers un impact social majeur.",
+      "growth_potential": "Le 22 développe la compassion, le 33 la concrétisation."
+    },
+    "strengths": ["Impact humanitaire", "Vision concrète", "Service structuré"],
+    "challenges": ["Pression immense", "Épuisement", "Sacrifice personnel"],
+    "tips_for_balance": "Préservez votre équilibre personnel pour mieux servir le monde."
+  },
+  "33-33": {
+    "relation_theme": "Les Maîtres Enseignants en miroir",
+    "vibration": "Compassion et Compassion – service et amour universel.",
+    "connection_type": "Exceptionnellement altruiste",
+    "dynamic": {
+      "how_they_connect": "Deux 33 créent une union sacrée dédiée au service de l'humanité.",
+      "emotional_language": "Communication profondément compassionnelle et aimante.",
+      "chemistry": "Relation qui rayonne d'amour universel et de guidance.",
+      "growth_potential": "Apprendre à recevoir autant qu'ils donnent."
+    },
+    "strengths": ["Amour universel", "Compassion profonde", "Service exceptionnel"],
+    "challenges": ["Épuisement total", "Sacrifice de soi", "Charge émotionnelle écrasante"],
+    "tips_for_balance": "Prenez soin de vous et de votre couple pour pouvoir continuer à servir."
+  }
+}

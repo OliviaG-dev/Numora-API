@@ -1,0 +1,367 @@
+{
+  "annee_universelle_1": {
+    "description": "Énergie de nouveau départ collectif, innovation, initiative, lancement d'un cycle de 9 ans.",
+    "annees_personnelles": {
+      "1": {
+        "theme": "Puissance maximale de renouveau personnel dans une année universelle qui pousse aussi à commencer.",
+        "travail_projets": [
+          "Début d'un nouveau chapitre professionnel",
+          "Idées fraîches, élan créatif",
+          "Opportunités rapides, parfois inattendues",
+          "Possibilité de changer totalement de direction"
+        ],
+        "finances": [
+          "Nouveaux revenus",
+          "Investissements initiaux",
+          "Prudence : ne pas trop se disperser"
+        ],
+        "vie_interieure": [
+          "Énergie forte",
+          "Envie de conquérir",
+          "Besoin de s'affirmer"
+        ],
+        "relations": [
+          "Nouvelles rencontres",
+          "Recommencements affectifs",
+          "Énergie séduisante mais instable"
+        ],
+        "mots_cles": ["nouveau départ", "initiative", "leadership", "élan"],
+        "conseils": [
+          "Saisis les opportunités",
+          "Pose des bases claires",
+          "Canalise ton énergie pour éviter l'éparpillement"
+        ],
+        "erreurs": ["vouloir trop faire trop vite"],
+        "resume": "Tu démarres une nouvelle phase de vie avec un alignement puissant entre ton cycle personnel et collectif."
+      },
+      "2": {
+        "theme": "Intensité émotionnelle dans un monde qui bouge très vite.",
+        "travail_projets": [
+          "Coopération nécessaire",
+          "Progression lente mais sûre",
+          "Beaucoup de sensibilité au regard des autres"
+        ],
+        "finances": [
+          "Stabilité modérée",
+          "Possibilité de dépenses liées au foyer ou aux partenariats"
+        ],
+        "vie_interieure": [
+          "Hyper-sensibilité",
+          "Besoin de calme",
+          "Intuition très forte"
+        ],
+        "relations": [
+          "Mise en lumière des relations importantes",
+          "Nouveaux partenariats possibles",
+          "Besoin d'écouter et d'être écouté"
+        ],
+        "mots_cles": ["coopération", "patience", "intuition"],
+        "conseils": [
+          "Ne force rien : laisse venir",
+          "Entoure-toi de gens calmes et bienveillants"
+        ],
+        "erreurs": ["prendre les choses trop personnellement"],
+        "resume": "Tu avances doucement dans une année qui te demande douceur alors que le monde s'accélère."
+      },
+      "3": {
+        "theme": "Expression personnelle dans une ambiance universelle d'innovation.",
+        "travail_projets": [
+          "Créativité en hausse",
+          "Possibilité de visibilité ou reconnaissance",
+          "Multiplication des idées"
+        ],
+        "finances": [
+          "Dépenses plaisir",
+          "Possibilité de revenus grâce à la créativité"
+        ],
+        "vie_interieure": [
+          "Optimisme",
+          "Besoin d'exprimer ce que tu es vraiment"
+        ],
+        "relations": [
+          "Rencontres sociales",
+          "Amusement, légèreté",
+          "Charisme accru"
+        ],
+        "mots_cles": ["créativité", "communication", "expression"],
+        "conseils": [
+          "Utilise ta créativité comme moteur",
+          "Communique clairement tes idées"
+        ],
+        "erreurs": ["dispersions et excès"],
+        "resume": "Tu t'ouvres, tu t'exprimes, et tu attires ce que tu vibres dans un climat stimulant."
+      },
+      "4": {
+        "theme": "Construction personnelle dans un contexte collectif de nouveau départ.",
+        "travail_projets": [
+          "Beaucoup de responsabilités",
+          "Charge de travail plus élevée",
+          "Besoin d'organisation",
+          "Structuration d'un projet important",
+          "Possibilité de poser les bases d'un nouveau parcours"
+        ],
+        "finances": [
+          "Stabilisation",
+          "Mise au clair des dépenses",
+          "Engagements financiers à long terme",
+          "Investissements possibles (maison, entreprise, formation)"
+        ],
+        "vie_interieure": [
+          "Sens du devoir",
+          "Sérieux et discipline",
+          "Recherche d'efficacité"
+        ],
+        "relations": [
+          "Relations sérieuses favorisées",
+          "Solidification des bases",
+          "Engagements possibles"
+        ],
+        "mots_cles": ["construction", "discipline", "effort", "solidité"],
+        "conseils": [
+          "Planifie à long terme",
+          "Structure tes projets",
+          "Gère ton énergie pour éviter la fatigue"
+        ],
+        "erreurs": ["vouloir brûler les étapes"],
+        "resume": "Tu construis du solide dans une année universelle qui favorise le lancement de grandes orientations."
+      },
+      "5": {
+        "theme": "Liberté personnelle dans un monde qui favorise l'audace.",
+        "travail_projets": [
+          "Changements rapides",
+          "Nouvelles opportunités",
+          "Risque de lassitude"
+        ],
+        "finances": [
+          "Fluctuations",
+          "Revenus variables",
+          "Dépenses impulsives"
+        ],
+        "vie_interieure": [
+          "Besoin d'air",
+          "Rejet de tout ce qui enferme"
+        ],
+        "relations": [
+          "Rencontres stimulantes",
+          "Relations non conventionnelles"
+        ],
+        "mots_cles": ["changement", "liberté", "mouvement"],
+        "conseils": [
+          "Reste flexible",
+          "Ne fuis pas systématiquement la stabilité"
+        ],
+        "erreurs": ["inconstance"],
+        "resume": "Année mouvementée mais excitante, alignée avec l'énergie universelle du renouveau."
+      },
+      "6": {
+        "theme": "Responsabilités affectives dans un contexte de redémarrage global.",
+        "travail_projets": [
+          "Engagements importants",
+          "Projets liés au foyer ou au service",
+          "Besoin de concilier pro et perso"
+        ],
+        "finances": [
+          "Dépenses familiales",
+          "Stabilité si tu restes organisé"
+        ],
+        "vie_interieure": [
+          "Besoin d'harmonie",
+          "Émotions fortes"
+        ],
+        "relations": [
+          "Relations profondes",
+          "Possibilité d'engagement",
+          "Consolidation familiale"
+        ],
+        "mots_cles": ["famille", "harmonie", "responsabilité"],
+        "conseils": ["Ne te sacrifie pas", "Demande du soutien"],
+        "erreurs": ["vouloir sauver tout le monde"],
+        "resume": "C'est une année pour aimer, réparer, et t'engager."
+      },
+      "7": {
+        "theme": "Introspection personnelle dans un contexte collectif actif.",
+        "travail_projets": [
+          "Besoin de recul",
+          "Envie d'apprendre, de comprendre",
+          "Moins d'action, plus de réflexion"
+        ],
+        "finances": [
+          "Stabilité relative",
+          "Prudence"
+        ],
+        "vie_interieure": [
+          "Spiritualité",
+          "Analyse profonde",
+          "Recherche de sens"
+        ],
+        "relations": [
+          "Sélectivité",
+          "Recul nécessaire",
+          "Relations plus rares mais vraies"
+        ],
+        "mots_cles": ["introspection", "quête de sens", "analyse"],
+        "conseils": ["Prends ton temps", "Écoute ton intuition"],
+        "erreurs": ["isolement excessif"],
+        "resume": "Tu grandis intérieurement pendant que le monde extérieur s'agite."
+      },
+      "8": {
+        "theme": "Ambition personnelle dans une année universelle qui encourage à entreprendre.",
+        "travail_projets": [
+          "Accélération",
+          "Réussite possible",
+          "Reconnaissance",
+          "Grandes décisions matérielles"
+        ],
+        "finances": [
+          "Gains importants possibles",
+          "Investissements majeurs"
+        ],
+        "vie_interieure": [
+          "Pouvoir personnel",
+          "Volonté accrue"
+        ],
+        "relations": [
+          "Relations basées sur l'admiration et le respect",
+          "Possibles tensions liées au pouvoir"
+        ],
+        "mots_cles": ["réussite", "pouvoir", "concrétisation"],
+        "conseils": ["Garde ton éthique", "N'agis pas sous la colère"],
+        "erreurs": ["abus de pouvoir"],
+        "resume": "Année puissante : tu peux manifester concrètement ce que tu désires."
+      },
+      "9": {
+        "theme": "Clôture d'un cycle personnel dans un cycle universel qui commence.",
+        "travail_projets": [
+          "Fin de projets",
+          "Réorientation",
+          "Tri nécessaire"
+        ],
+        "finances": [
+          "Dépenses de clôture",
+          "Générosité"
+        ],
+        "vie_interieure": [
+          "Détachement",
+          "Émotions libératrices",
+          "Compréhension karmique"
+        ],
+        "relations": [
+          "Fin de certaines relations",
+          "Rencontres karmiques",
+          "Guérison émotionnelle"
+        ],
+        "mots_cles": ["libération", "fin de cycle", "humanité"],
+        "conseils": ["Lâche prise", "Ne t'accroche pas à l'ancien"],
+        "erreurs": ["vouloir sauver des situations déjà terminées"],
+        "resume": "Tu termines ton cycle de 9 ans pendant que le monde commence le sien : grand nettoyage intérieur."
+      },
+      "11": {
+        "theme": "Année d'illumination, d'intuition très élevée, d'inspiration spirituelle dans un contexte mondial de nouveauté.",
+        "travail_projets": [
+          "Possibilité de percevoir les nouvelles opportunités avant les autres",
+          "Inspiration créative ou visionnaire",
+          "Suivre un projet qui a du sens collectif ou spirituel",
+          "Attention : énergie nerveuse si mal canalisée"
+        ],
+        "finances": [
+          "Instabilité au début",
+          "Revenus liés à l'intuition, la création ou l'accompagnement",
+          "Éviter les décisions financières impulsives"
+        ],
+        "vie_interieure": [
+          "Grande sensibilité",
+          "Intuition quasi médiumnique",
+          "Période de prise de conscience",
+          "Moments émotionnels intenses"
+        ],
+        "relations": [
+          "Relations karmiques",
+          "Rencontres importantes pour ton évolution",
+          "Émotions amplifiées",
+          "Besoin d'être compris dans ta profondeur"
+        ],
+        "mots_cles": ["intuition", "révélations", "vision", "sensibilité"],
+        "conseils": [
+          "Pratique la méditation ou un rituel d'ancrage",
+          "Écoute ton intuition mais vérifie les faits",
+          "Gère ton énergie pour éviter la surcharge émotionnelle"
+        ],
+        "erreurs": [
+          "se laisser submerger par les émotions",
+          "chercher la perfection ou vouloir trop aider"
+        ],
+        "resume": "Tu reçois une vision claire de la direction à prendre au moment où le monde démarre un nouveau cycle : année inspirée, mais exigeante émotionnellement."
+      },
+      "22": {
+        "theme": "Année de grande construction, ambition élevée, manifestation à grande échelle dans une dynamique mondiale de nouveau départ.",
+        "travail_projets": [
+          "Matérialisation d'un projet majeur",
+          "Responsabilités importantes",
+          "Capacité de bâtir quelque chose qui impacte les autres",
+          "Besoin de discipline extrême"
+        ],
+        "finances": [
+          "Possibilité de gains conséquents",
+          "Investissements structurants",
+          "Stabilité si tu restes dans l'organisation"
+        ],
+        "vie_interieure": [
+          "Besoin d'équilibrer ambition et paix intérieure",
+          "Conscience de ta mission à long terme",
+          "Énergie puissante mais à canaliser"
+        ],
+        "relations": [
+          "Relations sérieuses et durables",
+          "Besoin de partenaires fiables",
+          "Attraction pour des personnes ambitieuses ou inspirantes"
+        ],
+        "mots_cles": ["bâtisseur", "manifestation", "grand projet", "engagement"],
+        "conseils": [
+          "Structure chaque étape",
+          "Reste humble malgré ton pouvoir créatif",
+          "Ne t'épuise pas : pense long terme"
+        ],
+        "erreurs": [
+          "vouloir tout contrôler",
+          "se surcharger de responsabilités"
+        ],
+        "resume": "Une année où tu peux littéralement construire ta destinée. Le 22 donne les moyens, et l'année universelle 1 ouvre les portes."
+      },
+      "33": {
+        "theme": "Année d'amour universel, de guérison et de service, amplifiée par une énergie mondiale de nouveau départ.",
+        "travail_projets": [
+          "Projets liés à l'aide, l'enseignement, la guérison",
+          "Impact positif sur les autres",
+          "Créativité émotionnelle très élevée",
+          "Besoin de trouver un équilibre entre donner et recevoir"
+        ],
+        "finances": [
+          "Bonne stabilité si tu ne te sacrifies pas pour les autres",
+          "Possibilité de revenus liés à l'accompagnement ou à l'art",
+          "Attention à la générosité excessive"
+        ],
+        "vie_interieure": [
+          "Émotions amplifiées",
+          "Puissante ouverture du cœur",
+          "Besoin d'exprimer ton authenticité"
+        ],
+        "relations": [
+          "Relations profondes, parfois karmiques",
+          "Guérison de vieilles blessures",
+          "Capacité d'aimer intensément"
+        ],
+        "mots_cles": ["guérison", "compassion", "amour", "mission"],
+        "conseils": [
+          "Protège ton énergie",
+          "Apprends à poser des limites",
+          "Exprime ton empathie sans t'oublier"
+        ],
+        "erreurs": [
+          "se sacrifier",
+          "porter les problèmes des autres"
+        ],
+        "resume": "Tu deviens une source de lumière pour les autres dans un monde qui repart à zéro. Année profondément spirituelle et transformatrice."
+      }
+    }
+  }
+}

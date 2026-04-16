@@ -1,0 +1,254 @@
+{
+    "1": {
+      "title": "Le Leader Visionnaire",
+      "mission_theme": "Diriger, innover, inspirer les autres par ta force d’action.",
+      "essence": "Ton âme est venue apprendre l’autonomie et l’audace. Tu ouvres les chemins, tu ne les suis pas.",
+      "strengths": [
+        "Leadership naturel",
+        "Esprit pionnier",
+        "Volonté et courage"
+      ],
+      "challenges": [
+        "Impulsivité",
+        "Trop de contrôle",
+        "Peur de dépendre des autres"
+      ],
+      "ideal_roles": [
+        "Entrepreneur",
+        "Leader d’équipe",
+        "Créateur de projet"
+      ],
+      "mantra": "Je suis fait(e) pour initier et inspirer."
+    },
+    "2": {
+      "title": "Le Médiateur Harmonieux",
+      "mission_theme": "Créer l’union, la paix et la coopération dans ton environnement.",
+      "essence": "Ton âme apprend à collaborer, à écouter et à construire des ponts entre les gens.",
+      "strengths": [
+        "Diplomatie",
+        "Empathie",
+        "Patience"
+      ],
+      "challenges": [
+        "Dépendance émotionnelle",
+        "Manque d’affirmation",
+        "Tendance à fuir les conflits"
+      ],
+      "ideal_roles": [
+        "Coach, thérapeute",
+        "Ressources humaines",
+        "Gestion de projet"
+      ],
+      "mantra": "Je grandis grâce à la coopération et à l’écoute."
+    },
+    "3": {
+      "title": "Le Communicant Créatif",
+      "mission_theme": "Exprimer la joie, la créativité et l’inspiration à travers la communication.",
+      "essence": "Ton âme cherche à libérer sa voix, à s’exprimer librement et à éveiller la joie chez les autres.",
+      "strengths": [
+        "Charisme",
+        "Créativité",
+        "Optimisme"
+      ],
+      "challenges": [
+        "Superficialité",
+        "Manque de discipline",
+        "Besoin d’attention"
+      ],
+      "ideal_roles": [
+        "Artiste, écrivain",
+        "Communicant",
+        "Influenceur, animateur"
+      ],
+      "mantra": "Ma lumière inspire les autres à briller."
+    },
+    "4": {
+      "title": "Le Bâtisseur Stable",
+      "mission_theme": "Créer des fondations solides, concrétiser les idées dans la réalité.",
+      "essence": "Ton âme apprend la rigueur, la persévérance et la valeur du travail structuré.",
+      "strengths": [
+        "Fiabilité",
+        "Organisation",
+        "Patience"
+      ],
+      "challenges": [
+        "Rigidité",
+        "Manque de spontanéité",
+        "Peur du changement"
+      ],
+      "ideal_roles": [
+        "Architecte, ingénieur",
+        "Gestionnaire",
+        "Expert technique"
+      ],
+      "mantra": "Je transforme la vision en réalité."
+    },
+    "5": {
+      "title": "L’Explorateur Libre",
+      "mission_theme": "Découvrir, expérimenter et inspirer la liberté.",
+      "essence": "Ton âme cherche à vivre sans attache, à explorer la vie sous toutes ses formes et à inspirer le changement.",
+      "strengths": [
+        "Adaptabilité",
+        "Aventure",
+        "Ouverture d’esprit"
+      ],
+      "challenges": [
+        "Instabilité",
+        "Difficulté à s’engager",
+        "Fuite de la routine"
+      ],
+      "ideal_roles": [
+        "Voyageur, journaliste",
+        "Entrepreneur nomade",
+        "Formateur en innovation"
+      ],
+      "mantra": "Je choisis la liberté comme moteur de mon évolution."
+    },
+    "6": {
+      "title": "Le Protecteur Bienveillant",
+      "mission_theme": "Apporter l’amour, l’équilibre et la responsabilité dans les relations.",
+      "essence": "Ton âme est ici pour servir, guérir et créer l’harmonie autour de toi.",
+      "strengths": [
+        "Dévouement",
+        "Sens du devoir",
+        "Amour inconditionnel"
+      ],
+      "challenges": [
+        "Perfectionnisme",
+        "Surprotection",
+        "Difficulté à se détacher"
+      ],
+      "ideal_roles": [
+        "Conseiller, soignant",
+        "Art-thérapeute",
+        "Enseignant, éducateur"
+      ],
+      "mantra": "J’apporte l’amour par mes actes quotidiens."
+    },
+    "7": {
+      "title": "Le Sage Introspectif",
+      "mission_theme": "Chercher la vérité et comprendre les mystères de la vie.",
+      "essence": "Ton âme explore la connaissance intérieure, la spiritualité et la sagesse.",
+      "strengths": [
+        "Réflexion profonde",
+        "Intuition",
+        "Indépendance d’esprit"
+      ],
+      "challenges": [
+        "Isolement",
+        "Méfiance",
+        "Manque de partage"
+      ],
+      "ideal_roles": [
+        "Chercheur, philosophe",
+        "Analyste, enseignant",
+        "Conseiller spirituel"
+      ],
+      "mantra": "Je trouve la vérité dans le silence et la connaissance."
+    },
+    "8": {
+      "title": "Le Stratège du Pouvoir",
+      "mission_theme": "Créer la réussite, la maîtrise et l’abondance à travers la matière.",
+      "essence": "Ton âme apprend à équilibrer ambition et éthique, puissance et service.",
+      "strengths": [
+        "Leadership",
+        "Vision stratégique",
+        "Force mentale"
+      ],
+      "challenges": [
+        "Autorité excessive",
+        "Peur de l’échec",
+        "Dureté émotionnelle"
+      ],
+      "ideal_roles": [
+        "Chef d’entreprise",
+        "Investisseur",
+        "Manager, stratège"
+      ],
+      "mantra": "Je transforme le pouvoir en service et en réussite."
+    },
+    "9": {
+      "title": "L’Humaniste Inspiré",
+      "mission_theme": "Servir l’humanité par la compassion, l’art ou la sagesse.",
+      "essence": "Ton âme cherche à donner, à transmettre et à élever la conscience collective.",
+      "strengths": [
+        "Altruisme",
+        "Créativité",
+        "Grande sensibilité"
+      ],
+      "challenges": [
+        "Sacrifice de soi",
+        "Manque de limites",
+        "Désillusion"
+      ],
+      "ideal_roles": [
+        "Artiste engagé",
+        "Philanthrope",
+        "Professeur, guide"
+      ],
+      "mantra": "Je sers avec amour et inspiration."
+    },
+    "11": {
+      "title": "Le Visionnaire Spirituel",
+      "mission_theme": "Inspirer et éveiller les autres à une conscience plus élevée.",
+      "essence": "Ton âme est celle d’un guide spirituel moderne : tu relies intuition et action pour transformer le monde.",
+      "strengths": [
+        "Intuition extrême",
+        "Charisme spirituel",
+        "Pouvoir d’inspiration"
+      ],
+      "challenges": [
+        "Nervosité",
+        "Doutes de soi",
+        "Épuisement émotionnel"
+      ],
+      "ideal_roles": [
+        "Mentor, coach spirituel",
+        "Artiste inspiré",
+        "Visionnaire social"
+      ],
+      "mantra": "Je guide par ma lumière intérieure."
+    },
+    "22": {
+      "title": "L’Architecte du Monde",
+      "mission_theme": "Bâtir des projets durables et humanistes à grande échelle.",
+      "essence": "Ton âme unit la vision du 11 et la rigueur du 4 pour construire ce que d’autres n’osent rêver.",
+      "strengths": [
+        "Organisation de génie",
+        "Endurance",
+        "Vision globale"
+      ],
+      "challenges": [
+        "Pression intérieure",
+        "Perfectionnisme",
+        "Peur de l’échec"
+      ],
+      "ideal_roles": [
+        "Entrepreneur social",
+        "Urbaniste, bâtisseur",
+        "Leader humanitaire"
+      ],
+      "mantra": "Je bâtis des fondations pour un monde meilleur."
+    },
+    "33": {
+      "title": "Le Maître Guérisseur",
+      "mission_theme": "Servir et guérir par l’amour, l’enseignement et la compassion.",
+      "essence": "Ton âme est venue incarner l’amour inconditionnel, en élevant les autres par ta présence et ta sagesse.",
+      "strengths": [
+        "Amour universel",
+        "Pédagogie naturelle",
+        "Empathie guérisseuse"
+      ],
+      "challenges": [
+        "Sacrifice excessif",
+        "Sur-responsabilité",
+        "Épuisement émotionnel"
+      ],
+      "ideal_roles": [
+        "Thérapeute, enseignant",
+        "Guide spirituel",
+        "Artiste de cœur"
+      ],
+      "mantra": "Je guéris en aimant et en inspirant."
+    }
+  }

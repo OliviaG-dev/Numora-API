@@ -1,0 +1,194 @@
+{
+  "1": {
+    "archetype": "Le Pionnier Visionnaire",
+    "summary": "Indépendance et leadership",
+    "essence_vibration": "Leadership, innovation et indépendance",
+    "favorable_for": "Startups, entreprises innovantes, projets pionniers.",
+    "unfavorable_for": "Activités nécessitant coopération étroite ou stabilité familiale.",
+    "ideal_industries": ["Entrepreneuriat", "Technologie", "Consulting", "Finance"],
+    "strength": "Énergie de pionnier, audace, capacité à ouvrir de nouvelles voies.",
+    "challenges": [
+      "Peut être trop autoritaire ou solitaire",
+      "Risque d’isolement ou difficulté à déléguer"
+    ],
+    "alignment_tips": "Apprends à collaborer avec des profils 2 ou 6 pour humaniser ton leadership.",
+    "best_launch_dates": "Jours à vibration 1 ou 8 pour renforcer la réussite et la direction.",
+    "color_vibration": "Rouge – énergie, force, action."
+  },
+  "2": {
+    "archetype": "Le Diplomate",
+    "summary": "Coopération et diplomatie",
+    "essence_vibration": "Harmonie, intuition et partenariat",
+    "favorable_for": "Associations, entreprises de conseil, ressources humaines, soins.",
+    "unfavorable_for": "Projets solitaires ou très compétitifs.",
+    "ideal_industries": ["Coaching", "Médiation", "Relations humaines", "Santé"],
+    "strength": "Empathie, sens de l’équilibre et de la collaboration.",
+    "challenges": [
+      "Dépendance émotionnelle",
+      "Difficulté à s’affirmer face aux personnalités fortes"
+    ],
+    "alignment_tips": "Associe-toi à des profils 1 ou 8 pour plus d’assurance et de dynamisme.",
+    "best_launch_dates": "Jours à vibration 2 ou 6 pour favoriser la coopération et la paix.",
+    "color_vibration": "Bleu clair / Argent – sérénité et sensibilité."
+  },
+  "3": {
+    "archetype": "Le Communicateur Créatif",
+    "summary": "Créativité et communication",
+    "essence_vibration": "Expression, joie et partage",
+    "favorable_for": "Agences marketing, médias, art, design, éducation.",
+    "unfavorable_for": "Environnements rigides ou trop formels.",
+    "ideal_industries": ["Publicité", "Divertissement", "Écriture", "Formation"],
+    "strength": "Charisme naturel, créativité, facilité relationnelle.",
+    "challenges": [
+      "Manque de structure",
+      "Difficulté à persévérer dans le long terme"
+    ],
+    "alignment_tips": "Associe-toi à des profils 4 ou 8 pour canaliser ton énergie créative.",
+    "best_launch_dates": "Jours à vibration 1, 3 ou 5 pour amplifier ton rayonnement.",
+    "color_vibration": "Jaune / Orange – joie et vitalité."
+  },
+  "4": {
+    "archetype": "Le Bâtisseur",
+    "summary": "Structure et stabilité",
+    "essence_vibration": "Organisation, rigueur et fiabilité",
+    "favorable_for": "Immobilier, construction, comptabilité, logistique.",
+    "unfavorable_for": "Projets demandant créativité ou flexibilité rapide.",
+    "ideal_industries": ["BTP", "Gestion", "Production", "Banque"],
+    "strength": "Esprit pratique, discipline, solidité.",
+    "challenges": [
+      "Rigidité mentale",
+      "Manque de vision ou d’adaptabilité"
+    ],
+    "alignment_tips": "Associe-toi à des profils 3 ou 5 pour ouvrir ta créativité.",
+    "best_launch_dates": "Jours à vibration 4 ou 8 pour ancrer la réussite.",
+    "color_vibration": "Vert / Marron – stabilité et croissance."
+  },
+  "5": {
+    "archetype": "L’Explorateur Innovant",
+    "summary": "Changement et expansion",
+    "essence_vibration": "Liberté, mouvement et curiosité",
+    "favorable_for": "Communication, voyages, tech, commerce international.",
+    "unfavorable_for": "Secteurs rigides ou administratifs.",
+    "ideal_industries": ["Tourisme", "Innovation", "Événementiel", "Marketing"],
+    "strength": "Adaptabilité, audace et enthousiasme.",
+    "challenges": [
+      "Instabilité émotionnelle",
+      "Difficulté à maintenir la discipline"
+    ],
+    "alignment_tips": "Associe-toi à des profils 4 ou 8 pour t’ancrer sans t’enfermer.",
+    "best_launch_dates": "Jours à vibration 1, 5 ou 9 pour favoriser la nouveauté.",
+    "color_vibration": "Bleu turquoise – innovation et liberté."
+  },
+  "6": {
+    "archetype": "Le Gardien Harmonieux",
+    "summary": "Beauté, service et responsabilité",
+    "essence_vibration": "Amour, équilibre et loyauté",
+    "favorable_for": "Santé, bien-être, art, design, éducation.",
+    "unfavorable_for": "Business froids, compétitifs ou impersonnels.",
+    "ideal_industries": ["Soins", "Esthétique", "Restauration", "Éducation"],
+    "strength": "Empathie, fidélité, sens du beau et du juste.",
+    "challenges": [
+      "Perfectionnisme",
+      "Difficulté à poser des limites"
+    ],
+    "alignment_tips": "Travaille avec des profils 5 ou 9 pour plus d’ouverture.",
+    "best_launch_dates": "Jours à vibration 2, 3 ou 6 pour attirer l’harmonie.",
+    "color_vibration": "Rose / Vert – amour et équilibre."
+  },
+  "7": {
+    "archetype": "Le Visionnaire Spirituel",
+    "summary": "Réflexion et expertise",
+    "essence_vibration": "Recherche, analyse et introspection",
+    "favorable_for": "Sciences, spiritualité, conseil, innovation technologique.",
+    "unfavorable_for": "Secteurs trop matérialistes ou superficiels.",
+    "ideal_industries": ["Recherche", "Éducation", "Développement personnel", "Tech"],
+    "strength": "Profondeur d’analyse, vision à long terme.",
+    "challenges": [
+      "Isolement",
+      "Manque d’aspect commercial"
+    ],
+    "alignment_tips": "Associe-toi à des profils 3 ou 8 pour concrétiser ta vision.",
+    "best_launch_dates": "Jours à vibration 7 ou 9 pour inspirer la clarté.",
+    "color_vibration": "Violet / Indigo – sagesse et intuition."
+  },
+  "8": {
+    "archetype": "Le Stratège du Succès",
+    "summary": "Pouvoir et réussite matérielle",
+    "essence_vibration": "Ambition, autorité et prospérité",
+    "favorable_for": "Finance, immobilier, politique, management.",
+    "unfavorable_for": "Petites structures instables ou sans vision.",
+    "ideal_industries": ["Entreprises internationales", "Commerce", "Investissement"],
+    "strength": "Leadership, force de décision, sens de la stratégie.",
+    "challenges": [
+      "Matérialisme excessif",
+      "Conflits de pouvoir"
+    ],
+    "alignment_tips": "Travaille avec des profils 2 ou 9 pour garder ton humanité.",
+    "best_launch_dates": "Jours à vibration 1, 8 ou 9 pour renforcer l’abondance.",
+    "color_vibration": "Noir / Or – prestige et autorité."
+  },
+  "9": {
+    "archetype": "Le Humaniste Inspiré",
+    "summary": "Altruisme et vision globale",
+    "essence_vibration": "Humanisme, art et transformation",
+    "favorable_for": "ONG, culture, santé, communication sociale.",
+    "unfavorable_for": "Business égoïstes ou centrés sur le profit.",
+    "ideal_industries": ["Humanitaire", "Art", "Communication", "Santé"],
+    "strength": "Empathie, vision universelle et créativité.",
+    "challenges": [
+      "Tendance au sacrifice",
+      "Difficulté à gérer le concret"
+    ],
+    "alignment_tips": "Associe-toi à des profils 4 ou 8 pour concrétiser tes idéaux.",
+    "best_launch_dates": "Jours à vibration 3, 6 ou 9 pour amplifier ton rayonnement.",
+    "color_vibration": "Rouge rubis / Pourpre – passion et mission."
+  },
+  "11": {
+    "archetype": "Le Visionnaire Lumineux",
+    "summary": "Inspiration et influence",
+    "essence_vibration": "Éveil spirituel et créativité transcendante",
+    "favorable_for": "Coaching, art, communication spirituelle, innovation sociale.",
+    "unfavorable_for": "Business trop rationnels ou purement financiers.",
+    "ideal_industries": ["Développement personnel", "Média", "Art", "Formation"],
+    "strength": "Charisme inspirant, intuition et influence positive.",
+    "challenges": [
+      "Nervosité ou doutes face à sa mission",
+      "Difficulté à se structurer"
+    ],
+    "alignment_tips": "Reste ancré grâce à des profils 4 ou 8 pour matérialiser tes visions.",
+    "best_launch_dates": "Jours à vibration 1, 2 ou 11 pour amplifier la lumière intérieure.",
+    "color_vibration": "Blanc / Or – pureté et illumination."
+  },
+  "22": {
+    "archetype": "Le Maître Bâtisseur",
+    "summary": "Concrétisation de grandes visions",
+    "essence_vibration": "Responsabilité, structure et puissance créatrice",
+    "favorable_for": "Architecture, écologie, fondations, grands projets collectifs.",
+    "unfavorable_for": "Petits projets sans ambition ou improvisés.",
+    "ideal_industries": ["Urbanisme", "Économie durable", "Ingénierie", "Philanthropie"],
+    "strength": "Vision globale et efficacité d’exécution.",
+    "challenges": [
+      "Pression de réussite",
+      "Risque d’épuisement"
+    ],
+    "alignment_tips": "Travaille avec des profils 6 ou 9 pour garder ton équilibre émotionnel.",
+    "best_launch_dates": "Jours à vibration 4, 8 ou 22 pour ancrer la réussite.",
+    "color_vibration": "Bleu royal / Or – puissance et stabilité."
+  },
+  "33": {
+    "archetype": "Le Guérisseur Universel",
+    "summary": "Service, inspiration et compassion",
+    "essence_vibration": "Amour, guérison et rayonnement collectif",
+    "favorable_for": "Santé, art, éducation, médiation, projets humanitaires.",
+    "unfavorable_for": "Business purement matériels ou sans cœur.",
+    "ideal_industries": ["Éducation", "Santé", "Art", "Développement social"],
+    "strength": "Capacité à inspirer et à unir par l’amour.",
+    "challenges": [
+      "Sacrifice excessif",
+      "Difficulté à poser des limites"
+    ],
+    "alignment_tips": "Collabore avec des profils 4 ou 8 pour équilibrer ton altruisme par la structure.",
+    "best_launch_dates": "Jours à vibration 3, 6 ou 9 pour attirer beauté et compassion.",
+    "color_vibration": "Rose doré – amour, inspiration et guérison."
+  }
+}

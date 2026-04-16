@@ -20,6 +20,7 @@ import {
 } from "../modules/numerology";
 import { analyzeTreeOfLife } from "../modules/arbreDeVie";
 import { calculateMatrixDestiny } from "../modules/matrixDestiny";
+import * as numerologyDataCatalog from "../data";
 
 interface AddressInput {
   streetNumber: string;
@@ -39,6 +40,68 @@ export interface NumerologyCalculationInput {
   address?: AddressInput;
   locality?: LocalityInput;
   referenceDate?: string;
+}
+
+type DatasetValue = Record<string, unknown> | unknown[];
+
+interface DatasetSummary {
+  id: string;
+  kind: "array" | "object";
+  size: number;
+}
+
+const DATASET_EXCLUDED_EXPORTS = new Set<string>(["VALID_NUMEROLOGY_NUMBERS"]);
+
+function isDatasetValue(value: unknown): value is DatasetValue {
+  return Array.isArray(value) || (typeof value === "object" && value !== null);
+}
+
+function getDatasetsRecord(): Record<string, DatasetValue> {
+  const entries = Object.entries(numerologyDataCatalog).filter(
+    ([key, value]) =>
+      !DATASET_EXCLUDED_EXPORTS.has(key) &&
+      isDatasetValue(value) &&
+      key.toLowerCase().includes("data")
+  );
+
+  return Object.fromEntries(entries) as Record<string, DatasetValue>;
+}
+
+export function listNumerologyDatasets(): DatasetSummary[] {
+  const datasets = getDatasetsRecord();
+
+  return Object.entries(datasets)
+    .map(([id, value]) => ({
+      id,
+      kind: (Array.isArray(value) ? "array" : "object") as "array" | "object",
+      size: Array.isArray(value) ? value.length : Object.keys(value).length
+    }))
+    .sort((a, b) => a.id.localeCompare(b.id));
+}
+
+export function getNumerologyDataset(datasetId: string): DatasetValue | null {
+  const datasets = getDatasetsRecord();
+  return datasets[datasetId] ?? null;
+}
+
+export function getNumerologyDatasetEntry(
+  datasetId: string,
+  entryKey: string
+): unknown | null {
+  const dataset = getNumerologyDataset(datasetId);
+  if (!dataset) {
+    return null;
+  }
+
+  if (Array.isArray(dataset)) {
+    const index = Number(entryKey);
+    if (!Number.isInteger(index) || index < 0 || index >= dataset.length) {
+      return null;
+    }
+    return dataset[index];
+  }
+
+  return dataset[entryKey] ?? null;
 }
 
 export function calculateNumerologyProfile(input: NumerologyCalculationInput) {

@@ -48,7 +48,33 @@ Puis adapte les valeurs dans `.env` (DB + JWT).
 - `JWT_SECRET` doit faire au moins 32 caracteres
 - `JWT_EXPIRES_IN` permet de regler la duree du token (defaut: `7d`)
 - `AUTH_RATE_LIMIT_WINDOW_MS` et `AUTH_RATE_LIMIT_MAX` protègent `/auth/register` et `/auth/login`
+- `CORS_ALLOWED_ORIGINS` limite les domaines autorises (liste separee par des virgules)
+- `API_RATE_LIMIT_WINDOW_MS` et `API_RATE_LIMIT_MAX` definissent la limite globale API
+- `NUMEROLOGY_RATE_LIMIT_WINDOW_MS` et `NUMEROLOGY_RATE_LIMIT_MAX` protegent `POST /api/numerology/calculate`
 - Mot de passe `register`: au moins 10 caracteres, 1 majuscule, 1 minuscule, 1 chiffre
+
+### Exemple `.env` (securite et limites)
+
+```env
+PORT=3000
+JWT_SECRET=replace_with_a_very_long_secret_at_least_32_chars
+JWT_EXPIRES_IN=7d
+
+# Autoriser front local + prod
+CORS_ALLOWED_ORIGINS=http://localhost:5173,https://app.numora.com
+
+# Rate limit global API
+API_RATE_LIMIT_WINDOW_MS=900000
+API_RATE_LIMIT_MAX=300
+
+# Rate limit auth
+AUTH_RATE_LIMIT_WINDOW_MS=900000
+AUTH_RATE_LIMIT_MAX=10
+
+# Rate limit calcul numerology
+NUMEROLOGY_RATE_LIMIT_WINDOW_MS=900000
+NUMEROLOGY_RATE_LIMIT_MAX=60
+```
 
 ## Documentation
 
@@ -96,6 +122,9 @@ npx prisma migrate dev --name init
 ### Routes numerology
 
 - `POST /api/numerology/calculate`
+- `GET /api/numerology/data`
+- `GET /api/numerology/data/:datasetId`
+- `GET /api/numerology/data/:datasetId/:entryKey`
 
 ### Readings (implemente)
 
@@ -131,3 +160,59 @@ npx prisma migrate dev --name init
 3. CRUD des `readings` ✅
 4. Deplacement des calculs numerologiques cote backend ✅
 5. Connexion du front React à l'API
+
+## Exemples API numerology data
+
+### 1) Lister les datasets disponibles
+
+```bash
+curl -X GET http://localhost:3000/api/numerology/data
+```
+
+Reponse (exemple) :
+
+```json
+{
+  "datasets": [
+    { "id": "challengeData", "kind": "object", "size": 9 },
+    { "id": "crystalPathData", "kind": "array", "size": 11 }
+  ]
+}
+```
+
+### 2) Recuperer un dataset complet
+
+```bash
+curl -X GET http://localhost:3000/api/numerology/data/challengeData
+```
+
+Reponse (exemple) :
+
+```json
+{
+  "datasetId": "challengeData",
+  "dataset": {
+    "1": {
+      "description": "Apprendre l'independance, la confiance en soi et le courage."
+    }
+  }
+}
+```
+
+### 3) Recuperer une entree precise d'un dataset
+
+```bash
+curl -X GET http://localhost:3000/api/numerology/data/challengeData/1
+```
+
+Reponse (exemple) :
+
+```json
+{
+  "datasetId": "challengeData",
+  "entryKey": "1",
+  "entry": {
+    "description": "Apprendre l'independance, la confiance en soi et le courage."
+  }
+}
+```

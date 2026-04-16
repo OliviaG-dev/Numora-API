@@ -1,0 +1,3614 @@
+{
+    "1-1": {
+      "theme": "Les Pionniers",
+      "vibration_alignment": "Puissance + Initiative",
+      "core_message": "L’entreprise et la date partagent la même énergie de conquête. C’est un démarrage plein d’audace et de vision, parfait pour une marque qui veut dominer ou innover.",
+      "energy_match": {
+        "expression_number": "1 – Leader, indépendant, initiateur.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Croissance rapide",
+        "Leadership clair",
+        "Vision avant-gardiste"
+      ],
+      "potential_challenges": [
+        "Impulsivité dans les décisions",
+        "Difficulté à collaborer"
+      ],
+      "alignment_tips": "Prends le temps de planifier avant d’agir — la passion doit s’ancrer dans une stratégie.",
+      "launch_energy": {
+        "best_days": ["1", "8"],
+        "avoid_days": ["2", "7"],
+        "ideal_launch_vibe": "Jour 1 – parfait pour les lancements ambitieux."
+      },
+      "business_color": "Rouge / Or",
+      "tagline": "« Dirige avec audace. »"
+    },
+    "1-2": {
+      "theme": "Le Leader Diplomate",
+      "vibration_alignment": "Ambition + Coopération",
+      "core_message": "Cette combinaison apporte un équilibre entre direction et écoute. Parfaite pour un projet qui mise sur les relations humaines ou le partenariat.",
+      "energy_match": {
+        "expression_number": "1 – Visionnaire et affirmé.",
+        "path_number": "2 – Sensible, intuitif, conciliant."
+      },
+      "business_strengths": [
+        "Bonne communication d’équipe",
+        "Ambition maîtrisée",
+        "Capacité à inspirer la confiance"
+      ],
+      "potential_challenges": [
+        "Hésitation à imposer ses idées",
+        "Conflits entre vitesse et prudence"
+      ],
+      "alignment_tips": "Exprime ton leadership en écoutant les autres : ton autorité en sera renforcée.",
+      "launch_energy": {
+        "best_days": ["2", "6"],
+        "avoid_days": ["5", "9"],
+        "ideal_launch_vibe": "Jour 2 – pour attirer soutien et harmonie."
+      },
+      "business_color": "Argent / Bleu doux",
+      "tagline": "« Mène avec cœur et équilibre. »"
+    },
+    "1-3": {
+      "theme": "Les Innovateurs Inspirés",
+      "vibration_alignment": "Créativité + Action",
+      "core_message": "Une combinaison brillante pour le marketing, la communication et l’innovation. Le 1 donne la direction, le 3 l’expression et la visibilité.",
+      "energy_match": {
+        "expression_number": "1 – Stratège et novateur.",
+        "path_number": "3 – Créatif, expressif, sociable."
+      },
+      "business_strengths": [
+        "Charisme entrepreneurial",
+        "Communication forte",
+        "Créativité canalisée"
+      ],
+      "potential_challenges": [
+        "Distraction par trop d’idées",
+        "Manque de suivi après le lancement"
+      ],
+      "alignment_tips": "Structure la créativité : une idée bien exécutée vaut plus que mille projets rêvés.",
+      "launch_energy": {
+        "best_days": ["1", "3", "5"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 3 – attire visibilité et enthousiasme."
+      },
+      "business_color": "Jaune / Rouge vif",
+      "tagline": "« Inspire, innove, impacte. »"
+    },
+    "1-4": {
+      "theme": "Les Constructeurs Visionnaires",
+      "vibration_alignment": "Ambition + Structure",
+      "core_message": "Le 1 impulse la direction et le 4 consolide les fondations. Ensemble, ils assurent une croissance durable et bien planifiée.",
+      "energy_match": {
+        "expression_number": "1 – Leader, orienté résultats.",
+        "path_number": "4 – Pragmatique, méthodique, solide."
+      },
+      "business_strengths": [
+        "Organisation claire",
+        "Objectifs réalistes",
+        "Succès à long terme"
+      ],
+      "potential_challenges": [
+        "Rigidité dans la stratégie",
+        "Manque de flexibilité face au changement"
+      ],
+      "alignment_tips": "Inspire ton équipe avec ta vision tout en respectant les processus.",
+      "launch_energy": {
+        "best_days": ["4", "8"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 4 – structure et stabilité."
+      },
+      "business_color": "Gris / Bleu marine",
+      "tagline": "« Bâtis ton empire avec méthode. »"
+    },
+    "1-5": {
+      "theme": "Les Aventuriers du Succès",
+      "vibration_alignment": "Liberté + Innovation",
+      "core_message": "Le 1 veut diriger, le 5 veut explorer. Ensemble, ils créent une énergie dynamique, parfaite pour les start-ups et les projets audacieux.",
+      "energy_match": {
+        "expression_number": "1 – Pionnier, audacieux.",
+        "path_number": "5 – Curieux, libre, changeant."
+      },
+      "business_strengths": [
+        "Esprit visionnaire",
+        "Capacité à s’adapter",
+        "Goût du risque calculé"
+      ],
+      "potential_challenges": [
+        "Instabilité des décisions",
+        "Difficulté à suivre une ligne directrice"
+      ],
+      "alignment_tips": "Canalise ton besoin d’action avec un plan clair et des objectifs précis.",
+      "launch_energy": {
+        "best_days": ["1", "5"],
+        "avoid_days": ["2", "4"],
+        "ideal_launch_vibe": "Jour 5 – pour attirer opportunités et nouveauté."
+      },
+      "business_color": "Turquoise / Rouge",
+      "tagline": "« Libère ton audace, crée ton propre chemin. »"
+    },
+    "1-6": {
+      "theme": "Les Protecteurs du Succès",
+      "vibration_alignment": "Leadership + Harmonie",
+      "core_message": "Une entreprise 1 soutenue par une date 6 trouve l’équilibre entre performance et bien-être. Parfaite pour les métiers de service, coaching ou management humain.",
+      "energy_match": {
+        "expression_number": "1 – Ambitieux, moteur.",
+        "path_number": "6 – Responsable, bienveillant, loyal."
+      },
+      "business_strengths": [
+        "Leadership humain",
+        "Vision éthique",
+        "Climat de confiance"
+      ],
+      "potential_challenges": [
+        "Tendance à la surprotection",
+        "Décisions émotionnelles"
+      ],
+      "alignment_tips": "Garde ton autorité tout en valorisant ton équipe.",
+      "launch_energy": {
+        "best_days": ["6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – propice aux relations durables."
+      },
+      "business_color": "Vert / Or",
+      "tagline": "« Réussis avec cœur et intégrité. »"
+    },
+    "1-7": {
+      "theme": "Les Stratèges Spirituels",
+      "vibration_alignment": "Raison + Intuition",
+      "core_message": "Cette alliance favorise la recherche, l’innovation et la réflexion. Idéale pour les métiers intellectuels, technologiques ou spirituels.",
+      "energy_match": {
+        "expression_number": "1 – Décideur, initiateur.",
+        "path_number": "7 – Analyste, introspectif, visionnaire."
+      },
+      "business_strengths": [
+        "Clarté d’analyse",
+        "Vision futuriste",
+        "Décisions réfléchies"
+      ],
+      "potential_challenges": [
+        "Isolement",
+        "Trop de réflexion, pas assez d’action"
+      ],
+      "alignment_tips": "Allie ton intuition à ton instinct de leader pour innover avec sagesse.",
+      "launch_energy": {
+        "best_days": ["7", "9"],
+        "avoid_days": ["3"],
+        "ideal_launch_vibe": "Jour 7 – pour des fondations spirituelles et intellectuelles."
+      },
+      "business_color": "Bleu nuit / Argent",
+      "tagline": "« Pense grand, agis avec clarté. »"
+    },
+    "1-8": {
+      "theme": "Les Titans de la Réussite",
+      "vibration_alignment": "Pouvoir + Vision",
+      "core_message": "Une combinaison ultra ambitieuse et matérialiste, parfaite pour le business, la finance ou la direction d’entreprise.",
+      "energy_match": {
+        "expression_number": "1 – Leader, orienté succès.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Grande réussite matérielle",
+        "Leadership naturel",
+        "Esprit de compétition sain"
+      ],
+      "potential_challenges": [
+        "Risque de domination",
+        "Pression excessive"
+      ],
+      "alignment_tips": "Reste humble dans ton ascension, le vrai pouvoir est intérieur.",
+      "launch_energy": {
+        "best_days": ["1", "8"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès et abondance."
+      },
+      "business_color": "Noir / Or",
+      "tagline": "« Dirige ton empire avec sagesse. »"
+    },
+    "1-9": {
+      "theme": "Les Visionnaires Humanistes",
+      "vibration_alignment": "Ambition + Altruisme",
+      "core_message": "Cette combinaison relie l’action du 1 à la compassion du 9. Idéale pour les projets à mission, ONG, développement durable ou innovation sociale.",
+      "energy_match": {
+        "expression_number": "1 – Audacieux, ambitieux.",
+        "path_number": "9 – Généreux, humaniste, inspirant."
+      },
+      "business_strengths": [
+        "Leadership éthique",
+        "Vision mondiale",
+        "Capacité d’inspiration"
+      ],
+      "potential_challenges": [
+        "Trop d’idéalisme",
+        "Difficulté à prioriser le profit"
+      ],
+      "alignment_tips": "Garde tes valeurs tout en structurant ton modèle économique.",
+      "launch_energy": {
+        "best_days": ["9", "3"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 9 – symbolise l’altruisme et la complétude."
+      },
+      "business_color": "Rouge rubis / Blanc",
+      "tagline": "« Inspire pour transformer le monde. »"
+    },
+    "1-11": {
+      "theme": "Les Visionnaires Spirituels",
+      "vibration_alignment": "Leadership + Illumination",
+      "core_message": "Le 1 apporte la direction, le 11 la vision. Ensemble, ils créent des entreprises à impact spirituel, éducatif ou artistique fort.",
+      "energy_match": {
+        "expression_number": "1 – Leader charismatique.",
+        "path_number": "11 – Inspiré, intuitif, éclairé."
+      },
+      "business_strengths": [
+        "Capacité d’inspiration massive",
+        "Projet à haute vibration",
+        "Innovation consciente"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de pragmatisme"
+      ],
+      "alignment_tips": "Canalise tes inspirations dans des actions concrètes.",
+      "launch_energy": {
+        "best_days": ["1", "11"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 11 – porte la vibration de l’éveil."
+      },
+      "business_color": "Blanc / Doré",
+      "tagline": "« Inspire et guide à travers ton œuvre. »"
+    },
+    "1-22": {
+      "theme": "Les Bâtisseurs de Légende",
+      "vibration_alignment": "Vision + Réalisation",
+      "core_message": "Le 1 rêve grand, le 22 bâtit. Ensemble, c’est une combinaison rare pour concrétiser de très grands projets.",
+      "energy_match": {
+        "expression_number": "1 – Stratège, initiateur.",
+        "path_number": "22 – Visionnaire, architecte du concret."
+      },
+      "business_strengths": [
+        "Projets d’envergure",
+        "Leadership inspiré",
+        "Résilience exceptionnelle"
+      ],
+      "potential_challenges": [
+        "Pression et perfectionnisme",
+        "Trop grand, trop vite"
+      ],
+      "alignment_tips": "Reste connecté à ta mission intérieure pendant ton expansion.",
+      "launch_energy": {
+        "best_days": ["4", "8", "22"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 22 – pour manifester des fondations monumentales."
+      },
+      "business_color": "Bleu roi / Argent",
+      "tagline": "« Construis pour marquer le monde. »"
+    },
+    "1-33": {
+      "theme": "Les Leaders Inspirés par l'Amour",
+      "vibration_alignment": "Pouvoir + Compassion",
+      "core_message": "Une vibration rare qui unit leadership et service. Parfaite pour les marques à vocation humaine ou éducative.",
+      "energy_match": {
+        "expression_number": "1 – Dirigeant, moteur.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur."
+      },
+      "business_strengths": [
+        "Impact positif fort",
+        "Leadership bienveillant",
+        "Capacité à inspirer durablement"
+      ],
+      "potential_challenges": [
+        "Trop donner, s'épuiser",
+        "Conflit entre ambition et compassion"
+      ],
+      "alignment_tips": "Fais de ta réussite un outil de contribution.",
+      "launch_energy": {
+        "best_days": ["6", "9", "33"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 33 – symbolise l'amour universel au service du monde."
+      },
+      "business_color": "Or / Rose doux",
+      "tagline": "« Réussis pour inspirer et servir. »"
+    },
+    "2-1": {
+      "theme": "Le Partenaire Ambitieux",
+      "vibration_alignment": "Coopération + Leadership",
+      "core_message": "Le 2 apporte la diplomatie, le 1 l'initiative. Cette combinaison crée un équilibre entre collaboration et action, parfaite pour les partenariats stratégiques.",
+      "energy_match": {
+        "expression_number": "2 – Diplomatique, sensible, partenaire.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Excellente capacité de négociation",
+        "Leadership collaboratif",
+        "Vision équilibrée"
+      ],
+      "potential_challenges": [
+        "Conflit entre besoin de consensus et action rapide",
+        "Hésitation face aux décisions importantes"
+      ],
+      "alignment_tips": "Utilise ta sensibilité pour comprendre les besoins, puis agis avec confiance.",
+      "launch_energy": {
+        "best_days": ["2", "6"],
+        "avoid_days": ["5", "8"],
+        "ideal_launch_vibe": "Jour 2 – pour créer des alliances durables."
+      },
+      "business_color": "Bleu doux / Or",
+      "tagline": "« Collabore pour conquérir. »"
+    },
+    "2-2": {
+      "theme": "L'Harmonie Parfaite",
+      "vibration_alignment": "Diplomatie + Sensibilité",
+      "core_message": "Double vibration de coopération et d'harmonie. Parfaite pour les métiers relationnels, conseil, médiation ou services à la personne.",
+      "energy_match": {
+        "expression_number": "2 – Conciliant, intuitif, partenaire.",
+        "path_number": "2 – Sensible, équilibré, harmonieux."
+      },
+      "business_strengths": [
+        "Excellente écoute",
+        "Création d'harmonie",
+        "Relations durables"
+      ],
+      "potential_challenges": [
+        "Manque de prise de décision",
+        "Évitement des conflits nécessaires"
+      ],
+      "alignment_tips": "Apprends à dire non quand nécessaire : l'harmonie vraie vient de l'authenticité.",
+      "launch_energy": {
+        "best_days": ["2", "6", "9"],
+        "avoid_days": ["1", "8"],
+        "ideal_launch_vibe": "Jour 2 – pour attirer partenariats et harmonie."
+      },
+      "business_color": "Rose / Bleu pâle",
+      "tagline": "« Unis pour créer l'harmonie. »"
+    },
+    "2-3": {
+      "theme": "Les Créateurs Relationnels",
+      "vibration_alignment": "Coopération + Expression",
+      "core_message": "Le 2 favorise les relations, le 3 la créativité. Ensemble, ils créent une énergie parfaite pour le marketing relationnel, la communication ou l'art collaboratif.",
+      "energy_match": {
+        "expression_number": "2 – Diplomatique, à l'écoute.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Communication empathique",
+        "Créativité au service des autres",
+        "Charme naturel"
+      ],
+      "potential_challenges": [
+        "Dispersion créative",
+        "Difficulté à prioriser"
+      ],
+      "alignment_tips": "Structure ta créativité avec des objectifs clairs et des deadlines.",
+      "launch_energy": {
+        "best_days": ["2", "3", "6"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 3 – pour attirer visibilité et connexions."
+      },
+      "business_color": "Rose / Jaune",
+      "tagline": "« Crée avec cœur et connexion. »"
+    },
+    "2-4": {
+      "theme": "Les Bâtisseurs Méthodiques",
+      "vibration_alignment": "Partnership + Structure",
+      "core_message": "Le 2 apporte la collaboration, le 4 la stabilité. Parfaite pour les entreprises familiales, les structures établies ou les projets à long terme.",
+      "energy_match": {
+        "expression_number": "2 – Coopératif, patient.",
+        "path_number": "4 – Pragmatique, organisé, fiable."
+      },
+      "business_strengths": [
+        "Stabilité durable",
+        "Travail d'équipe solide",
+        "Fondations solides"
+      ],
+      "potential_challenges": [
+        "Lenteur dans les décisions",
+        "Résistance au changement"
+      ],
+      "alignment_tips": "Valorise la stabilité tout en restant ouvert aux innovations nécessaires.",
+      "launch_energy": {
+        "best_days": ["2", "4", "6"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 4 – pour établir des bases solides."
+      },
+      "business_color": "Bleu marine / Gris",
+      "tagline": "« Construis ensemble, construis durable. »"
+    },
+    "2-5": {
+      "theme": "Les Adaptables Relationnels",
+      "vibration_alignment": "Harmonie + Liberté",
+      "core_message": "Une combinaison qui unit stabilité relationnelle et besoin de changement. Parfaite pour les métiers de conseil, coaching ou services adaptatifs.",
+      "energy_match": {
+        "expression_number": "2 – Équilibré, à l'écoute.",
+        "path_number": "5 – Libre, curieux, changeant."
+      },
+      "business_strengths": [
+        "Adaptabilité relationnelle",
+        "Ouverture aux opportunités",
+        "Communication flexible"
+      ],
+      "potential_challenges": [
+        "Instabilité dans les partenariats",
+        "Conflit entre besoin de sécurité et liberté"
+      ],
+      "alignment_tips": "Trouve l'équilibre entre stabilité et flexibilité dans tes relations professionnelles.",
+      "launch_energy": {
+        "best_days": ["2", "5"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 5 – pour attirer nouveautés et opportunités."
+      },
+      "business_color": "Turquoise / Rose",
+      "tagline": "« Évolue avec grâce et connexion. »"
+    },
+    "2-6": {
+      "theme": "Les Protecteurs Bienveillants",
+      "vibration_alignment": "Service + Harmonie",
+      "core_message": "Double vibration de service et de responsabilité. Idéale pour les métiers de soin, éducation, conseil familial ou services à la communauté.",
+      "energy_match": {
+        "expression_number": "2 – Bienveillant, à l'écoute.",
+        "path_number": "6 – Responsable, protecteur, loyal."
+      },
+      "business_strengths": [
+        "Grande capacité d'écoute",
+        "Service authentique",
+        "Relations profondes"
+      ],
+      "potential_challenges": [
+        "Tendance à trop donner",
+        "Difficulté à fixer des limites"
+      ],
+      "alignment_tips": "Prends soin de toi pour mieux servir les autres.",
+      "launch_energy": {
+        "best_days": ["2", "6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – pour créer des relations durables et bienveillantes."
+      },
+      "business_color": "Vert / Rose",
+      "tagline": "« Sers avec amour et équilibre. »"
+    },
+    "2-7": {
+      "theme": "Les Intuitifs Analytiques",
+      "vibration_alignment": "Sensibilité + Introspection",
+      "core_message": "Le 2 apporte l'intuition relationnelle, le 7 la profondeur analytique. Parfaite pour la psychologie, le conseil spirituel ou la recherche intuitive.",
+      "energy_match": {
+        "expression_number": "2 – Intuitif, sensible.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Intuition développée",
+        "Analyse profonde",
+        "Compréhension subtile"
+      ],
+      "potential_challenges": [
+        "Isolement excessif",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Utilise ton intuition pour guider tes analyses, puis partage tes insights.",
+      "launch_energy": {
+        "best_days": ["2", "7"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 7 – pour des fondations spirituelles et intuitives."
+      },
+      "business_color": "Violet / Bleu nuit",
+      "tagline": "« Écoute l'invisible, comprend l'essentiel. »"
+    },
+    "2-8": {
+      "theme": "Les Négociateurs Puissants",
+      "vibration_alignment": "Diplomatie + Pouvoir",
+      "core_message": "Le 2 négocie, le 8 manifeste. Ensemble, ils créent une énergie de réussite matérielle par la collaboration. Parfaite pour le business développement ou les partenariats stratégiques.",
+      "energy_match": {
+        "expression_number": "2 – Négociateur, diplomate.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Excellente négociation",
+        "Réussite matérielle par partenariats",
+        "Équilibre pouvoir-diplomatie"
+      ],
+      "potential_challenges": [
+        "Conflit entre besoin d'harmonie et ambition",
+        "Difficulté à imposer ses conditions"
+      ],
+      "alignment_tips": "Utilise ta diplomatie comme force, pas comme faiblesse.",
+      "launch_energy": {
+        "best_days": ["2", "8"],
+        "avoid_days": ["1", "5"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par la collaboration."
+      },
+      "business_color": "Argent / Bleu royal",
+      "tagline": "« Négocie pour construire ton empire. »"
+    },
+    "2-9": {
+      "theme": "Les Serviteurs Universels",
+      "vibration_alignment": "Harmonie + Altruisme",
+      "core_message": "Double vibration de service et de compassion. Idéale pour les ONG, projets humanitaires, ou entreprises à mission sociale forte.",
+      "energy_match": {
+        "expression_number": "2 – Bienveillant, harmonieux.",
+        "path_number": "9 – Généreux, humaniste, complet."
+      },
+      "business_strengths": [
+        "Service authentique",
+        "Vision humanitaire",
+        "Impact positif large"
+      ],
+      "potential_challenges": [
+        "Épuisement par trop de don",
+        "Difficulté à monétiser"
+      ],
+      "alignment_tips": "Trouve l'équilibre entre service et viabilité économique.",
+      "launch_energy": {
+        "best_days": ["2", "6", "9"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour servir avec compassion et impact."
+      },
+      "business_color": "Rose / Blanc",
+      "tagline": "« Sers l'humanité avec amour. »"
+    },
+    "2-11": {
+      "theme": "Les Intuitifs Éclairés",
+      "vibration_alignment": "Sensibilité + Illumination",
+      "core_message": "Le 2 apporte la réceptivité, le 11 l'inspiration. Ensemble, ils créent une capacité unique de guidance intuitive. Parfaite pour le coaching spirituel, la guidance ou l'enseignement intuitif.",
+      "energy_match": {
+        "expression_number": "2 – Réceptif, intuitif.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Intuition exceptionnelle",
+        "Capacité d'inspiration",
+        "Guidance authentique"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Ancre tes inspirations dans des actions concrètes et structurées.",
+      "launch_energy": {
+        "best_days": ["2", "11"],
+        "avoid_days": ["5", "8"],
+        "ideal_launch_vibe": "Jour 11 – pour éveiller et guider avec lumière."
+      },
+      "business_color": "Blanc / Violet",
+      "tagline": "« Écoute la sagesse, guide avec lumière. »"
+    },
+    "2-22": {
+      "theme": "Les Bâtisseurs Collaboratifs",
+      "vibration_alignment": "Harmonie + Réalisation",
+      "core_message": "Le 2 unit, le 22 construit. Cette combinaison rare crée des projets monumentaux par la collaboration. Parfaite pour les grandes structures ou projets collectifs.",
+      "energy_match": {
+        "expression_number": "2 – Unificateur, harmonieux.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets d'envergure collaborative",
+        "Fondations solides",
+        "Vision collective"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de coordination"
+      ],
+      "alignment_tips": "Maintiens l'harmonie tout en construisant des structures durables.",
+      "launch_energy": {
+        "best_days": ["2", "4", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets monumentaux ensemble."
+      },
+      "business_color": "Bleu roi / Argent",
+      "tagline": "« Unis pour construire l'avenir. »"
+    },
+    "2-33": {
+      "theme": "Les Guérisseurs de l'Harmonie",
+      "vibration_alignment": "Service + Compassion Universelle",
+      "core_message": "Vibration rare qui unit service relationnel et amour universel. Parfaite pour les métiers de guérison, enseignement bienveillant ou service à l'humanité.",
+      "energy_match": {
+        "expression_number": "2 – Serviteur, harmonieux.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Impact guérisseur profond",
+        "Service universel",
+        "Amour inconditionnel"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie vitale.",
+      "launch_energy": {
+        "best_days": ["2", "6", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour guérir et servir avec amour universel."
+      },
+      "business_color": "Rose doux / Or",
+      "tagline": "« Guéris par l'amour, sers par l'harmonie. »"
+    },
+    "3-1": {
+      "theme": "Les Créateurs Pionniers",
+      "vibration_alignment": "Créativité + Initiative",
+      "core_message": "Le 3 apporte l'expression créative, le 1 l'action. Ensemble, ils créent une énergie dynamique parfaite pour lancer des projets créatifs innovants.",
+      "energy_match": {
+        "expression_number": "3 – Créatif, expressif, inspirant.",
+        "path_number": "1 – Dynamique, courageux, initiateur."
+      },
+      "business_strengths": [
+        "Innovation créative",
+        "Communication puissante",
+        "Leadership inspirant"
+      ],
+      "potential_challenges": [
+        "Manque de suivi",
+        "Impulsivité créative"
+      ],
+      "alignment_tips": "Structure tes idées créatives avec un plan d'action clair.",
+      "launch_energy": {
+        "best_days": ["1", "3", "5"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 3 – pour attirer visibilité et succès créatif."
+      },
+      "business_color": "Jaune / Rouge",
+      "tagline": "« Crée, inspire, conquiers. »"
+    },
+    "3-2": {
+      "theme": "Les Artistes Collaboratifs",
+      "vibration_alignment": "Créativité + Harmonie",
+      "core_message": "Le 3 crée, le 2 unit. Parfaite pour les projets artistiques collaboratifs, le marketing relationnel ou la communication bienveillante.",
+      "energy_match": {
+        "expression_number": "3 – Expressif, créatif, joyeux.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Créativité relationnelle",
+        "Communication empathique",
+        "Projets collaboratifs réussis"
+      ],
+      "potential_challenges": [
+        "Dépendance aux autres pour créer",
+        "Manque d'affirmation créative"
+      ],
+      "alignment_tips": "Exprime ta créativité tout en valorisant les contributions des autres.",
+      "launch_energy": {
+        "best_days": ["2", "3", "6"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 3 – pour créer avec cœur et connexion."
+      },
+      "business_color": "Jaune / Rose",
+      "tagline": "« Crée ensemble, inspire ensemble. »"
+    },
+    "3-3": {
+      "theme": "Les Maîtres de l'Expression",
+      "vibration_alignment": "Créativité + Expression",
+      "core_message": "Double vibration créative. Parfaite pour les arts, la communication, le marketing, la publicité ou tout métier nécessitant expression et créativité.",
+      "energy_match": {
+        "expression_number": "3 – Créatif, expressif, charismatique.",
+        "path_number": "3 – Inspirant, joyeux, communicant."
+      },
+      "business_strengths": [
+        "Créativité exceptionnelle",
+        "Communication puissante",
+        "Visibilité naturelle"
+      ],
+      "potential_challenges": [
+        "Dispersion créative",
+        "Manque de profondeur"
+      ],
+      "alignment_tips": "Canalise ta créativité vers des projets structurés et durables.",
+      "launch_energy": {
+        "best_days": ["3", "6", "9"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 3 – pour maximiser créativité et visibilité."
+      },
+      "business_color": "Jaune vif / Orange",
+      "tagline": "« Exprime-toi, inspire le monde. »"
+    },
+    "3-4": {
+      "theme": "Les Créateurs Structurés",
+      "vibration_alignment": "Expression + Organisation",
+      "core_message": "Le 3 apporte la créativité, le 4 la structure. Ensemble, ils créent des projets créatifs durables et bien organisés.",
+      "energy_match": {
+        "expression_number": "3 – Créatif, innovant.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Créativité canalisée",
+        "Projets durables",
+        "Exécution méthodique"
+      ],
+      "potential_challenges": [
+        "Conflit créativité-structure",
+        "Rigidité limitant l'innovation"
+      ],
+      "alignment_tips": "Laisse ta créativité s'exprimer dans un cadre structuré.",
+      "launch_energy": {
+        "best_days": ["3", "4"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 4 – pour créer avec méthode et stabilité."
+      },
+      "business_color": "Jaune / Gris",
+      "tagline": "« Structure ta créativité, réalise tes rêves. »"
+    },
+    "3-5": {
+      "theme": "Les Innovateurs Libres",
+      "vibration_alignment": "Créativité + Liberté",
+      "core_message": "Double énergie de changement et d'expression. Parfaite pour les médias, le marketing digital, les projets innovants ou les entreprises créatives dynamiques.",
+      "energy_match": {
+        "expression_number": "3 – Expressif, créatif.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Innovation constante",
+        "Adaptabilité créative",
+        "Communication moderne"
+      ],
+      "potential_challenges": [
+        "Instabilité créative",
+        "Manque de continuité"
+      ],
+      "alignment_tips": "Embrasse le changement tout en maintenant une identité créative claire.",
+      "launch_energy": {
+        "best_days": ["3", "5"],
+        "avoid_days": ["4", "7"],
+        "ideal_launch_vibe": "Jour 5 – pour attirer nouveautés et opportunités créatives."
+      },
+      "business_color": "Turquoise / Jaune",
+      "tagline": "« Évolue, crée, transforme. »"
+    },
+    "3-6": {
+      "theme": "Les Créateurs Bienveillants",
+      "vibration_alignment": "Expression + Service",
+      "core_message": "Le 3 inspire, le 6 protège. Parfaite pour l'éducation créative, l'art-thérapie, le design bienveillant ou les projets créatifs au service des autres.",
+      "energy_match": {
+        "expression_number": "3 – Inspirant, créatif.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Créativité au service",
+        "Communication bienveillante",
+        "Projets éthiques"
+      ],
+      "potential_challenges": [
+        "Conflit entre créativité et responsabilité",
+        "Tendance à trop donner"
+      ],
+      "alignment_tips": "Utilise ta créativité pour servir et inspirer positivement.",
+      "launch_energy": {
+        "best_days": ["3", "6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – pour créer avec cœur et responsabilité."
+      },
+      "business_color": "Jaune / Vert",
+      "tagline": "« Crée pour servir, inspire pour guérir. »"
+    },
+    "3-7": {
+      "theme": "Les Artistes Mystiques",
+      "vibration_alignment": "Créativité + Spiritualité",
+      "core_message": "Le 3 exprime, le 7 approfondit. Parfaite pour l'art spirituel, la création intuitive, la communication ésotérique ou les projets créatifs profonds.",
+      "energy_match": {
+        "expression_number": "3 – Expressif, inspirant.",
+        "path_number": "7 – Introspectif, spirituel, analytique."
+      },
+      "business_strengths": [
+        "Créativité profonde",
+        "Expression spirituelle",
+        "Art visionnaire"
+      ],
+      "potential_challenges": [
+        "Isolement créatif",
+        "Difficulté à communiquer simplement"
+      ],
+      "alignment_tips": "Partage ta vision créative profonde avec le monde.",
+      "launch_energy": {
+        "best_days": ["3", "7"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 7 – pour des créations spirituelles et profondes."
+      },
+      "business_color": "Violet / Jaune",
+      "tagline": "« Crée l'invisible, exprime l'essentiel. »"
+    },
+    "3-8": {
+      "theme": "Les Créateurs de Succès",
+      "vibration_alignment": "Expression + Pouvoir",
+      "core_message": "Le 3 communique, le 8 manifeste. Ensemble, ils créent une réussite matérielle par la créativité. Parfaite pour le marketing, la publicité ou les entreprises créatives ambitieuses.",
+      "energy_match": {
+        "expression_number": "3 – Créatif, charismatique.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Créativité lucrative",
+        "Communication puissante",
+        "Succès matériel par l'art"
+      ],
+      "potential_challenges": [
+        "Conflit art-commerce",
+        "Perte d'authenticité créative"
+      ],
+      "alignment_tips": "Garde ton authenticité créative tout en visant le succès.",
+      "launch_energy": {
+        "best_days": ["3", "8"],
+        "avoid_days": ["2", "7"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès créatif et abondance."
+      },
+      "business_color": "Or / Jaune",
+      "tagline": "« Crée, communique, conquiers. »"
+    },
+    "3-9": {
+      "theme": "Les Inspirateurs Universels",
+      "vibration_alignment": "Créativité + Humanisme",
+      "core_message": "Le 3 inspire, le 9 transforme. Parfaite pour les projets créatifs à impact social, l'art engagé, la communication humanitaire ou les entreprises créatives à mission.",
+      "energy_match": {
+        "expression_number": "3 – Inspirant, expressif.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Créativité transformatrice",
+        "Impact positif large",
+        "Inspiration universelle"
+      ],
+      "potential_challenges": [
+        "Trop d'idéalisme",
+        "Difficulté à monétiser"
+      ],
+      "alignment_tips": "Utilise ta créativité pour transformer le monde tout en restant viable.",
+      "launch_energy": {
+        "best_days": ["3", "9"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour inspirer et transformer avec créativité."
+      },
+      "business_color": "Jaune / Blanc",
+      "tagline": "« Inspire, transforme, élève. »"
+    },
+    "3-11": {
+      "theme": "Les Visionnaires Créatifs",
+      "vibration_alignment": "Expression + Illumination",
+      "core_message": "Le 3 exprime, le 11 éclaire. Ensemble, ils créent une capacité unique d'inspiration visionnaire. Parfaite pour l'art visionnaire, la communication inspirante ou les projets créatifs éclairés.",
+      "energy_match": {
+        "expression_number": "3 – Créatif, inspirant.",
+        "path_number": "11 – Éclairé, intuitif, visionnaire."
+      },
+      "business_strengths": [
+        "Créativité visionnaire",
+        "Inspiration profonde",
+        "Expression éclairée"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise tes visions créatives dans des projets structurés.",
+      "launch_energy": {
+        "best_days": ["3", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour éveiller et inspirer par la créativité."
+      },
+      "business_color": "Blanc / Jaune",
+      "tagline": "« Éclaire par ta créativité, inspire par ta vision. »"
+    },
+    "3-22": {
+      "theme": "Les Architectes de l'Expression",
+      "vibration_alignment": "Créativité + Réalisation",
+      "core_message": "Le 3 crée, le 22 construit. Cette combinaison rare permet de concrétiser de grands projets créatifs. Parfaite pour les grandes productions, les projets créatifs monumentaux ou les entreprises créatives d'envergure.",
+      "energy_match": {
+        "expression_number": "3 – Créatif, expressif.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets créatifs d'envergure",
+        "Réalisation monumentale",
+        "Vision créative concrète"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de réalisation"
+      ],
+      "alignment_tips": "Construis tes visions créatives avec méthode et patience.",
+      "launch_energy": {
+        "best_days": ["3", "4", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets créatifs monumentaux."
+      },
+      "business_color": "Bleu roi / Jaune",
+      "tagline": "« Crée grand, construis l'impossible. »"
+    },
+    "3-33": {
+      "theme": "Les Créateurs de l'Amour",
+      "vibration_alignment": "Expression + Compassion Universelle",
+      "core_message": "Vibration rare qui unit créativité et amour universel. Parfaite pour l'art guérisseur, la création bienveillante ou les projets créatifs au service de l'humanité.",
+      "energy_match": {
+        "expression_number": "3 – Créatif, inspirant.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Créativité guérisseuse",
+        "Impact positif profond",
+        "Art au service de l'amour"
+      ],
+      "potential_challenges": [
+        "Épuisement par trop de don",
+        "Perte d'identité créative"
+      ],
+      "alignment_tips": "Crée avec amour tout en préservant ton énergie créative.",
+      "launch_energy": {
+        "best_days": ["3", "6", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour créer avec amour universel et compassion."
+      },
+      "business_color": "Rose doux / Jaune",
+      "tagline": "« Crée avec amour, inspire par la compassion. »"
+    },
+    "4-1": {
+      "theme": "Les Constructeurs Ambitieux",
+      "vibration_alignment": "Structure + Initiative",
+      "core_message": "Le 4 apporte la stabilité, le 1 l'action. Ensemble, ils créent une croissance structurée et ambitieuse. Parfaite pour les entreprises en expansion ou les projets à long terme.",
+      "energy_match": {
+        "expression_number": "4 – Pragmatique, organisé, solide.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Croissance structurée",
+        "Fondations solides",
+        "Leadership méthodique"
+      ],
+      "potential_challenges": [
+        "Conflit entre stabilité et innovation",
+        "Rigidité limitant la croissance"
+      ],
+      "alignment_tips": "Construis des bases solides tout en restant ouvert aux opportunités.",
+      "launch_energy": {
+        "best_days": ["4", "8"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 4 – pour établir des fondations durables."
+      },
+      "business_color": "Gris / Rouge",
+      "tagline": "« Construis avec méthode, grandis avec audace. »"
+    },
+    "4-2": {
+      "theme": "Les Bâtisseurs Collaboratifs",
+      "vibration_alignment": "Structure + Harmonie",
+      "core_message": "Le 4 construit, le 2 unit. Parfaite pour les entreprises familiales, les structures collaboratives ou les projets nécessitant stabilité et équipe.",
+      "energy_match": {
+        "expression_number": "4 – Organisé, fiable, méthodique.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Stabilité relationnelle",
+        "Travail d'équipe solide",
+        "Fondations harmonieuses"
+      ],
+      "potential_challenges": [
+        "Lenteur dans les décisions",
+        "Résistance au changement"
+      ],
+      "alignment_tips": "Maintiens la stabilité tout en favorisant l'harmonie d'équipe.",
+      "launch_energy": {
+        "best_days": ["2", "4", "6"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 4 – pour créer des structures harmonieuses."
+      },
+      "business_color": "Gris / Bleu doux",
+      "tagline": "« Construis ensemble, construis durable. »"
+    },
+    "4-3": {
+      "theme": "Les Organisateurs Créatifs",
+      "vibration_alignment": "Structure + Expression",
+      "core_message": "Le 4 organise, le 3 exprime. Ensemble, ils créent des projets créatifs bien structurés. Parfaite pour les agences créatives, le design organisé ou les projets artistiques structurés.",
+      "energy_match": {
+        "expression_number": "4 – Pragmatique, organisé.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Créativité organisée",
+        "Projets structurés et expressifs",
+        "Exécution créative"
+      ],
+      "potential_challenges": [
+        "Conflit créativité-structure",
+        "Rigidité limitant l'innovation"
+      ],
+      "alignment_tips": "Laisse la créativité s'exprimer dans un cadre organisé.",
+      "launch_energy": {
+        "best_days": ["3", "4"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 4 – pour créer avec méthode et expression."
+      },
+      "business_color": "Gris / Jaune",
+      "tagline": "« Structure ta créativité, exprime ta vision. »"
+    },
+    "4-4": {
+      "theme": "Les Piliers de Stabilité",
+      "vibration_alignment": "Structure + Organisation",
+      "core_message": "Double vibration de stabilité et d'organisation. Parfaite pour les entreprises établies, les structures traditionnelles ou les projets nécessitant une base solide et durable.",
+      "energy_match": {
+        "expression_number": "4 – Pragmatique, organisé, fiable.",
+        "path_number": "4 – Méthodique, solide, structuré."
+      },
+      "business_strengths": [
+        "Stabilité exceptionnelle",
+        "Organisation parfaite",
+        "Fondations inébranlables"
+      ],
+      "potential_challenges": [
+        "Rigidité excessive",
+        "Résistance totale au changement"
+      ],
+      "alignment_tips": "Maintiens la stabilité tout en restant ouvert aux innovations nécessaires.",
+      "launch_energy": {
+        "best_days": ["4", "8"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 4 – pour établir des fondations monumentales."
+      },
+      "business_color": "Gris / Bleu marine",
+      "tagline": "« Construis pour durer, organise pour réussir. »"
+    },
+    "4-5": {
+      "theme": "Les Adaptables Structurés",
+      "vibration_alignment": "Stabilité + Liberté",
+      "core_message": "Le 4 stabilise, le 5 change. Cette combinaison crée une capacité unique d'adaptation structurée. Parfaite pour les entreprises en transition ou les projets nécessitant flexibilité et organisation.",
+      "energy_match": {
+        "expression_number": "4 – Organisé, stable.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Adaptabilité organisée",
+        "Flexibilité structurée",
+        "Évolution méthodique"
+      ],
+      "potential_challenges": [
+        "Conflit stabilité-liberté",
+        "Instabilité dans les structures"
+      ],
+      "alignment_tips": "Trouve l'équilibre entre structure et flexibilité.",
+      "launch_energy": {
+        "best_days": ["4", "5"],
+        "avoid_days": ["2", "8"],
+        "ideal_launch_vibe": "Jour 5 – pour évoluer avec structure et liberté."
+      },
+      "business_color": "Gris / Turquoise",
+      "tagline": "« Structure l'évolution, organise le changement. »"
+    },
+    "4-6": {
+      "theme": "Les Protecteurs Méthodiques",
+      "vibration_alignment": "Organisation + Service",
+      "core_message": "Le 4 organise, le 6 protège. Parfaite pour les entreprises de service structurées, l'éducation organisée ou les projets nécessitant stabilité et responsabilité.",
+      "energy_match": {
+        "expression_number": "4 – Pragmatique, organisé.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Service structuré",
+        "Responsabilité organisée",
+        "Protection méthodique"
+      ],
+      "potential_challenges": [
+        "Rigidité dans le service",
+        "Surprotection limitante"
+      ],
+      "alignment_tips": "Organise ton service tout en gardant la bienveillance.",
+      "launch_energy": {
+        "best_days": ["4", "6"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 6 – pour créer des structures protectrices."
+      },
+      "business_color": "Gris / Vert",
+      "tagline": "« Organise pour protéger, structure pour servir. »"
+    },
+    "4-7": {
+      "theme": "Les Analystes Structurés",
+      "vibration_alignment": "Organisation + Analyse",
+      "core_message": "Le 4 structure, le 7 analyse. Parfaite pour la recherche organisée, l'analyse méthodique ou les projets nécessitant profondeur et organisation.",
+      "energy_match": {
+        "expression_number": "4 – Organisé, méthodique.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Analyse structurée",
+        "Recherche méthodique",
+        "Profondeur organisée"
+      ],
+      "potential_challenges": [
+        "Isolement excessif",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Structure tes analyses pour les rendre actionnables.",
+      "launch_energy": {
+        "best_days": ["4", "7"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 7 – pour des fondations analytiques solides."
+      },
+      "business_color": "Gris / Bleu nuit",
+      "tagline": "« Analyse avec méthode, comprend avec structure. »"
+    },
+    "4-8": {
+      "theme": "Les Bâtisseurs de Succès",
+      "vibration_alignment": "Structure + Pouvoir",
+      "core_message": "Le 4 construit, le 8 manifeste. Ensemble, ils créent une réussite matérielle par l'organisation. Parfaite pour les entreprises ambitieuses, la construction ou les projets nécessitant structure et succès.",
+      "energy_match": {
+        "expression_number": "4 – Organisé, fiable.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Succès structuré",
+        "Réussite matérielle organisée",
+        "Construction méthodique"
+      ],
+      "potential_challenges": [
+        "Rigidité limitant l'expansion",
+        "Pression excessive"
+      ],
+      "alignment_tips": "Construis méthodiquement tout en visant le succès.",
+      "launch_energy": {
+        "best_days": ["4", "8"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par l'organisation."
+      },
+      "business_color": "Gris / Or",
+      "tagline": "« Construis avec méthode, réussis avec structure. »"
+    },
+    "4-9": {
+      "theme": "Les Organisateurs Humanitaires",
+      "vibration_alignment": "Structure + Altruisme",
+      "core_message": "Le 4 organise, le 9 transforme. Parfaite pour les organisations humanitaires, les structures à mission sociale ou les projets nécessitant organisation et compassion.",
+      "energy_match": {
+        "expression_number": "4 – Pragmatique, organisé.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Organisation humanitaire",
+        "Structure bienveillante",
+        "Impact organisé"
+      ],
+      "potential_challenges": [
+        "Conflit structure-compassion",
+        "Rigidité limitant l'humanité"
+      ],
+      "alignment_tips": "Organise ton service humanitaire avec méthode et cœur.",
+      "launch_energy": {
+        "best_days": ["4", "9"],
+        "avoid_days": ["5", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour organiser avec compassion et impact."
+      },
+      "business_color": "Gris / Blanc",
+      "tagline": "« Structure le service, organise la compassion. »"
+    },
+    "4-11": {
+      "theme": "Les Constructeurs Visionnaires",
+      "vibration_alignment": "Organisation + Illumination",
+      "core_message": "Le 4 structure, le 11 éclaire. Ensemble, ils créent des projets visionnaires bien organisés. Parfaite pour les entreprises innovantes structurées ou les projets nécessitant organisation et inspiration.",
+      "energy_match": {
+        "expression_number": "4 – Organisé, méthodique.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Vision structurée",
+        "Innovation organisée",
+        "Inspiration méthodique"
+      ],
+      "potential_challenges": [
+        "Conflit structure-inspiration",
+        "Rigidité limitant la vision"
+      ],
+      "alignment_tips": "Structure tes visions pour les rendre réalisables.",
+      "launch_energy": {
+        "best_days": ["4", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour construire avec vision et méthode."
+      },
+      "business_color": "Gris / Blanc",
+      "tagline": "« Structure la vision, organise l'inspiration. »"
+    },
+    "4-22": {
+      "theme": "Les Maîtres Bâtisseurs",
+      "vibration_alignment": "Structure + Réalisation",
+      "core_message": "Le 4 organise, le 22 construit. Cette combinaison rare permet de réaliser des projets monumentaux structurés. Parfaite pour les grandes constructions, les projets d'envergure ou les entreprises nécessitant organisation et réalisation.",
+      "energy_match": {
+        "expression_number": "4 – Organisé, méthodique, fiable.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets monumentaux structurés",
+        "Réalisation organisée",
+        "Construction méthodique d'envergure"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité organisationnelle"
+      ],
+      "alignment_tips": "Organise méthodiquement tes projets monumentaux.",
+      "launch_energy": {
+        "best_days": ["4", "8", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures monumentales."
+      },
+      "business_color": "Gris / Bleu roi",
+      "tagline": "« Organise l'impossible, construis le monumental. »"
+    },
+    "4-33": {
+      "theme": "Les Organisateurs de l'Amour",
+      "vibration_alignment": "Structure + Compassion Universelle",
+      "core_message": "Vibration rare qui unit organisation et amour universel. Parfaite pour les structures de guérison, les organisations bienveillantes ou les projets nécessitant organisation et compassion.",
+      "energy_match": {
+        "expression_number": "4 – Organisé, pragmatique.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Organisation bienveillante",
+        "Structure guérisseuse",
+        "Service organisé universel"
+      ],
+      "potential_challenges": [
+        "Conflit structure-compassion",
+        "Rigidité limitant l'amour"
+      ],
+      "alignment_tips": "Organise ton service avec méthode et amour.",
+      "launch_energy": {
+        "best_days": ["4", "6", "33"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 33 – pour organiser avec amour universel."
+      },
+      "business_color": "Gris / Rose doux",
+      "tagline": "« Structure l'amour, organise la compassion. »"
+    },
+    "5-1": {
+      "theme": "Les Aventuriers Pionniers",
+      "vibration_alignment": "Liberté + Initiative",
+      "core_message": "Le 5 apporte la liberté, le 1 l'action. Ensemble, ils créent une énergie dynamique parfaite pour les start-ups innovantes ou les projets audacieux.",
+      "energy_match": {
+        "expression_number": "5 – Libre, aventureux, changeant.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": ["Innovation constante", "Adaptabilité rapide", "Esprit pionnier"],
+      "potential_challenges": ["Instabilité", "Manque de continuité"],
+      "alignment_tips": "Canalise ta liberté avec un objectif clair.",
+      "launch_energy": {"best_days": ["1", "5"], "avoid_days": ["4"], "ideal_launch_vibe": "Jour 5 – pour attirer nouveautés et opportunités."},
+      "business_color": "Turquoise / Rouge",
+      "tagline": "« Libère ton potentiel, conquiers l'avenir. »"
+    },
+    "5-2": {
+      "theme": "Les Adaptables Harmonieux",
+      "vibration_alignment": "Liberté + Coopération",
+      "core_message": "Le 5 change, le 2 unit. Parfaite pour les entreprises adaptatives collaboratives ou les projets nécessitant flexibilité et partenariat.",
+      "energy_match": {
+        "expression_number": "5 – Libre, changeant.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": ["Adaptabilité relationnelle", "Flexibilité harmonieuse", "Évolution collaborative"],
+      "potential_challenges": ["Instabilité dans les partenariats", "Conflit liberté-stabilité"],
+      "alignment_tips": "Trouve l'équilibre entre liberté et collaboration.",
+      "launch_energy": {"best_days": ["2", "5"], "avoid_days": ["4", "8"], "ideal_launch_vibe": "Jour 5 – pour évoluer avec harmonie."},
+      "business_color": "Turquoise / Rose",
+      "tagline": "« Évolue ensemble, change avec grâce. »"
+    },
+    "5-3": {
+      "theme": "Les Innovateurs Expressifs",
+      "vibration_alignment": "Liberté + Créativité",
+      "core_message": "Double énergie de changement et d'expression. Parfaite pour les médias, le marketing digital ou les entreprises créatives dynamiques.",
+      "energy_match": {
+        "expression_number": "5 – Libre, aventureux.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": ["Innovation créative", "Communication moderne", "Adaptabilité expressive"],
+      "potential_challenges": ["Dispersion", "Manque de continuité créative"],
+      "alignment_tips": "Embrasse le changement tout en maintenant une identité créative.",
+      "launch_energy": {"best_days": ["3", "5"], "avoid_days": ["4", "7"], "ideal_launch_vibe": "Jour 5 – pour créer avec liberté et innovation."},
+      "business_color": "Turquoise / Jaune",
+      "tagline": "« Change, crée, transforme. »"
+    },
+    "5-4": {
+      "theme": "Les Évolutifs Structurés",
+      "vibration_alignment": "Liberté + Organisation",
+      "core_message": "Le 5 évolue, le 4 structure. Cette combinaison crée une capacité unique d'évolution organisée. Parfaite pour les entreprises en transformation ou les projets nécessitant changement et structure.",
+      "energy_match": {
+        "expression_number": "5 – Libre, changeant.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": ["Évolution structurée", "Changement organisé", "Adaptabilité méthodique"],
+      "potential_challenges": ["Conflit liberté-structure", "Instabilité dans l'organisation"],
+      "alignment_tips": "Structure tes changements pour les rendre durables.",
+      "launch_energy": {"best_days": ["4", "5"], "avoid_days": ["2", "8"], "ideal_launch_vibe": "Jour 5 – pour évoluer avec méthode."},
+      "business_color": "Turquoise / Gris",
+      "tagline": "« Évolue avec structure, change avec méthode. »"
+    },
+    "5-5": {
+      "theme": "Les Maîtres du Changement",
+      "vibration_alignment": "Liberté + Aventure",
+      "core_message": "Double vibration de liberté et de changement. Parfaite pour les entreprises dynamiques, les projets innovants ou les structures nécessitant flexibilité constante.",
+      "energy_match": {
+        "expression_number": "5 – Libre, aventureux, changeant.",
+        "path_number": "5 – Curieux, libre, évolutif."
+      },
+      "business_strengths": ["Adaptabilité exceptionnelle", "Innovation constante", "Liberté totale"],
+      "potential_challenges": ["Instabilité extrême", "Manque de continuité"],
+      "alignment_tips": "Canalise ta liberté vers des objectifs clairs et durables.",
+      "launch_energy": {"best_days": ["5"], "avoid_days": ["4"], "ideal_launch_vibe": "Jour 5 – pour maximiser liberté et opportunités."},
+      "business_color": "Turquoise / Bleu",
+      "tagline": "« Libère-toi, évolue, conquiers. »"
+    },
+    "5-6": {
+      "theme": "Les Protecteurs Évolutifs",
+      "vibration_alignment": "Liberté + Service",
+      "core_message": "Le 5 change, le 6 protège. Parfaite pour les services adaptatifs, l'éducation évolutive ou les projets nécessitant flexibilité et responsabilité.",
+      "energy_match": {
+        "expression_number": "5 – Libre, aventureux.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": ["Service adaptatif", "Protection évolutive", "Responsabilité flexible"],
+      "potential_challenges": ["Conflit liberté-responsabilité", "Instabilité dans le service"],
+      "alignment_tips": "Utilise ta liberté pour mieux servir et protéger.",
+      "launch_energy": {"best_days": ["5", "6"], "avoid_days": ["4"], "ideal_launch_vibe": "Jour 6 – pour servir avec flexibilité."},
+      "business_color": "Turquoise / Vert",
+      "tagline": "« Évolue pour servir, change pour protéger. »"
+    },
+    "5-7": {
+      "theme": "Les Explorateurs Analytiques",
+      "vibration_alignment": "Liberté + Introspection",
+      "core_message": "Le 5 explore, le 7 analyse. Parfaite pour la recherche innovante, l'analyse évolutive ou les projets nécessitant exploration et profondeur.",
+      "energy_match": {
+        "expression_number": "5 – Libre, curieux.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": ["Exploration analytique", "Recherche innovante", "Analyse évolutive"],
+      "potential_challenges": ["Isolement", "Suranalyse paralysante"],
+      "alignment_tips": "Explore avec méthode, analyse avec action.",
+      "launch_energy": {"best_days": ["5", "7"], "avoid_days": ["3"], "ideal_launch_vibe": "Jour 7 – pour explorer avec profondeur."},
+      "business_color": "Turquoise / Violet",
+      "tagline": "« Explore, analyse, comprends. »"
+    },
+    "5-8": {
+      "theme": "Les Entrepreneurs Dynamiques",
+      "vibration_alignment": "Liberté + Pouvoir",
+      "core_message": "Le 5 innove, le 8 manifeste. Ensemble, ils créent une réussite matérielle par l'innovation. Parfaite pour les entreprises dynamiques ambitieuses ou les projets nécessitant changement et succès.",
+      "energy_match": {
+        "expression_number": "5 – Libre, aventureux.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": ["Innovation lucrative", "Succès dynamique", "Réussite évolutive"],
+      "potential_challenges": ["Instabilité limitant le succès", "Conflit liberté-stabilité"],
+      "alignment_tips": "Canalise ton innovation vers le succès durable.",
+      "launch_energy": {"best_days": ["5", "8"], "avoid_days": ["2", "4"], "ideal_launch_vibe": "Jour 8 – pour manifester succès par l'innovation."},
+      "business_color": "Turquoise / Or",
+      "tagline": "« Innove, évolue, réussis. »"
+    },
+    "5-9": {
+      "theme": "Les Transformateurs Universels",
+      "vibration_alignment": "Liberté + Humanisme",
+      "core_message": "Le 5 change, le 9 transforme. Parfaite pour les projets transformateurs, les entreprises à impact social ou les structures nécessitant évolution et compassion.",
+      "energy_match": {
+        "expression_number": "5 – Libre, évolutif.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": ["Transformation évolutive", "Impact positif large", "Évolution humanitaire"],
+      "potential_challenges": ["Instabilité limitant l'impact", "Conflit liberté-compassion"],
+      "alignment_tips": "Utilise ta liberté pour transformer positivement.",
+      "launch_energy": {"best_days": ["5", "9"], "avoid_days": ["4", "8"], "ideal_launch_vibe": "Jour 9 – pour transformer avec liberté."},
+      "business_color": "Turquoise / Blanc",
+      "tagline": "« Évolue, transforme, élève. »"
+    },
+    "5-11": {
+      "theme": "Les Visionnaires Libres",
+      "vibration_alignment": "Liberté + Illumination",
+      "core_message": "Le 5 explore, le 11 éclaire. Ensemble, ils créent une capacité unique d'innovation visionnaire. Parfaite pour les entreprises innovantes visionnaires ou les projets nécessitant liberté et inspiration.",
+      "energy_match": {
+        "expression_number": "5 – Libre, aventureux.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": ["Innovation visionnaire", "Exploration éclairée", "Liberté inspirante"],
+      "potential_challenges": ["Surcharge émotionnelle", "Manque de structure"],
+      "alignment_tips": "Canalise tes visions dans des projets structurés.",
+      "launch_energy": {"best_days": ["5", "11"], "avoid_days": ["4", "7"], "ideal_launch_vibe": "Jour 11 – pour évoluer avec vision."},
+      "business_color": "Turquoise / Blanc",
+      "tagline": "« Évolue avec vision, innove avec lumière. »"
+    },
+    "5-22": {
+      "theme": "Les Bâtisseurs Évolutifs",
+      "vibration_alignment": "Liberté + Réalisation",
+      "core_message": "Le 5 évolue, le 22 construit. Cette combinaison rare permet de réaliser de grands projets évolutifs. Parfaite pour les grandes entreprises dynamiques ou les projets nécessitant changement et réalisation.",
+      "energy_match": {
+        "expression_number": "5 – Libre, évolutif.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": ["Projets évolutifs d'envergure", "Réalisation dynamique", "Construction innovante"],
+      "potential_challenges": ["Pression de la perfection", "Complexité évolutive"],
+      "alignment_tips": "Construis tes évolutions avec méthode et vision.",
+      "launch_energy": {"best_days": ["4", "5", "22"], "avoid_days": ["2"], "ideal_launch_vibe": "Jour 22 – pour bâtir des projets évolutifs monumentaux."},
+      "business_color": "Turquoise / Bleu roi",
+      "tagline": "« Évolue grand, construis l'avenir. »"
+    },
+    "5-33": {
+      "theme": "Les Évolutifs de l'Amour",
+      "vibration_alignment": "Liberté + Compassion Universelle",
+      "core_message": "Vibration rare qui unit liberté et amour universel. Parfaite pour les entreprises évolutives bienveillantes ou les projets nécessitant changement et compassion.",
+      "energy_match": {
+        "expression_number": "5 – Libre, évolutif.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": ["Évolution bienveillante", "Service universel adaptatif", "Amour évolutif"],
+      "potential_challenges": ["Épuisement", "Instabilité limitant le service"],
+      "alignment_tips": "Évolue avec amour tout en préservant ton énergie.",
+      "launch_energy": {"best_days": ["5", "6", "33"], "avoid_days": ["4", "7"], "ideal_launch_vibe": "Jour 33 – pour évoluer avec amour universel."},
+      "business_color": "Turquoise / Rose doux",
+      "tagline": "« Évolue avec amour, change avec compassion. »"
+    },
+    "6-1": {
+      "theme": "Les Protecteurs Ambitieux",
+      "vibration_alignment": "Responsabilité + Initiative",
+      "core_message": "Le 6 protège, le 1 dirige. Ensemble, ils créent un leadership bienveillant. Parfaite pour les entreprises de service avec vision ou les projets nécessitant responsabilité et ambition.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant, protecteur.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Leadership bienveillant",
+        "Vision éthique",
+        "Croissance responsable"
+      ],
+      "potential_challenges": [
+        "Conflit entre ambition et responsabilité",
+        "Tendance à surprotéger"
+      ],
+      "alignment_tips": "Utilise ta responsabilité pour guider avec bienveillance.",
+      "launch_energy": {
+        "best_days": ["6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – pour créer des structures protectrices ambitieuses."
+      },
+      "business_color": "Vert / Rouge",
+      "tagline": "« Protège avec ambition, dirige avec cœur. »"
+    },
+    "6-2": {
+      "theme": "Les Serviteurs Harmonieux",
+      "vibration_alignment": "Service + Harmonie",
+      "core_message": "Double vibration de service et d'harmonie. Parfaite pour les métiers de soin, conseil relationnel ou services nécessitant bienveillance et collaboration.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant, loyal.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Service harmonieux",
+        "Relations profondes",
+        "Équipe bienveillante"
+      ],
+      "potential_challenges": [
+        "Tendance à trop donner",
+        "Difficulté à fixer des limites"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton équilibre.",
+      "launch_energy": {
+        "best_days": ["2", "6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – pour créer des relations durables et bienveillantes."
+      },
+      "business_color": "Vert / Rose",
+      "tagline": "« Sers avec harmonie, protège avec amour. »"
+    },
+    "6-3": {
+      "theme": "Les Créateurs Bienveillants",
+      "vibration_alignment": "Protection + Expression",
+      "core_message": "Le 6 protège, le 3 exprime. Parfaite pour l'éducation créative, l'art-thérapie ou les projets créatifs au service des autres.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Créativité au service",
+        "Communication bienveillante",
+        "Projets éthiques"
+      ],
+      "potential_challenges": [
+        "Conflit entre créativité et responsabilité",
+        "Tendance à trop donner"
+      ],
+      "alignment_tips": "Utilise ta créativité pour servir et inspirer positivement.",
+      "launch_energy": {
+        "best_days": ["3", "6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – pour créer avec cœur et responsabilité."
+      },
+      "business_color": "Vert / Jaune",
+      "tagline": "« Crée pour servir, inspire pour guérir. »"
+    },
+    "6-4": {
+      "theme": "Les Organisateurs Protecteurs",
+      "vibration_alignment": "Service + Organisation",
+      "core_message": "Le 6 organise le service, le 4 structure. Parfaite pour les entreprises de service structurées ou les projets nécessitant organisation et responsabilité.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Service structuré",
+        "Responsabilité organisée",
+        "Protection méthodique"
+      ],
+      "potential_challenges": [
+        "Rigidité dans le service",
+        "Surprotection limitante"
+      ],
+      "alignment_tips": "Organise ton service tout en gardant la bienveillance.",
+      "launch_energy": {
+        "best_days": ["4", "6"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 6 – pour créer des structures protectrices."
+      },
+      "business_color": "Vert / Gris",
+      "tagline": "« Organise pour protéger, structure pour servir. »"
+    },
+    "6-5": {
+      "theme": "Les Adaptables Responsables",
+      "vibration_alignment": "Responsabilité + Liberté",
+      "core_message": "Le 6 protège, le 5 évolue. Parfaite pour les services adaptatifs ou les projets nécessitant flexibilité et responsabilité.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Service adaptatif",
+        "Protection évolutive",
+        "Responsabilité flexible"
+      ],
+      "potential_challenges": [
+        "Conflit liberté-responsabilité",
+        "Instabilité dans le service"
+      ],
+      "alignment_tips": "Utilise ta liberté pour mieux servir et protéger.",
+      "launch_energy": {
+        "best_days": ["5", "6"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – pour servir avec flexibilité."
+      },
+      "business_color": "Vert / Turquoise",
+      "tagline": "« Évolue pour servir, change pour protéger. »"
+    },
+    "6-6": {
+      "theme": "Les Maîtres du Service",
+      "vibration_alignment": "Service + Responsabilité",
+      "core_message": "Double vibration de service et de responsabilité. Parfaite pour les métiers de soin, éducation ou services à la communauté.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant, loyal.",
+        "path_number": "6 – Protecteur, serviteur, harmonieux."
+      },
+      "business_strengths": [
+        "Service exceptionnel",
+        "Responsabilité profonde",
+        "Harmonie durable"
+      ],
+      "potential_challenges": [
+        "Tendance à trop donner",
+        "Surprotection excessive"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 6 – pour maximiser service et responsabilité."
+      },
+      "business_color": "Vert / Vert foncé",
+      "tagline": "« Sers avec amour, protège avec dévouement. »"
+    },
+    "6-7": {
+      "theme": "Les Sages Bienveillants",
+      "vibration_alignment": "Protection + Introspection",
+      "core_message": "Le 6 protège, le 7 analyse. Parfaite pour la psychologie, le conseil spirituel ou les services nécessitant profondeur et bienveillance.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Guidance bienveillante",
+        "Analyse profonde",
+        "Service spirituel"
+      ],
+      "potential_challenges": [
+        "Isolement excessif",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Utilise ta sagesse pour guider avec bienveillance.",
+      "launch_energy": {
+        "best_days": ["6", "7"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 7 – pour des services spirituels et bienveillants."
+      },
+      "business_color": "Vert / Violet",
+      "tagline": "« Analyse avec cœur, guide avec sagesse. »"
+    },
+    "6-8": {
+      "theme": "Les Protecteurs de Succès",
+      "vibration_alignment": "Service + Pouvoir",
+      "core_message": "Le 6 sert, le 8 réussit. Ensemble, ils créent une réussite matérielle par le service. Parfaite pour les entreprises de service ambitieuses.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Succès par le service",
+        "Réussite bienveillante",
+        "Service lucrative"
+      ],
+      "potential_challenges": [
+        "Conflit service-profit",
+        "Perte d'authenticité"
+      ],
+      "alignment_tips": "Garde ton authenticité de service tout en visant le succès.",
+      "launch_energy": {
+        "best_days": ["6", "8"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par le service."
+      },
+      "business_color": "Vert / Or",
+      "tagline": "« Sers avec succès, protège avec pouvoir. »"
+    },
+    "6-9": {
+      "theme": "Les Serviteurs Universels",
+      "vibration_alignment": "Responsabilité + Altruisme",
+      "core_message": "Double vibration de service et de compassion. Parfaite pour les ONG, projets humanitaires ou entreprises à mission sociale.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Service universel",
+        "Impact positif large",
+        "Compassion profonde"
+      ],
+      "potential_challenges": [
+        "Épuisement par trop de don",
+        "Difficulté à monétiser"
+      ],
+      "alignment_tips": "Trouve l'équilibre entre service et viabilité économique.",
+      "launch_energy": {
+        "best_days": ["6", "9"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour servir avec compassion et impact."
+      },
+      "business_color": "Vert / Blanc",
+      "tagline": "« Sers l'humanité avec amour. »"
+    },
+    "6-11": {
+      "theme": "Les Guérisseurs Intuitifs",
+      "vibration_alignment": "Service + Illumination",
+      "core_message": "Le 6 protège, le 11 éclaire. Ensemble, ils créent une capacité unique de guérison intuitive. Parfaite pour le coaching spirituel ou la guidance bienveillante.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Guérison intuitive",
+        "Guidance éclairée",
+        "Service visionnaire"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise ta guidance dans des services structurés.",
+      "launch_energy": {
+        "best_days": ["6", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour guérir avec lumière et bienveillance."
+      },
+      "business_color": "Vert / Blanc",
+      "tagline": "« Guéris avec lumière, sers avec amour. »"
+    },
+    "6-22": {
+      "theme": "Les Bâtisseurs Bienveillants",
+      "vibration_alignment": "Protection + Réalisation",
+      "core_message": "Le 6 sert, le 22 construit. Cette combinaison rare permet de réaliser de grands projets de service. Parfaite pour les grandes structures de service.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets de service d'envergure",
+        "Réalisation bienveillante",
+        "Construction protectrice"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de service"
+      ],
+      "alignment_tips": "Construis tes services avec méthode et bienveillance.",
+      "launch_energy": {
+        "best_days": ["4", "6", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures de service monumentales."
+      },
+      "business_color": "Vert / Bleu roi",
+      "tagline": "« Construis pour servir, bâtis pour protéger. »"
+    },
+    "6-33": {
+      "theme": "Les Maîtres de l'Amour",
+      "vibration_alignment": "Service + Compassion Universelle",
+      "core_message": "Vibration rare qui unit service et amour universel. Parfaite pour les métiers de guérison ou service à l'humanité.",
+      "energy_match": {
+        "expression_number": "6 – Responsable, bienveillant, serviteur.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Service universel",
+        "Amour inconditionnel",
+        "Guérison profonde"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie vitale.",
+      "launch_energy": {
+        "best_days": ["6", "9", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour servir avec amour universel."
+      },
+      "business_color": "Vert / Rose doux",
+      "tagline": "« Sers avec amour universel, guéris par la compassion. »"
+    },
+    "7-1": {
+      "theme": "Les Sages Pionniers",
+      "vibration_alignment": "Analyse + Initiative",
+      "core_message": "Le 7 analyse, le 1 agit. Ensemble, ils créent une innovation réfléchie. Parfaite pour la recherche appliquée ou les projets nécessitant analyse et action.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif, spirituel.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Innovation réfléchie",
+        "Décisions éclairées",
+        "Recherche appliquée"
+      ],
+      "potential_challenges": [
+        "Conflit entre réflexion et action",
+        "Trop d'analyse, pas assez d'action"
+      ],
+      "alignment_tips": "Allie ton analyse à l'action pour innover avec sagesse.",
+      "launch_energy": {
+        "best_days": ["7", "9"],
+        "avoid_days": ["3"],
+        "ideal_launch_vibe": "Jour 7 – pour des fondations analytiques et innovantes."
+      },
+      "business_color": "Violet / Rouge",
+      "tagline": "« Analyse, comprends, agis. »"
+    },
+    "7-2": {
+      "theme": "Les Analytiques Harmonieux",
+      "vibration_alignment": "Introspection + Harmonie",
+      "core_message": "Le 7 analyse, le 2 unit. Parfaite pour la psychologie relationnelle, le conseil intuitif ou les projets nécessitant profondeur et harmonie.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Analyse relationnelle",
+        "Guidance harmonieuse",
+        "Compréhension subtile"
+      ],
+      "potential_challenges": [
+        "Isolement excessif",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Utilise ton intuition pour guider tes analyses, puis partage tes insights.",
+      "launch_energy": {
+        "best_days": ["2", "7"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 7 – pour des fondations spirituelles et intuitives."
+      },
+      "business_color": "Violet / Rose",
+      "tagline": "« Analyse avec cœur, comprends avec harmonie. »"
+    },
+    "7-3": {
+      "theme": "Les Créateurs Profonds",
+      "vibration_alignment": "Sagesse + Expression",
+      "core_message": "Le 7 approfondit, le 3 exprime. Parfaite pour l'art spirituel, la création intuitive ou les projets créatifs profonds.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Créativité profonde",
+        "Expression spirituelle",
+        "Art visionnaire"
+      ],
+      "potential_challenges": [
+        "Isolement créatif",
+        "Difficulté à communiquer simplement"
+      ],
+      "alignment_tips": "Partage ta vision créative profonde avec le monde.",
+      "launch_energy": {
+        "best_days": ["3", "7"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 7 – pour des créations spirituelles et profondes."
+      },
+      "business_color": "Violet / Jaune",
+      "tagline": "« Crée l'invisible, exprime l'essentiel. »"
+    },
+    "7-4": {
+      "theme": "Les Organisateurs Analytiques",
+      "vibration_alignment": "Analyse + Organisation",
+      "core_message": "Le 7 analyse, le 4 structure. Parfaite pour la recherche organisée, l'analyse méthodique ou les projets nécessitant profondeur et organisation.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Analyse structurée",
+        "Recherche méthodique",
+        "Profondeur organisée"
+      ],
+      "potential_challenges": [
+        "Isolement excessif",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Structure tes analyses pour les rendre actionnables.",
+      "launch_energy": {
+        "best_days": ["4", "7"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 7 – pour des fondations analytiques solides."
+      },
+      "business_color": "Violet / Gris",
+      "tagline": "« Analyse avec méthode, comprends avec structure. »"
+    },
+    "7-5": {
+      "theme": "Les Explorateurs Spirituels",
+      "vibration_alignment": "Exploration + Liberté",
+      "core_message": "Le 7 explore, le 5 change. Parfaite pour la recherche innovante, l'analyse évolutive ou les projets nécessitant exploration et profondeur.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Exploration analytique",
+        "Recherche innovante",
+        "Analyse évolutive"
+      ],
+      "potential_challenges": [
+        "Isolement",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Explore avec méthode, analyse avec action.",
+      "launch_energy": {
+        "best_days": ["5", "7"],
+        "avoid_days": ["3"],
+        "ideal_launch_vibe": "Jour 7 – pour explorer avec profondeur."
+      },
+      "business_color": "Violet / Turquoise",
+      "tagline": "« Explore, analyse, comprends. »"
+    },
+    "7-6": {
+      "theme": "Les Sages Protecteurs",
+      "vibration_alignment": "Sagesse + Service",
+      "core_message": "Le 7 analyse, le 6 protège. Parfaite pour la psychologie, le conseil spirituel ou les services nécessitant profondeur et bienveillance.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Guidance bienveillante",
+        "Analyse profonde",
+        "Service spirituel"
+      ],
+      "potential_challenges": [
+        "Isolement excessif",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Utilise ta sagesse pour guider avec bienveillance.",
+      "launch_energy": {
+        "best_days": ["6", "7"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 7 – pour des services spirituels et bienveillants."
+      },
+      "business_color": "Violet / Vert",
+      "tagline": "« Analyse avec cœur, guide avec sagesse. »"
+    },
+    "7-7": {
+      "theme": "Les Maîtres de la Sagesse",
+      "vibration_alignment": "Analyse + Spiritualité",
+      "core_message": "Double vibration d'analyse et de spiritualité. Parfaite pour la recherche profonde, l'enseignement spirituel ou les projets nécessitant sagesse et introspection.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif, spirituel.",
+        "path_number": "7 – Sage, visionnaire, profond."
+      },
+      "business_strengths": [
+        "Sagesse exceptionnelle",
+        "Analyse profonde",
+        "Vision spirituelle"
+      ],
+      "potential_challenges": [
+        "Isolement total",
+        "Suranalyse paralysante"
+      ],
+      "alignment_tips": "Partage ta sagesse avec le monde.",
+      "launch_energy": {
+        "best_days": ["7", "9"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 7 – pour maximiser sagesse et spiritualité."
+      },
+      "business_color": "Violet / Bleu nuit",
+      "tagline": "« Analyse l'invisible, comprends l'essentiel. »"
+    },
+    "7-8": {
+      "theme": "Les Stratèges Analytiques",
+      "vibration_alignment": "Expertise + Pouvoir",
+      "core_message": "Le 7 analyse, le 8 manifeste. Ensemble, ils créent une réussite matérielle par l'expertise. Parfaite pour les entreprises de conseil ambitieuses.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Succès par l'expertise",
+        "Réussite analytique",
+        "Conseil lucrative"
+      ],
+      "potential_challenges": [
+        "Conflit expertise-profit",
+        "Isolement limitant le succès"
+      ],
+      "alignment_tips": "Utilise ton expertise pour créer le succès.",
+      "launch_energy": {
+        "best_days": ["7", "8"],
+        "avoid_days": ["3"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par l'expertise."
+      },
+      "business_color": "Violet / Or",
+      "tagline": "« Analyse pour réussir, comprends pour conquérir. »"
+    },
+    "7-9": {
+      "theme": "Les Sages Humanistes",
+      "vibration_alignment": "Sagesse + Humanisme",
+      "core_message": "Le 7 analyse, le 9 transforme. Parfaite pour la recherche humanitaire, l'enseignement transformateur ou les projets nécessitant sagesse et compassion.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Sagesse humanitaire",
+        "Enseignement transformateur",
+        "Recherche bienveillante"
+      ],
+      "potential_challenges": [
+        "Isolement limitant l'impact",
+        "Trop d'idéalisme"
+      ],
+      "alignment_tips": "Utilise ta sagesse pour transformer positivement.",
+      "launch_energy": {
+        "best_days": ["7", "9"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 9 – pour enseigner avec sagesse et compassion."
+      },
+      "business_color": "Violet / Blanc",
+      "tagline": "« Analyse pour transformer, comprends pour élever. »"
+    },
+    "7-11": {
+      "theme": "Les Visionnaires Spirituels",
+      "vibration_alignment": "Spiritualité + Illumination",
+      "core_message": "Double vibration de spiritualité et d'illumination. Parfaite pour l'enseignement spirituel, la guidance éclairée ou les projets nécessitant sagesse et inspiration.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif, spirituel.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Sagesse éclairée",
+        "Enseignement visionnaire",
+        "Guidance spirituelle"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise ta sagesse dans des enseignements structurés.",
+      "launch_energy": {
+        "best_days": ["7", "11"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 11 – pour éveiller et enseigner avec lumière."
+      },
+      "business_color": "Violet / Blanc",
+      "tagline": "« Éclaire par la sagesse, guide par la lumière. »"
+    },
+    "7-22": {
+      "theme": "Les Bâtisseurs de Sagesse",
+      "vibration_alignment": "Analyse + Réalisation",
+      "core_message": "Le 7 analyse, le 22 construit. Cette combinaison rare permet de réaliser de grands projets analytiques. Parfaite pour les grandes structures de recherche.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets analytiques d'envergure",
+        "Réalisation de sagesse",
+        "Construction méthodique"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité analytique"
+      ],
+      "alignment_tips": "Construis tes analyses avec méthode et vision.",
+      "launch_energy": {
+        "best_days": ["4", "7", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures de sagesse monumentales."
+      },
+      "business_color": "Violet / Bleu roi",
+      "tagline": "« Construis la sagesse, bâtis la connaissance. »"
+    },
+    "7-33": {
+      "theme": "Les Sages Guérisseurs",
+      "vibration_alignment": "Sagesse + Compassion Universelle",
+      "core_message": "Vibration rare qui unit sagesse et amour universel. Parfaite pour l'enseignement bienveillant ou la guidance spirituelle.",
+      "energy_match": {
+        "expression_number": "7 – Analyste, introspectif, spirituel.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Enseignement bienveillant",
+        "Guidance spirituelle universelle",
+        "Sagesse guérisseuse"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Enseigne avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["6", "7", "33"],
+        "avoid_days": ["5", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour enseigner avec amour universel."
+      },
+      "business_color": "Violet / Rose doux",
+      "tagline": "« Enseigne avec amour, guide avec sagesse. »"
+    },
+    "8-1": {
+      "theme": "Les Stratèges Ambitieux",
+      "vibration_alignment": "Pouvoir + Initiative",
+      "core_message": "Le 8 manifeste, le 1 dirige. Ensemble, ils créent une réussite matérielle ambitieuse. Parfaite pour les entreprises ambitieuses ou les projets nécessitant pouvoir et leadership.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur, influent.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Leadership puissant",
+        "Réussite matérielle rapide",
+        "Vision ambitieuse"
+      ],
+      "potential_challenges": [
+        "Risque de domination",
+        "Pression excessive"
+      ],
+      "alignment_tips": "Utilise ton pouvoir avec sagesse et humilité.",
+      "launch_energy": {
+        "best_days": ["1", "8"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès et abondance."
+      },
+      "business_color": "Or / Rouge",
+      "tagline": "« Dirige avec pouvoir, conquiers avec stratégie. »"
+    },
+    "8-2": {
+      "theme": "Les Négociateurs Puissants",
+      "vibration_alignment": "Succès + Coopération",
+      "core_message": "Le 8 négocie, le 2 unit. Ensemble, ils créent une réussite matérielle par la collaboration. Parfaite pour le business développement ou les partenariats stratégiques.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Excellente négociation",
+        "Réussite matérielle par partenariats",
+        "Équilibre pouvoir-diplomatie"
+      ],
+      "potential_challenges": [
+        "Conflit entre besoin d'harmonie et ambition",
+        "Difficulté à imposer ses conditions"
+      ],
+      "alignment_tips": "Utilise ta diplomatie comme force, pas comme faiblesse.",
+      "launch_energy": {
+        "best_days": ["2", "8"],
+        "avoid_days": ["1", "5"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par la collaboration."
+      },
+      "business_color": "Or / Rose",
+      "tagline": "« Négocie pour construire ton empire. »"
+    },
+    "8-3": {
+      "theme": "Les Créateurs de Succès",
+      "vibration_alignment": "Manifestation + Expression",
+      "core_message": "Le 8 manifeste, le 3 communique. Ensemble, ils créent une réussite matérielle par la créativité. Parfaite pour le marketing, la publicité ou les entreprises créatives ambitieuses.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Créativité lucrative",
+        "Communication puissante",
+        "Succès matériel par l'art"
+      ],
+      "potential_challenges": [
+        "Conflit art-commerce",
+        "Perte d'authenticité créative"
+      ],
+      "alignment_tips": "Garde ton authenticité créative tout en visant le succès.",
+      "launch_energy": {
+        "best_days": ["3", "8"],
+        "avoid_days": ["2", "7"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès créatif et abondance."
+      },
+      "business_color": "Or / Jaune",
+      "tagline": "« Crée, communique, conquiers. »"
+    },
+    "8-4": {
+      "theme": "Les Bâtisseurs Méthodiques",
+      "vibration_alignment": "Pouvoir + Structure",
+      "core_message": "Le 8 construit, le 4 structure. Ensemble, ils créent une réussite matérielle organisée. Parfaite pour les entreprises ambitieuses, la construction ou les projets nécessitant structure et succès.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Succès structuré",
+        "Réussite matérielle organisée",
+        "Construction méthodique"
+      ],
+      "potential_challenges": [
+        "Rigidité limitant l'expansion",
+        "Pression excessive"
+      ],
+      "alignment_tips": "Construis méthodiquement tout en visant le succès.",
+      "launch_energy": {
+        "best_days": ["4", "8"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par l'organisation."
+      },
+      "business_color": "Or / Gris",
+      "tagline": "« Construis avec méthode, réussis avec structure. »"
+    },
+    "8-5": {
+      "theme": "Les Entrepreneurs Dynamiques",
+      "vibration_alignment": "Succès + Liberté",
+      "core_message": "Le 8 manifeste, le 5 innove. Ensemble, ils créent une réussite matérielle par l'innovation. Parfaite pour les entreprises dynamiques ambitieuses ou les projets nécessitant changement et succès.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Innovation lucrative",
+        "Succès dynamique",
+        "Réussite évolutive"
+      ],
+      "potential_challenges": [
+        "Instabilité limitant le succès",
+        "Conflit liberté-stabilité"
+      ],
+      "alignment_tips": "Canalise ton innovation vers le succès durable.",
+      "launch_energy": {
+        "best_days": ["5", "8"],
+        "avoid_days": ["2", "4"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par l'innovation."
+      },
+      "business_color": "Or / Turquoise",
+      "tagline": "« Innove, évolue, réussis. »"
+    },
+    "8-6": {
+      "theme": "Les Protecteurs de Pouvoir",
+      "vibration_alignment": "Réussite + Service",
+      "core_message": "Le 8 réussit, le 6 protège. Ensemble, ils créent une réussite matérielle bienveillante. Parfaite pour les entreprises de service ambitieuses.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Succès par le service",
+        "Réussite bienveillante",
+        "Service lucrative"
+      ],
+      "potential_challenges": [
+        "Conflit service-profit",
+        "Perte d'authenticité"
+      ],
+      "alignment_tips": "Garde ton authenticité de service tout en visant le succès.",
+      "launch_energy": {
+        "best_days": ["6", "8"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par le service."
+      },
+      "business_color": "Or / Vert",
+      "tagline": "« Réussis pour servir, conquiers pour protéger. »"
+    },
+    "8-7": {
+      "theme": "Les Stratèges Analytiques",
+      "vibration_alignment": "Expertise + Pouvoir",
+      "core_message": "Le 8 manifeste, le 7 analyse. Ensemble, ils créent une réussite matérielle par l'expertise. Parfaite pour les entreprises de conseil ambitieuses.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Succès par l'expertise",
+        "Réussite analytique",
+        "Conseil lucrative"
+      ],
+      "potential_challenges": [
+        "Conflit expertise-profit",
+        "Isolement limitant le succès"
+      ],
+      "alignment_tips": "Utilise ton expertise pour créer le succès.",
+      "launch_energy": {
+        "best_days": ["7", "8"],
+        "avoid_days": ["3"],
+        "ideal_launch_vibe": "Jour 8 – pour manifester succès par l'expertise."
+      },
+      "business_color": "Or / Violet",
+      "tagline": "« Analyse pour réussir, comprends pour conquérir. »"
+    },
+    "8-8": {
+      "theme": "Les Maîtres du Succès",
+      "vibration_alignment": "Pouvoir + Succès",
+      "core_message": "Double vibration de pouvoir et de succès. Parfaite pour le business, la finance ou la direction d'entreprise.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur, influent.",
+        "path_number": "8 – Puissant, ambitieux, matérialiste."
+      },
+      "business_strengths": [
+        "Succès exceptionnel",
+        "Pouvoir matériel",
+        "Réussite monumentale"
+      ],
+      "potential_challenges": [
+        "Risque de domination excessive",
+        "Pression extrême"
+      ],
+      "alignment_tips": "Reste humble dans ton ascension, le vrai pouvoir est intérieur.",
+      "launch_energy": {
+        "best_days": ["8"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 8 – pour maximiser succès et abondance."
+      },
+      "business_color": "Or / Noir",
+      "tagline": "« Dirige ton empire avec sagesse. »"
+    },
+    "8-9": {
+      "theme": "Les Humanistes Ambitieux",
+      "vibration_alignment": "Réussite + Humanisme",
+      "core_message": "Le 8 réussit, le 9 transforme. Parfaite pour les entreprises à impact social ambitieuses ou les projets nécessitant succès et compassion.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Succès humanitaire",
+        "Réussite bienveillante",
+        "Impact positif large"
+      ],
+      "potential_challenges": [
+        "Conflit profit-compassion",
+        "Trop d'idéalisme"
+      ],
+      "alignment_tips": "Utilise ta réussite pour transformer positivement.",
+      "launch_energy": {
+        "best_days": ["8", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 9 – pour réussir avec compassion et impact."
+      },
+      "business_color": "Or / Blanc",
+      "tagline": "« Réussis pour transformer, conquiers pour élever. »"
+    },
+    "8-11": {
+      "theme": "Les Visionnaires de Succès",
+      "vibration_alignment": "Pouvoir + Illumination",
+      "core_message": "Le 8 manifeste, le 11 éclaire. Ensemble, ils créent une réussite matérielle visionnaire. Parfaite pour les entreprises innovantes ambitieuses.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Succès visionnaire",
+        "Réussite inspirante",
+        "Innovation lucrative"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure"
+      ],
+      "alignment_tips": "Canalise tes visions vers le succès structuré.",
+      "launch_energy": {
+        "best_days": ["8", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour manifester succès visionnaire."
+      },
+      "business_color": "Or / Blanc",
+      "tagline": "« Éclaire pour réussir, inspire pour conquérir. »"
+    },
+    "8-22": {
+      "theme": "Les Titans Bâtisseurs",
+      "vibration_alignment": "Pouvoir + Réalisation",
+      "core_message": "Le 8 manifeste, le 22 construit. Cette combinaison rare permet de réaliser de très grands projets matériels. Parfaite pour les grandes entreprises ou projets d'envergure.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur, influent.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets matériels d'envergure",
+        "Réalisation monumentale",
+        "Construction puissante"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de réalisation"
+      ],
+      "alignment_tips": "Construis tes projets avec méthode et vision.",
+      "launch_energy": {
+        "best_days": ["4", "8", "22"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets matériels monumentaux."
+      },
+      "business_color": "Or / Bleu roi",
+      "tagline": "« Construis l'impossible, conquiers le monumental. »"
+    },
+    "8-33": {
+      "theme": "Les Stratèges de l'Amour",
+      "vibration_alignment": "Succès + Compassion Universelle",
+      "core_message": "Vibration rare qui unit succès et amour universel. Parfaite pour les entreprises ambitieuses à mission sociale.",
+      "energy_match": {
+        "expression_number": "8 – Stratège, bâtisseur.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Succès bienveillant",
+        "Réussite au service",
+        "Impact positif fort"
+      ],
+      "potential_challenges": [
+        "Conflit profit-compassion",
+        "Épuisement"
+      ],
+      "alignment_tips": "Utilise ta réussite pour servir avec amour.",
+      "launch_energy": {
+        "best_days": ["6", "8", "33"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 33 – pour réussir avec amour universel."
+      },
+      "business_color": "Or / Rose doux",
+      "tagline": "« Réussis pour servir, conquiers pour guérir. »"
+    },
+    "9-1": {
+      "theme": "Les Humanistes Pionniers",
+      "vibration_alignment": "Humanisme + Initiative",
+      "core_message": "Le 9 transforme, le 1 dirige. Ensemble, ils créent un leadership humanitaire. Parfaite pour les projets à mission, ONG ou innovation sociale.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux, transformateur.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Leadership humanitaire",
+        "Vision mondiale",
+        "Impact positif fort"
+      ],
+      "potential_challenges": [
+        "Trop d'idéalisme",
+        "Difficulté à prioriser le profit"
+      ],
+      "alignment_tips": "Garde tes valeurs tout en structurant ton modèle économique.",
+      "launch_energy": {
+        "best_days": ["9", "3"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 9 – pour inspirer et transformer avec leadership."
+      },
+      "business_color": "Blanc / Rouge",
+      "tagline": "« Inspire pour transformer le monde. »"
+    },
+    "9-2": {
+      "theme": "Les Serviteurs Harmonieux",
+      "vibration_alignment": "Altruisme + Harmonie",
+      "core_message": "Double vibration de service et de compassion. Parfaite pour les ONG, projets humanitaires ou entreprises à mission sociale.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Service harmonieux",
+        "Relations profondes",
+        "Impact positif large"
+      ],
+      "potential_challenges": [
+        "Épuisement par trop de don",
+        "Difficulté à monétiser"
+      ],
+      "alignment_tips": "Trouve l'équilibre entre service et viabilité économique.",
+      "launch_energy": {
+        "best_days": ["2", "6", "9"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour servir avec compassion et impact."
+      },
+      "business_color": "Blanc / Rose",
+      "tagline": "« Sers l'humanité avec amour. »"
+    },
+    "9-3": {
+      "theme": "Les Créateurs Humanitaires",
+      "vibration_alignment": "Transformation + Expression",
+      "core_message": "Le 9 transforme, le 3 inspire. Parfaite pour les projets créatifs à impact social, l'art engagé ou les entreprises créatives à mission.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Créativité transformatrice",
+        "Impact positif large",
+        "Inspiration universelle"
+      ],
+      "potential_challenges": [
+        "Trop d'idéalisme",
+        "Difficulté à monétiser"
+      ],
+      "alignment_tips": "Utilise ta créativité pour transformer le monde tout en restant viable.",
+      "launch_energy": {
+        "best_days": ["3", "9"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour inspirer et transformer avec créativité."
+      },
+      "business_color": "Blanc / Jaune",
+      "tagline": "« Inspire, transforme, élève. »"
+    },
+    "9-4": {
+      "theme": "Les Organisateurs Altruistes",
+      "vibration_alignment": "Compassion + Organisation",
+      "core_message": "Le 9 transforme, le 4 organise. Parfaite pour les organisations humanitaires, les structures à mission sociale ou les projets nécessitant organisation et compassion.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Organisation humanitaire",
+        "Structure bienveillante",
+        "Impact organisé"
+      ],
+      "potential_challenges": [
+        "Conflit structure-compassion",
+        "Rigidité limitant l'humanité"
+      ],
+      "alignment_tips": "Organise ton service humanitaire avec méthode et cœur.",
+      "launch_energy": {
+        "best_days": ["4", "9"],
+        "avoid_days": ["5", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour organiser avec compassion et impact."
+      },
+      "business_color": "Blanc / Gris",
+      "tagline": "« Structure le service, organise la compassion. »"
+    },
+    "9-5": {
+      "theme": "Les Transformateurs Universels",
+      "vibration_alignment": "Humanisme + Liberté",
+      "core_message": "Le 9 transforme, le 5 évolue. Parfaite pour les projets transformateurs, les entreprises à impact social ou les structures nécessitant évolution et compassion.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Transformation évolutive",
+        "Impact positif large",
+        "Évolution humanitaire"
+      ],
+      "potential_challenges": [
+        "Instabilité limitant l'impact",
+        "Conflit liberté-compassion"
+      ],
+      "alignment_tips": "Utilise ta liberté pour transformer positivement.",
+      "launch_energy": {
+        "best_days": ["5", "9"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour transformer avec liberté."
+      },
+      "business_color": "Blanc / Turquoise",
+      "tagline": "« Évolue, transforme, élève. »"
+    },
+    "9-6": {
+      "theme": "Les Protecteurs Humanitaires",
+      "vibration_alignment": "Service + Altruisme",
+      "core_message": "Double vibration de service et de compassion. Parfaite pour les métiers de soin, éducation ou services à la communauté avec impact large.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Service universel",
+        "Protection bienveillante",
+        "Impact positif profond"
+      ],
+      "potential_challenges": [
+        "Épuisement par trop de don",
+        "Tendance à trop donner"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["6", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 9 – pour servir avec compassion et protection."
+      },
+      "business_color": "Blanc / Vert",
+      "tagline": "« Protège avec amour, sers avec compassion. »"
+    },
+    "9-7": {
+      "theme": "Les Sages Humanistes",
+      "vibration_alignment": "Transformation + Sagesse",
+      "core_message": "Le 9 transforme, le 7 analyse. Parfaite pour la recherche humanitaire, l'enseignement transformateur ou les projets nécessitant sagesse et compassion.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Sagesse humanitaire",
+        "Enseignement transformateur",
+        "Recherche bienveillante"
+      ],
+      "potential_challenges": [
+        "Isolement limitant l'impact",
+        "Trop d'idéalisme"
+      ],
+      "alignment_tips": "Utilise ta sagesse pour transformer positivement.",
+      "launch_energy": {
+        "best_days": ["7", "9"],
+        "avoid_days": ["3", "5"],
+        "ideal_launch_vibe": "Jour 9 – pour enseigner avec sagesse et compassion."
+      },
+      "business_color": "Blanc / Violet",
+      "tagline": "« Analyse pour transformer, comprends pour élever. »"
+    },
+    "9-8": {
+      "theme": "Les Humanistes Ambitieux",
+      "vibration_alignment": "Humanisme + Pouvoir",
+      "core_message": "Le 9 transforme, le 8 réussit. Parfaite pour les entreprises à impact social ambitieuses ou les projets nécessitant succès et compassion.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Succès humanitaire",
+        "Réussite bienveillante",
+        "Impact positif large"
+      ],
+      "potential_challenges": [
+        "Conflit profit-compassion",
+        "Trop d'idéalisme"
+      ],
+      "alignment_tips": "Utilise ta réussite pour transformer positivement.",
+      "launch_energy": {
+        "best_days": ["8", "9"],
+        "avoid_days": ["4"],
+        "ideal_launch_vibe": "Jour 9 – pour réussir avec compassion et impact."
+      },
+      "business_color": "Blanc / Or",
+      "tagline": "« Réussis pour transformer, conquiers pour élever. »"
+    },
+    "9-9": {
+      "theme": "Les Maîtres de l'Humanisme",
+      "vibration_alignment": "Altruisme + Humanisme",
+      "core_message": "Double vibration d'humanisme et de compassion. Parfaite pour les ONG, projets humanitaires ou entreprises à mission sociale forte.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux, transformateur.",
+        "path_number": "9 – Altruiste, complet, universel."
+      },
+      "business_strengths": [
+        "Impact positif exceptionnel",
+        "Service universel",
+        "Transformation profonde"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Difficulté à monétiser"
+      ],
+      "alignment_tips": "Trouve l'équilibre entre service et viabilité.",
+      "launch_energy": {
+        "best_days": ["9"],
+        "avoid_days": ["4", "8"],
+        "ideal_launch_vibe": "Jour 9 – pour maximiser impact et compassion."
+      },
+      "business_color": "Blanc / Blanc pur",
+      "tagline": "« Transforme le monde avec amour. »"
+    },
+    "9-11": {
+      "theme": "Les Visionnaires Humanitaires",
+      "vibration_alignment": "Transformation + Illumination",
+      "core_message": "Le 9 transforme, le 11 éclaire. Ensemble, ils créent une capacité unique de transformation visionnaire. Parfaite pour les projets transformateurs visionnaires.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Transformation visionnaire",
+        "Impact inspirant",
+        "Guidance éclairée"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise tes visions dans des projets structurés.",
+      "launch_energy": {
+        "best_days": ["9", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour transformer avec vision et lumière."
+      },
+      "business_color": "Blanc / Blanc",
+      "tagline": "« Éclaire pour transformer, inspire pour élever. »"
+    },
+    "9-22": {
+      "theme": "Les Bâtisseurs Humanitaires",
+      "vibration_alignment": "Humanisme + Réalisation",
+      "core_message": "Le 9 transforme, le 22 construit. Cette combinaison rare permet de réaliser de grands projets humanitaires. Parfaite pour les grandes structures humanitaires.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets humanitaires d'envergure",
+        "Réalisation bienveillante",
+        "Construction transformatrice"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité humanitaire"
+      ],
+      "alignment_tips": "Construis tes projets humanitaires avec méthode et vision.",
+      "launch_energy": {
+        "best_days": ["4", "9", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures humanitaires monumentales."
+      },
+      "business_color": "Blanc / Bleu roi",
+      "tagline": "« Construis pour transformer, bâtis pour élever. »"
+    },
+    "9-33": {
+      "theme": "Les Maîtres de la Compassion",
+      "vibration_alignment": "Humanisme + Compassion Universelle",
+      "core_message": "Vibration rare qui unit humanisme et amour universel. Parfaite pour les projets humanitaires d'envergure ou service à l'humanité.",
+      "energy_match": {
+        "expression_number": "9 – Humaniste, généreux, transformateur.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Impact positif exceptionnel",
+        "Service universel",
+        "Amour inconditionnel"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie vitale.",
+      "launch_energy": {
+        "best_days": ["6", "9", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour transformer avec amour universel."
+      },
+      "business_color": "Blanc / Rose doux",
+      "tagline": "« Transforme avec amour universel, élève par la compassion. »"
+    },
+    "11-1": {
+      "theme": "Les Visionnaires Pionniers",
+      "vibration_alignment": "Illumination + Initiative",
+      "core_message": "Le 11 éclaire, le 1 dirige. Ensemble, ils créent des entreprises à impact spirituel, éducatif ou artistique fort.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, intuitif, éclairé.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Capacité d'inspiration massive",
+        "Projet à haute vibration",
+        "Innovation consciente"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de pragmatisme"
+      ],
+      "alignment_tips": "Canalise tes inspirations dans des actions concrètes.",
+      "launch_energy": {
+        "best_days": ["1", "11"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 11 – porte la vibration de l'éveil."
+      },
+      "business_color": "Blanc / Rouge",
+      "tagline": "« Inspire et guide à travers ton œuvre. »"
+    },
+    "11-2": {
+      "theme": "Les Intuitifs Harmonieux",
+      "vibration_alignment": "Vision + Harmonie",
+      "core_message": "Le 11 éclaire, le 2 unit. Ensemble, ils créent une capacité unique de guidance intuitive. Parfaite pour le coaching spirituel, la guidance ou l'enseignement intuitif.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé, visionnaire.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Intuition exceptionnelle",
+        "Capacité d'inspiration",
+        "Guidance authentique"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Ancre tes inspirations dans des actions concrètes et structurées.",
+      "launch_energy": {
+        "best_days": ["2", "11"],
+        "avoid_days": ["5", "8"],
+        "ideal_launch_vibe": "Jour 11 – pour éveiller et guider avec lumière."
+      },
+      "business_color": "Blanc / Rose",
+      "tagline": "« Écoute la sagesse, guide avec lumière. »"
+    },
+    "11-3": {
+      "theme": "Les Créateurs Visionnaires",
+      "vibration_alignment": "Expression + Illumination",
+      "core_message": "Le 11 éclaire, le 3 exprime. Ensemble, ils créent une capacité unique d'inspiration visionnaire. Parfaite pour l'art visionnaire, la communication inspirante ou les projets créatifs éclairés.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Créativité visionnaire",
+        "Inspiration profonde",
+        "Expression éclairée"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise tes visions créatives dans des projets structurés.",
+      "launch_energy": {
+        "best_days": ["3", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour éveiller et inspirer par la créativité."
+      },
+      "business_color": "Blanc / Jaune",
+      "tagline": "« Éclaire par ta créativité, inspire par ta vision. »"
+    },
+    "11-4": {
+      "theme": "Les Constructeurs Visionnaires",
+      "vibration_alignment": "Organisation + Illumination",
+      "core_message": "Le 11 éclaire, le 4 structure. Ensemble, ils créent des projets visionnaires bien organisés. Parfaite pour les entreprises innovantes structurées ou les projets nécessitant organisation et inspiration.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Vision structurée",
+        "Innovation organisée",
+        "Inspiration méthodique"
+      ],
+      "potential_challenges": [
+        "Conflit structure-inspiration",
+        "Rigidité limitant la vision"
+      ],
+      "alignment_tips": "Structure tes visions pour les rendre réalisables.",
+      "launch_energy": {
+        "best_days": ["4", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour construire avec vision et méthode."
+      },
+      "business_color": "Blanc / Gris",
+      "tagline": "« Structure la vision, organise l'inspiration. »"
+    },
+    "11-5": {
+      "theme": "Les Visionnaires Libres",
+      "vibration_alignment": "Illumination + Liberté",
+      "core_message": "Le 11 éclaire, le 5 explore. Ensemble, ils créent une capacité unique d'innovation visionnaire. Parfaite pour les entreprises innovantes visionnaires ou les projets nécessitant liberté et inspiration.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Innovation visionnaire",
+        "Exploration éclairée",
+        "Liberté inspirante"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure"
+      ],
+      "alignment_tips": "Canalise tes visions dans des projets structurés.",
+      "launch_energy": {
+        "best_days": ["5", "11"],
+        "avoid_days": ["4", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour évoluer avec vision."
+      },
+      "business_color": "Blanc / Turquoise",
+      "tagline": "« Évolue avec vision, innove avec lumière. »"
+    },
+    "11-6": {
+      "theme": "Les Guérisseurs Intuitifs",
+      "vibration_alignment": "Guidance + Service",
+      "core_message": "Le 11 éclaire, le 6 protège. Ensemble, ils créent une capacité unique de guérison intuitive. Parfaite pour le coaching spirituel ou la guidance bienveillante.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Guérison intuitive",
+        "Guidance éclairée",
+        "Service visionnaire"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise ta guidance dans des services structurés.",
+      "launch_energy": {
+        "best_days": ["6", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour guérir avec lumière et bienveillance."
+      },
+      "business_color": "Blanc / Vert",
+      "tagline": "« Guéris avec lumière, sers avec amour. »"
+    },
+    "11-7": {
+      "theme": "Les Sages Éclairés",
+      "vibration_alignment": "Spiritualité + Illumination",
+      "core_message": "Double vibration de spiritualité et d'illumination. Parfaite pour l'enseignement spirituel, la guidance éclairée ou les projets nécessitant sagesse et inspiration.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé, visionnaire.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Sagesse éclairée",
+        "Enseignement visionnaire",
+        "Guidance spirituelle"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise ta sagesse dans des enseignements structurés.",
+      "launch_energy": {
+        "best_days": ["7", "11"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 11 – pour éveiller et enseigner avec lumière."
+      },
+      "business_color": "Blanc / Violet",
+      "tagline": "« Éclaire par la sagesse, guide par la lumière. »"
+    },
+    "11-8": {
+      "theme": "Les Visionnaires de Succès",
+      "vibration_alignment": "Illumination + Pouvoir",
+      "core_message": "Le 11 éclaire, le 8 manifeste. Ensemble, ils créent une réussite matérielle visionnaire. Parfaite pour les entreprises innovantes ambitieuses.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Succès visionnaire",
+        "Réussite inspirante",
+        "Innovation lucrative"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure"
+      ],
+      "alignment_tips": "Canalise tes visions vers le succès structuré.",
+      "launch_energy": {
+        "best_days": ["8", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour manifester succès visionnaire."
+      },
+      "business_color": "Blanc / Or",
+      "tagline": "« Éclaire pour réussir, inspire pour conquérir. »"
+    },
+    "11-9": {
+      "theme": "Les Humanistes Éclairés",
+      "vibration_alignment": "Illumination + Humanisme",
+      "core_message": "Le 11 éclaire, le 9 transforme. Ensemble, ils créent une capacité unique de transformation visionnaire. Parfaite pour les projets transformateurs visionnaires.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Transformation visionnaire",
+        "Impact inspirant",
+        "Guidance éclairée"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle",
+        "Manque de structure pratique"
+      ],
+      "alignment_tips": "Canalise tes visions dans des projets structurés.",
+      "launch_energy": {
+        "best_days": ["9", "11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour transformer avec vision et lumière."
+      },
+      "business_color": "Blanc / Blanc",
+      "tagline": "« Éclaire pour transformer, inspire pour élever. »"
+    },
+    "11-11": {
+      "theme": "Les Maîtres de l'Illumination",
+      "vibration_alignment": "Illumination + Vision",
+      "core_message": "Double vibration d'illumination et de vision. Parfaite pour les projets à haute vibration, l'enseignement spirituel ou les entreprises visionnaires.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, intuitif, éclairé.",
+        "path_number": "11 – Visionnaire, illuminé, inspirant."
+      },
+      "business_strengths": [
+        "Vision exceptionnelle",
+        "Inspiration profonde",
+        "Éveil collectif"
+      ],
+      "potential_challenges": [
+        "Surcharge émotionnelle extrême",
+        "Manque total de structure"
+      ],
+      "alignment_tips": "Ancre tes visions dans des projets structurés et réalisables.",
+      "launch_energy": {
+        "best_days": ["11"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 11 – pour maximiser illumination et vision."
+      },
+      "business_color": "Blanc / Doré",
+      "tagline": "« Éclaire le monde, inspire l'humanité. »"
+    },
+    "11-22": {
+      "theme": "Les Bâtisseurs Visionnaires",
+      "vibration_alignment": "Vision + Réalisation",
+      "core_message": "Le 11 éclaire, le 22 construit. Cette combinaison rare permet de réaliser de grands projets visionnaires. Parfaite pour les grandes structures visionnaires.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets visionnaires d'envergure",
+        "Réalisation éclairée",
+        "Construction inspirante"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité visionnaire"
+      ],
+      "alignment_tips": "Construis tes visions avec méthode et patience.",
+      "launch_energy": {
+        "best_days": ["4", "11", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets visionnaires monumentaux."
+      },
+      "business_color": "Blanc / Bleu roi",
+      "tagline": "« Construis la vision, bâtis l'inspiration. »"
+    },
+    "11-33": {
+      "theme": "Les Visionnaires de l'Amour",
+      "vibration_alignment": "Illumination + Compassion Universelle",
+      "core_message": "Vibration rare qui unit illumination et amour universel. Parfaite pour l'enseignement bienveillant ou la guidance spirituelle universelle.",
+      "energy_match": {
+        "expression_number": "11 – Inspiré, éclairé, visionnaire.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Enseignement bienveillant",
+        "Guidance spirituelle universelle",
+        "Éveil par l'amour"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Enseigne avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["6", "11", "33"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 33 – pour éveiller avec amour universel."
+      },
+      "business_color": "Blanc / Rose doux",
+      "tagline": "« Éclaire avec amour, inspire par la compassion. »"
+    },
+    "22-1": {
+      "theme": "Les Bâtisseurs Pionniers",
+      "vibration_alignment": "Réalisation + Initiative",
+      "core_message": "Le 22 construit, le 1 dirige. Ensemble, c'est une combinaison rare pour concrétiser de très grands projets.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte, bâtisseur.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Projets d'envergure",
+        "Leadership inspiré",
+        "Résilience exceptionnelle"
+      ],
+      "potential_challenges": [
+        "Pression et perfectionnisme",
+        "Trop grand, trop vite"
+      ],
+      "alignment_tips": "Reste connecté à ta mission intérieure pendant ton expansion.",
+      "launch_energy": {
+        "best_days": ["4", "8", "22"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 22 – pour manifester des fondations monumentales."
+      },
+      "business_color": "Bleu roi / Rouge",
+      "tagline": "« Construis pour marquer le monde. »"
+    },
+    "22-2": {
+      "theme": "Les Constructeurs Collaboratifs",
+      "vibration_alignment": "Construction + Harmonie",
+      "core_message": "Le 22 construit, le 2 unit. Cette combinaison rare crée des projets monumentaux par la collaboration. Parfaite pour les grandes structures ou projets collectifs.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Projets d'envergure collaborative",
+        "Fondations solides",
+        "Vision collective"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de coordination"
+      ],
+      "alignment_tips": "Maintiens l'harmonie tout en construisant des structures durables.",
+      "launch_energy": {
+        "best_days": ["2", "4", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets monumentaux ensemble."
+      },
+      "business_color": "Bleu roi / Rose",
+      "tagline": "« Unis pour construire l'avenir. »"
+    },
+    "22-3": {
+      "theme": "Les Architectes Créatifs",
+      "vibration_alignment": "Bâtir + Expression",
+      "core_message": "Le 22 construit, le 3 crée. Cette combinaison rare permet de concrétiser de grands projets créatifs. Parfaite pour les grandes productions, les projets créatifs monumentaux ou les entreprises créatives d'envergure.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Projets créatifs d'envergure",
+        "Réalisation monumentale",
+        "Vision créative concrète"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de réalisation"
+      ],
+      "alignment_tips": "Construis tes visions créatives avec méthode et patience.",
+      "launch_energy": {
+        "best_days": ["3", "4", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets créatifs monumentaux."
+      },
+      "business_color": "Bleu roi / Jaune",
+      "tagline": "« Crée grand, construis l'impossible. »"
+    },
+    "22-4": {
+      "theme": "Les Maîtres Bâtisseurs",
+      "vibration_alignment": "Réalisation + Organisation",
+      "core_message": "Le 22 construit, le 4 organise. Cette combinaison rare permet de réaliser des projets monumentaux structurés. Parfaite pour les grandes constructions, les projets d'envergure ou les entreprises nécessitant organisation et réalisation.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte, bâtisseur.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Projets monumentaux structurés",
+        "Réalisation organisée",
+        "Construction méthodique d'envergure"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité organisationnelle"
+      ],
+      "alignment_tips": "Organise méthodiquement tes projets monumentaux.",
+      "launch_energy": {
+        "best_days": ["4", "8", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures monumentales."
+      },
+      "business_color": "Bleu roi / Gris",
+      "tagline": "« Organise l'impossible, construis le monumental. »"
+    },
+    "22-5": {
+      "theme": "Les Bâtisseurs Évolutifs",
+      "vibration_alignment": "Construction + Liberté",
+      "core_message": "Le 22 construit, le 5 évolue. Cette combinaison rare permet de réaliser de grands projets évolutifs. Parfaite pour les grandes entreprises dynamiques ou les projets nécessitant changement et réalisation.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Projets évolutifs d'envergure",
+        "Réalisation dynamique",
+        "Construction innovante"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité évolutive"
+      ],
+      "alignment_tips": "Construis tes évolutions avec méthode et vision.",
+      "launch_energy": {
+        "best_days": ["4", "5", "22"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets évolutifs monumentaux."
+      },
+      "business_color": "Bleu roi / Turquoise",
+      "tagline": "« Évolue grand, construis l'avenir. »"
+    },
+    "22-6": {
+      "theme": "Les Constructeurs Bienveillants",
+      "vibration_alignment": "Bâtir + Service",
+      "core_message": "Le 22 construit, le 6 sert. Cette combinaison rare permet de réaliser de grands projets de service. Parfaite pour les grandes structures de service.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Projets de service d'envergure",
+        "Réalisation bienveillante",
+        "Construction protectrice"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de service"
+      ],
+      "alignment_tips": "Construis tes services avec méthode et bienveillance.",
+      "launch_energy": {
+        "best_days": ["4", "6", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures de service monumentales."
+      },
+      "business_color": "Bleu roi / Vert",
+      "tagline": "« Construis pour servir, bâtis pour protéger. »"
+    },
+    "22-7": {
+      "theme": "Les Bâtisseurs de Sagesse",
+      "vibration_alignment": "Réalisation + Analyse",
+      "core_message": "Le 22 construit, le 7 analyse. Cette combinaison rare permet de réaliser de grands projets analytiques. Parfaite pour les grandes structures de recherche.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Projets analytiques d'envergure",
+        "Réalisation de sagesse",
+        "Construction méthodique"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité analytique"
+      ],
+      "alignment_tips": "Construis tes analyses avec méthode et vision.",
+      "launch_energy": {
+        "best_days": ["4", "7", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures de sagesse monumentales."
+      },
+      "business_color": "Bleu roi / Violet",
+      "tagline": "« Construis la sagesse, bâtis la connaissance. »"
+    },
+    "22-8": {
+      "theme": "Les Titans Bâtisseurs",
+      "vibration_alignment": "Construction + Pouvoir",
+      "core_message": "Le 22 construit, le 8 manifeste. Cette combinaison rare permet de réaliser de très grands projets matériels. Parfaite pour les grandes entreprises ou projets d'envergure.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte, bâtisseur.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Projets matériels d'envergure",
+        "Réalisation monumentale",
+        "Construction puissante"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité de réalisation"
+      ],
+      "alignment_tips": "Construis tes projets avec méthode et vision.",
+      "launch_energy": {
+        "best_days": ["4", "8", "22"],
+        "avoid_days": ["2"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets matériels monumentaux."
+      },
+      "business_color": "Bleu roi / Or",
+      "tagline": "« Construis l'impossible, conquiers le monumental. »"
+    },
+    "22-9": {
+      "theme": "Les Bâtisseurs Humanitaires",
+      "vibration_alignment": "Bâtir + Humanisme",
+      "core_message": "Le 22 construit, le 9 transforme. Cette combinaison rare permet de réaliser de grands projets humanitaires. Parfaite pour les grandes structures humanitaires.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Projets humanitaires d'envergure",
+        "Réalisation bienveillante",
+        "Construction transformatrice"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité humanitaire"
+      ],
+      "alignment_tips": "Construis tes projets humanitaires avec méthode et vision.",
+      "launch_energy": {
+        "best_days": ["4", "9", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des structures humanitaires monumentales."
+      },
+      "business_color": "Bleu roi / Blanc",
+      "tagline": "« Construis pour transformer, bâtis pour élever. »"
+    },
+    "22-11": {
+      "theme": "Les Architectes Visionnaires",
+      "vibration_alignment": "Réalisation + Vision",
+      "core_message": "Le 22 construit, le 11 éclaire. Cette combinaison rare permet de réaliser de grands projets visionnaires. Parfaite pour les grandes structures visionnaires.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Projets visionnaires d'envergure",
+        "Réalisation éclairée",
+        "Construction inspirante"
+      ],
+      "potential_challenges": [
+        "Pression de la perfection",
+        "Complexité visionnaire"
+      ],
+      "alignment_tips": "Construis tes visions avec méthode et patience.",
+      "launch_energy": {
+        "best_days": ["4", "11", "22"],
+        "avoid_days": ["5"],
+        "ideal_launch_vibe": "Jour 22 – pour bâtir des projets visionnaires monumentaux."
+      },
+      "business_color": "Bleu roi / Blanc",
+      "tagline": "« Construis la vision, bâtis l'inspiration. »"
+    },
+    "22-22": {
+      "theme": "Les Maîtres Architectes",
+      "vibration_alignment": "Construction + Réalisation",
+      "core_message": "Double vibration de réalisation et de construction. Parfaite pour les projets monumentaux, les grandes entreprises ou les structures d'envergure.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte, bâtisseur.",
+        "path_number": "22 – Constructeur, réalisateur, monument."
+      },
+      "business_strengths": [
+        "Projets monumentaux exceptionnels",
+        "Réalisation d'envergure",
+        "Construction légendaire"
+      ],
+      "potential_challenges": [
+        "Pression extrême de la perfection",
+        "Complexité maximale"
+      ],
+      "alignment_tips": "Construis avec méthode, vision et patience infinie.",
+      "launch_energy": {
+        "best_days": ["4", "8", "22"],
+        "avoid_days": ["2", "5"],
+        "ideal_launch_vibe": "Jour 22 – pour maximiser réalisation et construction."
+      },
+      "business_color": "Bleu roi / Bleu foncé",
+      "tagline": "« Construis l'éternel, bâtis la légende. »"
+    },
+    "22-33": {
+      "theme": "Les Bâtisseurs de l'Amour",
+      "vibration_alignment": "Bâtir + Compassion Universelle",
+      "core_message": "Vibration rare qui unit réalisation et amour universel. Parfaite pour les grands projets humanitaires ou structures de service universel.",
+      "energy_match": {
+        "expression_number": "22 – Visionnaire, architecte, bâtisseur.",
+        "path_number": "33 – Enseignant, guérisseur, bienfaiteur universel."
+      },
+      "business_strengths": [
+        "Projets humanitaires monumentaux",
+        "Réalisation bienveillante",
+        "Construction au service de l'amour"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Pression de la perfection"
+      ],
+      "alignment_tips": "Construis avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["4", "6", "22", "33"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 33 – pour bâtir avec amour universel."
+      },
+      "business_color": "Bleu roi / Rose doux",
+      "tagline": "« Construis avec amour, bâtis pour guérir. »"
+    },
+    "33-1": {
+      "theme": "Les Maîtres Pionniers",
+      "vibration_alignment": "Amour Universel + Initiative",
+      "core_message": "Vibration rare qui unit leadership et service. Parfaite pour les marques à vocation humaine ou éducative.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "1 – Dynamique, courageux, ambitieux."
+      },
+      "business_strengths": [
+        "Impact positif fort",
+        "Leadership bienveillant",
+        "Capacité à inspirer durablement"
+      ],
+      "potential_challenges": [
+        "Trop donner, s'épuiser",
+        "Conflit entre ambition et compassion"
+      ],
+      "alignment_tips": "Fais de ta réussite un outil de contribution.",
+      "launch_energy": {
+        "best_days": ["6", "9", "33"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 33 – symbolise l'amour universel au service du monde."
+      },
+      "business_color": "Rose doux / Rouge",
+      "tagline": "« Réussis pour inspirer et servir. »"
+    },
+    "33-2": {
+      "theme": "Les Guérisseurs Harmonieux",
+      "vibration_alignment": "Compassion + Harmonie",
+      "core_message": "Vibration rare qui unit service relationnel et amour universel. Parfaite pour les métiers de guérison, enseignement bienveillant ou service à l'humanité.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "2 – Sensible, harmonieux, partenaire."
+      },
+      "business_strengths": [
+        "Impact guérisseur profond",
+        "Service universel",
+        "Amour inconditionnel"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie vitale.",
+      "launch_energy": {
+        "best_days": ["2", "6", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour guérir et servir avec amour universel."
+      },
+      "business_color": "Rose doux / Rose",
+      "tagline": "« Guéris par l'amour, sers par l'harmonie. »"
+    },
+    "33-3": {
+      "theme": "Les Créateurs de l'Amour",
+      "vibration_alignment": "Guérison + Expression",
+      "core_message": "Vibration rare qui unit créativité et amour universel. Parfaite pour l'art guérisseur, la création bienveillante ou les projets créatifs au service de l'humanité.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "3 – Créatif, expressif, joyeux."
+      },
+      "business_strengths": [
+        "Créativité guérisseuse",
+        "Impact positif profond",
+        "Art au service de l'amour"
+      ],
+      "potential_challenges": [
+        "Épuisement par trop de don",
+        "Perte d'identité créative"
+      ],
+      "alignment_tips": "Crée avec amour tout en préservant ton énergie créative.",
+      "launch_energy": {
+        "best_days": ["3", "6", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour créer avec amour universel et compassion."
+      },
+      "business_color": "Rose doux / Jaune",
+      "tagline": "« Crée avec amour, inspire par la compassion. »"
+    },
+    "33-4": {
+      "theme": "Les Organisateurs de l'Amour",
+      "vibration_alignment": "Amour + Organisation",
+      "core_message": "Vibration rare qui unit organisation et amour universel. Parfaite pour les structures de guérison, les organisations bienveillantes ou les projets nécessitant organisation et compassion.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "4 – Pragmatique, organisé, solide."
+      },
+      "business_strengths": [
+        "Organisation bienveillante",
+        "Structure guérisseuse",
+        "Service organisé universel"
+      ],
+      "potential_challenges": [
+        "Conflit structure-compassion",
+        "Rigidité limitant l'amour"
+      ],
+      "alignment_tips": "Organise ton service avec méthode et amour.",
+      "launch_energy": {
+        "best_days": ["4", "6", "33"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 33 – pour organiser avec amour universel."
+      },
+      "business_color": "Rose doux / Gris",
+      "tagline": "« Structure l'amour, organise la compassion. »"
+    },
+    "33-5": {
+      "theme": "Les Évolutifs de l'Amour",
+      "vibration_alignment": "Compassion + Liberté",
+      "core_message": "Vibration rare qui unit liberté et amour universel. Parfaite pour les entreprises évolutives bienveillantes ou les projets nécessitant changement et compassion.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "5 – Libre, changeant, aventureux."
+      },
+      "business_strengths": [
+        "Évolution bienveillante",
+        "Service universel adaptatif",
+        "Amour évolutif"
+      ],
+      "potential_challenges": [
+        "Épuisement",
+        "Instabilité limitant le service"
+      ],
+      "alignment_tips": "Évolue avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["5", "6", "33"],
+        "avoid_days": ["4", "7"],
+        "ideal_launch_vibe": "Jour 33 – pour évoluer avec amour universel."
+      },
+      "business_color": "Rose doux / Turquoise",
+      "tagline": "« Évolue avec amour, change avec compassion. »"
+    },
+    "33-6": {
+      "theme": "Les Protecteurs Universels",
+      "vibration_alignment": "Guérison + Service",
+      "core_message": "Double vibration de service et d'amour universel. Parfaite pour les métiers de guérison, enseignement bienveillant ou service à l'humanité.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "6 – Responsable, bienveillant, protecteur."
+      },
+      "business_strengths": [
+        "Service universel exceptionnel",
+        "Guérison profonde",
+        "Amour inconditionnel"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie vitale.",
+      "launch_energy": {
+        "best_days": ["6", "9", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour servir avec amour universel."
+      },
+      "business_color": "Rose doux / Vert",
+      "tagline": "« Sers avec amour universel, guéris par la compassion. »"
+    },
+    "33-7": {
+      "theme": "Les Sages Guérisseurs",
+      "vibration_alignment": "Amour + Sagesse",
+      "core_message": "Vibration rare qui unit sagesse et amour universel. Parfaite pour l'enseignement bienveillant ou la guidance spirituelle.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "7 – Analyste, introspectif, spirituel."
+      },
+      "business_strengths": [
+        "Enseignement bienveillant",
+        "Guidance spirituelle universelle",
+        "Sagesse guérisseuse"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Enseigne avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["6", "7", "33"],
+        "avoid_days": ["5", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour enseigner avec amour universel."
+      },
+      "business_color": "Rose doux / Violet",
+      "tagline": "« Enseigne avec amour, guide avec sagesse. »"
+    },
+    "33-8": {
+      "theme": "Les Stratèges de l'Amour",
+      "vibration_alignment": "Compassion + Pouvoir",
+      "core_message": "Vibration rare qui unit succès et amour universel. Parfaite pour les entreprises ambitieuses à mission sociale.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "8 – Stratège, bâtisseur, influent."
+      },
+      "business_strengths": [
+        "Succès bienveillant",
+        "Réussite au service",
+        "Impact positif fort"
+      ],
+      "potential_challenges": [
+        "Conflit profit-compassion",
+        "Épuisement"
+      ],
+      "alignment_tips": "Utilise ta réussite pour servir avec amour.",
+      "launch_energy": {
+        "best_days": ["6", "8", "33"],
+        "avoid_days": ["7"],
+        "ideal_launch_vibe": "Jour 33 – pour réussir avec amour universel."
+      },
+      "business_color": "Rose doux / Or",
+      "tagline": "« Réussis pour servir, conquiers pour guérir. »"
+    },
+    "33-9": {
+      "theme": "Les Maîtres de la Compassion",
+      "vibration_alignment": "Amour Universel + Humanisme",
+      "core_message": "Vibration rare qui unit humanisme et amour universel. Parfaite pour les projets humanitaires d'envergure ou service à l'humanité.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "9 – Humaniste, généreux, transformateur."
+      },
+      "business_strengths": [
+        "Impact positif exceptionnel",
+        "Service universel",
+        "Amour inconditionnel"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant ton énergie vitale.",
+      "launch_energy": {
+        "best_days": ["6", "9", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour transformer avec amour universel."
+      },
+      "business_color": "Rose doux / Blanc",
+      "tagline": "« Transforme avec amour universel, élève par la compassion. »"
+    },
+    "33-11": {
+      "theme": "Les Visionnaires de l'Amour",
+      "vibration_alignment": "Amour + Illumination",
+      "core_message": "Vibration rare qui unit illumination et amour universel. Parfaite pour l'enseignement bienveillant ou la guidance spirituelle universelle.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "11 – Inspiré, éclairé, visionnaire."
+      },
+      "business_strengths": [
+        "Enseignement bienveillant",
+        "Guidance spirituelle universelle",
+        "Éveil par l'amour"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Perte de limites personnelles"
+      ],
+      "alignment_tips": "Enseigne avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["6", "11", "33"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 33 – pour éveiller avec amour universel."
+      },
+      "business_color": "Rose doux / Blanc",
+      "tagline": "« Éclaire avec amour, inspire par la compassion. »"
+    },
+    "33-22": {
+      "theme": "Les Bâtisseurs de l'Amour",
+      "vibration_alignment": "Compassion + Réalisation",
+      "core_message": "Vibration rare qui unit réalisation et amour universel. Parfaite pour les grands projets humanitaires ou structures de service universel.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "22 – Visionnaire, architecte, bâtisseur."
+      },
+      "business_strengths": [
+        "Projets humanitaires monumentaux",
+        "Réalisation bienveillante",
+        "Construction au service de l'amour"
+      ],
+      "potential_challenges": [
+        "Épuisement total",
+        "Pression de la perfection"
+      ],
+      "alignment_tips": "Construis avec amour tout en préservant ton énergie.",
+      "launch_energy": {
+        "best_days": ["4", "6", "22", "33"],
+        "avoid_days": ["5", "7"],
+        "ideal_launch_vibe": "Jour 33 – pour bâtir avec amour universel."
+      },
+      "business_color": "Rose doux / Bleu roi",
+      "tagline": "« Construis avec amour, bâtis pour guérir. »"
+    },
+    "33-33": {
+      "theme": "Les Maîtres de l'Amour Universel",
+      "vibration_alignment": "Amour Universel + Service",
+      "core_message": "Double vibration d'amour universel et de service. Parfaite pour les projets de guérison universelle, l'enseignement bienveillant ou service à l'humanité.",
+      "energy_match": {
+        "expression_number": "33 – Enseignant, guérisseur, bienfaiteur universel.",
+        "path_number": "33 – Maître, guérisseur universel, amour inconditionnel."
+      },
+      "business_strengths": [
+        "Impact guérisseur exceptionnel",
+        "Service universel absolu",
+        "Amour inconditionnel total"
+      ],
+      "potential_challenges": [
+        "Épuisement absolu",
+        "Perte totale de limites"
+      ],
+      "alignment_tips": "Sers avec amour tout en préservant absolument ton énergie vitale.",
+      "launch_energy": {
+        "best_days": ["6", "9", "33"],
+        "avoid_days": ["7", "8"],
+        "ideal_launch_vibe": "Jour 33 – pour maximiser amour universel et service."
+      },
+      "business_color": "Rose doux / Rose profond",
+      "tagline": "« Sers l'humanité avec amour universel absolu. »"
+    }
+  }

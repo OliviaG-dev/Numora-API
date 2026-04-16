@@ -1,0 +1,1484 @@
+{
+    "1-1": {
+      "vibe_title": "🔥 Duo de Leaders",
+      "first_impression": "Admiration et compétition instantanées.",
+      "social_chemistry": [
+        "Énergie puissante",
+        "Présence naturelle"
+      ],
+      "what_connects_them": [
+        "Ambition",
+        "Directivité"
+      ],
+      "potential_friction": [
+        "Guerre d’ego",
+        "Personne ne veut céder"
+      ],
+      "public_energy": "Un duo qui impose le respect.",
+      "ideal_contexts": ["Sport", "Business", "Objectifs ambitieux"],
+      "social_tip": "Apprendre à alterner le rôle de leader."
+    },
+    "1-2": {
+      "vibe_title": "🎯 Le Leader & Le Diplomate",
+      "first_impression": "Le 2 admire le 1, le 1 se sent soutenu.",
+      "social_chemistry": [
+        "Complémentarité",
+        "Communication fluide"
+      ],
+      "what_connects_them": [
+        "Travail d’équipe",
+        "Respect tacite"
+      ],
+      "potential_friction": [
+        "Le 1 peut dominer",
+        "Le 2 peut se vexer en silence"
+      ],
+      "public_energy": "Efficaces ensemble.",
+      "ideal_contexts": ["Organisation", "Projets d’équipe"],
+      "social_tip": "Le 1 doit valoriser le 2 publiquement."
+    },
+    "1-3": {
+      "vibe_title": "⚡ Le Visionnaire & L’Artiste",
+      "first_impression": "Jeu, humour et bonne vibz immédiate.",
+      "social_chemistry": [
+        "Dynamisme",
+        "Créativité"
+      ],
+      "what_connects_them": [
+        "Idées folles",
+        "Sorties et divertissements"
+      ],
+      "potential_friction": [
+        "Le 3 peut disperser le 1",
+        "Le 1 peut brider le 3"
+      ],
+      "public_energy": "Les gens les suivent sans réfléchir.",
+      "ideal_contexts": ["Événements sociaux", "Créations de projets"],
+      "social_tip": "Rire aide à garder l’équilibre."
+    },
+    "1-4": {
+      "vibe_title": "🏛️ Le Chef & Le Constructeur",
+      "first_impression": "Respect mutuel mais prudence.",
+      "social_chemistry": [
+        "Sérieux",
+        "Engagement"
+      ],
+      "what_connects_them": [
+        "Réalisme",
+        "Fiabilité"
+      ],
+      "potential_friction": [
+        "Rigidité",
+        "Autoritarisme"
+      ],
+      "public_energy": "Solides, organisés, crédibles.",
+      "ideal_contexts": ["Gestion de projet", "Bâtir du concret"],
+      "social_tip": "Rire un peu plus — structure ≠ froideur."
+    },
+    "1-5": {
+      "vibe_title": "🔥 Le Leader & L’Aventurier",
+      "first_impression": "Un coup de fouet énergisant.",
+      "social_chemistry": [
+        "Fun",
+        "Impro"
+      ],
+      "what_connects_them": [
+        "Courage",
+        "Goût du risque"
+      ],
+      "potential_friction": [
+        "Le 1 contrôle trop",
+        "Le 5 fuit les règles"
+      ],
+      "public_energy": "Chaotiques mais magnétiques.",
+      "ideal_contexts": ["Voyages", "Soirées", "Business audacieux"],
+      "social_tip": "Éviter de se défier trop longtemps."
+    },
+    "1-6": {
+      "vibe_title": "❤️ Le Protecteur & Le Pilote",
+      "first_impression": "Le 6 rassure, le 1 motive.",
+      "social_chemistry": [
+        "Loyauté",
+        "Générosité"
+      ],
+      "what_connects_them": [
+        "Solidarité",
+        "Réussite partagée"
+      ],
+      "potential_friction": [
+        "Le 6 peut juger",
+        "Le 1 peut ignorer les émotions"
+      ],
+      "public_energy": "Un duo qui fait du bien.",
+      "ideal_contexts": ["Famille", "Engagements sociaux"],
+      "social_tip": "Donner plus de place à l’empathie."
+    },
+    "1-7": {
+      "vibe_title": "🔍 Le Leader & Le Sage",
+      "first_impression": "Curiosité, mais distance.",
+      "social_chemistry": [
+        "Respect",
+        "Discussions profondes"
+      ],
+      "what_connects_them": [
+        "Intelligence",
+        "Vision différente"
+      ],
+      "potential_friction": [
+        "Le 1 trop brusque",
+        "Le 7 trop réservé"
+      ],
+      "public_energy": "Mystérieux mais charismatiques.",
+      "ideal_contexts": ["Mentorat", "Projets analytiques"],
+      "social_tip": "Valoriser la réflexion du 7, pas la presser."
+    },
+    "1-8": {
+      "vibe_title": "💼 Les Titans",
+      "first_impression": "Deux puissances qui se reconnaissent.",
+      "social_chemistry": [
+        "Ambition massive",
+        "Leadership partagé"
+      ],
+      "what_connects_them": [
+        "Réussite",
+        "Exigence"
+      ],
+      "potential_friction": [
+        "Compétition intense",
+        "Contrôle ×2"
+      ],
+      "public_energy": "Impressionnants. Ils imposent silence.",
+      "ideal_contexts": ["Business", "Stratégie"],
+      "social_tip": "Célébrer le succès de l’autre."
+    },
+    "1-9": {
+      "vibe_title": "🌍 Le Héros & Le Guide",
+      "first_impression": "Le 1 inspire le 9, le 9 calme le 1.",
+      "social_chemistry": [
+        "Humanité",
+        "Vision"
+      ],
+      "what_connects_them": [
+        "Courage",
+        "Grand idéal"
+      ],
+      "potential_friction": [
+        "Le 9 peut moraliser",
+        "Le 1 peut sembler égoïste"
+      ],
+      "public_energy": "Inspirants et nobles.",
+      "ideal_contexts": ["Associatif", "Leadership inspiré"],
+      "social_tip": "Mettre l’ego au service d’une cause."
+    },
+    "1-11": {
+      "vibe_title": "✨ Le Leader & Le Visionnaire",
+      "first_impression": "Fascination mystique.",
+      "social_chemistry": [
+        "Magnétisme",
+        "Objectifs élevés"
+      ],
+      "what_connects_them": [
+        "Intuition",
+        "Création de futur"
+      ],
+      "potential_friction": [
+        "Trop d’intensité",
+        "Manque d’ancrage"
+      ],
+      "public_energy": "Inspirent les foules par leur audace.",
+      "ideal_contexts": ["Innovation", "Spiritualité appliquée"],
+      "social_tip": "Rester humain, pas seulement visionnaire."
+    },
+    "1-22": {
+      "vibe_title": "🏗️ Le Bâtisseur du Monde & Le Leader",
+      "first_impression": "Choc d’élites.",
+      "social_chemistry": [
+        "Stratégie",
+        "Réalisation concrète"
+      ],
+      "what_connects_them": [
+        "Manifestation du succès",
+        "Détermination extrême"
+      ],
+      "potential_friction": [
+        "Rigidité",
+        "Charge de pouvoir"
+      ],
+      "public_energy": "Ils créent des choses qui durent.",
+      "ideal_contexts": ["Grands projets", "Organisation"],
+      "social_tip": "Alléger. Sourire. Respirer."
+    },
+    "1-33": {
+      "vibe_title": "💖 Le Leader & Le Maître-Guérisseur",
+      "first_impression": "Admiration + compassion.",
+      "social_chemistry": [
+        "Générosité",
+        "Protection"
+      ],
+      "what_connects_them": [
+        "Noblesse",
+        "Service"
+      ],
+      "potential_friction": [
+        "Le 1 ne comprend pas le sacrifice du 33",
+        "Le 33 peut se mettre de côté"
+      ],
+      "public_energy": "Puissants et bienveillants.",
+      "ideal_contexts": ["Mentorat", "Actions humanitaires"],
+      "social_tip": "Le 1 doit apprendre le cœur, pas juste la tête."
+    },
+    "2-2": {
+      "vibe_title": "🤝 Les Âmes Jumelles",
+      "first_impression": "Douceur, empathie et compréhension immédiate.",
+      "social_chemistry": [
+        "Sensibilité partagée",
+        "Harmonie naturelle"
+      ],
+      "what_connects_them": [
+        "Émotions",
+        "Écoute profonde"
+      ],
+      "potential_friction": [
+        "Trop d'indécision",
+        "Dépendance émotionnelle"
+      ],
+      "public_energy": "Calmes, bienveillants, rassurants.",
+      "ideal_contexts": ["Soirées intimes", "Activités artistiques"],
+      "social_tip": "Oser trancher et prendre des décisions ensemble."
+    },
+    "2-3": {
+      "vibe_title": "🎨 Le Diplomate & L'Artiste",
+      "first_impression": "Le 3 charme, le 2 écoute.",
+      "social_chemistry": [
+        "Créativité",
+        "Communication fluide"
+      ],
+      "what_connects_them": [
+        "Expression émotionnelle",
+        "Beauté et harmonie"
+      ],
+      "potential_friction": [
+        "Le 2 trop sensible aux critiques",
+        "Le 3 trop léger parfois"
+      ],
+      "public_energy": "Doux et charmants.",
+      "ideal_contexts": ["Arts", "Événements culturels"],
+      "social_tip": "Le 2 doit laisser le 3 briller sans se sentir éclipsé."
+    },
+    "2-4": {
+      "vibe_title": "🏡 Le Soutien & La Base",
+      "first_impression": "Fiabilité et sécurité mutuelle.",
+      "social_chemistry": [
+        "Stabilité",
+        "Loyauté"
+      ],
+      "what_connects_them": [
+        "Engagement",
+        "Valeurs solides"
+      ],
+      "potential_friction": [
+        "Le 4 trop rigide",
+        "Le 2 trop émotif"
+      ],
+      "public_energy": "Discrets mais présents.",
+      "ideal_contexts": ["Projets familiaux", "Routine partagée"],
+      "social_tip": "Oser l'aventure de temps en temps."
+    },
+    "2-5": {
+      "vibe_title": "🌊 Le Sensible & Le Libre",
+      "first_impression": "Attraction par la différence.",
+      "social_chemistry": [
+        "Curiosité",
+        "Adaptabilité"
+      ],
+      "what_connects_them": [
+        "Ouverture d'esprit",
+        "Nouvelles expériences"
+      ],
+      "potential_friction": [
+        "Le 5 trop imprévisible",
+        "Le 2 trop attaché"
+      ],
+      "public_energy": "Rafraîchissants et surprenants.",
+      "ideal_contexts": ["Voyages", "Découvertes"],
+      "social_tip": "Le 2 doit accepter l'indépendance du 5."
+    },
+    "2-6": {
+      "vibe_title": "💕 Les Protecteurs",
+      "first_impression": "Chaleur instantanée.",
+      "social_chemistry": [
+        "Bienveillance",
+        "Empathie"
+      ],
+      "what_connects_them": [
+        "Soin aux autres",
+        "Harmonie familiale"
+      ],
+      "potential_friction": [
+        "Trop de sacrifices",
+        "Oublient leurs propres besoins"
+      ],
+      "public_energy": "Généreux et aimants.",
+      "ideal_contexts": ["Famille", "Causes humanitaires"],
+      "social_tip": "Se rappeler de prendre soin de soi."
+    },
+    "2-7": {
+      "vibe_title": "🌙 Le Sensible & Le Mystique",
+      "first_impression": "Connexion silencieuse et profonde.",
+      "social_chemistry": [
+        "Introspection",
+        "Spiritualité"
+      ],
+      "what_connects_them": [
+        "Monde intérieur riche",
+        "Quête de sens"
+      ],
+      "potential_friction": [
+        "Le 7 trop distant",
+        "Le 2 besoin de contact"
+      ],
+      "public_energy": "Énigmatiques et doux.",
+      "ideal_contexts": ["Méditation", "Nature"],
+      "social_tip": "Le 7 doit s'ouvrir davantage."
+    },
+    "2-8": {
+      "vibe_title": "💼 Le Diplomate & Le Boss",
+      "first_impression": "Le 2 admire, le 8 apprécie le soutien.",
+      "social_chemistry": [
+        "Complémentarité",
+        "Efficacité"
+      ],
+      "what_connects_them": [
+        "Réalisation de projets",
+        "Succès partagé"
+      ],
+      "potential_friction": [
+        "Le 8 trop autoritaire",
+        "Le 2 peut se sentir dominé"
+      ],
+      "public_energy": "Professionnels et courtois.",
+      "ideal_contexts": ["Business", "Réseautage"],
+      "social_tip": "Le 8 doit valoriser la contribution du 2."
+    },
+    "2-9": {
+      "vibe_title": "🌍 Les Humanistes",
+      "first_impression": "Compassion et compréhension totale.",
+      "social_chemistry": [
+        "Altruisme",
+        "Empathie universelle"
+      ],
+      "what_connects_them": [
+        "Aider les autres",
+        "Valeurs nobles"
+      ],
+      "potential_friction": [
+        "Oublient leurs limites",
+        "Épuisement émotionnel"
+      ],
+      "public_energy": "Bienveillants et inspirants.",
+      "ideal_contexts": ["ONG", "Bénévolat"],
+      "social_tip": "Apprendre à dire non et se protéger."
+    },
+    "2-11": {
+      "vibe_title": "✨ L'Empathique & Le Visionnaire",
+      "first_impression": "Connexion intuitive puissante.",
+      "social_chemistry": [
+        "Sensibilité extrême",
+        "Inspiration mutuelle"
+      ],
+      "what_connects_them": [
+        "Intuition",
+        "Profondeur émotionnelle"
+      ],
+      "potential_friction": [
+        "Trop d'intensité émotionnelle",
+        "Anxiété partagée"
+      ],
+      "public_energy": "Magnétiques et inspirants.",
+      "ideal_contexts": ["Spiritualité", "Créativité"],
+      "social_tip": "S'ancrer dans le concret régulièrement."
+    },
+    "2-22": {
+      "vibe_title": "🏗️ Le Soutien & Le Bâtisseur",
+      "first_impression": "Admiration et respect.",
+      "social_chemistry": [
+        "Vision concrète",
+        "Collaboration solide"
+      ],
+      "what_connects_them": [
+        "Grandes réalisations",
+        "Patience"
+      ],
+      "potential_friction": [
+        "Le 22 trop exigeant",
+        "Le 2 peut se sentir dépassé"
+      ],
+      "public_energy": "Discrets mais puissants.",
+      "ideal_contexts": ["Grands projets", "Organisation"],
+      "social_tip": "Le 22 doit reconnaître les émotions du 2."
+    },
+    "2-33": {
+      "vibe_title": "💖 Les Guérisseurs",
+      "first_impression": "Amour inconditionnel.",
+      "social_chemistry": [
+        "Compassion infinie",
+        "Sacrifice pour les autres"
+      ],
+      "what_connects_them": [
+        "Service désintéressé",
+        "Sagesse du cœur"
+      ],
+      "potential_friction": [
+        "S'oublient complètement",
+        "Burnout émotionnel"
+      ],
+      "public_energy": "Angéliques et réconfortants.",
+      "ideal_contexts": ["Soin aux autres", "Spiritualité"],
+      "social_tip": "Se soigner soi-même en premier."
+    },
+    "3-3": {
+      "vibe_title": "🎉 Les Fêtards Créatifs",
+      "first_impression": "Explosion de joie et de rires.",
+      "social_chemistry": [
+        "Fun illimité",
+        "Créativité débordante"
+      ],
+      "what_connects_them": [
+        "Expression libre",
+        "Optimisme contagieux"
+      ],
+      "potential_friction": [
+        "Dispersion totale",
+        "Manque de profondeur"
+      ],
+      "public_energy": "Le centre de toutes les fêtes.",
+      "ideal_contexts": ["Événements", "Arts", "Spectacles"],
+      "social_tip": "Prendre la vie au sérieux parfois."
+    },
+    "3-4": {
+      "vibe_title": "🎭 Le Créatif & Le Structuré",
+      "first_impression": "Intrigués par leurs différences.",
+      "social_chemistry": [
+        "Équilibre créativité/structure",
+        "Complémentarité"
+      ],
+      "what_connects_them": [
+        "Projets concrets",
+        "Réalisation d'idées"
+      ],
+      "potential_friction": [
+        "Le 3 trop spontané",
+        "Le 4 trop rigide"
+      ],
+      "public_energy": "Productifs et créatifs.",
+      "ideal_contexts": ["Design", "Événementiel"],
+      "social_tip": "Respecter les différences de tempo."
+    },
+    "3-5": {
+      "vibe_title": "🚀 Les Aventuriers Joyeux",
+      "first_impression": "Complicité instantanée.",
+      "social_chemistry": [
+        "Liberté",
+        "Fun et spontanéité"
+      ],
+      "what_connects_them": [
+        "Aventures",
+        "Expériences nouvelles"
+      ],
+      "potential_friction": [
+        "Trop d'impulsivité",
+        "Manque de stabilité"
+      ],
+      "public_energy": "Magnétiques et imprévisibles.",
+      "ideal_contexts": ["Voyages", "Festivals", "Sports extrêmes"],
+      "social_tip": "Ancrer certaines habitudes ensemble."
+    },
+    "3-6": {
+      "vibe_title": "🎨 Le Créatif & Le Protecteur",
+      "first_impression": "Le 6 adore le charme du 3.",
+      "social_chemistry": [
+        "Chaleur humaine",
+        "Beauté partagée"
+      ],
+      "what_connects_them": [
+        "Famille et foyer",
+        "Création d'harmonie"
+      ],
+      "potential_friction": [
+        "Le 6 peut être trop sérieux",
+        "Le 3 trop léger"
+      ],
+      "public_energy": "Accueillants et chaleureux.",
+      "ideal_contexts": ["Famille", "Décoration", "Cuisine"],
+      "social_tip": "Le 3 doit montrer plus de responsabilité."
+    },
+    "3-7": {
+      "vibe_title": "🎭 L'Artiste & Le Sage",
+      "first_impression": "Curiosité mutuelle.",
+      "social_chemistry": [
+        "Discussions profondes",
+        "Créativité intellectuelle"
+      ],
+      "what_connects_them": [
+        "Quête de sens",
+        "Expression unique"
+      ],
+      "potential_friction": [
+        "Le 3 trop superficiel pour le 7",
+        "Le 7 trop sérieux pour le 3"
+      ],
+      "public_energy": "Intrigants et charismatiques.",
+      "ideal_contexts": ["Philosophie", "Arts", "Culture"],
+      "social_tip": "Trouver l'équilibre entre légèreté et profondeur."
+    },
+    "3-8": {
+      "vibe_title": "💎 Le Créatif & Le Puissant",
+      "first_impression": "Le 3 charme, le 8 admire.",
+      "social_chemistry": [
+        "Ambition",
+        "Image publique"
+      ],
+      "what_connects_them": [
+        "Succès",
+        "Rayonnement"
+      ],
+      "potential_friction": [
+        "Le 8 trop sérieux",
+        "Le 3 trop dispersé"
+      ],
+      "public_energy": "Classe et charisme.",
+      "ideal_contexts": ["Réseautage", "Luxe", "Business"],
+      "social_tip": "Le 3 doit respecter les objectifs du 8."
+    },
+    "3-9": {
+      "vibe_title": "🌈 Les Créateurs Inspirés",
+      "first_impression": "Connexion artistique et spirituelle.",
+      "social_chemistry": [
+        "Vision créative",
+        "Générosité"
+      ],
+      "what_connects_them": [
+        "Expression universelle",
+        "Partage au monde"
+      ],
+      "potential_friction": [
+        "Le 9 peut moraliser",
+        "Le 3 peut sembler égocentrique"
+      ],
+      "public_energy": "Inspirants et colorés.",
+      "ideal_contexts": ["Arts", "Humanitaire", "Spectacles"],
+      "social_tip": "Le 3 doit approfondir ses intentions."
+    },
+    "3-11": {
+      "vibe_title": "✨ L'Artiste & Le Visionnaire",
+      "first_impression": "Étincelle créative magique.",
+      "social_chemistry": [
+        "Inspiration mutuelle",
+        "Innovation"
+      ],
+      "what_connects_them": [
+        "Créativité élevée",
+        "Expression unique"
+      ],
+      "potential_friction": [
+        "Trop d'intensité créative",
+        "Manque de pragmatisme"
+      ],
+      "public_energy": "Fascinants et originaux.",
+      "ideal_contexts": ["Innovation", "Arts", "Spiritualité"],
+      "social_tip": "Concrétiser les idées, pas juste rêver."
+    },
+    "3-22": {
+      "vibe_title": "🎯 Le Créatif & Le Maître-Bâtisseur",
+      "first_impression": "Le 22 voit le potentiel du 3.",
+      "social_chemistry": [
+        "Création à grande échelle",
+        "Vision manifeste"
+      ],
+      "what_connects_them": [
+        "Projets ambitieux",
+        "Expression publique"
+      ],
+      "potential_friction": [
+        "Le 22 trop exigeant",
+        "Le 3 manque de discipline"
+      ],
+      "public_energy": "Créateurs d'impact majeur.",
+      "ideal_contexts": ["Grands projets créatifs", "Médias"],
+      "social_tip": "Le 3 doit structurer sa créativité."
+    },
+    "3-33": {
+      "vibe_title": "💫 L'Artiste & Le Maître-Guérisseur",
+      "first_impression": "Beauté et amour.",
+      "social_chemistry": [
+        "Créativité sacrée",
+        "Expression du divin"
+      ],
+      "what_connects_them": [
+        "Service par l'art",
+        "Élévation collective"
+      ],
+      "potential_friction": [
+        "Le 3 peut paraître superficiel",
+        "Le 33 trop sacrificiel"
+      ],
+      "public_energy": "Angéliques et inspirants.",
+      "ideal_contexts": ["Art-thérapie", "Enseignement", "Spiritualité"],
+      "social_tip": "Le 3 doit mettre son art au service."
+    },
+    "4-4": {
+      "vibe_title": "🏛️ Les Piliers",
+      "first_impression": "Respect et confiance immédiate.",
+      "social_chemistry": [
+        "Stabilité absolue",
+        "Fiabilité"
+      ],
+      "what_connects_them": [
+        "Travail acharné",
+        "Valeurs solides"
+      ],
+      "potential_friction": [
+        "Rigidité excessive",
+        "Ennui possible"
+      ],
+      "public_energy": "Solides comme le roc.",
+      "ideal_contexts": ["Construction", "Gestion", "Routine"],
+      "social_tip": "Oser sortir de la zone de confort."
+    },
+    "4-5": {
+      "vibe_title": "⚖️ La Stabilité & La Liberté",
+      "first_impression": "Attirance par l'opposé.",
+      "social_chemistry": [
+        "Équilibre structure/liberté",
+        "Complémentarité"
+      ],
+      "what_connects_them": [
+        "Curiosité pour l'autre",
+        "Apprentissage mutuel"
+      ],
+      "potential_friction": [
+        "Le 4 trop rigide",
+        "Le 5 trop chaotique"
+      ],
+      "public_energy": "Intrigants par leur différence.",
+      "ideal_contexts": ["Projets variés", "Aventures encadrées"],
+      "social_tip": "Respecter les besoins fondamentaux de chacun."
+    },
+    "4-6": {
+      "vibe_title": "🏡 Les Bâtisseurs de Foyer",
+      "first_impression": "Sécurité et chaleur.",
+      "social_chemistry": [
+        "Famille",
+        "Responsabilité"
+      ],
+      "what_connects_them": [
+        "Protection des siens",
+        "Stabilité émotionnelle"
+      ],
+      "potential_friction": [
+        "Trop de sérieux",
+        "Manque de fantaisie"
+      ],
+      "public_energy": "Fiables et protecteurs.",
+      "ideal_contexts": ["Famille", "Projets de vie"],
+      "social_tip": "S'autoriser du fun et de la légèreté."
+    },
+    "4-7": {
+      "vibe_title": "🔍 Le Constructeur & Le Chercheur",
+      "first_impression": "Respect mutuel intellectuel.",
+      "social_chemistry": [
+        "Profondeur",
+        "Réflexion"
+      ],
+      "what_connects_them": [
+        "Recherche de vérité",
+        "Rigueur"
+      ],
+      "potential_friction": [
+        "Le 4 trop terre-à-terre",
+        "Le 7 trop abstrait"
+      ],
+      "public_energy": "Sérieux et crédibles.",
+      "ideal_contexts": ["Recherche", "Analyse", "Projets techniques"],
+      "social_tip": "Ouvrir le cœur, pas juste la tête."
+    },
+    "4-8": {
+      "vibe_title": "💼 Les Empires",
+      "first_impression": "Reconnaissance professionnelle.",
+      "social_chemistry": [
+        "Ambition concrète",
+        "Puissance"
+      ],
+      "what_connects_them": [
+        "Réussite matérielle",
+        "Détermination"
+      ],
+      "potential_friction": [
+        "Trop de travail",
+        "Manque d'émotions"
+      ],
+      "public_energy": "Imposants et respectables.",
+      "ideal_contexts": ["Business", "Finance", "Immobilier"],
+      "social_tip": "Se rappeler que la vie n'est pas que travail."
+    },
+    "4-9": {
+      "vibe_title": "🌍 Le Constructeur & L'Humaniste",
+      "first_impression": "Valeurs partagées.",
+      "social_chemistry": [
+        "Service",
+        "Engagement"
+      ],
+      "what_connects_them": [
+        "Construire un monde meilleur",
+        "Actions concrètes"
+      ],
+      "potential_friction": [
+        "Le 4 trop pratique",
+        "Le 9 trop idéaliste"
+      ],
+      "public_energy": "Dignes et engagés.",
+      "ideal_contexts": ["ONG", "Projets sociaux", "Construction durable"],
+      "social_tip": "Allier pragmatisme et idéalisme."
+    },
+    "4-11": {
+      "vibe_title": "✨ Le Pragmatique & Le Visionnaire",
+      "first_impression": "Tension créative productive.",
+      "social_chemistry": [
+        "Manifestation des visions",
+        "Ancrage spirituel"
+      ],
+      "what_connects_them": [
+        "Réaliser l'impossible",
+        "Discipline spirituelle"
+      ],
+      "potential_friction": [
+        "Le 4 bloque les intuitions du 11",
+        "Le 11 frustre le 4 par son idéalisme"
+      ],
+      "public_energy": "Mystiques mais concrets.",
+      "ideal_contexts": ["Innovation", "Projets visionnaires"],
+      "social_tip": "Le 4 doit faire confiance à l'intuition."
+    },
+    "4-22": {
+      "vibe_title": "🏗️ Les Architectes du Monde",
+      "first_impression": "Alliance stratégique naturelle.",
+      "social_chemistry": [
+        "Vision et exécution",
+        "Maîtrise totale"
+      ],
+      "what_connects_them": [
+        "Bâtir du durable",
+        "Excellence"
+      ],
+      "potential_friction": [
+        "Trop de pression",
+        "Perfectionnisme excessif"
+      ],
+      "public_energy": "Légendaires par leurs réalisations.",
+      "ideal_contexts": ["Grands projets", "Infrastructure", "Entreprise"],
+      "social_tip": "Célébrer les petites victoires aussi."
+    },
+    "4-33": {
+      "vibe_title": "🕊️ Le Bâtisseur & Le Guérisseur",
+      "first_impression": "Solidité et compassion.",
+      "social_chemistry": [
+        "Service concret",
+        "Amour en action"
+      ],
+      "what_connects_them": [
+        "Créer du bien durable",
+        "Engagement profond"
+      ],
+      "potential_friction": [
+        "Le 4 trop rationnel",
+        "Le 33 trop émotif"
+      ],
+      "public_energy": "Nobles et dignes de confiance.",
+      "ideal_contexts": ["Fondations", "Hôpitaux", "Écoles"],
+      "social_tip": "Le 4 doit s'ouvrir au cœur."
+    },
+    "5-5": {
+      "vibe_title": "🌪️ Les Tornades Libres",
+      "first_impression": "Feu d'artifice instantané.",
+      "social_chemistry": [
+        "Aventure extrême",
+        "Liberté totale"
+      ],
+      "what_connects_them": [
+        "Expériences folles",
+        "Indépendance"
+      ],
+      "potential_friction": [
+        "Aucun ancrage",
+        "Instabilité chronique"
+      ],
+      "public_energy": "Sauvages et fascinants.",
+      "ideal_contexts": ["Voyages", "Sports extrêmes", "Entrepreneuriat"],
+      "social_tip": "Créer quelques rituels stables ensemble."
+    },
+    "5-6": {
+      "vibe_title": "🏠 Le Libre & Le Protecteur",
+      "first_impression": "Attraction par l'opposé.",
+      "social_chemistry": [
+        "Équilibre liberté/sécurité",
+        "Croissance mutuelle"
+      ],
+      "what_connects_them": [
+        "Apprendre de l'autre",
+        "Élargir sa vision"
+      ],
+      "potential_friction": [
+        "Le 5 fuit l'engagement",
+        "Le 6 étouffe le 5"
+      ],
+      "public_energy": "Complémentaires mais différents.",
+      "ideal_contexts": ["Famille moderne", "Projets communautaires"],
+      "social_tip": "Respecter les espaces de liberté et d'intimité."
+    },
+    "5-7": {
+      "vibe_title": "🔮 L'Aventurier & Le Mystique",
+      "first_impression": "Curiosité intellectuelle mutuelle.",
+      "social_chemistry": [
+        "Exploration",
+        "Quête de vérité"
+      ],
+      "what_connects_them": [
+        "Indépendance",
+        "Recherche de sens"
+      ],
+      "potential_friction": [
+        "Le 5 trop superficiel",
+        "Le 7 trop introverti"
+      ],
+      "public_energy": "Énigmatiques et libres.",
+      "ideal_contexts": ["Voyages spirituels", "Études", "Recherche"],
+      "social_tip": "Partager les découvertes tout en gardant l'autonomie."
+    },
+    "5-8": {
+      "vibe_title": "⚡ Le Rebelle & Le Boss",
+      "first_impression": "Tension électrique.",
+      "social_chemistry": [
+        "Pouvoir",
+        "Action"
+      ],
+      "what_connects_them": [
+        "Ambition",
+        "Courage"
+      ],
+      "potential_friction": [
+        "Lutte de pouvoir",
+        "Le 5 déteste l'autorité du 8"
+      ],
+      "public_energy": "Puissants mais imprévisibles.",
+      "ideal_contexts": ["Business audacieux", "Défis", "Sports"],
+      "social_tip": "Respecter les territoires de chacun."
+    },
+    "5-9": {
+      "vibe_title": "🌍 Les Explorateurs Universels",
+      "first_impression": "Connexion cosmopolite.",
+      "social_chemistry": [
+        "Ouverture au monde",
+        "Générosité"
+      ],
+      "what_connects_them": [
+        "Voyages",
+        "Diversité culturelle"
+      ],
+      "potential_friction": [
+        "Le 9 peut être moralisant",
+        "Le 5 trop égoïste"
+      ],
+      "public_energy": "Citoyens du monde.",
+      "ideal_contexts": ["Voyages", "Humanitaire", "Échanges culturels"],
+      "social_tip": "Le 5 doit penser aux autres aussi."
+    },
+    "5-11": {
+      "vibe_title": "✨ Le Libre & Le Visionnaire",
+      "first_impression": "Étincelle électrique.",
+      "social_chemistry": [
+        "Innovation",
+        "Audace"
+      ],
+      "what_connects_them": [
+        "Briser les codes",
+        "Créer du nouveau"
+      ],
+      "potential_friction": [
+        "Trop d'instabilité",
+        "Anxiété partagée"
+      ],
+      "public_energy": "Révolutionnaires et magnétiques.",
+      "ideal_contexts": ["Start-up", "Mouvements sociaux", "Innovation"],
+      "social_tip": "S'ancrer pour concrétiser les visions."
+    },
+    "5-22": {
+      "vibe_title": "🚀 L'Aventurier & Le Maître-Bâtisseur",
+      "first_impression": "Le 22 canalise l'énergie du 5.",
+      "social_chemistry": [
+        "Vision + Action",
+        "Réalisation audacieuse"
+      ],
+      "what_connects_them": [
+        "Créer l'extraordinaire",
+        "Concrétiser le rêve"
+      ],
+      "potential_friction": [
+        "Le 5 trop impulsif",
+        "Le 22 trop contrôlant"
+      ],
+      "public_energy": "Créateurs d'empire innovant.",
+      "ideal_contexts": ["Grands projets", "Innovation", "Business"],
+      "social_tip": "Le 5 doit accepter la structure du 22."
+    },
+    "5-33": {
+      "vibe_title": "💫 Le Libre & Le Guérisseur",
+      "first_impression": "Le 33 fascine le 5.",
+      "social_chemistry": [
+        "Liberté spirituelle",
+        "Service joyeux"
+      ],
+      "what_connects_them": [
+        "Servir avec légèreté",
+        "Élévation par l'expérience"
+      ],
+      "potential_friction": [
+        "Le 5 fuit l'engagement",
+        "Le 33 s'oublie"
+      ],
+      "public_energy": "Inspirants et libres.",
+      "ideal_contexts": ["Missions humanitaires", "Enseignement libre"],
+      "social_tip": "Équilibrer liberté et responsabilité."
+    },
+    "6-6": {
+      "vibe_title": "💝 Les Gardiens du Foyer",
+      "first_impression": "Chaleur familiale immédiate.",
+      "social_chemistry": [
+        "Amour inconditionnel",
+        "Protection mutuelle"
+      ],
+      "what_connects_them": [
+        "Famille",
+        "Harmonie"
+      ],
+      "potential_friction": [
+        "Trop de sacrifices",
+        "Perfectionnisme sur l'image"
+      ],
+      "public_energy": "La famille parfaite.",
+      "ideal_contexts": ["Famille", "Communauté", "Maison"],
+      "social_tip": "Accepter l'imperfection et prendre soin de soi."
+    },
+    "6-7": {
+      "vibe_title": "🏡 Le Protecteur & Le Sage",
+      "first_impression": "Le 6 veut prendre soin du 7.",
+      "social_chemistry": [
+        "Respect",
+        "Profondeur"
+      ],
+      "what_connects_them": [
+        "Valeurs spirituelles",
+        "Quête de sens"
+      ],
+      "potential_friction": [
+        "Le 6 trop intrusif",
+        "Le 7 trop distant"
+      ],
+      "public_energy": "Sages et bienveillants.",
+      "ideal_contexts": ["Spiritualité", "Retraites", "Études"],
+      "social_tip": "Le 6 doit respecter la solitude du 7."
+    },
+    "6-8": {
+      "vibe_title": "👑 Le Protecteur & Le Puissant",
+      "first_impression": "Respect et admiration.",
+      "social_chemistry": [
+        "Responsabilité",
+        "Leadership familial"
+      ],
+      "what_connects_them": [
+        "Prospérité familiale",
+        "Protection des siens"
+      ],
+      "potential_friction": [
+        "Le 8 trop focalisé sur le travail",
+        "Le 6 sur les émotions"
+      ],
+      "public_energy": "Puissants et protecteurs.",
+      "ideal_contexts": ["Entreprise familiale", "Patrimoine"],
+      "social_tip": "Équilibrer travail et famille."
+    },
+    "6-9": {
+      "vibe_title": "🌍 Les Serviteurs du Monde",
+      "first_impression": "Amour universel.",
+      "social_chemistry": [
+        "Compassion totale",
+        "Générosité"
+      ],
+      "what_connects_them": [
+        "Aider l'humanité",
+        "Amour sans frontières"
+      ],
+      "potential_friction": [
+        "Oublient leurs limites",
+        "Épuisement total"
+      ],
+      "public_energy": "Saints vivants.",
+      "ideal_contexts": ["Humanitaire", "ONG", "Enseignement"],
+      "social_tip": "Se protéger et se ressourcer régulièrement."
+    },
+    "6-11": {
+      "vibe_title": "✨ Le Protecteur & Le Visionnaire",
+      "first_impression": "Le 6 soutient le 11.",
+      "social_chemistry": [
+        "Inspiration mutuelle",
+        "Soutien émotionnel"
+      ],
+      "what_connects_them": [
+        "Mission élevée",
+        "Service inspiré"
+      ],
+      "potential_friction": [
+        "Le 6 peut étouffer le 11",
+        "Le 11 trop dans les nuages"
+      ],
+      "public_energy": "Inspirants et protecteurs.",
+      "ideal_contexts": ["Enseignement", "Spiritualité", "Mentorat"],
+      "social_tip": "Le 6 doit laisser le 11 voler."
+    },
+    "6-22": {
+      "vibe_title": "🏗️ Le Protecteur & Le Maître-Bâtisseur",
+      "first_impression": "Alliance stratégique familiale.",
+      "social_chemistry": [
+        "Construction d'empire familial",
+        "Responsabilité partagée"
+      ],
+      "what_connects_them": [
+        "Créer du durable",
+        "Protéger les générations"
+      ],
+      "potential_friction": [
+        "Trop de pression",
+        "Perfectionnisme partagé"
+      ],
+      "public_energy": "Dynastie familiale.",
+      "ideal_contexts": ["Entreprise familiale", "Patrimoine", "Legs"],
+      "social_tip": "Profiter du présent, pas juste préparer l'avenir."
+    },
+    "6-33": {
+      "vibe_title": "💖 Les Maîtres de l'Amour",
+      "first_impression": "Fusion d'âmes.",
+      "social_chemistry": [
+        "Amour inconditionnel",
+        "Service total"
+      ],
+      "what_connects_them": [
+        "Guérir le monde",
+        "Sacrifice joyeux"
+      ],
+      "potential_friction": [
+        "S'oublient complètement",
+        "Burnout garanti"
+      ],
+      "public_energy": "Angéliques et divins.",
+      "ideal_contexts": ["Soin aux autres", "Enseignement spirituel"],
+      "social_tip": "Apprendre à recevoir, pas seulement donner."
+    },
+    "7-7": {
+      "vibe_title": "🔮 Les Mystiques",
+      "first_impression": "Silence confortable et compréhension.",
+      "social_chemistry": [
+        "Profondeur intellectuelle",
+        "Spiritualité"
+      ],
+      "what_connects_them": [
+        "Quête de vérité",
+        "Monde intérieur"
+      ],
+      "potential_friction": [
+        "Trop d'isolement",
+        "Manque de légèreté"
+      ],
+      "public_energy": "Énigmatiques et fascinants.",
+      "ideal_contexts": ["Études", "Recherche", "Méditation"],
+      "social_tip": "Sortir dans le monde de temps en temps."
+    },
+    "7-8": {
+      "vibe_title": "💎 Le Sage & Le Puissant",
+      "first_impression": "Respect intellectuel mutuel.",
+      "social_chemistry": [
+        "Stratégie",
+        "Analyse"
+      ],
+      "what_connects_them": [
+        "Maîtrise de leur domaine",
+        "Excellence"
+      ],
+      "potential_friction": [
+        "Le 7 trop théorique",
+        "Le 8 trop matérialiste"
+      ],
+      "public_energy": "Puissants et crédibles.",
+      "ideal_contexts": ["Finance", "Stratégie", "Conseil"],
+      "social_tip": "Équilibrer esprit et matière."
+    },
+    "7-9": {
+      "vibe_title": "🌌 Les Philosophes",
+      "first_impression": "Connexion spirituelle profonde.",
+      "social_chemistry": [
+        "Sagesse",
+        "Compassion"
+      ],
+      "what_connects_them": [
+        "Quête de vérité universelle",
+        "Élévation spirituelle"
+      ],
+      "potential_friction": [
+        "Trop dans l'abstrait",
+        "Déconnexion du réel"
+      ],
+      "public_energy": "Sages et éclairés.",
+      "ideal_contexts": ["Spiritualité", "Enseignement", "Philosophie"],
+      "social_tip": "S'ancrer dans le concret régulièrement."
+    },
+    "7-11": {
+      "vibe_title": "✨ Les Mystiques Visionnaires",
+      "first_impression": "Reconnaissance d'âmes anciennes.",
+      "social_chemistry": [
+        "Intuition puissante",
+        "Connexion spirituelle"
+      ],
+      "what_connects_them": [
+        "Mission spirituelle",
+        "Vérités cachées"
+      ],
+      "potential_friction": [
+        "Trop d'intensité",
+        "Anxiété spirituelle"
+      ],
+      "public_energy": "Prophétiques et magnétiques.",
+      "ideal_contexts": ["Spiritualité avancée", "Recherche métaphysique"],
+      "social_tip": "S'ancrer dans le corps et la terre."
+    },
+    "7-22": {
+      "vibe_title": "🏛️ Le Sage & Le Maître-Architecte",
+      "first_impression": "Alliance de l'esprit et de la matière.",
+      "social_chemistry": [
+        "Vision stratégique",
+        "Excellence absolue"
+      ],
+      "what_connects_them": [
+        "Créer du durable",
+        "Maîtrise totale"
+      ],
+      "potential_friction": [
+        "Le 7 trop isolé",
+        "Le 22 trop exigeant"
+      ],
+      "public_energy": "Légendaires par leur sagesse.",
+      "ideal_contexts": ["Grands projets", "Enseignement supérieur"],
+      "social_tip": "Le 7 doit s'impliquer dans l'action."
+    },
+    "7-33": {
+      "vibe_title": "🕊️ Le Sage & Le Guérisseur",
+      "first_impression": "Révérence mutuelle.",
+      "social_chemistry": [
+        "Sagesse divine",
+        "Amour éclairé"
+      ],
+      "what_connects_them": [
+        "Service spirituel",
+        "Élévation collective"
+      ],
+      "potential_friction": [
+        "Le 7 trop mental",
+        "Le 33 trop émotif"
+      ],
+      "public_energy": "Maîtres spirituels.",
+      "ideal_contexts": ["Enseignement spirituel", "Guérison"],
+      "social_tip": "Équilibrer tête et cœur."
+    },
+    "8-8": {
+      "vibe_title": "👑 Les Empereurs",
+      "first_impression": "Choc de pouvoir.",
+      "social_chemistry": [
+        "Ambition démesurée",
+        "Puissance x2"
+      ],
+      "what_connects_them": [
+        "Domination du monde",
+        "Succès matériel"
+      ],
+      "potential_friction": [
+        "Guerre de territoire",
+        "Ego colossal"
+      ],
+      "public_energy": "Intimidants et impressionnants.",
+      "ideal_contexts": ["Business", "Finance", "Politique"],
+      "social_tip": "Collaborer au lieu de compétir."
+    },
+    "8-9": {
+      "vibe_title": "🌍 Le Puissant & L'Humaniste",
+      "first_impression": "Respect par les réalisations.",
+      "social_chemistry": [
+        "Vision d'impact",
+        "Leadership global"
+      ],
+      "what_connects_them": [
+        "Changer le monde",
+        "Legacy"
+      ],
+      "potential_friction": [
+        "Le 8 trop matérialiste",
+        "Le 9 trop idéaliste"
+      ],
+      "public_energy": "Puissants et nobles.",
+      "ideal_contexts": ["Philanthropie", "Impact social", "Leadership"],
+      "social_tip": "Le 8 doit servir une cause plus grande."
+    },
+    "8-11": {
+      "vibe_title": "⚡ Le Puissant & Le Visionnaire",
+      "first_impression": "Alliance explosive.",
+      "social_chemistry": [
+        "Manifestation puissante",
+        "Innovation audacieuse"
+      ],
+      "what_connects_them": [
+        "Créer l'impossible",
+        "Révolutionner"
+      ],
+      "potential_friction": [
+        "Trop d'intensité",
+        "Le 8 écrase le 11"
+      ],
+      "public_energy": "Révolutionnaires et puissants.",
+      "ideal_contexts": ["Innovation", "Start-up", "Transformation"],
+      "social_tip": "Le 8 doit respecter la sensibilité du 11."
+    },
+    "8-22": {
+      "vibe_title": "🏗️ Les Titans Bâtisseurs",
+      "first_impression": "Reconnaissance de maîtrise mutuelle.",
+      "social_chemistry": [
+        "Pouvoir absolu",
+        "Réalisation monumentale"
+      ],
+      "what_connects_them": [
+        "Empire durable",
+        "Legacy historique"
+      ],
+      "potential_friction": [
+        "Perfectionnisme extrême",
+        "Pression énorme"
+      ],
+      "public_energy": "Légendaires et immortels.",
+      "ideal_contexts": ["Grands projets mondiaux", "Empires"],
+      "social_tip": "Se rappeler d'être humain."
+    },
+    "8-33": {
+      "vibe_title": "👑 Le Puissant & Le Guérisseur",
+      "first_impression": "Pouvoir rencontre amour.",
+      "social_chemistry": [
+        "Service puissant",
+        "Impact massif"
+      ],
+      "what_connects_them": [
+        "Transformer le monde",
+        "Leadership aimant"
+      ],
+      "potential_friction": [
+        "Le 8 trop dur",
+        "Le 33 trop doux"
+      ],
+      "public_energy": "Puissants et aimants.",
+      "ideal_contexts": ["Philanthropie", "Fondations", "Impact social"],
+      "social_tip": "Le 8 doit ouvrir son cœur."
+    },
+    "9-9": {
+      "vibe_title": "🌍 Les Âmes Universelles",
+      "first_impression": "Reconnaissance d'âmes sœurs.",
+      "social_chemistry": [
+        "Compassion infinie",
+        "Vision globale"
+      ],
+      "what_connects_them": [
+        "Servir l'humanité",
+        "Amour universel"
+      ],
+      "potential_friction": [
+        "S'oublient totalement",
+        "Idéalisme excessif"
+      ],
+      "public_energy": "Anges incarnés.",
+      "ideal_contexts": ["Humanitaire", "Paix mondiale", "Arts"],
+      "social_tip": "Prendre soin de soi aussi."
+    },
+    "9-11": {
+      "vibe_title": "✨ L'Humaniste & Le Visionnaire",
+      "first_impression": "Mission commune ressentie.",
+      "social_chemistry": [
+        "Vision élevée",
+        "Service inspiré"
+      ],
+      "what_connects_them": [
+        "Élever l'humanité",
+        "Mission spirituelle"
+      ],
+      "potential_friction": [
+        "Trop d'intensité émotionnelle",
+        "Épuisement spirituel"
+      ],
+      "public_energy": "Prophétiques et inspirants.",
+      "ideal_contexts": ["Mouvements sociaux", "Spiritualité", "Arts"],
+      "social_tip": "S'ancrer et se protéger énergétiquement."
+    },
+    "9-22": {
+      "vibe_title": "🌍 L'Humaniste & Le Maître-Bâtisseur",
+      "first_impression": "Vision commune d'impact global.",
+      "social_chemistry": [
+        "Transformation mondiale",
+        "Legacy humanitaire"
+      ],
+      "what_connects_them": [
+        "Bâtir un monde meilleur",
+        "Service à grande échelle"
+      ],
+      "potential_friction": [
+        "Le 9 trop idéaliste",
+        "Le 22 trop exigeant"
+      ],
+      "public_energy": "Visionnaires et bâtisseurs de paix.",
+      "ideal_contexts": ["ONU", "Grandes fondations", "Impact mondial"],
+      "social_tip": "Équilibrer rêve et réalisation."
+    },
+    "9-33": {
+      "vibe_title": "💫 Les Maîtres de l'Amour Universel",
+      "first_impression": "Fusion divine.",
+      "social_chemistry": [
+        "Amour inconditionnel",
+        "Sacrifice sacré"
+      ],
+      "what_connects_them": [
+        "Guérir l'humanité",
+        "Service christique"
+      ],
+      "potential_friction": [
+        "S'oublient complètement",
+        "Martyre"
+      ],
+      "public_energy": "Saints vivants.",
+      "ideal_contexts": ["Missions spirituelles", "Guérison mondiale"],
+      "social_tip": "Vous méritez aussi de recevoir."
+    },
+    "11-11": {
+      "vibe_title": "⚡ Les Visionnaires Jumeaux",
+      "first_impression": "Reconnaissance électrique instantanée.",
+      "social_chemistry": [
+        "Intuition partagée",
+        "Inspiration mutuelle"
+      ],
+      "what_connects_them": [
+        "Mission spirituelle",
+        "Innovation radicale"
+      ],
+      "potential_friction": [
+        "Intensité extrême",
+        "Anxiété doublée"
+      ],
+      "public_energy": "Prophétiques et magnétiques.",
+      "ideal_contexts": ["Innovation", "Spiritualité", "Transformation"],
+      "social_tip": "S'ancrer absolument dans le concret."
+    },
+    "11-22": {
+      "vibe_title": "🌟 Vision & Manifestation",
+      "first_impression": "Alliance sacrée.",
+      "social_chemistry": [
+        "Rêve + Réalisation",
+        "Puissance spirituelle"
+      ],
+      "what_connects_them": [
+        "Manifester l'impossible",
+        "Transformation mondiale"
+      ],
+      "potential_friction": [
+        "Pression immense",
+        "Le 22 peut écraser le 11"
+      ],
+      "public_energy": "Créateurs de nouveaux paradigmes.",
+      "ideal_contexts": ["Projets visionnaires", "Innovation mondiale"],
+      "social_tip": "Rester humain malgré la mission."
+    },
+    "11-33": {
+      "vibe_title": "💫 Vision & Amour Divin",
+      "first_impression": "Reconnaissance d'âmes maîtres.",
+      "social_chemistry": [
+        "Élévation spirituelle",
+        "Service sacré"
+      ],
+      "what_connects_them": [
+        "Mission spirituelle élevée",
+        "Guérison collective"
+      ],
+      "potential_friction": [
+        "Trop sensibles au monde",
+        "Épuisement spirituel"
+      ],
+      "public_energy": "Maîtres spirituels incarnés.",
+      "ideal_contexts": ["Enseignement spirituel", "Guérison", "Transformation"],
+      "social_tip": "Protéger votre énergie sacrée."
+    },
+    "22-22": {
+      "vibe_title": "🏗️ Les Architectes Divins",
+      "first_impression": "Reconnaissance de maîtrise absolue.",
+      "social_chemistry": [
+        "Pouvoir de manifestation x2",
+        "Excellence totale"
+      ],
+      "what_connects_them": [
+        "Construire l'impossible",
+        "Legacy éternel"
+      ],
+      "potential_friction": [
+        "Perfectionnisme paralysant",
+        "Pression monumentale"
+      ],
+      "public_energy": "Légendaires et immortels.",
+      "ideal_contexts": ["Empires", "Projets monumentaux", "Infrastructure"],
+      "social_tip": "Célébrer le chemin, pas juste le résultat."
+    },
+    "22-33": {
+      "vibe_title": "🌟 Maîtrise & Amour",
+      "first_impression": "Alliance sacrée de pouvoir et d'amour.",
+      "social_chemistry": [
+        "Service à l'échelle mondiale",
+        "Manifestation divine"
+      ],
+      "what_connects_them": [
+        "Transformer le monde avec amour",
+        "Legacy spirituel et matériel"
+      ],
+      "potential_friction": [
+        "Le 22 trop rationnel",
+        "Le 33 s'épuise"
+      ],
+      "public_energy": "Bâtisseurs de temples de lumière.",
+      "ideal_contexts": ["Fondations spirituelles", "Hôpitaux", "Écoles"],
+      "social_tip": "Équilibrer action et repos sacré."
+    },
+    "33-33": {
+      "vibe_title": "💖 Les Maîtres Guérisseurs",
+      "first_impression": "Amour divin partagé.",
+      "social_chemistry": [
+        "Compassion infinie",
+        "Service christique"
+      ],
+      "what_connects_them": [
+        "Guérir l'humanité",
+        "Amour inconditionnel"
+      ],
+      "potential_friction": [
+        "S'oublient totalement",
+        "Burnout spirituel garanti"
+      ],
+      "public_energy": "Avatars de l'amour divin.",
+      "ideal_contexts": ["Guérison spirituelle", "Enseignement sacré", "Service total"],
+      "social_tip": "Vous êtes humains aussi. Reposez-vous."
+    }
+  }

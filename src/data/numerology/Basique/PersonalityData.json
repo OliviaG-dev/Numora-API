@@ -1,0 +1,14 @@
+{
+    "1": ["leader", "confiant", "direct", "volontaire", "ambitieux"],
+    "2": ["diplomate", "sensible", "coopératif", "réservé", "pacifique"],
+    "3": ["sociable", "expressif", "charmant", "optimiste", "créatif"],
+    "4": ["fiable", "sérieux", "travailleur", "pratique", "organisé"],
+    "5": ["dynamique", "adaptable", "aventurier", "curieux", "séducteur"],
+    "6": ["attentionné", "chaleureux", "responsable", "protecteur", "harmonieux"],
+    "7": ["mystérieux", "réfléchi", "analytique", "spirituel", "observateur"],
+    "8": ["autoritaire", "puissant", "charismatique", "ambitieux", "inspirant"],
+    "9": ["altruiste", "généreux", "idéaliste", "compassionné", "humaniste"],
+    "11": ["magnétique", "inspirant", "intuitif", "visionnaire", "sensible"],
+    "22": ["bâtisseur", "charismatique", "organisateur", "ambitieux", "visionnaire"],
+    "33": ["chaleur inspirante", "enseignant naturel", "charisme bienveillant", "guérisseur", "leader spirituel"]
+}

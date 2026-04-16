@@ -1,0 +1,266 @@
+[
+    {
+        "nombre": 1,
+        "mots_cles": ["dynamisme", "leadership", "ambition"],
+        "energie": "Un environnement qui pousse à agir et à réussir",
+        "ressenti": "Ville active, rapide, orientée résultats",
+        "opportunites": [
+          "Créer un projet",
+          "Évoluer professionnellement",
+          "Se démarquer"
+        ],
+        "defis": [
+          "Compétition forte",
+          "Pression"
+        ],
+        "profil_ideal": [
+          "Entrepreneurs",
+          "Ambitieux",
+          "Indépendants"
+        ],
+        "conseil": "Prends ta place sans te comparer",
+        "question_a_se_poser": "Est-ce que j’ose vraiment avancer ?"
+      },
+      {
+        "nombre": 2,
+        "mots_cles": ["coopération", "relation", "équilibre"],
+        "energie": "Un environnement qui favorise les relations humaines",
+        "ressenti": "Ville douce, relationnelle",
+        "opportunites": [
+          "Créer des partenariats",
+          "Développer des relations",
+          "Travailler en équipe"
+        ],
+        "defis": [
+          "Manque de décision",
+          "Dépendance aux autres"
+        ],
+        "profil_ideal": [
+          "Professions relationnelles",
+          "Couples",
+          "Travail collaboratif"
+        ],
+        "conseil": "Entoure-toi des bonnes personnes",
+        "question_a_se_poser": "Est-ce que je choisis bien mes relations ?"
+      },
+      {
+        "nombre": 3,
+        "mots_cles": ["créativité", "communication", "expression"],
+        "energie": "Un lieu vivant qui stimule les échanges",
+        "ressenti": "Ville animée, culturelle",
+        "opportunites": [
+          "Réseautage",
+          "Créativité",
+          "Visibilité"
+        ],
+        "defis": [
+          "Superficialité",
+          "Dispersion"
+        ],
+        "profil_ideal": [
+          "Créatifs",
+          "Communicants",
+          "Artistes"
+        ],
+        "conseil": "Profite de l’énergie sociale pour te montrer",
+        "question_a_se_poser": "Est-ce que je m’exprime vraiment ?"
+      },
+      {
+        "nombre": 4,
+        "mots_cles": ["structure", "stabilité", "cadre"],
+        "energie": "Un environnement stable et organisé",
+        "ressenti": "Ville structurée, rassurante",
+        "opportunites": [
+          "Construire sur le long terme",
+          "Créer des bases solides",
+          "Sécurité professionnelle"
+        ],
+        "defis": [
+          "Rigidité",
+          "Manque de spontanéité"
+        ],
+        "profil_ideal": [
+          "Familles",
+          "Profils stables",
+          "Projets durables"
+        ],
+        "conseil": "Utilise la stabilité sans te bloquer",
+        "question_a_se_poser": "Est-ce que je m’autorise à évoluer ?"
+      },
+      {
+        "nombre": 5,
+        "mots_cles": ["changement", "mouvement", "liberté"],
+        "energie": "Un environnement dynamique et en évolution",
+        "ressenti": "Ville vivante, rapide",
+        "opportunites": [
+          "Rencontres",
+          "Opportunités professionnelles",
+          "Changements de vie"
+        ],
+        "defis": [
+          "Instabilité",
+          "Manque d’ancrage"
+        ],
+        "profil_ideal": [
+          "Jeunes actifs",
+          "Explorateurs",
+          "Profils adaptables"
+        ],
+        "conseil": "Reste flexible mais ancré",
+        "question_a_se_poser": "Est-ce que je me laisse porter ou je choisis vraiment ?"
+      },
+      {
+        "nombre": 6,
+        "mots_cles": ["famille", "responsabilité", "harmonie"],
+        "energie": "Un environnement chaleureux et protecteur",
+        "ressenti": "Ville accueillante, conviviale",
+        "opportunites": [
+          "Vie familiale",
+          "Relations durables",
+          "Activités sociales"
+        ],
+        "defis": [
+          "Pression sociale",
+          "Responsabilités lourdes"
+        ],
+        "profil_ideal": [
+          "Familles",
+          "Couples",
+          "Communautés"
+        ],
+        "conseil": "Trouve l’équilibre entre donner et recevoir",
+        "question_a_se_poser": "Est-ce que je vis pour moi aussi ?"
+      },
+      {
+        "nombre": 7,
+        "mots_cles": ["calme", "réflexion", "intellect"],
+        "energie": "Un environnement propice à la réflexion",
+        "ressenti": "Ville calme ou discrète",
+        "opportunites": [
+          "Recherche",
+          "Études",
+          "Développement personnel"
+        ],
+        "defis": [
+          "Isolement",
+          "Manque de dynamisme"
+        ],
+        "profil_ideal": [
+          "Étudiants",
+          "Chercheurs",
+          "Introvertis"
+        ],
+        "conseil": "Crée du lien malgré le calme",
+        "question_a_se_poser": "Est-ce que je reste connecté aux autres ?"
+      },
+      {
+        "nombre": 8,
+        "mots_cles": ["ambition", "réussite", "business"],
+        "energie": "Un environnement tourné vers la réussite",
+        "ressenti": "Ville active et compétitive",
+        "opportunites": [
+          "Carrière",
+          "Business",
+          "Évolution rapide"
+        ],
+        "defis": [
+          "Stress",
+          "Pression"
+        ],
+        "profil_ideal": [
+          "Entrepreneurs",
+          "Cadres",
+          "Ambitieux"
+        ],
+        "conseil": "Réussis sans t’épuiser",
+        "question_a_se_poser": "Est-ce que ma réussite me rend heureux ?"
+      },
+      {
+        "nombre": 9,
+        "mots_cles": ["ouverture", "humanisme", "diversité"],
+        "energie": "Un environnement riche humainement",
+        "ressenti": "Ville ouverte, multiculturelle",
+        "opportunites": [
+          "Engagement social",
+          "Culture",
+          "Voyage intérieur"
+        ],
+        "defis": [
+          "Dispersion",
+          "Charge émotionnelle"
+        ],
+        "profil_ideal": [
+          "Artistes",
+          "Humanitaires",
+          "Curieux"
+        ],
+        "conseil": "Reste centré dans l’ouverture",
+        "question_a_se_poser": "Est-ce que je garde mon équilibre ?"
+      },
+      {
+        "nombre": 11,
+        "mots_cles": ["intuition", "vision", "inspiration"],
+        "energie": "Un environnement stimulant mentalement et intuitivement",
+        "ressenti": "Ville inspirante mais intense",
+        "opportunites": [
+          "Création",
+          "Innovation",
+          "Développement personnel"
+        ],
+        "defis": [
+          "Surcharge mentale",
+          "Instabilité émotionnelle"
+        ],
+        "profil_ideal": [
+          "Créatifs",
+          "Visionnaires",
+          "Indépendants"
+        ],
+        "conseil": "Canalise ton énergie",
+        "question_a_se_poser": "Est-ce que je suis aligné avec ma vision ?"
+      },
+      {
+        "nombre": 22,
+        "mots_cles": ["construction", "vision", "réalisation"],
+        "energie": "Un environnement puissant pour concrétiser",
+        "ressenti": "Ville ambitieuse et structurée",
+        "opportunites": [
+          "Grands projets",
+          "Leadership",
+          "Impact concret"
+        ],
+        "defis": [
+          "Pression forte",
+          "Responsabilités lourdes"
+        ],
+        "profil_ideal": [
+          "Dirigeants",
+          "Bâtisseurs",
+          "Entrepreneurs"
+        ],
+        "conseil": "Pense grand mais avance étape par étape",
+        "question_a_se_poser": "Est-ce que je concrétise vraiment ?"
+      },
+      {
+        "nombre": 33,
+        "mots_cles": ["amour", "transmission", "conscience"],
+        "energie": "Un environnement tourné vers l’humain et l’entraide",
+        "ressenti": "Ville bienveillante et profonde",
+        "opportunites": [
+          "Accompagnement",
+          "Transmission",
+          "Guérison"
+        ],
+        "defis": [
+          "Charge émotionnelle",
+          "Épuisement"
+        ],
+        "profil_ideal": [
+          "Thérapeutes",
+          "Enseignants",
+          "Accompagnants"
+        ],
+        "conseil": "Donne sans t’oublier",
+        "question_a_se_poser": "Est-ce que je respecte mes limites ?"
+      }
+  ]

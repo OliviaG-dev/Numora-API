@@ -1,0 +1,182 @@
+{
+    "1": {
+      "career_archetype": "Le Pionnier",
+      "core_talent": "Leadership, autonomie, innovation",
+      "work_vibe": "Tu brilles quand tu peux décider, initier et mener. Ton énergie de fonceur inspire les autres.",
+      "natural_strengths": ["Indépendance", "Décision rapide", "Création de projets"],
+      "growth_zones": ["Impulsivité", "Difficulté à collaborer"],
+      "ideal_roles": [
+        "Entrepreneur",
+        "Chef de projet",
+        "Inventeur",
+        "Stratège"
+      ],
+      "motivation": "Créer ta propre voie et laisser ton empreinte personnelle.",
+      "career_tip": "Inspire sans dominer. Ta force vient de ta vision claire et de ton audace."
+    },
+    "2": {
+      "career_archetype": "Le Diplomate",
+      "core_talent": "Médiation, écoute et collaboration",
+      "work_vibe": "Tu excelles dans les environnements d’équipe où l’équilibre et la compréhension mutuelle comptent.",
+      "natural_strengths": ["Empathie", "Patience", "Coopération"],
+      "growth_zones": ["Manque d’assurance", "Émotivité"],
+      "ideal_roles": [
+        "Conseiller RH",
+        "Coach personnel",
+        "Thérapeute",
+        "Coordinateur d’équipe"
+      ],
+      "motivation": "Aider les autres à s’entendre, créer l’harmonie.",
+      "career_tip": "Ne minimise pas ta voix — elle peut apaiser et influencer en douceur."
+    },
+    "3": {
+      "career_archetype": "Le Communicant",
+      "core_talent": "Expression, créativité, enthousiasme",
+      "work_vibe": "Tu réussis quand tu peux t’exprimer librement, inspirer et divertir.",
+      "natural_strengths": ["Communication", "Créativité", "Charisme"],
+      "growth_zones": ["Distraction", "Besoin d’attention"],
+      "ideal_roles": [
+        "Artiste",
+        "Journaliste",
+        "Publicitaire",
+        "Comédien"
+      ],
+      "motivation": "Exprimer la beauté, les idées et la joie à travers ton art ou ta parole.",
+      "career_tip": "Structure ton inspiration : ton talent brille quand tu canalises ton énergie."
+    },
+    "4": {
+      "career_archetype": "Le Bâtisseur",
+      "core_talent": "Organisation, rigueur, persévérance",
+      "work_vibe": "Tu t’épanouis dans la stabilité, les plans concrets et les structures bien pensées.",
+      "natural_strengths": ["Méthode", "Fiabilité", "Travail acharné"],
+      "growth_zones": ["Rigidité", "Manque de spontanéité"],
+      "ideal_roles": [
+        "Architecte",
+        "Comptable",
+        "Ingénieur",
+        "Chef d’exploitation"
+      ],
+      "motivation": "Créer quelque chose de durable et concret.",
+      "career_tip": "Reste ouvert aux imprévus : parfois, l’efficacité vient de la flexibilité."
+    },
+    "5": {
+      "career_archetype": "L’Aventurier",
+      "core_talent": "Adaptabilité, curiosité, liberté",
+      "work_vibe": "Tu t’épanouis dans les environnements changeants, libres et stimulants.",
+      "natural_strengths": ["Communication", "Flexibilité", "Audace"],
+      "growth_zones": ["Instabilité", "Impatience"],
+      "ideal_roles": [
+        "Voyageur",
+        "Influenceur",
+        "Commercial",
+        "Explorateur de tendances"
+      ],
+      "motivation": "Découvrir, expérimenter et repousser les limites.",
+      "career_tip": "Choisis des projets courts ou variés pour éviter la lassitude."
+    },
+    "6": {
+      "career_archetype": "Le Protecteur",
+      "core_talent": "Responsabilité, soin, beauté",
+      "work_vibe": "Tu trouves ton épanouissement en aidant, en soutenant ou en embellissant la vie des autres.",
+      "natural_strengths": ["Empathie", "Loyauté", "Sens esthétique"],
+      "growth_zones": ["Contrôle", "Tendance au sacrifice"],
+      "ideal_roles": [
+        "Soignant",
+        "Designer d’intérieur",
+        "Enseignant",
+        "Travailleur social"
+      ],
+      "motivation": "Créer un monde plus harmonieux et aimant.",
+      "career_tip": "Aide sans t’oublier. Ton équilibre personnel inspire naturellement les autres."
+    },
+    "7": {
+      "career_archetype": "Le Sage Analyste",
+      "core_talent": "Réflexion, recherche, intuition",
+      "work_vibe": "Tu excelles dans les métiers de l’analyse, de la recherche ou de la spiritualité.",
+      "natural_strengths": ["Observation", "Rigueur intellectuelle", "Intuition"],
+      "growth_zones": ["Isolement", "Méfiance"],
+      "ideal_roles": [
+        "Chercheur",
+        "Philosophe",
+        "Scientifique",
+        "Développeur"
+      ],
+      "motivation": "Comprendre les mystères du monde et partager ta sagesse.",
+      "career_tip": "Ne reste pas enfermé dans la théorie : ton savoir a besoin d’un public."
+    },
+    "8": {
+      "career_archetype": "Le Stratège",
+      "core_talent": "Pouvoir, gestion, réussite matérielle",
+      "work_vibe": "Tu es né pour diriger, décider et gérer les ressources avec efficacité.",
+      "natural_strengths": ["Leadership", "Ambition", "Résilience"],
+      "growth_zones": ["Autoritarisme", "Surmenage"],
+      "ideal_roles": [
+        "PDG",
+        "Investisseur",
+        "Directeur commercial",
+        "Avocat d’affaires"
+      ],
+      "motivation": "Atteindre le succès par la maîtrise et la vision.",
+      "career_tip": "Ton vrai pouvoir vient de ton intégrité autant que de ton influence."
+    },
+    "9": {
+      "career_archetype": "L’Humaniste",
+      "core_talent": "Idéalisme, altruisme, vision",
+      "work_vibe": "Tu réussis dans les domaines où tu peux servir une cause ou inspirer par ton exemple.",
+      "natural_strengths": ["Compassion", "Créativité", "Vision globale"],
+      "growth_zones": ["Désillusion", "Sur-sensibilité"],
+      "ideal_roles": [
+        "Professeur",
+        "Art-thérapeute",
+        "Humanitaire",
+        "Écrivain inspirant"
+      ],
+      "motivation": "Apporter plus de sens et de bienveillance au monde.",
+      "career_tip": "Canalise ton idéalisme en actions concrètes pour ne pas te disperser."
+    },
+    "11": {
+      "career_archetype": "Le Visionnaire Inspiré",
+      "core_talent": "Intuition, créativité spirituelle, influence positive",
+      "work_vibe": "Tu es fait pour inspirer les autres à travers des messages profonds et un charisme magnétique.",
+      "natural_strengths": ["Intuition", "Communication spirituelle", "Inspiration"],
+      "growth_zones": ["Stress", "Hypersensibilité"],
+      "ideal_roles": [
+        "Mentor spirituel",
+        "Artiste inspirant",
+        "Coach de transformation",
+        "Conférencier"
+      ],
+      "motivation": "Éveiller les consciences et guider par l’exemple.",
+      "career_tip": "Apprends à canaliser ton énergie élevée dans une mission concrète et stable."
+    },
+    "22": {
+      "career_archetype": "Le Maître Bâtisseur",
+      "core_talent": "Vision concrète, planification et réalisation à grande échelle",
+      "work_vibe": "Tu peux concrétiser des projets monumentaux au service du collectif.",
+      "natural_strengths": ["Leadership altruiste", "Organisation", "Vision globale"],
+      "growth_zones": ["Surmenage", "Doute de soi"],
+      "ideal_roles": [
+        "Urbaniste",
+        "Entrepreneur social",
+        "Architecte",
+        "Directeur de fondation"
+      ],
+      "motivation": "Construire des structures durables et utiles pour le monde.",
+      "career_tip": "Reste centré : ta grandeur se manifeste dans les détails autant que dans les rêves."
+    },
+    "33": {
+      "career_archetype": "Le Guérisseur Inspirant",
+      "core_talent": "Compassion, pédagogie, service universel",
+      "work_vibe": "Tu t’épanouis en aidant, en enseignant ou en guérissant les autres à travers ton amour et ton exemple.",
+      "natural_strengths": ["Empathie", "Transmission", "Charisme spirituel"],
+      "growth_zones": ["Sacrifice de soi", "Fatigue émotionnelle"],
+      "ideal_roles": [
+        "Enseignant spirituel",
+        "Thérapeute holistique",
+        "Artiste humaniste",
+        "Guide communautaire"
+      ],
+      "motivation": "Élever les consciences et répandre la guérison par la présence et l’amour.",
+      "career_tip": "Apprends à poser des limites pour préserver ton énergie lumineuse."
+    }
+  }

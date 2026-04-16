@@ -1,0 +1,548 @@
+{
+    "1-1": {
+      "keywords": ["indépendance", "ambition", "leadership"],
+      "description": "Deux 1 ensemble forment un couple de leaders. L’énergie est forte, parfois électrique : chacun veut mener la danse. Mais si l’équilibre est trouvé, ils deviennent une équipe puissante, soudée par la volonté et la passion.",
+      "strengths": "Vision partagée, motivation, désir de réussite.",
+      "challenges": "Compétition, fierté, difficulté à céder.",
+      "advice": "Transformez la rivalité en inspiration mutuelle."
+    },
+    "1-2": {
+      "keywords": ["complémentarité", "douceur", "équilibre"],
+      "description": "Le 1 aime diriger, le 2 aime soutenir : cette relation mêle force et sensibilité. Le 1 apporte la direction, le 2 l’harmonie. Ensemble, ils trouvent un bel équilibre entre action et émotion.",
+      "strengths": "Tendresse, loyauté, compréhension intuitive.",
+      "challenges": "Différence de rythme, dépendance affective.",
+      "advice": "Le 1 doit apprendre la douceur, le 2 la confiance en soi."
+    },
+    "1-3": {
+      "keywords": ["créativité", "communication", "joie"],
+      "description": "Une relation vibrante et pleine de rires. Le 1 donne l’élan, le 3 illumine. Ensemble, ils avancent dans un mélange d’action et d’expression, créant un duo inspirant.",
+      "strengths": "Légèreté, humour, complicité naturelle.",
+      "challenges": "Superficialité, distraction, impatience.",
+      "advice": "Restez ancrés dans la réalité tout en cultivant la joie."
+    },
+    "1-4": {
+      "keywords": ["structure", "discipline", "détermination"],
+      "description": "Le 1 cherche la nouveauté, le 4 la sécurité. Ils se respectent s’ils comprennent leurs besoins différents. Ensemble, ils peuvent bâtir un avenir solide sur des bases claires.",
+      "strengths": "Soutien, stabilité, loyauté.",
+      "challenges": "Rigidité, conflit entre liberté et contrôle.",
+      "advice": "Le 4 doit laisser plus d’espace, le 1 plus d’engagement."
+    },
+    "1-5": {
+      "keywords": ["liberté", "aventure", "passion"],
+      "description": "Deux esprits libres qui s’attirent comme des aimants. L’énergie est intense, parfois explosive. Ensemble, ils partagent la passion du changement et du défi.",
+      "strengths": "Excitation, découverte, complicité dans l’action.",
+      "challenges": "Instabilité, manque d’ancrage.",
+      "advice": "Respectez la liberté de l’autre sans fuir l’engagement."
+    },
+    "1-6": {
+      "keywords": ["famille", "protection", "loyauté"],
+      "description": "Le 1 veut conquérir, le 6 veut aimer et protéger. Cette combinaison crée une union solide, équilibrant ambition et bienveillance.",
+      "strengths": "Respect, fidélité, vision commune de la vie.",
+      "challenges": "Tendance à la domination du 1 ou au sacrifice du 6.",
+      "advice": "Le 1 doit valoriser le 6, et le 6 poser ses limites."
+    },
+    "1-7": {
+      "keywords": ["indépendance", "spiritualité", "introspection"],
+      "description": "Un duo intrigant : le 1 agit, le 7 médite. Ensemble, ils peuvent s’élever s’ils respectent leur espace et leurs différences.",
+      "strengths": "Respect mutuel, lien mental fort, profondeur.",
+      "challenges": "Distance émotionnelle, communication limitée.",
+      "advice": "Créez des moments d’intimité consciente pour nourrir le lien."
+    },
+    "1-8": {
+      "keywords": ["pouvoir", "succès", "leadership"],
+      "description": "Deux ambitieux au destin entrelacé. Le 1 inspire, le 8 structure : ensemble, ils peuvent bâtir un empire — à condition de gérer leurs egos.",
+      "strengths": "Ambition commune, réussite, force morale.",
+      "challenges": "Rapport de force, entêtement, compétition.",
+      "advice": "Apprenez à célébrer les victoires de l’autre comme les vôtres."
+    },
+    "1-9": {
+      "keywords": ["altruisme", "idéalisme", "vision"],
+      "description": "Le 1 agit pour lui, le 9 pour le monde. Ensemble, ils peuvent unir action et sagesse dans un grand projet d’amour et d’inspiration.",
+      "strengths": "Inspiration mutuelle, passion, valeurs élevées.",
+      "challenges": "Rythmes différents, incompréhensions émotionnelles.",
+      "advice": "Alliez la force du 1 à la compassion du 9 pour créer du sens."
+    },
+    "2-2": {
+    "keywords": ["tendresse", "écoute", "harmonie"],
+    "description": "Deux 2 créent une relation douce et pleine d’attention. Ils se comprennent sans mots, mais risquent de trop se fondre l’un dans l’autre. Ensemble, ils forment un couple d’une grande sensibilité émotionnelle.",
+    "strengths": "Empathie, complicité, bienveillance.",
+    "challenges": "Dépendance affective, peur du conflit.",
+    "advice": "Cultivez l’indépendance pour préserver la passion."
+  },
+  "2-3": {
+    "keywords": ["communication", "joie", "créativité"],
+    "description": "Le 2 aime écouter, le 3 adore parler. Cette relation est pleine de rires et de moments légers. Le 3 inspire le 2 à s’exprimer davantage, tandis que le 2 aide le 3 à rester connecté au cœur.",
+    "strengths": "Jeu, expression, partage émotionnel.",
+    "challenges": "Instabilité, susceptibilité, manque de sérieux.",
+    "advice": "Apprenez à équilibrer émotion et spontanéité."
+  },
+  "2-4": {
+    "keywords": ["sécurité", "stabilité", "confiance"],
+    "description": "Une combinaison rassurante : le 2 apporte la douceur, le 4 la solidité. Ensemble, ils créent une relation stable, durable et axée sur la loyauté et la famille.",
+    "strengths": "Fidélité, constance, respect.",
+    "challenges": "Routine, peur du changement.",
+    "advice": "Préservez la tendresse tout en restant ouverts à la nouveauté."
+  },
+  "2-5": {
+    "keywords": ["liberté", "émotion", "adaptation"],
+    "description": "Le 2 cherche la fusion, le 5 la liberté. Une relation pleine d’apprentissage où chacun doit apprendre le langage de l’autre. Le 5 réveille le 2, le 2 adoucit le 5.",
+    "strengths": "Éveil mutuel, ouverture d’esprit.",
+    "challenges": "Incompréhension, insécurité affective.",
+    "advice": "Le 2 doit se détacher, le 5 s’impliquer davantage."
+  },
+  "2-6": {
+    "keywords": ["amour", "famille", "dévouement"],
+    "description": "Une relation chaleureuse et bienveillante. Ces deux âmes ont un fort besoin de donner et de recevoir de l’amour. Ensemble, elles construisent un foyer plein de douceur et de valeurs.",
+    "strengths": "Harmonie, loyauté, complicité émotionnelle.",
+    "challenges": "Trop de sacrifices, peur de blesser.",
+    "advice": "Apprenez à dire non sans culpabilité."
+  },
+  "2-7": {
+    "keywords": ["spiritualité", "intériorité", "profondeur"],
+    "description": "Le 2 ressent, le 7 analyse. Ensemble, ils peuvent créer une relation d’une grande profondeur spirituelle s’ils apprennent à se comprendre émotionnellement.",
+    "strengths": "Soutien discret, lien intuitif fort.",
+    "challenges": "Silence, retrait, manque de communication.",
+    "advice": "Le 7 doit s’ouvrir, le 2 ne pas se fermer."
+  },
+  "2-8": {
+    "keywords": ["pouvoir", "stabilité", "protection"],
+    "description": "Le 8 sécurise, le 2 adoucit. Ce duo crée une dynamique équilibrée entre cœur et matérialité. Le 8 offre la structure, le 2 la chaleur.",
+    "strengths": "Complémentarité, sécurité affective.",
+    "challenges": "Dépendance émotionnelle, domination subtile.",
+    "advice": "Respectez les besoins émotionnels et de contrôle de chacun."
+  },
+  "2-9": {
+    "keywords": ["idéalisme", "altruisme", "empathie"],
+    "description": "Une relation empreinte d’émotions et de compréhension. Le 9 élève le 2 vers des idéaux plus grands, le 2 aide le 9 à incarner l’amour au quotidien.",
+    "strengths": "Compassion, fusion d’âmes, humanité.",
+    "challenges": "Idéalisme excessif, déséquilibre émotionnel.",
+    "advice": "Gardez les pieds sur terre pour faire durer la magie."
+  },
+  "3-3": {
+    "keywords": ["joie", "création", "légèreté"],
+    "description": "Deux 3 ensemble, c’est un feu d’artifice de rires, de projets et de spontanéité. Leur relation est vive, mais peut manquer de profondeur s’ils ne partagent pas une vision sérieuse.",
+    "strengths": "Communication fluide, énergie joyeuse.",
+    "challenges": "Distraction, manque d’engagement.",
+    "advice": "Transformez le jeu en projet commun."
+  },
+  "3-4": {
+    "keywords": ["équilibre", "créativité", "structure"],
+    "description": "Le 4 ancre le 3, le 3 inspire le 4. Ensemble, ils mêlent imagination et discipline, et peuvent concrétiser de grands rêves.",
+    "strengths": "Stabilité, croissance, confiance.",
+    "challenges": "Rigidité contre désordre, impatience mutuelle.",
+    "advice": "Restez curieux tout en respectant les règles."
+  },
+  "3-5": {
+    "keywords": ["liberté", "plaisir", "dynamisme"],
+    "description": "Une combinaison vibrante, pleine de vie. Ces deux nombres adorent bouger, explorer et s’amuser ensemble. Une relation passionnante, mais à canaliser.",
+    "strengths": "Énergie, aventure, complicité joyeuse.",
+    "challenges": "Inconstance, dispersion, peur de l’ennui.",
+    "advice": "Ancrez-vous dans une direction commune."
+  },
+  "3-6": {
+    "keywords": ["amour", "création", "expression"],
+    "description": "Un duo romantique et artistique. Le 6 cherche l’amour durable, le 3 la joie. Ensemble, ils créent une relation vibrante et équilibrée.",
+    "strengths": "Affection, partage, loyauté tendre.",
+    "challenges": "Dramatisation, besoin de validation.",
+    "advice": "Exprimez vos émotions sans théâtraliser les tensions."
+  },
+  "3-7": {
+    "keywords": ["curiosité", "mystère", "intellect"],
+    "description": "Le 3 parle, le 7 écoute et réfléchit. Une relation pleine de fascination mutuelle. Le 3 apprend la profondeur, le 7 découvre la légèreté.",
+    "strengths": "Dialogue stimulant, enrichissement mutuel.",
+    "challenges": "Manque d’émotion partagée, isolement.",
+    "advice": "Créez des ponts entre le mental et le cœur."
+  },
+  "3-8": {
+    "keywords": ["ambition", "charisme", "force"],
+    "description": "Une relation de feu entre charme et ambition. Le 8 apporte le cadre, le 3 la lumière. Ensemble, ils rayonnent socialement.",
+    "strengths": "Dynamisme, magnétisme, réussite commune.",
+    "challenges": "Conflit d’ego, jalousie, superficialité.",
+    "advice": "Canalisez l’énergie dans des projets constructifs."
+  },
+  "3-9": {
+    "keywords": ["inspiration", "art", "spiritualité"],
+    "description": "Deux âmes créatives et idéalistes. Le 9 donne du sens à l’art du 3, le 3 colore la sagesse du 9. Ensemble, ils vivent une histoire poétique.",
+    "strengths": "Complicité artistique, amour inconditionnel.",
+    "challenges": "Émotions fluctuantes, fuite de la réalité.",
+    "advice": "Conservez votre liberté sans perdre l’unité."
+  },
+  "4-4": {
+    "keywords": ["stabilité", "structure", "fiabilité"],
+    "description": "Deux 4 créent un couple solide, fondé sur la loyauté et le respect. Ensemble, ils bâtissent lentement mais sûrement.",
+    "strengths": "Responsabilité, endurance, honnêteté.",
+    "challenges": "Routine, rigidité émotionnelle.",
+    "advice": "Ajoutez de la légèreté à la sécurité."
+  },
+  "4-5": {
+    "keywords": ["aventure", "contrôle", "évolution"],
+    "description": "Le 4 veut planifier, le 5 veut explorer. Ensemble, ils apprennent l’art du compromis entre stabilité et liberté.",
+    "strengths": "Complémentarité, apprentissage mutuel.",
+    "challenges": "Choc de rythmes, frustration.",
+    "advice": "Établissez des règles flexibles et vivantes."
+  },
+  "4-6": {
+    "keywords": ["famille", "sécurité", "valeurs"],
+    "description": "Une relation stable, pleine de loyauté et d’amour sincère. Le 6 apporte la chaleur, le 4 la structure. Ensemble, ils bâtissent un foyer solide.",
+    "strengths": "Confiance, durabilité, respect profond.",
+    "challenges": "Rigidité, manque d’expression émotionnelle.",
+    "advice": "Rappelez-vous que l’amour a besoin d’émotion, pas seulement d’effort."
+  },
+  "4-7": {
+    "keywords": ["introspection", "patience", "respect"],
+    "description": "Une relation calme et réfléchie. Le 4 ancre, le 7 inspire. Ensemble, ils explorent la vie en profondeur, pas à pas.",
+    "strengths": "Stabilité mentale, compréhension.",
+    "challenges": "Distance émotionnelle, lenteur d’évolution.",
+    "advice": "Apprenez à montrer vos émotions simplement."
+  },
+  "4-8": {
+    "keywords": ["pouvoir", "réalisation", "succès"],
+    "description": "Une relation de bâtisseurs. Ces deux nombres visent la réussite matérielle et la sécurité. Ensemble, ils créent une base solide pour leur avenir.",
+    "strengths": "Ambition commune, fiabilité, endurance.",
+    "challenges": "Manque de spontanéité, froideur émotionnelle.",
+    "advice": "Laissez l’amour respirer à travers vos ambitions."
+  },
+  "4-9": {
+    "keywords": ["vision", "compassion", "engagement"],
+    "description": "Le 4 matérialise les rêves du 9. Ce duo peut accomplir de grandes choses s’ils respectent leurs différences entre réalisme et idéalisme.",
+    "strengths": "Complémentarité, loyauté, inspiration mutuelle.",
+    "challenges": "Tensions entre cœur et raison.",
+    "advice": "Unissez vos forces pour servir un but commun."
+  },
+  "5-5": {
+    "keywords": ["liberté", "aventure", "changement"],
+    "description": "Deux 5 ensemble, c’est une relation passionnée et imprévisible. Ils adorent la nouveauté, mais peuvent manquer de racines. Un couple vibrant où la routine n’existe pas.",
+    "strengths": "Spontanéité, passion, complicité intense.",
+    "challenges": "Instabilité, manque d’engagement, impulsivité.",
+    "advice": "Canalisez votre énergie dans une vision commune pour durer."
+  },
+  "5-6": {
+    "keywords": ["séduction", "tendresse", "contraste"],
+    "description": "Le 5 aime la liberté, le 6 cherche l’engagement. Ensemble, ils doivent trouver l’équilibre entre désir et sécurité. Leur amour peut être magnétique s’ils apprennent à se comprendre.",
+    "strengths": "Charme, fusion des contraires, évolution personnelle.",
+    "challenges": "Jalousie, peur de perdre, insécurité.",
+    "advice": "Apprenez à rassurer sans enfermer."
+  },
+  "5-7": {
+    "keywords": ["mystère", "curiosité", "découverte"],
+    "description": "Un couple intellectuel et curieux. Le 5 explore le monde extérieur, le 7 le monde intérieur. Ensemble, ils s’émerveillent et apprennent sans cesse.",
+    "strengths": "Échanges profonds, inspiration, liberté d’esprit.",
+    "challenges": "Détachement, différence de rythme.",
+    "advice": "Laissez chacun respirer pour mieux vous retrouver."
+  },
+  "5-8": {
+    "keywords": ["pouvoir", "magnetisme", "passion"],
+    "description": "Une relation intense et pleine de feu. Le 5 attire, le 8 dirige. Ensemble, ils forment un duo charismatique capable de grandes réalisations.",
+    "strengths": "Force, passion, ambition partagée.",
+    "challenges": "Conflit d’ego, tension de contrôle.",
+    "advice": "Trouvez un terrain d’égalité dans vos décisions."
+  },
+  "5-9": {
+    "keywords": ["aventure spirituelle", "inspiration", "générosité"],
+    "description": "Le 5 apporte la spontanéité, le 9 la profondeur. Leur amour est un voyage vers la croissance personnelle et spirituelle.",
+    "strengths": "Ouverture, créativité, humanisme.",
+    "challenges": "Inconstance, idéalisme excessif.",
+    "advice": "Gardez un ancrage émotionnel solide dans vos explorations."
+  },
+  "6-6": {
+    "keywords": ["amour", "famille", "dévotion"],
+    "description": "Deux 6 créent un cocon de tendresse et de loyauté. Leur couple repose sur la bienveillance, mais attention à la surprotection.",
+    "strengths": "Fidélité, soutien mutuel, harmonie.",
+    "challenges": "Fusion excessive, peur de décevoir.",
+    "advice": "Laissez chacun respirer dans votre amour sécurisant."
+  },
+  "6-7": {
+    "keywords": ["spiritualité", "intimité", "confiance"],
+    "description": "Le 6 cherche la proximité, le 7 la profondeur. Ensemble, ils apprennent à aimer sans possession, à comprendre sans juger.",
+    "strengths": "Respect, sagesse, amour réfléchi.",
+    "challenges": "Réserve émotionnelle, isolement du 7.",
+    "advice": "Exprimez vos émotions simplement, sans peur du rejet."
+  },
+  "6-8": {
+    "keywords": ["sécurité", "stabilité", "partenariat"],
+    "description": "Une relation solide entre cœur et raison. Le 6 nourrit l’amour, le 8 le concrétise. Ensemble, ils bâtissent un empire affectif et matériel.",
+    "strengths": "Solidité, loyauté, ambitions communes.",
+    "challenges": "Surcontrôle, attentes élevées.",
+    "advice": "Gardez la tendresse au centre de votre réussite."
+  },
+  "6-9": {
+    "keywords": ["idéalisme", "générosité", "amour universel"],
+    "description": "Deux âmes d’altruistes qui se comprennent au-delà des mots. Ensemble, elles incarnent l’amour bienveillant et la solidarité.",
+    "strengths": "Compassion, dévouement, connexion spirituelle.",
+    "challenges": "Sacrifice excessif, déséquilibre entre donner et recevoir.",
+    "advice": "Aimez aussi pour vous, pas seulement pour l’autre."
+  },
+  "7-7": {
+    "keywords": ["spiritualité", "sagesse", "profondeur"],
+    "description": "Deux 7 ensemble forment une relation d’âmes vieilles. Mystiques, introspectifs, ils se comprennent sans se parler. Une union rare, mais exigeante.",
+    "strengths": "Connexion spirituelle, fidélité mentale, calme.",
+    "challenges": "Isolement, manque de chaleur émotionnelle.",
+    "advice": "Ouvrez vos cœurs autant que vos esprits."
+  },
+  "7-8": {
+    "keywords": ["respect", "réalisation", "spiritualité active"],
+    "description": "Le 7 pense, le 8 agit. Ensemble, ils allient sagesse et puissance. Une relation d’évolution mutuelle, fondée sur la compréhension et la maturité.",
+    "strengths": "Complémentarité, force tranquille, loyauté.",
+    "challenges": "Différences de priorités, communication sobre.",
+    "advice": "Apprenez à montrer vos émotions, pas seulement vos actes."
+  },
+  "7-9": {
+    "keywords": ["altruisme", "spiritualité", "idéalisme"],
+    "description": "Une union mystique où les deux âmes se rejoignent dans une quête de sens. Le 7 cherche la vérité, le 9 la compassion.",
+    "strengths": "Connexion spirituelle, sagesse, compréhension mutuelle.",
+    "challenges": "Détachement, idéalisme, manque de réalisme.",
+    "advice": "Ancrez votre amour dans le quotidien pour qu’il dure."
+  },
+  "8-8": {
+    "keywords": ["pouvoir", "réussite", "leadership"],
+    "description": "Deux 8 ensemble forment un couple fort, ambitieux et magnétique. Leur amour repose sur le respect et la construction concrète.",
+    "strengths": "Ambition, soutien, stabilité matérielle.",
+    "challenges": "Rivalité, domination, émotion contenue.",
+    "advice": "Laissez le cœur guider autant que la volonté."
+  },
+  "8-9": {
+    "keywords": ["compassion", "inspiration", "leadership spirituel"],
+    "description": "Le 8 structure le rêve du 9. Ensemble, ils peuvent changer le monde par leur union entre pouvoir et humanisme.",
+    "strengths": "Influence positive, loyauté, force morale.",
+    "challenges": "Conflit entre matérialité et idéalisme.",
+    "advice": "Alliez ambition et bonté pour un amour durable."
+  },
+  "9-9": {
+    "keywords": ["humanité", "compassion", "amour inconditionnel"],
+    "description": "Deux 9 s’aiment d’un amour désintéressé, presque mystique. Leur lien dépasse souvent le cadre terrestre, mais peut manquer d’ancrage.",
+    "strengths": "Élévation spirituelle, compréhension totale.",
+    "challenges": "Fuite de la réalité, excès de don de soi.",
+    "advice": "Apprenez à vivre l’amour ici et maintenant."
+  },
+  "11-11": {
+    "keywords": ["intuition", "âme miroir", "connexion spirituelle"],
+    "description": "Deux 11 s’attirent comme des flammes jumelles. Leur lien est magnétique, presque télépathique, mais aussi chargé d’émotions intenses et de défis karmiques. Ensemble, ils peuvent s’élever — ou se consumer.",
+    "strengths": "Connexion d’âme rare, inspiration, mission spirituelle commune.",
+    "challenges": "Hypersensibilité, déséquilibre émotionnel, peur de perdre l’autre.",
+    "advice": "Apprenez à canaliser votre lumière au lieu de la laisser vous aveugler."
+  },
+  "11-22": {
+    "keywords": ["vision", "éveil", "complémentarité spirituelle"],
+    "description": "Le 11 est le rêveur intuitif, le 22 est le bâtisseur de ce rêve. Ensemble, ils forment un duo de réalisation divine, unissant le ciel et la terre dans un même but.",
+    "strengths": "Vision et concrétisation, inspiration mutuelle, amour d’âme.",
+    "challenges": "Pression spirituelle, risque de déséquilibre dans la matérialisation.",
+    "advice": "Gardez vos pieds sur terre pendant que vos âmes s’élèvent."
+  },
+  "11-33": {
+    "keywords": ["amour universel", "transcendance", "lumière du cœur"],
+    "description": "Une union rare entre la sagesse du 11 et la compassion infinie du 33. Ensemble, ils incarnent un amour guérisseur, tourné vers l’humanité autant que vers le couple.",
+    "strengths": "Empathie, vision spirituelle, dévouement mutuel.",
+    "challenges": "Dépassement de soi, risque de s’oublier dans la mission.",
+    "advice": "Aimez d’abord en humains avant d’aimer en âmes éveillées."
+  },
+  "22-22": {
+    "keywords": ["construction", "stabilité", "destin partagé"],
+    "description": "Deux 22 créent ensemble un empire spirituel et matériel. Leur amour repose sur la vision commune, la confiance et la force tranquille d’une mission partagée.",
+    "strengths": "Solidité, sagesse, matérialisation des rêves.",
+    "challenges": "Rigidité, manque de légèreté, perfectionnisme.",
+    "advice": "Souvenez-vous que l’amour est aussi une aventure, pas seulement une œuvre."
+  },
+  "22-33": {
+    "keywords": ["guérison", "création", "amour inspirant"],
+    "description": "Le 22 apporte la structure, le 33 la compassion. Ensemble, ils peuvent bâtir une œuvre d’amour et de guérison, à condition d’équilibrer le cœur et l’action.",
+    "strengths": "Union sacrée entre cœur et matière, puissance d’accomplissement.",
+    "challenges": "Épuisement, charge émotionnelle, oubli de soi.",
+    "advice": "N’oubliez pas de nourrir l’amour humain au milieu de votre mission divine."
+  },
+  "33-33": {
+    "keywords": ["amour inconditionnel", "service", "fusion spirituelle"],
+    "description": "Deux 33 ensemble forment un couple d’amour universel. Leur relation transcende les besoins humains pour toucher à la compassion pure, mais ils doivent veiller à ne pas se perdre dans le don total.",
+    "strengths": "Altruisme, sagesse, amour guérisseur.",
+    "challenges": "Sacrifice, épuisement émotionnel, oubli du couple au profit des autres.",
+    "advice": "Apprenez à vivre votre mission divine à deux, pas au détriment de l’un."
+  },
+  "11-1": {
+    "keywords": ["inspiration", "motivation", "initiation spirituelle"],
+    "description": "Le 11 inspire le 1 à regarder au-delà du succès personnel, tandis que le 1 aide le 11 à concrétiser ses visions. Ensemble, ils forment un duo visionnaire et passionné.",
+    "strengths": "Ambition inspirée, passion et force d’union.",
+    "challenges": "Conflit entre indépendance et spiritualité.",
+    "advice": "Canalisez vos différences pour créer un but commun."
+  },
+  "11-2": {
+    "keywords": ["intuition", "douceur", "connexion émotionnelle"],
+    "description": "Le 2 apaise l’intensité du 11, tandis que le 11 élève le 2 vers une vision plus vaste. Leur lien est tendre, empathique et souvent télépathique.",
+    "strengths": "Empathie, écoute, croissance émotionnelle.",
+    "challenges": "Hypersensibilité et fuite du réel.",
+    "advice": "Gardez un ancrage dans la réalité pour ne pas vous perdre dans les émotions."
+  },
+  "11-3": {
+    "keywords": ["créativité", "expression", "éveil émotionnel"],
+    "description": "Le 3 apporte joie et légèreté au 11, tandis que le 11 donne une profondeur spirituelle au 3. Leur relation vibre entre inspiration et exubérance.",
+    "strengths": "Créativité partagée, expression sincère.",
+    "challenges": "Manque de stabilité, égocentrisme.",
+    "advice": "Exprimez votre lumière sans compétitionner dans la brillance."
+  },
+  "11-4": {
+    "keywords": ["équilibre", "structure", "vision concrète"],
+    "description": "Le 11 rêve, le 4 bâtit. Ensemble, ils incarnent la vision et la stabilité. Le 4 donne au 11 l’ancrage nécessaire pour que ses intuitions deviennent réalité.",
+    "strengths": "Complémentarité parfaite entre rêve et action.",
+    "challenges": "Conflit entre idéalisme et rigueur.",
+    "advice": "Respectez le rythme de l’autre pour garder l’harmonie."
+  },
+  "11-5": {
+    "keywords": ["liberté", "inspiration", "expansion spirituelle"],
+    "description": "Le 5 apporte la curiosité et l’aventure que le 11 canalise en quête de sens. Ensemble, ils vivent une relation pleine de mouvement et de révélations.",
+    "strengths": "Exploration, éveil, passion.",
+    "challenges": "Instabilité, dispersion.",
+    "advice": "Ancrez votre liberté dans une mission commune."
+  },
+  "11-6": {
+    "keywords": ["amour", "spiritualité", "engagement profond"],
+    "description": "Le 6 nourrit l’amour, le 11 éclaire l’âme. Ensemble, ils vivent une union empreinte de dévotion et d’intuition. C’est une rencontre d’âmes.",
+    "strengths": "Fidélité, profondeur émotionnelle.",
+    "challenges": "Attentes trop idéalisées.",
+    "advice": "Aimez l’autre tel qu’il est, pas tel que vous le rêvez."
+  },
+  "11-7": {
+    "keywords": ["sagesse", "quête intérieure", "connexion mystique"],
+    "description": "Ces deux nombres vibrent sur la même fréquence spirituelle. Leur lien est silencieux mais puissant, nourri par la compréhension mutuelle et l’intuition.",
+    "strengths": "Connexion d’âme, croissance spirituelle.",
+    "challenges": "Isolement, retrait du monde.",
+    "advice": "N’oubliez pas de partager votre lumière avec les autres."
+  },
+  "11-8": {
+    "keywords": ["vision", "pouvoir", "manifestation"],
+    "description": "Le 11 inspire, le 8 matérialise. Ensemble, ils peuvent bâtir une vie remarquable s’ils harmonisent spiritualité et réussite matérielle.",
+    "strengths": "Ambition inspirée, succès partagé.",
+    "challenges": "Tension entre égo et idéal.",
+    "advice": "Restez humbles dans la réussite, et fidèles à votre idéal."
+  },
+  "11-9": {
+    "keywords": ["humanité", "idéal", "amour universel"],
+    "description": "Le 9 comprend le 11 au niveau de l’âme. Leur amour est altruiste, universel, et souvent porteur d’une mission commune d’aide ou d’inspiration.",
+    "strengths": "Altruisme, fusion spirituelle.",
+    "challenges": "Tendance au sacrifice.",
+    "advice": "Prenez soin du couple autant que du monde."
+  },
+  "22-1": {
+    "keywords": ["construction", "leadership", "ambition"],
+    "description": "Le 1 initie, le 22 réalise. Ensemble, ils sont une force de concrétisation. Leur lien repose sur la vision et la détermination.",
+    "strengths": "Puissance créatrice, stabilité.",
+    "challenges": "Conflit d’autorité.",
+    "advice": "Apprenez à partager le contrôle pour grandir ensemble."
+  },
+  "22-2": {
+    "keywords": ["stabilité", "coopération", "solidité affective"],
+    "description": "Le 2 offre soutien et douceur au 22, qui à son tour crée la sécurité et la structure dont le 2 rêve. Ensemble, ils forment un couple solide et fiable.",
+    "strengths": "Loyauté, harmonie domestique, complicité.",
+    "challenges": "Risque de routine et de peur du changement.",
+    "advice": "Laissez un peu de légèreté et de rêve dans votre sécurité commune."
+  },
+  "22-3": {
+    "keywords": ["créativité", "construction", "expression"],
+    "description": "Le 3 apporte la joie et la spontanéité que le 22 canalise en projets durables. Ensemble, ils peuvent créer un foyer joyeux et productif.",
+    "strengths": "Complémentarité entre rêve et action.",
+    "challenges": "Le 3 peut se sentir bridé, le 22 frustré par la légèreté du 3.",
+    "advice": "Célébrez vos différences : l’un bâtit, l’autre colore."
+  },
+  "22-4": {
+    "keywords": ["structure", "fiabilité", "mission commune"],
+    "description": "Deux bâtisseurs unissent leur vision. Le 22 et le 4 partagent la rigueur et la persévérance nécessaires pour concrétiser leurs rêves matériels et affectifs.",
+    "strengths": "Solidité, discipline, respect mutuel.",
+    "challenges": "Rigidité, manque de spontanéité.",
+    "advice": "Apprenez à rire ensemble et à vous offrir du repos."
+  },
+  "22-5": {
+    "keywords": ["liberté", "équilibre", "croissance"],
+    "description": "Le 5 stimule le 22, l’aide à se détendre et à explorer. Le 22 offre au 5 une stabilité bienveillante. Ensemble, ils trouvent l’équilibre entre aventure et ancrage.",
+    "strengths": "Dynamisme, évolution, passion.",
+    "challenges": "Conflit entre liberté et sécurité.",
+    "advice": "Ne cherchez pas à changer l’autre, apprenez à danser sur vos différences."
+  },
+  "22-6": {
+    "keywords": ["sécurité", "foyer", "amour solide"],
+    "description": "Une combinaison d’amour durable et de stabilité matérielle. Le 22 construit, le 6 embellit. Ensemble, ils créent un foyer solide et inspirant.",
+    "strengths": "Fidélité, confort, loyauté.",
+    "challenges": "Routines excessives.",
+    "advice": "Gardez la passion vivante au cœur de la stabilité."
+  },
+  "22-7": {
+    "keywords": ["sagesse", "spiritualité", "fondations intérieures"],
+    "description": "Le 22 matérialise ce que le 7 contemple. Leur lien est profond, orienté vers la compréhension de la vie et la recherche de vérité.",
+    "strengths": "Respect, équilibre entre matière et esprit.",
+    "challenges": "Risque d’isolement ou d’introversion excessive.",
+    "advice": "Mêlez contemplation et action pour grandir ensemble."
+  },
+  "22-8": {
+    "keywords": ["pouvoir", "succès", "réalisation"],
+    "description": "Le 22 et le 8 partagent une grande ambition. Ensemble, ils peuvent créer un empire matériel et émotionnel, à condition d’équilibrer cœur et contrôle.",
+    "strengths": "Force, ambition, loyauté.",
+    "challenges": "Conflit de leadership.",
+    "advice": "Laissez l’amour guider vos objectifs communs."
+  },
+  "22-9": {
+    "keywords": ["altruisme", "humanité", "mission collective"],
+    "description": "Le 22 construit, le 9 inspire. Ensemble, ils œuvrent pour le bien du monde. Leur lien est spirituel, généreux et porteur de sens.",
+    "strengths": "Vision universelle, engagement, sagesse.",
+    "challenges": "Tendance au sacrifice, manque d’intimité.",
+    "advice": "Rappelez-vous que servir le monde commence par s’aimer soi-même."
+  },
+  "33-1": {
+    "keywords": ["inspiration", "amour", "mission partagée"],
+    "description": "Le 33 aime profondément, le 1 agit avec passion. Ensemble, ils peuvent incarner un couple inspirant s’ils équilibrent don et indépendance.",
+    "strengths": "Dynamisme, chaleur humaine.",
+    "challenges": "Déséquilibre entre don et besoin personnel.",
+    "advice": "Aimez avec équilibre, pas avec sacrifice."
+  },
+  "33-2": {
+    "keywords": ["empathie", "amour doux", "guérison mutuelle"],
+    "description": "Le 33 élève le 2 à travers la compassion, et le 2 apporte au 33 la tendresse et la sécurité dont il a besoin. Leur amour est plein de bienveillance et d’écoute.",
+    "strengths": "Compréhension, douceur, lien d’âme.",
+    "challenges": "Hypersensibilité et dépendance émotionnelle.",
+    "advice": "Posez des limites claires tout en gardant la tendresse vivante."
+  },
+  "33-3": {
+    "keywords": ["création", "expression", "amour joyeux"],
+    "description": "Le 33 nourrit la créativité du 3, et le 3 réveille la joie enfantine du 33. Ensemble, ils vivent une relation lumineuse et inspirante.",
+    "strengths": "Joie, expression sincère, partage.",
+    "challenges": "Distraction, superficialité émotionnelle.",
+    "advice": "Exprimez vos émotions sans peur, mais gardez les pieds sur terre."
+  },
+  "33-4": {
+    "keywords": ["amour concret", "équilibre", "stabilité émotionnelle"],
+    "description": "Le 4 sécurise le 33, qui à son tour adoucit le 4. Leur couple trouve sa force dans la stabilité et la tendresse concrète du quotidien.",
+    "strengths": "Soutien, sécurité, loyauté.",
+    "challenges": "Routine, manque de spontanéité.",
+    "advice": "N’oubliez pas de nourrir la flamme au-delà du devoir."
+  },
+  "33-5": {
+    "keywords": ["aventure", "liberté émotionnelle", "passion guérisseuse"],
+    "description": "Le 5 réveille le feu du 33, le pousse à lâcher prise. Le 33 aide le 5 à aimer avec profondeur. Ensemble, ils peuvent guérir à travers la passion.",
+    "strengths": "Dynamisme, apprentissage mutuel.",
+    "challenges": "Instabilité, égo blessé.",
+    "advice": "Transformez les conflits en opportunités de croissance émotionnelle."
+  },
+  "33-6": {
+    "keywords": ["amour", "guérison", "lien karmique"],
+    "description": "C’est une relation d’amour inconditionnel et de profonde guérison. Le 33 élève le 6, et le 6 réchauffe le cœur du 33.",
+    "strengths": "Compassion, bienveillance, lien d’âme.",
+    "challenges": "Fusion émotionnelle, manque de limites.",
+    "advice": "Cultivez l’amour conscient, pas le sauvetage émotionnel."
+  },
+  "33-7": {
+    "keywords": ["intériorité", "guérison", "sagesse émotionnelle"],
+    "description": "Le 7 apprend au 33 à se centrer, tandis que le 33 aide le 7 à s’ouvrir. Ensemble, ils créent un espace de paix et de réflexion profonde.",
+    "strengths": "Spiritualité, calme, croissance intérieure.",
+    "challenges": "Manque de communication.",
+    "advice": "Exprimez vos émotions au lieu de les méditer seul(e)."
+  },
+  "33-8": {
+    "keywords": ["pouvoir du cœur", "leadership compatissant", "amour fort"],
+    "description": "Le 8 offre structure et force, le 33 apporte compassion et sens. Ensemble, ils incarnent le couple leader inspiré par l’amour universel.",
+    "strengths": "Équilibre entre autorité et empathie.",
+    "challenges": "Dominance émotionnelle ou matérielle.",
+    "advice": "Rappelez-vous que le vrai pouvoir est dans la bonté."
+  },
+  "33-9": {
+    "keywords": ["service", "humanité", "amour universel"],
+    "description": "Deux cœurs tournés vers le monde. Ensemble, ils vibrent pour une cause plus grande qu’eux : la compassion et la guérison universelle.",
+    "strengths": "Sagesse, amour désintéressé, union d’âme.",
+    "challenges": "Sacrifice de soi, oubli du couple.",
+    "advice": "Aimez aussi votre vie à deux, pas seulement l’humanité."
+  }
+  }

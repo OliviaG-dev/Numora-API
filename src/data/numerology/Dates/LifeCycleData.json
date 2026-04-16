@@ -1,0 +1,62 @@
+{
+    "1": {
+      "summary": "Indépendance et initiative.",
+      "description": "Invitation à développer la confiance en soi, l’autonomie et la capacité à diriger sa vie.",
+      "challenge": "Éviter l’ego excessif ou l’isolement."
+    },
+    "2": {
+      "summary": "Coopération et sensibilité.",
+      "description": "Besoin de s’unir aux autres, de développer la patience, l’écoute et la diplomatie.",
+      "challenge": "Dépendance ou hypersensibilité."
+    },
+    "3": {
+      "summary": "Créativité et communication.",
+      "description": "Accent sur la joie de vivre, l’art, les relations sociales.",
+      "challenge": "Éviter la dispersion ou la superficialité."
+    },
+    "4": {
+      "summary": "Construction et discipline.",
+      "description": "Demande de bâtir des bases solides et de travailler avec persévérance.",
+      "challenge": "Rigidité, lenteur ou enfermement dans la routine."
+    },
+    "5": {
+      "summary": "Changement et liberté.",
+      "description": "Apprentissage de l’adaptabilité, voyages, expériences variées.",
+      "challenge": "Instabilité, excès ou difficulté à se fixer."
+    },
+    "6": {
+      "summary": "Responsabilité et harmonie.",
+      "description": "Accent sur l’amour, la famille, la beauté et le service.",
+      "challenge": "Surprotection ou perfectionnisme."
+    },
+    "7": {
+      "summary": "Introspection et sagesse.",
+      "description": "Invitation à développer la connaissance intérieure et la spiritualité.",
+      "challenge": "Isolement ou scepticisme excessif."
+    },
+    "8": {
+      "summary": "Pouvoir et réussite matérielle.",
+      "description": "Accent sur la gestion, la carrière et la prospérité.",
+      "challenge": "Abus de pouvoir ou obsession du contrôle."
+    },
+    "9": {
+      "summary": "Accomplissement et humanisme.",
+      "description": "Période tournée vers la générosité, l’altruisme et la transmission.",
+      "challenge": "Détachement difficile ou sentiment de perte."
+    },
+    "11": {
+      "summary": "Inspiration spirituelle et vision.",
+      "description": "Cycle de maître nombre orienté vers l’intuition, la créativité et le guidage des autres.",
+      "challenge": "Nervosité, doutes ou surcharge émotionnelle."
+    },
+    "22": {
+      "summary": "Maître bâtisseur.",
+      "description": "Concrétiser de grands projets pour l’humanité, allier spiritualité et matière.",
+      "challenge": "Pression énorme, risque de dispersion si mal canalisé."
+    },
+    "33": {
+      "summary": "Maître enseignant.",
+      "description": "Amour inconditionnel, service aux autres, guérison et transmission spirituelle.",
+      "challenge": "Sacrifier son équilibre personnel ou se perdre dans les besoins des autres."
+    }
+  }

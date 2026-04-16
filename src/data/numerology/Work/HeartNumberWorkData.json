@@ -1,0 +1,146 @@
+{
+    "1": {
+      "title": "Le Cœur du Leader Libre",
+      "inner_drive": "Exprimer ton individualité et prouver ta valeur par l’action.",
+      "emotional_needs": [
+        "Indépendance dans les décisions",
+        "Reconnaissance du leadership",
+        "Défis qui stimulent ta volonté"
+      ],
+      "work_meaning": "Tu veux te sentir capable, puissant et utile. Ton cœur s’enflamme quand tu diriges et inspires.",
+      "shadow_fear": "Être contrôlé ou ignoré.",
+      "soul_advice": "Rappelle-toi que la vraie puissance se partage : inspire au lieu d’imposer."
+    },
+    "2": {
+      "title": "Le Cœur du Médiateur",
+      "inner_drive": "Créer la paix, unir les forces et bâtir des relations harmonieuses.",
+      "emotional_needs": [
+        "Travailler dans un environnement bienveillant",
+        "Être écouté et apprécié pour ta diplomatie",
+        "Soutenir et être soutenu"
+      ],
+      "work_meaning": "Tu veux sentir que ton rôle apporte de la cohésion. Le succès pour toi, c’est la paix partagée.",
+      "shadow_fear": "Être rejeté ou jugé inutile.",
+      "soul_advice": "Ta douceur n’est pas une faiblesse — c’est ton pouvoir d’unité."
+    },
+    "3": {
+      "title": "Le Cœur du Créatif",
+      "inner_drive": "Exprimer la beauté, la joie et la liberté d’être soi.",
+      "emotional_needs": [
+        "Espace pour imaginer et improviser",
+        "Reconnaissance de ton originalité",
+        "Travailler dans une ambiance joyeuse et inspirante"
+      ],
+      "work_meaning": "Tu veux que ton métier soit une scène d’expression. Créer, c’est respirer pour ton âme.",
+      "shadow_fear": "Être oublié, bridé ou critiqué.",
+      "soul_advice": "Ton authenticité est ton art : ose la partager même imparfaite."
+    },
+    "4": {
+      "title": "Le Cœur du Bâtisseur",
+      "inner_drive": "Donner forme, structure et stabilité à tes ambitions.",
+      "emotional_needs": [
+        "Un cadre clair et sécurisant",
+        "Des résultats concrets et mesurables",
+        "La satisfaction du travail bien fait"
+      ],
+      "work_meaning": "Tu veux construire quelque chose qui dure. Ton cœur aime l’ordre, la fiabilité et la confiance.",
+      "shadow_fear": "L’instabilité ou l’échec matériel.",
+      "soul_advice": "Apprends à te reposer sur ta propre solidité — tu es ton pilier."
+    },
+    "5": {
+      "title": "Le Cœur de l’Aventurier",
+      "inner_drive": "Découvrir, expérimenter et vivre la liberté dans ton métier.",
+      "emotional_needs": [
+        "Avoir du mouvement et de la nouveauté",
+        "Pouvoir t’exprimer sans contraintes",
+        "Explorer plusieurs chemins"
+      ],
+      "work_meaning": "Ton travail doit te donner un sentiment de vie et d’excitation. Tu apprends par le changement.",
+      "shadow_fear": "L’enfermement ou la routine.",
+      "soul_advice": "La liberté naît de la conscience : choisis tes aventures, ne les subis pas."
+    },
+    "6": {
+      "title": "Le Cœur du Serviteur de Lumière",
+      "inner_drive": "Protéger, harmoniser et rendre service à la communauté.",
+      "emotional_needs": [
+        "Sentir que ton travail aide ou répare",
+        "Être entouré d’un climat bienveillant",
+        "Trouver l’équilibre entre donner et recevoir"
+      ],
+      "work_meaning": "Tu veux te sentir utile et aimé. Ton cœur trouve sa force dans la responsabilité et l’attention aux autres.",
+      "shadow_fear": "Être déçu ou ne pas être apprécié.",
+      "soul_advice": "Aime sans te perdre : tu n’as pas à sauver tout le monde."
+    },
+    "7": {
+      "title": "Le Cœur du Chercheur",
+      "inner_drive": "Explorer la vérité, comprendre le sens profond de ton œuvre.",
+      "emotional_needs": [
+        "Travailler dans le calme et la réflexion",
+        "Être respecté pour ton expertise",
+        "Avoir du temps pour penser et créer"
+      ],
+      "work_meaning": "Ton cœur aime la sagesse et la découverte. Le succès vient quand tu suis ton intuition et ta curiosité.",
+      "shadow_fear": "Être incompris ou jugé superficiel.",
+      "soul_advice": "Ta profondeur attire naturellement ceux qui cherchent comme toi."
+    },
+    "8": {
+      "title": "Le Cœur du Stratège",
+      "inner_drive": "Maîtriser la matière, atteindre l’excellence et inspirer la réussite.",
+      "emotional_needs": [
+        "Contrôle sur ton environnement",
+        "Reconnaissance de ton autorité naturelle",
+        "Pouvoir transformer les défis en victoire"
+      ],
+      "work_meaning": "Tu veux voir des résultats tangibles. Ton cœur s’illumine quand ton pouvoir crée du bien durable.",
+      "shadow_fear": "Perdre le contrôle ou échouer publiquement.",
+      "soul_advice": "Le vrai pouvoir se trouve dans la maîtrise de soi, pas des autres."
+    },
+    "9": {
+      "title": "Le Cœur du Visionnaire Humaniste",
+      "inner_drive": "Guérir, enseigner, et inspirer le monde à devenir meilleur.",
+      "emotional_needs": [
+        "Sentir que ton travail a du sens",
+        "Pouvoir exprimer ta compassion",
+        "Contribuer à une cause plus grande que toi"
+      ],
+      "work_meaning": "Tu travailles mieux quand ton cœur parle. Ton énergie est celle de l’artiste ou du guide spirituel.",
+      "shadow_fear": "Être trahi ou désillusionné par les autres.",
+      "soul_advice": "Pardonne vite, avance léger : ton amour est ton moteur."
+    },
+    "11": {
+      "title": "Le Cœur du Visionnaire Spirituel",
+      "inner_drive": "Éveiller les consciences et inspirer par ton exemple.",
+      "emotional_needs": [
+        "Créer dans un espace de beauté et de sens",
+        "Être compris dans ta sensibilité",
+        "Mettre ton inspiration au service du collectif"
+      ],
+      "work_meaning": "Tu veux être un canal de lumière dans ton travail. Ton cœur cherche la vérité, la beauté et la transmission.",
+      "shadow_fear": "Être incompris ou jugé trop sensible.",
+      "soul_advice": "Ton intensité émotionnelle est un don : canalise-la, ne la cache pas."
+    },
+    "22": {
+      "title": "Le Cœur de l’Architecte Spirituel",
+      "inner_drive": "Construire le rêve collectif avec foi et pragmatisme.",
+      "emotional_needs": [
+        "Voir les résultats concrets de ton idéal",
+        "Travailler sur des projets de grande envergure",
+        "Avoir confiance en ton rôle de pilier"
+      ],
+      "work_meaning": "Tu veux unir ciel et terre, rêve et structure. Ton cœur se nourrit d’ambition éclairée.",
+      "shadow_fear": "Ne pas être à la hauteur de ta mission.",
+      "soul_advice": "Tu n’as rien à prouver : ta grandeur réside dans ton calme bâtisseur."
+    },
+    "33": {
+      "title": "Le Cœur du Guérisseur Universel",
+      "inner_drive": "Servir, enseigner et élever par l’amour et la compassion.",
+      "emotional_needs": [
+        "Partager ton savoir avec douceur",
+        "Guérir ou apaiser par ton énergie",
+        "Voir les autres s’épanouir grâce à toi"
+      ],
+      "work_meaning": "Tu veux que ton travail soit une offrande. Tu transmets ton amour par l’art, l’éducation ou la thérapie.",
+      "shadow_fear": "S’épuiser à vouloir trop donner.",
+      "soul_advice": "Prends soin de toi d’abord : ton cœur rayonne mieux quand il est nourri."
+    }
+  }
