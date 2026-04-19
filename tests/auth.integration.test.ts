@@ -1,3 +1,4 @@
+import { Prisma } from "@prisma/client";
 import request from "supertest";
 import { beforeAll, beforeEach, describe, expect, it, vi } from "vitest";
 
@@ -149,5 +150,65 @@ describe("auth integration", () => {
 
     expect(response.status).toBe(401);
     expect(response.body.error).toBe("Missing or invalid Bearer token");
+  });
+
+  it("returns 409 when email is already registered (unique constraint)", async () => {
+    const duplicateError = new Prisma.PrismaClientKnownRequestError("duplicate", {
+      code: "P2002",
+      clientVersion: "test",
+      meta: { target: ["email"] }
+    });
+    prismaMock.user.create.mockRejectedValueOnce(duplicateError);
+
+    const response = await request(app).post("/api/auth/register").send({
+      email: "taken@numora.dev",
+      password: "StrongPass123"
+    });
+
+    expect(response.status).toBe(409);
+    expect(response.body.error).toBe("email already in use");
+  });
+
+  it("returns 404 on /me when user record is gone", async () => {
+    const registerResponse = await request(app).post("/api/auth/register").send({
+      email: "ghost@numora.dev",
+      password: "StrongPass123"
+    });
+    expect(registerResponse.status).toBe(201);
+
+    const loginResponse = await request(app).post("/api/auth/login").send({
+      email: "ghost@numora.dev",
+      password: "StrongPass123"
+    });
+    expect(loginResponse.status).toBe(200);
+
+    prismaMock.user.findUnique.mockResolvedValueOnce(null);
+
+    const meResponse = await request(app)
+      .get("/api/auth/me")
+      .set("Authorization", `Bearer ${loginResponse.body.token}`);
+
+    expect(meResponse.status).toBe(404);
+    expect(meResponse.body.error).toBe("user not found");
+  });
+
+  it("rejects register body that fails schema validation", async () => {
+    const response = await request(app).post("/api/auth/register").send({
+      email: "not-an-email",
+      password: "x"
+    });
+
+    expect(response.status).toBe(400);
+    expect(response.body.details).toBeDefined();
+  });
+
+  it("rejects login for unknown user", async () => {
+    const response = await request(app).post("/api/auth/login").send({
+      email: "nobody@numora.dev",
+      password: "StrongPass123"
+    });
+
+    expect(response.status).toBe(401);
+    expect(response.body.error).toBe("invalid credentials");
   });
 });

@@ -41,10 +41,10 @@ app.use(helmet());
 app.use(cors(corsOptions));
 app.use(globalRateLimiter);
 app.use(express.json());
-app.use("/api/docs", swaggerUi.serve, swaggerUi.setup(openApiDocument));
 app.get("/api/docs/openapi.json", (_req, res) => {
   res.json(openApiDocument);
 });
+app.use("/api/docs", swaggerUi.serve, swaggerUi.setup(openApiDocument));
 
 app.get("/", (_req, res) => {
   res.json({

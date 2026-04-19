@@ -290,4 +290,26 @@ describe("readings integration", () => {
 
     expect(deleteAsOtherUserResponse.status).toBe(404);
   });
+
+  it("returns 400 for blank reading id on get", async () => {
+    const session = await registerAndLogin("blankid@numora.dev");
+
+    const response = await request(app)
+      .get(`/api/readings/${encodeURIComponent("   ")}`)
+      .set("Authorization", `Bearer ${session.token}`);
+
+    expect(response.status).toBe(400);
+    expect(response.body.error).toBe("invalid reading id");
+  });
+
+  it("returns 400 for blank reading id on delete", async () => {
+    const session = await registerAndLogin("blankdel@numora.dev");
+
+    const response = await request(app)
+      .delete(`/api/readings/${encodeURIComponent("  ")}`)
+      .set("Authorization", `Bearer ${session.token}`);
+
+    expect(response.status).toBe(400);
+    expect(response.body.error).toBe("invalid reading id");
+  });
 });

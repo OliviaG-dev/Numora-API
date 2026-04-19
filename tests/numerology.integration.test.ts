@@ -158,4 +158,25 @@ describe("numerology integration", () => {
     expect(response.status).toBe(404);
     expect(String(response.body.error)).toContain("introuvable");
   });
+
+  it("returns 404 for non-integer array entry key", async () => {
+    const response = await request(app).get("/api/numerology/data/crystalPathData/2.5");
+
+    expect(response.status).toBe(404);
+    expect(String(response.body.error)).toContain("introuvable");
+  });
+
+  it("calculates profile with address and locality", async () => {
+    const response = await request(app)
+      .post("/api/numerology/calculate")
+      .send({
+        ...validCalculateBody,
+        address: { streetNumber: "42", streetName: "Avenue Victor Hugo" },
+        locality: { postalCode: "69001", city: "Lyon" }
+      });
+
+    expect(response.status).toBe(200);
+    expect(response.body.result.place.addressVibration).toBeDefined();
+    expect(response.body.result.place.localityVibration).toBeDefined();
+  });
 });
